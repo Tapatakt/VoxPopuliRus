@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_760">
+			<Text>№ 3 из серии «Персоны»</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_770">
+			<Text>Цветок</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_780">
+			<Text>Красный ара</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_790">
+			<Text>Редкая жестокость и белые богини</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_800">
+			<Text>Весеннее настроение I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_810">
+			<Text>Без названия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_820">
+			<Text>Асила на рассвете</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_830">
+			<Text>Дин, очень красивая негритянка 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_840">
+			<Text>Автопортрет с дочерью</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_850">
+			<Text>Твори искусство, а не войну</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_860">
+			<Text>Утро на пляже</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_870">
+			<Text>К центру Вселенной</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_880">
+			<Text>Глаз на время</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_890">
+			<Text>Без названия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_900">
+			<Text>Анк Шус</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_010">
+			<Text>Первый Дельфийский гимн</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_020">
+			<Text>Мелодийная модель Матери</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_030">
+			<Text>Палестинская песня</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_040">
+			<Text>Король Артур</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_050">
+			<Text>Плач пророка Иеремии</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_060">
+			<Text>Эй бют-и нев эда олмушум мюптела</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_070">
+			<Text>Спелая вишня</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_080">
+			<Text>Сон в летнюю ночь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_090">
+			<Text>Лючия ди Ламмермур</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_100">
+			<Text>Я покинул снежные холмы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_110">
+			<Text>Буду бежать всю ночь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_120">
+			<Text>Лурлина</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_130">
+			<Text>Арабский каприс</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_140">
+			<Text>Реквием</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_150">
+			<Text>Голубое небо</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_160">
+			<Text>Зикрайяти</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_170">
+			<Text>Кармина Бурана</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_180">
+			<Text>Адажио для струнных</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_190">
+			<Text>Петя и волк</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_200">
+			<Text>Моя серенада</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_210">
+			<Text>Я не знал, который час</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_220">
+			<Text>Рух Афза</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_230">
+			<Text>Жизнь в розовом свете</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_240">
+			<Text>Концерт № 3 «Из Квебека»</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_250">
+			<Text>Даме эль Си</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_260">
+			<Text>В настроении</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_270">
+			<Text>Мистериозо</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_280">
+			<Text>Пуансьяна</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_290">
+			<Text>Отель «Разбитое сердце»</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_300">
+			<Text>Фантази</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_310">
+			<Text>Поддержи меня</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_320">
+			<Text>Тери Пьяри Пьяри Сурат Ко</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_330">
+			<Text>Гуахира и Тамбо</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_340">
+			<Text>Девушка из Ипанемы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_350">
+			<Text>Перемены придут</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_360">
+			<Text>Как перекати-поле</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_370">
+			<Text>Богема</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_380">
+			<Text>Только Бог знает</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_390">
+			<Text>Эндаро Маханубхавулу</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_400">
+			<Text>Летнее время</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_410">
+			<Text>Жизнь на Марсе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_420">
+			<Text>У тебя есть друг</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_430">
+			<Text>Ревнивый парень</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_440">
+			<Text>Кинки регги</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_450">
+			<Text>Суеверие</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_460">
+			<Text>Возмездие</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_470">
+			<Text>Вода не имеет врага</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_480">
+			<Text>Богемская рапсодия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_490">
+			<Text>Свобода</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_500">
+			<Text>Кислород</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_510">
+			<Text>Насколько глубока твоя любовь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_520">
+			<Text>Зеркало в зеркале</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_530">
+			<Text>Чак влюблён</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_540">
+			<Text>Будет страшно</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_550">
+			<Text>Слёзы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_560">
+			<Text>Малышка, могу ли я обнять тебя</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_570">
+			<Text>Тень</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_580">
+			<Text>Пахнет духом подростка</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_590">
+			<Text>Не плачь по мне, Аргентина</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_600">
+			<Text>Атлантика</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_610">
+			<Text>Где-то за радугой</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_620">
+			<Text>Звук полиции</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_630">
+			<Text>Палладио</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_640">
+			<Text>M12 Млечный Путь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_650">
+			<Text>Альмендра</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_660">
+			<Text>Фортепианный концерт «Мемо Флора»</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_670">
+			<Text>Потерянные</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_680">
+			<Text>Я люблю тебя</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_690">
+			<Text>Букет солнца</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_700">
+			<Text>Радио Гага</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_710">
+			<Text>Песня моей жизни</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_720">
+			<Text>Ангелы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_730">
+			<Text>Белое Рождество</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_740">
+			<Text>Ритм ночи</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_750">
+			<Text>Узкая лодка на реке</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_760">
+			<Text>Путь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_770">
+			<Text>Я люблю тебя, о моя родина</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_780">
+			<Text>Фюр Элиза</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_790">
+			<Text>Ярость</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_800">
+			<Text>Карнавал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_810">
+			<Text>Психо</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_820">
+			<Text>Катюша</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_830">
+			<Text>Весна в Париже</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_840">
+			<Text>Венгерская рапсодия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_850">
+			<Text>Маленькая ночная серенада</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

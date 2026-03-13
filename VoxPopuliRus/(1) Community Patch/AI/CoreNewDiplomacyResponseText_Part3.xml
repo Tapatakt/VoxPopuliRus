@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_RESPONSE_STRATEGIC_TRADE_REQUEST_2">
+
+			<Text>Моей армии нужен один из твоих стратегических ресурсов. Хочешь торговать?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_RESPONSE_STRATEGIC_TRADE_REQUEST_3">
+
+			<Text>Кажется, у тебя есть стратегический ресурс, который мне нужен. Можешь поделиться?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_RESPONSE_STRATEGIC_TRADE_REQUEST_4">
+
+			<Text>Мои советники говорят, что у тебя есть стратегический ресурс некоторой ценности. Поделишься им со мной?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_RESPONSE_STRATEGIC_TRADE_REQUEST_5">
+
+			<Text>Тебе подходит этот обмен? Похоже, ты не используешь этот стратегический ресурс, а мне он нужен.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_RESPONSE_STRATEGIC_TRADE_REQUEST_6">
+
+			<Text>У тебя обильные запасы стратегических ресурсов в твоей территории. Хочешь поделиться ими?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_LUXURY_TRADE_2">
+
+			<Text>Давай торговать. У тебя есть роскошный ресурс, который мне бы хотелось иметь.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_LUXURY_TRADE_3">
+
+			<Text>Мой народ выразил интерес к одному из твоих роскошных ресурсов. Давай торговать?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_LUXURY_TRADE_4">
+
+			<Text>У тебя прекрасный ассортимент роскошных ресурсов. Давай заключим сделку?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_LUXURY_TRADE_5">
+
+			<Text>У тебя есть роскошный ресурс, который хочет мой народ. От их имени, давай торговать, хорошо?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LUXURY_TRADE_2">
+
+			<Text>Хотя греки богаты как никто, мы всё же наслаждаемся хорошей торговлей время от времени.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_WASHINGTON_LUXURY_TRADE_2">
+
+			<Text>Торговля — первый шаг на пути к миру, друг.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_HARUN_LUXURY_TRADE_2">
+
+			<Text>Аравийские торговцы легендарны своим торговым мастерством. Давай, позволь мне показать тебе.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LUXURY_TRADE_2">
+
+			<Text>Торговля — путь к славе, не согласен?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LUXURY_TRADE_2">
+
+			<Text>Богатства Китая твои по команде. За определённую цену.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LUXURY_TRADE_2">
+
+			<Text>Египет заинтересован в одном из твоих торговых товаров.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_LUXURY_TRADE_2">
+
+			<Text>Торговля — самое цивилизованное занятие, к которому может стремиться человечество, не так ли?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LUXURY_TRADE_2">
+
+			<Text>Только величайшие военачальники пачкают руки торговлей и торгом.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LUXURY_TRADE_2">
+
+			<Text>Торговля — дополнение промышленности. Давай заключим сделку.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LUXURY_TRADE_2">
+
+			<Text>Через торговлю приходит понимание, а через понимание — мир.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LUXURY_TRADE_2">
+
+			<Text>Торговля — один из многих великих атрибутов цивилизации.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ODA_LUXURY_TRADE_2">
+
+			<Text>Мы обязаны честью заключить торговое соглашение в данный момент.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SULEIMAN_LUXURY_TRADE_2">
+
+			<Text>Османская империя процветает на торговле. Давай заключим сделку.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LUXURY_TRADE_2">
+
+			<Text>Персидский народ славится своими прекрасными ремёслами. Давай, позволь мне показать тебе.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LUXURY_TRADE_2">
+
+			<Text>Торговля — первый шаг к пониманию и дружбе.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LUXURY_TRADE_2">
+
+			<Text>Богатства России открыты для тебя за правильную цену.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LUXURY_TRADE_2">
+
+			<Text>Сиам желает торговать. А ты?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LUXURY_TRADE_2">
+
+			<Text>Не дай сцене перед тобой одурачить тебя. Я торговец в первую очередь, а военачальник во вторую.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EXCHANGE_OFFER_1">
+
+			<Text>У тебя есть земли, которые мне хотелось бы иметь, и я думаю, у меня есть земли, которые хотелось бы тебе. Обмен?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EXCHANGE_OFFER_2">
+
+			<Text>Давай обменяемся территориями, чтобы споры о границах никогда не нарушали тонкий мир, который мы установили.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EXCHANGE_OFFER_3">
+
+			<Text>Есть взаимная выгода в обмене территориями, особенно этими двумя городами. Что думаешь?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_THIRD_PARTY_WAR_OFFER_1">
+
+			<Text>Я восхищаюсь твоей военной мощью и хотел бы видеть её направленной против одного из моих врагов. Что думаешь об этой сделке?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_THIRD_PARTY_WAR_OFFER_2">
+
+			<Text>Твоя армия поистине велика. Я хотел бы предложить тебе шанс воевать против одного из моих врагов. Согласен с этой сделкой?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_THIRD_PARTY_WAR_OFFER_3">
+
+			<Text>Твоя военная мощь неоспорима и может стать великой силой для перемен. Привлекает ли тебя это предложение войны?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_THIRD_PARTY_PEACE_OFFER_1">
+
+			<Text>Во имя святости мира я призываю тебя рассмотреть это предложение.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_THIRD_PARTY_PEACE_OFFER_2">
+
+			<Text>Смерть и разрушение, причинённые твоей текущей войной, длились достаточно долго. Не хочешь ли рассмотреть это предложение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_THIRD_PARTY_PEACE_OFFER_3">
+
+			<Text>Слишком многие погибли в твоём текущем конфликте. Не пора ли закончить эту войну?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_VOTE_COMMITMENT_REQUEST_1">
+
+			<Text>Мои советники сообщили мне, что ты ещё не определился с голосом на предстоящей сессии Всемирного конгресса. Что думаешь об этом предложении?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_VOTE_COMMITMENT_REQUEST_2">
+
+			<Text>Предстоящая сессия Всемирного конгресса очень важна для меня. Я хотел бы видеть эту резолюцию принятой, и мне нужна твоя помощь. Подходит ли тебе это предложение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_VOTE_COMMITMENT_REQUEST_3">
+
+			<Text>Твой голос по этой резолюции Всемирного конгресса очень ценен для меня. Надеюсь, это предложение отражает это. Если нет, скажи, что нужно, чтобы заслужить твой голос?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_RENEW_DEAL_2">
+
+			<Text>Сотрудничество и надлежащая дипломатия — отличительные черты цивилизации. Давай продолжим быть примером для остального мира?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_RENEW_DEAL_3">
+
+			<Text>Это была отличная сделка, и мои советники и я были бы грустны видеть её конец. Давай продлим это соглашение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_RENEW_DEAL_4">
+
+			<Text>Мы оба процветали благодаря этой сделке. Давай продлим её?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_RENEW_DEAL_5">
+
+			<Text>Пора продлить эту сделку. Давай?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_RENEW_DEAL_6">
+
+			<Text>Надеюсь, ты извлёк из этой сделки столько же пользы, сколько и я. Хочешь продолжить это соглашение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WANT_MORE_RENEW_DEAL_2">
+
+			<Text>Наши прошлые соглашения просто не такие, какими были. Если мы собираемся оставаться друзьями, мне нужно немного больше от тебя.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WANT_MORE_RENEW_DEAL_3">
+
+			<Text>Это было отличное партнёрство, но теперь оно таковым не является. Если хочешь продлить эту сделку, мы ожидаем от тебя немного больше.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WANT_MORE_RENEW_DEAL_4">
+
+			<Text>К сожалению, я не уверен, что эта сделка так же выгодна для нас, как раньше. Может, ты мог бы улучшить условия?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_NO_DEAL_POSSIBLE_3">
+
+			<Text>Мы не открыты для твоего предложения в данный момент.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_NO_DEAL_POSSIBLE_4">
+
+			<Text>У меня нет интереса к этому соглашению.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_3">
+
+			<Text>Я приму это, но я не уверен, что это честная сделка для тебя.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_4">
+
+			<Text>Извини, но я не могу соответствовать твоему предложению. Я могу, однако, предложить тебе это.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_5">
+
+			<Text>Это всё, что я могу позволить себе предложить в обмен на твоё щедрое предложение.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_6">
+
+			<Text>Мне грустно, что я не могу предложить тебе больше за твою великую щедрость.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_CANT_MATCH">
+
+			<Text>Народ Сонгай соглашается с твоими условиями, хотя должны признать, что они несправедливы по отношению к тебе.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_CANT_MATCH">
+
+			<Text>К сожалению, предзнаменования неблагоприятны для этого курса действий для тебя. Продолжай, если должен.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_CANT_MATCH">
+
+			<Text>Со всей доброй волей в мире должен сообщить, что наше предложение не может соответствовать твоему.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_CANT_MATCH">
+
+			<Text>Надеюсь, ты не думаешь, что я пытаюсь воспользоваться нашей близостью нашим меньшим предложением.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_CANT_MATCH">
+
+			<Text>Я с величайшим сожалением не в состоянии соответствовать твоим условиям.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH_TRADE_CANT_MATCH">
+
+			<Text>Я предложил всё, что мы имеем, вплоть до последнего фартинга. Кажется, мы не можем соответствовать твоему предложению.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_CANT_MATCH">
+
+			<Text>Я обязан честью перед богами сообщить, что наше предложение не так ценно, как твоё.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_CANT_MATCH">
+
+			<Text>Честность — великая добродетель, поэтому должен признать, что наше предложение никак не сравнится с твоим.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_CANT_MATCH">
+
+			<Text>Я послал за нашими лучшими дарами, но это всё, что я могу собрать. Тебе нравится?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_CANT_MATCH">
+
+			<Text>Такое грандиозное предложение... жаль, что это всё, что мы можем предложить взамен.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_CANT_MATCH">
+
+			<Text>Жертвенные ямы сегодня кажутся немного пустыми... это предложение достаточно хорошее для тебя?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_CANT_MATCH">
+
+			<Text>Великий, какой я есть, кажется, я не могу соответствовать твоему предложению. Это хотя бы подходит для тебя?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_CANT_MATCH">
+
+			<Text>К сожалению, твоё доброе и щедрое предложение не может быть сопоставлено нами. Это всё же приемлемо?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_CANT_MATCH">
+
+			<Text>Живой бог не должен хотеть ничего, но кажется, я не могу соответствовать твоему предложению. Это предложение подходит?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_CANT_MATCH">
+
+			<Text>Я не хочу неуважения этим предложением, это просто всё, что я могу наскрести в данный момент.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_CANT_MATCH">
+
+			<Text>Это всё, что мы можем предложить тебе. Я бы отдал тебе свой тюрбан тоже, но я не могу жить без него.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_CANT_MATCH">
+
+			<Text>Я не хочу создавать прецедент для несправедливых сделок с другими нациями, поэтому признаю, что наше предложение менее ценно, чем твоё.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_CANT_MATCH">
+
+			<Text>Небесный трон, к стыду, не в состоянии соответствовать твоему славному предложению. Мы можем, однако, предложить тебе это.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_GENGHIS_TRADE_CANT_MATCH">
+
+			<Text>Это столько, сколько мы можем предложить тебе в данный момент. Бери или оставляй — мне всё равно.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_CANT_MATCH">
+
+			<Text>Щедроты торговли и империи, кажется, на твоей стороне. Несмотря на это, тебе нравится наше предложение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_CANT_MATCH">
+
+			<Text>Ты льстишь мне своим предложением. К сожалению, я не уверен, что могу ответить взаимностью на такую лесть.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_CANT_MATCH">
+
+			<Text>Как великая волна, твоё предложение щедро, но тревожно. Я не могу соответствовать ему, но могу предложить это.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_CANT_MATCH">
+
+			<Text>Кажется, я оставил остальные наши торговые товары в другой лодке... эта сделка приемлема несмотря на это?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_CANT_MATCH">
+
+			<Text>Мои советники сообщают, что наше предложение разочаровывает. Я не согласен, но в любом случае, что думаешь?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_TRADE_CANT_MATCH">
+
+			<Text>Что? Кто? Извини, голоса в моей голове говорят, что наше предложение плохое. Так оно и есть? Я не уверен.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_CANT_MATCH">
+
+			<Text>Я бы предложил больше, но я потратил слишком много времени на разговоры и недостаточно на разграбление. Это приемлемо?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_CANT_MATCH">
+
+			<Text>Хотел бы я предложить больше, но не могу. Это приемлемо?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_CANT_MATCH">
+
+			<Text>В отличие от шкуры Иарбаса, я не могу растянуть эту сделку дальше. Наше разочаровывающее предложение приемлемо несмотря на это?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_CANT_MATCH">
+
+			<Text>Лев Севера имеет мало чего предложить кроме этого. Ты принимаешь?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_CANT_MATCH">
+
+			<Text>Твоё предложение настолько лучше нашего, что оно испортило мне аппетит. Тебе всё равно нравится?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_CANT_MATCH">
+
+			<Text>Ты предлагаешь много великих вещей, а мы — нет. Тебе всё равно нравится наше предложение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_CANT_MATCH">
+
+			<Text>О, дорогой, какое чудесное предложение! Жаль, что мы можем предложить тебе взамен лишь такие безделушки.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SELASSIE_TRADE_CANT_MATCH">
+
+			<Text>Моя великая мудрость требует, чтобы я сказал, что твоё предложение лучше нашего. Тебе нравится наше предложение несмотря на это знание?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_CANT_MATCH">
+
+			<Text>Я хочу то, что ты предлагаешь, но не уверен, что ты захочешь то, что предлагаю я. Несмотря на это, ты принимаешь?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_CANT_MATCH">
+
+			<Text>Как торговец, должен сообщить, что наше предложение не может соответствовать твоему. Это лучшее, что мы можем сделать.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_CANT_MATCH">
+
+			<Text>Я бы добавил несколько свитков и книг к нашему предложению, если бы это подсластило сделку, но я сомневаюсь. Ты принимаешь наше меньшее предложение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_CANT_MATCH">
+
+			<Text>Я сознательно делаю тебе плохое предложение, но теперь признался, так что это твоя вина, если ты примешь его.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_CANT_MATCH">
+
+			<Text>Даже я вижу, что твоё предложение лучше моего. Я всё же хочу торговать — а ты?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_CANT_MATCH">
+
+			<Text>Какой грандиозный жест. Я бы ответил взаимностью, если бы мог, но это лучшее, что мы можем сделать.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_CANT_MATCH">
+
+			<Text>Мне так жаль, но это всё, что мы можем предложить. Тебе нравится?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_CANT_MATCH">
+
+			<Text>Наше предложение уступает твоему, но если ты примешь его, я приглашу тебя на Карнавал в следующем году. Договорились?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_CANT_MATCH">
+
+			<Text>Я не могу лгать тебе — наше предложение уступает. Несмотря на это, тебе нравится?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_CANT_MATCH">
+
+			<Text>Слово воина — его честь. Поэтому должен признать, что мы не можем соответствовать твоей торговле.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_1">
+
+			<Text>Это максимум, что мы можем предложить тебе за твоё возмутительное предложение. Бери или оставляй, злодей.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_2">
+
+			<Text>Бах! Ты дурак, предлагая нам так много. Мы предложим тебе гораздо меньше, как видишь.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_3">
+
+			<Text>Что заставляет тебя думать, что мы бы соответствовали твоему предложению, даже если бы могли? Это то, что мы тебе предложим.</Text>
+
+		</Row>
+
+	</Language_RU_RU>
+
+</GameData>
+

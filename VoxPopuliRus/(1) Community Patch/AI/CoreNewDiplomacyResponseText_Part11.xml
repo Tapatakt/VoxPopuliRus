@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_THANKFUL_6">
+
+			<Text>Ты сделал мудрый выбор.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WINNER_PEACE_OFFER_1">
+
+			<Text>Давай закончим эту войну. У меня есть другие, более важные дела, чем твоя империя.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WINNER_PEACE_OFFER_2">
+
+			<Text>Мы пощадим твой народ от дальнейшего вреда, если ты подпишешь этот мирный договор.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_MADE_BY_HUMAN_GRACIOUS_3">
+
+			<Text>Давай отпразднуем мир в наше время.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_MADE_BY_HUMAN_GRACIOUS_4">
+
+			<Text>Надеюсь, это последняя война, которую мы ведём.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_OFFER_4">
+
+			<Text>Эта война должна закончиться рано или поздно. Как выглядит это соглашение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_OFFER_5">
+
+			<Text>Я устал от битв. Давай уладим это в зале заседаний, а не на поле боя.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_OFFER_6">
+
+			<Text>Давай закончим эту войну, так как она разоряет нас обоих. Согласишься ли ты на это?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_WHAT_WILL_HUMAN_OFFER_4">
+
+			<Text>Да?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_WHAT_WILL_HUMAN_OFFER_5">
+
+			<Text>Какое твоё предложение?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PEACE_WHAT_WILL_HUMAN_OFFER_6">
+
+			<Text>Что потребуется, чтобы закончить эту войну?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_NO_PEACE_4">
+
+			<Text>Мои армии нельзя остановить.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_NO_PEACE_5">
+
+			<Text>Время для дипломатии давно прошло.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_NO_PEACE_6">
+
+			<Text>Ни единого шанса.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TOO_SOON_NO_PEACE_2">
+
+			<Text>Невозможно.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WORK_WITH_US_YES_4">
+
+			<Text>Я согласен. Наша дружба будет примером для других.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WORK_WITH_US_YES_5">
+
+			<Text>Замечательная идея. Давай отпразднуем этот случай пиршеством!</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WORK_WITH_US_YES_6">
+
+			<Text>Хорошо, но я всем скажу, что это была моя идея.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_DOF_3">
+
+			<Text>Друзья? Уже? Мы едва знаем друг друга.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_DOF_4">
+
+			<Text>Послушай, ты действительно хороший, но мне нужно время подумать об этом уровне обязательств.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Если ты желаешь сражаться, делай это смело. Внезапные нападения — для трусов.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ALEXANDER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Ты осмелишься бросить вызов величайшему воину, который когда-либо жил?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_WASHINGTON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Я больше не потерплю твоего запугивания. Убери свои силы от моей границы, или иначе.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_HARUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Ты считаешь себя мудрым, но только дурак сражается с воинами пустыни. Принеси войну или уходи.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_MONTEZUMA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Это может закончиться только твоей смертью. Твои армии будут ведены как агнцы на заклание.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_WUZETIAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Мы не боимся твоих глупых угроз. Если ты хочешь спровоцировать дракона, делай это.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_RAMESSES_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Нет победы в войне для тебя. Ты всё ещё желаешь сражаться?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ELIZABETH_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Англия не будет запугиваться. Ты приносишь войну или ты такой трус, каким я тебя считаю?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_NAPOLEON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Объявление войны мне будет последней ошибкой, которую ты когда-либо совершишь. Испытай меня, если осмелишься.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_BISMARCK_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Твои армии стоят у границ Германии. Если ты желаешь войны, знай, что она принесёт лишь разрушение.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GANDHI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Хотя я следую пути мира, я не потерплю произвольной агрессии. Индия не боится такого грубияна, как ты.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_HIAWATHA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Эти леса полны бесчисленных ирокезских воинов. Хочешь ли ты испытать их?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ODA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Ты думаешь, что двигаешься с грацией ниндзя, но твои действия ясны мне. Либо объяви войну, либо убирайся.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_SULEIMAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Оттоманы смеются над твоими глупыми угрозами. Ты действительно думаешь, что можешь победить нас?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_DARIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Армии Персии не отступят от драки. Если ты желаешь испытать это, делай это сейчас.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_AUGUSTUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Ясно подумай о своём следующем шаге: только мудрейшие и величайшие воины пересекают Рубикон и живут, чтобы рассказать об этом.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CATHERINE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Я больше не потерплю твоих военных угроз. Ты желаешь сразиться с Россией или нет?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_RAMKHAMHAENG_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Сиамский народ больше не потерпит твоей агрессии. Если ты желаешь сражаться, не пытайся больше скрывать это.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ASKIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_2">
+
+			<Text>Хорошо, что твои армии скопились у моей границы, так как это избавит моих солдат от необходимости гоняться за ними. То есть, конечно, если ты действительно желаешь сражаться.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_2">
+
+			<Text>Посмотрим.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_3">
+
+			<Text>Я верю тебе... пока что.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DOF_2">
+
+			<Text>Твоя декларация дружбы с {1_CivName} вдохновила меня сделать то же самое. Надеюсь, такие честные и справедливые действия будут продолжаться и в будущем.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_UNHAPPINESS_3">
+
+			<Text>Количество человеческих страданий в твоей империи ошеломляет. Возможно, мне придётся прийти и показать твоему народу, как выглядит настоящее лидерство.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_UNHAPPINESS_4">
+
+			<Text>Ты действительно такой плохой лидер или ты просто жесток? Как варварски.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_CITIES_2">
+
+			<Text>Размер твоей империи тревожит. Ты пытаешься быть городом-государством или что-то вроде того?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_CITIES_3">
+
+			<Text>Тебе действительно нужно расширяться, хотя бы для того, чтобы в мире было больше городов, которые я могу завоевать.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_POPULATION_2">
+
+			<Text>Твоя экономика — посмешище мира. Тебе нужна помощь или что-то вроде того?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_POPULATION_3">
+
+			<Text>Когда я смотрю на твою жалкую экономику, мне грустно. Я бы помог, но я слишком занят тем, что богат и могущественен.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_3">
+
+			<Text>Ты варварский и грубый. Мне прислать одного из моих художников, чтобы показать тебе, как выглядит настоящая культура?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_4">
+
+			<Text>Твоя культура — воплощение тьмы и одиночества. И нет, это не комплимент.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_CULTURE_5">
+
+			<Text>Я встречал варваров, которые более культурны, чем ты.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_5">
+
+			<Text>Ты жестокий и жалкий человек.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_6">
+
+			<Text>Я бы сравнил тебя с городом-государством, но по крайней мере у городов-государств есть достоинство.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_7">
+
+			<Text>Ты как дурной сон, который просто не уходит.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_INSULT_GENERIC_8">
+
+			<Text>Я удивлён, что кто-то ещё не стёр тебя с лица земли. Жаль.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_BOOT_KISSING_3">
+
+			<Text>Твоя мощь и величие непревзойдены. Надеюсь, однажды я стану могущественным правителем, как ты.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_BOOT_KISSING_4">
+
+			<Text>Должен признать, я восхищаюсь и боюсь твоей великой силы. Ты — пример для нас всех.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WARMONGER_5">
+
+			<Text>Твои завоевания ухудшили моё мнение о тебе. Сильно.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WARMONGER_6">
+
+			<Text>Почему ты должен быть таким грубияном? Такая воинственность приведёт только к испорченным отношениям между нами.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WARMONGER_7">
+
+			<Text>Твоя продолжающаяся агрессия привлекает большое внимание во всём мире. И не в хорошем смысле.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_WARMONGER_8">
+
+			<Text>Для твоего сведения, я слежу за тобой. Кровожадные завоеватели никогда не побеждают в конце концов.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_3">
+
+			<Text>Твои отношения с {1_MinorCivName:textkey} нетерпимы. Пришли своих дипломатов в другое место или столкнись с последствиями.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_4">
+
+			<Text>{1_MinorCivName:textkey} недавно сказал мне, что считает тебя гнусным и ужасным человеком. Возможно, тебе стоит сосредоточиться на другом городе-государстве и оставить это мне?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_5">
+
+			<Text>Я вижу, что ты дружишь с {1_MinorCivName:textkey}. Я тоже. Это довольно неловко, не так ли? Тебе, наверное, стоит оставить их в покое.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MINOR_CIV_COMPETITION_6">
+
+			<Text>Я нашёл {1_MinorCivName:textkey} первым, поэтому я имею право работать с ними, а не ты. Не можешь ли ты найти другое город-государство, на которое претендовать?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_5">
+
+			<Text>Отлично!</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

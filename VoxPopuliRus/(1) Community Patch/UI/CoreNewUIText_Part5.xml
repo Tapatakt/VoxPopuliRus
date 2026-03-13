@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_FAITH_PURCHASE">
+			<Text>При покупке Юнита или Здания за [ICON_PEACE] Веру в этом Городе: получите {2_YieldIcon} {3_Yield:textkey}, равные {1_Num}% стоимости [ICON_PEACE] Веры</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_CONSTRUCTION">
+			<Text>При завершении строительства Здания в этом Городе: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GPP_ON_CONSTRUCTION">
+			<Text>При завершении Здания, открытого в {2_Era:textkey} или позже, в этом Городе: получите {3_GreatPersonIcon} {4_GreatPerson:textkey} очки, равные {1_Num}% стоимости Здания</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GP_PROGRESS_ON_CONSTRUCTION">
+			<Text>При завершении Здания, открытого в {2_Era:textkey} или позже, в этом Городе: +{1_Num}% очков к следующему {3_GreatPersonIcon} {4_GreatPerson:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WLTKD_FROM_PROJECT">
+			<Text>При завершении {3_Project:textkey}: {2_Sign}{1_Num} {1: plural 1?ход; other?ходов;} [ICON_HAPPINESS_1] "Мы любим Короля"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_ITR_COMPLETION">
+			<Text>При завершении [ICON_INTERNATIONAL_TRADE] Внутреннего Торгового Пути из или в этот Город: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_ETR_COMPLETION">
+			<Text>При завершении [ICON_INTERNATIONAL_TRADE] Международного Торгового Пути из этого Города: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_COMPLETION">
+			<Text>При завершении производства Военного Юнита в этом Городе: получите {2_YieldIcon} {3_Yield:textkey}, равные {1_Num}% стоимости [ICON_PRODUCTION] Производства</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_GIFT">
+			<Text>Когда Юнит дарится [ICON_CITY_STATE] Городу-Государству: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_FROM_COMBAT_EXPERIENCE">
+			<Text>Когда Юнит, созданный этим Городом, получает Опыт в бою: {1_InstantYield} за каждое полученное ОО</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_PROMOTION">
+			<Text>Когда Юнит, созданный этим Городом, получает повышение: {1_InstantYield}, масштабируется с (новый Уровень Юнита - 2) в квадрате, минимум 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_PROMOTION_GLOBAL">
+			<Text>Когда принадлежащий Юнит получает повышение: {1_InstantYield}, масштабируется с исходного Уровня Юнита</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_KILL">
+			<Text>Когда Юнит, созданный этим Городом, побеждает Военный Юнит: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_KILL_GLOBAL">
+			<Text>Когда принадлежащий Юнит побеждает Военный Юнит: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_UNIT_KILL_GLOBAL_GOLDEN_AGE">
+			<Text>Когда принадлежащий Юнит побеждает Военный Юнит во время [ICON_GOLDEN_AGE] Золотого Века: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_DEATH">
+			<Text>Когда принадлежащий Военный Юнит побежден: {1_InstantYield} в [ICON_CAPITAL] Столице</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_PILLAGE">
+			<Text>Когда Юнит, созданный этим Городом, разграбляет Улучшение: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_PILLAGE_GLOBAL">
+			<Text>При разграблении Улучшения: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_LONG_COUNT">
+			<Text>В конце Бактуна: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_SPY_KILL">
+			<Text>При убийстве вражеского [ICON_SPY] Шпиона: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_LUXURIES">
+			<Text>+100% Роскошных Ресурсов от улучшенных клеток, принадлежащих этому Городу</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REMOVE_OCCUPIED_UNHAPPINESS">
+			<Text>Убирает [ICON_HAPPINESS_3] Недовольство от [ICON_OCCUPIED] Оккупации</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ALLOW_PUPPET_PURCHASE">
+			<Text>Позволяет инвестировать и покупать в [ICON_PUPPET] Городе-Марионетке</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NO_STARVATION_FROM_NON_SPECIALISTS">
+			<Text>Общее потребление [ICON_FOOD] Пищи неспециалистами не может превышать производство [ICON_FOOD] Пищи</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SECONDARY_PANTHEON">
+			<Text>Город получает бонус Пантеона второй по популярности [ICON_RELIGION] Религии, если у него есть [ICON_RELIGION] Основная Религия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BORDER_OBSTACLE_LAND">
+			<Text>Недружественные Наземные Юниты [COLOR_NEGATIVE_TEXT]тратят все [ICON_MOVES] Очки Передвижения[ENDCOLOR] при входе в Наземную территорию этого Города из ничейной или чужой территории</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BORDER_OBSTACLE_LAND_PLAYER">
+			<Text>Недружественные Наземные Юниты [COLOR_NEGATIVE_TEXT]тратят все [ICON_MOVES] Очки Передвижения[ENDCOLOR] при входе в вашу Наземную территорию из ничейной или чужой территории</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BORDER_OBSTACLE_LAND_TEAM">
+			<Text>Недружественные Наземные Юниты [COLOR_NEGATIVE_TEXT]тратят все [ICON_MOVES] Очки Передвижения[ENDCOLOR] при входе в Наземную территорию вашей Команды из ничейной или чужой территории</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BORDER_OBSTACLE_WATER">
+			<Text>Недружественные Морские или Погруженные Юниты [COLOR_NEGATIVE_TEXT]тратят все [ICON_MOVES] Очки Передвижения[ENDCOLOR] при входе в Водную территорию этого Города из ничейной или чужой территории</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_OCEAN_DAMAGE">
+			<Text>Вражеские Морские или Погруженные Юниты получают [COLOR_NEGATIVE_TEXT]{1_Num} Урона[ENDCOLOR] при окончании хода на клетках Океана, принадлежащих этому Городу</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GAINLESS_PILLAGE">
+			<Text>Юниты не получают ОЗ или [ICON_GOLD] Золото при разграблении Улучшений, принадлежащих этому Городу</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GAINLESS_PILLAGE_GLOBAL">
+			<Text>Юниты не получают ОЗ или [ICON_GOLD] Золото при разграблении Улучшений в вашей Империи</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REMOVE_DP_LIMIT">
+			<Text>Убирает ограничение на количество активных Пактов о Ненападении</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PLUNDER_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_GOLD] Золота при захвате Города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CAPITAL">
+			<Text>Только для [ICON_CAPITAL] Столицы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HOLY_CITY">
+			<Text>Только для Священного Города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_OCCUPIED_ONLY">
+			<Text>Только для [ICON_OCCUPIED] Оккупированного Города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_COASTAL">
+			<Text>Город должен быть Прибрежным</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_COASTAL_INCLUDING_LAKE">
+			<Text>Город должен быть Прибрежным или примыкать к Озеру</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_COASTAL_CUSTOM_SIZE">
+			<Text>Город должен примыкать к Водному пространству из {1_Num}+ клеток</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NO_COASTAL">
+			<Text>Город не должен быть Прибрежным или примыкать к Озеру</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_RIVER">
+			<Text>Город должен стоять на Реке</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NO_RIVER">
+			<Text>Город не должен стоять на Реке</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FRESH_WATER">
+			<Text>Город должен иметь доступ к Пресной Воде</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NO_FRESH_WATER">
+			<Text>Город не должен иметь доступ к Пресной Воде</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_COASTAL_OR_FRESH_WATER">
+			<Text>Город должен быть Прибрежным или иметь доступ к Пресной Воде</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MOUNTAIN_ADJACENT">
+			<Text>Город должен примыкать к [COLOR_PLAYER_DARK_GREEN_TEXT]Горе[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MOUNTAIN_NEARBY">
+			<Text>Город должен находиться в пределах 2 клеток от [COLOR_PLAYER_DARK_GREEN_TEXT]Горы[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HILL">
+			<Text>Город должен стоять на [COLOR_PLAYER_DARK_GREEN_TEXT]Холме[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FLAT">
+			<Text>Город не должен стоять на [COLOR_NEGATIVE_TEXT]Холме[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NEARBY_TERRAIN">
+			<Text>Город должен стоять на [COLOR_PLAYER_DARK_GREEN_TEXT]{1_Terrain:textkey}[ENDCOLOR] или примыкать к нему</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NO_TERRAIN">
+			<Text>Город не должен стоять на [COLOR_NEGATIVE_TEXT]{1_Terrain:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LOCAL_FEATURE_OR">
+			<Text>Город должен владеть клеткой с одной из следующих Особенностей: [COLOR_PLAYER_DARK_GREEN_TEXT]{1_Features}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LOCAL_FEATURE_AND">
+			<Text>Город должен владеть клетками со всеми следующими Особенностями: [COLOR_PLAYER_DARK_GREEN_TEXT]{1_Features}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LOCAL_RESOURCE_OR">
+			<Text>Один из следующих Ресурсов должен быть подключен к этому Городу: {1_Resources}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LOCAL_RESOURCE_AND">
+			<Text>Все следующие Ресурсы должны быть подключены к этому Городу: {1_Resources}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GLOBAL_MONOPOLY_OR">
+			<Text>Требуется один из следующих [ICON_MONOPOLY] Глобальных Монополий: {1_Resources}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GLOBAL_MONOPOLY_AND">
+			<Text>Требуемые [ICON_MONOPOLY] Глобальные Монополии: {1_Resources}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INDUSTRIAL_CONNECTION">
+			<Text>Город должен иметь [ICON_INDUSTRIAL_CONNECTED] Промышленную Связь с [ICON_CAPITAL] Столицей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REQUIRED_BUILDINGS_GLOBAL">
+			<Text>Требуемые Здания в любом Городе: [COLOR_YIELD_FOOD]{1_Buildings}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REQUIRED_BUILDINGS_ALL_CITIES">
+			<Text>Требуемые Здания во всех Городах: [COLOR_YIELD_FOOD]{1_Buildings}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REQUIRED_BUILDING_COUNT_GLOBAL">
+			<Text>Империя должна иметь построенными [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] {2_Building:textkey} для каждой копии этого Здания</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXCLUSIVE_LOCAL">
+			<Text>В Городе не должно быть следующих Зданий: [COLOR_NEGATIVE_TEXT]{1_Buildings}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXCLUSIVE_GLOBAL">
+			<Text>В Империи не должно быть следующих Зданий: [COLOR_NEGATIVE_TEXT]{1_Buildings}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_UNIT_LEVEL_NEEDED">
+			<Text>Требуемый Уровень Юнита: [COLOR_YELLOW]{1_Num}[ENDCOLOR] (Лучший Юнит: {2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_UNIT_LEVEL_NEEDED_GENERIC">
+			<Text>Требуемый Уровень Юнита: [COLOR_YELLOW]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_CITY_NEEDED">
+			<Text>Требуемое количество Городов: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] (Имеется: {2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_CITY_NEEDED_GENERIC">
+			<Text>Требуемое количество Городов: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_POLICY_NEEDED">
+			<Text>Требуемое количество Социальных Институтов: [COLOR_MAGENTA]{1_Num}[ENDCOLOR] (Имеется: {2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_POLICY_NEEDED_GENERIC">
+			<Text>Требуемое количество Социальных Институтов: [COLOR_MAGENTA]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_T3_TENET_NEEDED">
+			<Text>Требуемое количество Догматов 3-го Уровня: [COLOR_MAGENTA]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_POPULATION_NATIONAL_NEEDED">
+			<Text>Требуемое Национальное Население: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] (Имеется: {2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_POPULATION_NATIONAL_NEEDED_GENERIC">
+			<Text>Требуемое Национальное Население: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] (масштабируется с количеством Городов)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_POPULATION_LOCAL_NEEDED">
+			<Text>Требуемое Местное Население: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] (Имеется: {2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_POPULATION_LOCAL_NEEDED_GENERIC">
+			<Text>Требуемое Местное Население: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_NATIONAL_FOLLOWER_NEEDED">
+			<Text>Требуемое количество Национальных Последователей [ICON_RELIGION] Основной Религии: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] (Имеется: {2_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_NATIONAL_FOLLOWER_NEEDED_GENERIC">
+			<Text>Требуемое количество Национальных Последователей [ICON_RELIGION] Основной Религии: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_GLOBAL_FOLLOWER_NEEDED">
+			<Text>Требуемое количество Мировых Последователей [ICON_RELIGION] Основной Религии: [COLOR_POSITIVE_TEXT]{1_Num}%[ENDCOLOR] от Мирового Населения (В настоящее время [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR]) (Имеется: {3_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUM_GLOBAL_FOLLOWER_NEEDED_GENERIC">
+			<Text>Требуемое количество Мировых Последователей [ICON_RELIGION] Основной Религии: [COLOR_POSITIVE_TEXT]{1_Num}%[ENDCOLOR] от Мирового Населения (масштабируется с размером карты)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HOLY_CITY_BELIEF_NEEDED">
+			<Text>Должно быть построено в Священном Городе [ICON_RELIGION] Основной Религии с одним из следующих Убеждений: [COLOR_WHITE]{1_Beliefs}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MAJORITY_RELIGION_BELIEF_NEEDED">
+			<Text>Требуется одно из следующих Убеждений в [ICON_RELIGION] Основной Религии: [COLOR_WHITE]{1_Beliefs}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PURCHASE_BUILDING_MAJORITY_RELIGION_BELIEF_NEEDED">
+			<Text>Покупка за Веру требует одного из следующих Убеждений в [ICON_RELIGION] Основной Религии: [COLOR_WHITE]{1_Beliefs}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PURCHASE_BUILDING_OWN_HOLY_CITY">
+			<Text>Покупка за Веру требует владения Священным Городом [ICON_RELIGION] Основной Религии</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PURCHASE_BUILDING_OWN_HOLY_CITY_OR_STATE_RELIGION">
+			<Text>Покупка за Веру требует владения Священным Городом [ICON_RELIGION] Основной Религии или наличия её в качестве [ICON_RELIGION] Государственной Религии</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_OBSOLETE_TECH_REMARK">
+			<Text>[COLOR_WARNING_TEXT]Примечание: все текущие эффекты этого Здания будут удалены, когда будет исследована вышеуказанная Технология![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BUILDING_BOOST">
+			<Text>{2_YieldBoosts} к [COLOR_YIELD_FOOD]{1_BuildingClass:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BUILDING_HAPPINESS">
+			<Text>{2_Sign}{1_Num} [ICON_HAPPINESS_1] Счастья к [COLOR_YIELD_FOOD]{3_Building:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WORLD_WONDER_BOOST">
+			<Text>{1_YieldBoosts} к [ICON_WONDER] Чудесам Света</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PLOT_BOOST">
+			<Text>{2_YieldBoosts} к [COLOR_PLAYER_DARK_GREEN_TEXT]{1_Plot:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TERRAIN_BOOST">
+			<Text>{2_YieldBoosts} к [COLOR_PLAYER_DARK_GREEN_TEXT]{1_Terrain:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FEATURE_BOOST">
+			<Text>{2_YieldBoosts} к [COLOR_PLAYER_DARK_GREEN_TEXT]{1_Feature:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_RESOURCE_BOOST">
+			<Text>{2_YieldBoosts} к {3_ResourceIcon} {1_Resource:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_IMPROVEMENT_BOOST">
+			<Text>{2_YieldBoosts} к [COLOR_POSITIVE_TEXT]{1_Improvement:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LUXURY_BOOST">
+			<Text>{1_YieldBoosts} к клеткам с Роскошными Ресурсами</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_RIVER_BOOST">
+			<Text>{1_YieldBoosts} к клеткам [COLOR_POSITIVE_TEXT]Реки[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LAKE_BOOST">
+			<Text>{1_YieldBoosts} к клеткам [COLOR_POSITIVE_TEXT]Озера[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SEA_BOOST">
+			<Text>{1_YieldBoosts} к клеткам [COLOR_POSITIVE_TEXT]Моря[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WATER_RESOURCE_BOOST">
+			<Text>{1_YieldBoosts} к клеткам Ресурсов в [COLOR_POSITIVE_TEXT]Воде[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPECIALIST_BOOST">
+			<Text>{2_YieldBoosts} к [COLOR_POSITIVE_TEXT]{1_Specialist * 2}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GREAT_WORK_BOOST">
+			<Text>{1_YieldBoosts} к [ICON_GREAT_WORK] Великим Произведениям</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

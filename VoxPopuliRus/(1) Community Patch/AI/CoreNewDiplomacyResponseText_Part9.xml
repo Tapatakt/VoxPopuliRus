@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_GENERIC_SO_BE_IT_4">
+
+			<Text>Так тому и быть.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_SO_BE_IT_5">
+
+			<Text>Какое глупое решение.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_SO_BE_IT_6">
+
+			<Text>Ты неправ в этом.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_LETS_HEAR_IT_3">
+
+			<Text>Что у тебя на уме?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_LETS_HEAR_IT_4">
+
+			<Text>Да?</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_REPEAT_NO_2">
+
+			<Text>Ответ всё ещё нет.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_DECLINE_4">
+
+			<Text>Нет, спасибо.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_DECLINE_5">
+
+			<Text>Я вынужден отказать.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_DECLINE_6">
+
+			<Text>Невозможно.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_DISAPPOINTED_4">
+
+			<Text>Какая досада.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_DISAPPOINTED_5">
+
+			<Text>Это неприятно.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_DISAPPOINTED_6">
+
+			<Text>Жаль это слышать.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_6">
+
+			<Text>Великолепно!</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_7">
+
+			<Text>Это отличная новость!</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_PLEASED_8">
+
+			<Text>Прекрасно!</Text>
+
+		</Row>
+	</Language_RU_RU>
+</GameData>

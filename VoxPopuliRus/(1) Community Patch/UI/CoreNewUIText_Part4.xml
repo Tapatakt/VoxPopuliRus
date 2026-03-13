@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRESSURE_RECEIVED_MODIFIER">
+			<Text>Город получает {2_Sign}{1_Num}% религиозного давления негосподствующей религии от активного и пассивного распространения</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRESSURE_RECEIVED_MODIFIER_GLOBAL">
+			<Text>Все города получают {2_Sign}{1_Num}% религиозного давления негосподствующей религии от активного и пассивного распространения</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ESPIONAGE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к скорости кражи чужих шпионов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GARRISON_RANGED_ATTACK_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_RANGE_STRENGTH] к дальнобойной силе при атаке для юнитов гарнизона</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GARRISON_HEAL_RATE">
+			<Text>{2_Sign}{1_Num} ОЗ при исцелении для юнитов гарнизона</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GARRISON_HEAL_RATE_ALWAYS">
+			<Text>В конце хода: наземный военный юнит гарнизона восстанавливает {1_Num} ОЗ независимо от действий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUKE_RESISTANCE">
+			<Text>{2_Sign}{1_Num}% урона по юнитам гарнизона и потери [ICON_CITIZEN] населения при ядерном ударе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NUKE_INTERCEPTION">
+			<Text>{2_Sign}{1_Num}% шанс перехватить ядерное оружие, снижая уровень его урона</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WORK_RATE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к скорости улучшения клеток</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PURCHASE_COST_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к стоимости [ICON_GOLD] золота при покупке или инвестировании</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRODUCTION_MODIFIER_FROM_MINOR_TRADE_ROUTES">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства от каждого [ICON_INTERNATIONAL_TRADE] торгового пути с городами-государствами</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BUILDING_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для зданий (кроме чудес)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WONDER_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для чудес</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MILITARY_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для военных юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MILITARY_PRODUCTION_MODIFIER_FROM_WAR">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для военных юнитов во всех городах за каждую крупную цивилизацию, воюющую с вашей империей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPACESHIP_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для частей космического корабля</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPECIFIC_UNIT_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для [COLOR_YELLOW]{3_Unit:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPECIFIC_UNIT_COMBAT_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для [COLOR_YELLOW]{3_UnitCombat:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPECIFIC_DOMAIN_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для [COLOR_YELLOW]{3_Domain:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_CORPORATION_SPECIFIC_STRATEGIC_UNIT_PRODUCTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства для юнитов, требующих {3_ResourceIcon} {4_Resource:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CITY_CONNECTION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_PRODUCTION] производства/[ICON_GOLD] золота от [ICON_CONNECTED] городских соединений и [ICON_INDUSTRIAL_CONNECTED] промышленных соединений</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_POLICY_COST_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к стоимости социальных институтов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BORDER_GROWTH_COST_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к стоимости [ICON_CULTURE_LOCAL] роста границ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PLOT_PURCHASE_COST_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к стоимости покупки клеток</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_RESEARCH_AGREEMENT_SCIENCE_MODIFIER">
+			<Text>+{1_Num}% [ICON_RESEARCH] науки от соглашений о совместных исследованиях</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_RESEARCH_AGREEMENT_SCIENCE_MODIFIER_GENERIC">
+			<Text>+{1_Num}% [ICON_RESEARCH] науки от соглашений о совместных исследованиях (если включено)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_DISCOVER_TECH_SCIENCE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_RESEARCH] науки от {TXT_KEY_MISSION_DISCOVER_TECH}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PROCESS_EFFICIENCY_MODIFIER">
+			<Text>{1: number "'+'##;'-'##"}% к эффективности конверсии процесса [COLOR_PLAYER_CYAN]{2_Process:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES">
+			<Text>{2_Sign}{1_Num} [ICON_DIPLOMAT] {1: plural 1?делегат; other?делегатов;} во Всемирном конгрессе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_SCALING">
+			<Text>{2_Sign}1 [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждые {1: plural 1?[ICON_CITY_STATE] город-государство; other?{1_Num} [ICON_CITY_STATE] города-государства;} изначально в мире</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_FROM_GPT">
+			<Text>+1 [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждые {1_Gold} чистого [ICON_GOLD] золота в ход, ограничено 1/4 от числа [ICON_CITY_STATE] городов-государств изначально в мире</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_FROM_DOF">
+			<Text>+{1_Num} [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждые [COLOR_POSITIVE_TEXT]2[ENDCOLOR] действующих декларации дружбы с вашей империей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_FROM_DP">
+			<Text>+{1_Num} [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждый действующий оборонительный пакт с вашей империей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_FROM_CAPITALS">
+			<Text>+{1_Num} [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждый [COLOR_POSITIVE_TEXT]иностранный[ENDCOLOR] изначальный [ICON_CAPITAL] столичный город под вашим контролем</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_FROM_RESEARCH_AGREEMENTS">
+			<Text>+{1_Num} [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждое действующее соглашение о совместных исследованиях с вашей империей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_EXTRA_VOTES_FROM_RELIGION">
+			<Text>+1 [ICON_DIPLOMAT] делегат во Всемирном конгрессе за каждые {1: plural 1?город; other?{1_Num} городов;} с вашей [ICON_RELIGION] основной религией</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TRADE_ROUTES">
+			<Text>{2_Sign}{1_Num} [ICON_INTERNATIONAL_TRADE] торговый {1: plural 1?путь; other?пути;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LAND_ETR_ORIGIN_GOLD">
+			<Text>{2_Sign}{1_Num} [ICON_GOLD] золота от [ICON_CARAVAN] наземных международных торговых путей, начинающихся в этом городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SEA_ETR_ORIGIN_GOLD">
+			<Text>{2_Sign}{1_Num} [ICON_GOLD] золота от [ICON_CARGO_SHIP] морских международных торговых путей, начинающихся в этом городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ETR_DESTINATION_OUR_GOLD">
+			<Text>{2_Sign}{1_Num} [ICON_GOLD] золота от [ICON_INTERNATIONAL_TRADE] международных торговых путей, направленных в этот город</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ETR_DESTINATION_THEIR_GOLD">
+			<Text>{2_Sign}{1_Num} [ICON_GOLD] золота в город-источник от [ICON_INTERNATIONAL_TRADE] международных торговых путей, направленных в этот город</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_RESOURCE_DIVERSITY_MODIFIER">
+			<Text>{2_Sign}{1_Num}% разнообразия ресурсов для [ICON_INTERNATIONAL_TRADE] торговых путей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LAND_TRADE_ROUTE_RANGE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к дальности [ICON_CARAVAN] наземных торговых путей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SEA_TRADE_ROUTE_RANGE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к дальности [ICON_CARGO_SHIP] морских торговых путей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TRADE_ROUTE_DURATION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% к длительности [ICON_INTERNATIONAL_TRADE] торговых путей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TRADE_ROUTE_DURATION_MODIFIER_LOCAL">
+			<Text>{2_Sign}{1_Num}% к длительности [ICON_INTERNATIONAL_TRADE] торговых путей, начинающихся в этом городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TRADE_UNIT_EXTRA_SIGHT">
+			<Text>{2_Sign}{1_Num} к обзору торговых юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TRADE_UNIT_SPEED_MULTIPLIER">
+			<Text>{1_Num}x к скорости торговых юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_CORPORATION_TRADE_ROUTE_IMMUNITY">
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути не могут быть разграблены</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CULTURE_TO_TOURISM_TERRAIN_WONDER">
+			<Text>{1_Num}% [ICON_CULTURE] культуры от местности и [ICON_WONDER] чудес света добавляется к [ICON_TOURISM] туризму</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GREAT_WORK_TOURISM_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_TOURISM] туризма от [ICON_GREAT_WORK] великих произведений</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NULLIFY_TECH_TOURISM_MODIFIER">
+			<Text>-{1_Num}% [ICON_TOURISM] туризма от цивилизаций, исследовавших [ICON_CYAN]{2_Tech:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_CORPORATION_FRANCHISE_TOURISM_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_TOURISM] туризма к другой цивилизации за каждый [ICON_FRANCHISE] открытый франчайзинг на её территории</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REDUCED_GLOBAL_FOLLOWER_REQUIREMENT">
+			<Text>{2_Sign}{1_Num}% к требованию последователей по всему миру для всех зданий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_YIELD_FROM_OTHER_YIELD">
+			<Text>{1_Num}% от {2_YieldIcon} {3_Yield:textkey} города (до модификаторов) добавляется к {4_YieldIcon} {5_Yield:textkey} города (после модификаторов)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_YIELD_FROM_OTHER_YIELD_GLOBAL">
+			<Text>{1_Num}% от {2_YieldIcon} {3_Yield:textkey} каждого города (до модификаторов) добавляется к его {4_YieldIcon} {5_Yield:textkey} (после модификаторов)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_TECHS">
+			<Text>По завершении: получите {1_Num} бесплатн{1: plural 1?ую технологию; other?ых технологий;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_POLICIES">
+			<Text>По завершении: получите {1_Num} бесплатн{1: plural 1?ый социальный институт; other?ых социальных института;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_GP">
+			<Text>По завершении: {1_Num} бесплатн{1: plural 1?ый великий человек; other?ых великих человека;} по вашему выбору {1: plural 1?появляется; other?появляются;} в [ICON_CAPITAL] столице</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_SPY_POINTS">
+			<Text>По завершении: получите {1_Num} [ICON_SPY] {1: plural 1?очко; other?очков;} разведки</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_SPIES">
+			<Text>По завершении: получите {1_Num} [ICON_SPY] {1: plural 1?шпиона; other?шпионов;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_UNIT">
+			<Text>По завершении: {1_Num} [COLOR_YELLOW]{2_Unit:textkey}[ENDCOLOR] {1: plural 1?появляется; other?появляются;} в городе или рядом с ним</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_BUILDING">
+			<Text>По завершении: получите бесплатное здание [COLOR_YIELD_FOOD]{1_Building:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_GREAT_WORK">
+			<Text>По завершении: получите бесплатное [ICON_GREAT_WORK] великое произведение: [COLOR_POSITIVE_TEXT]{1_GreatWork:textkey}[ENDCOLOR] (размещается в ближайшем совместимом слоте)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_ARTIFACT">
+			<Text>По завершении: получите {1_Num} бесплатн{1: plural 1?ый артефакт; other?ых артефакта;} (размещаются в этом здании)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_START_GOLDEN_AGE">
+			<Text>По завершении: начинается [ICON_GOLDEN_AGE] золотой век</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_START_WLTKD">
+			<Text>По завершении: +{1_NumTurn} {1: plural 1?ход; other?ходов;} [ICON_HAPPINESS_1] "Мы любим короля"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_YIELD_ON_COMPLETION">
+			<Text>По завершении: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_YIELD_ON_COMPLETION_FROM_POPULATION">
+			<Text>По завершении: {1_InstantYield} за каждую единицу [ICON_CITIZEN] населения в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_POPULATION">
+			<Text>По завершении: {2_Sign}{1_Num} [ICON_CITIZEN] населения</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_AUTOMATON">
+			<Text>По завершении: {2_Sign}{1_Num} автоматон-работник</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INFLUENCE_ON_COMPLETION">
+			<Text>По завершении: {2_Sign}{1_Num} [ICON_INFLUENCE] влияния со всеми [ICON_CITY_STATE] городами-государствами</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_VICTORY_POINTS_ON_COMPLETION">
+			<Text>По завершении: {2_Sign}{1_Num} очков победы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_SPY_RANK">
+			<Text>По завершении: все [ICON_SPY] шпионы повышают уровень {1: plural 1?один раз; 2?дважды; other?{1_Num} раз;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_REFORMATION">
+			<Text>По завершении: позволяет выбрать [COLOR_POSITIVE_TEXT]реформаторское убеждение[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_PRESSURE">
+			<Text>По завершении: добавляет {1_Num} религиозного давления господствующей религии вашей [ICON_CAPITAL] столицы в этот город</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPAWN_NEARBY_LUXURY">
+			<Text>По завершении: добавляет {1_Num} случайн{1: plural 1?ую копию; other?ых копий;} следующих ресурсов в радиус работы города или на клетку города, если невозможно: {2_Resources}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPAWN_NEARBY_LUXURY_GENERIC">
+			<Text>По завершении: добавляет {1_Num} случайн{1: plural 1?ую копию; other?ых копий;} ваших уникальных ресурсов (если есть) в радиус работы города или на клетку города, если невозможно</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPAWN_NEARBY_RESOURCE">
+			<Text>По завершении: добавляет {1_Num} {1: plural 1?копию; other?копий;} {2_ResourceIcon} {3_Resource:textkey} на случайные подходящие клетки в радиусе работы города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPAWN_NEARBY_RESOURCE_SUFFIX">
+			<Text>(Количество: {1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_COPY">
+			<Text>По завершении: получите копию каждого уникального наземного военного юнита вокруг города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NEARBY_RESOURCE_CLAIM">
+			<Text>По завершении: присоедините все ничейные клетки с {1_Resources} в радиусе работы, вызывая мгновенную выгоду от покупки клеток (если применимо)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NEARBY_RESOURCE_STEAL">
+			<Text>По завершении: присоедините все клетки с {1_Resources} в радиусе работы, вызывая мгновенную выгоду от покупки клеток (если применимо)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GP_BIRTH_WRITER">
+			<Text>Когда в этом городе рождается [ICON_GREAT_PEOPLE] великий человек: получите {2_YieldIcon} {3_Yield:textkey}, равное {1_Num}% от [ICON_CULTURE] культуры от его миссии [COLOR_MAGENTA]{TXT_KEY_MISSION_GIVE_POLICIES}[ENDCOLOR] (если применимо)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GP_BIRTH_ARTIST">
+			<Text>Когда в этом городе рождается [ICON_GREAT_PEOPLE] великий человек: получите {2_YieldIcon} {3_Yield:textkey}, равное {1_Num}% от [ICON_GOLDEN_AGE] очков золотого века от его миссии [COLOR_POSITIVE_TEXT]{TXT_KEY_MISSION_START_GOLDENAGE}[ENDCOLOR] (если применимо)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GP_BIRTH_SCALING">
+			<Text>Когда в этом городе рождается {2_GreatPersonIcon} {3_GreatPerson:textkey}: получите {6_YieldIcon} {7_Yield:textkey}, равное {1_Num}% от вашей выработки {4_YieldIcon} {5_Yield:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GP_EXPEND">
+			<Text>При расходовании [ICON_GREAT_PEOPLE] великого человека: {1_InstantYield} в [ICON_CAPITAL] столице</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_INFLUENCE_ON_GP_EXPEND">
+			<Text>При расходовании [ICON_GREAT_PEOPLE] великого человека: {2_Sign}{1_Num} [ICON_INFLUENCE] влияния со всеми [ICON_CITY_STATE] городами-государствами</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_VASSAL_UNIT_PER_ERA">
+			<Text>При вступлении в новую эпоху: получите {1_Num} {1: plural 1?юнит; other?юнитов;} от каждого вассала рядом с городом</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_TECH">
+			<Text>При исследовании технологии: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_POLICY">
+			<Text>При принятии социального института: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GOLDEN_AGE_START">
+			<Text>При начале [ICON_GOLDEN_AGE] золотого века: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_XP_ON_GOLDEN_AGE_START">
+			<Text>При начале [ICON_GOLDEN_AGE] золотого века: {2_Sign}{1_Num} опыта для всех будущих юнитов, обучаемых в этом городе, ограничено {3_Num} опыта</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_WLTKD">
+			<Text>Когда этот город начинает [ICON_HAPPINESS_1] "Мы любим короля": {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GPP_ON_GROWTH">
+			<Text>Когда в этом городе рождается [ICON_CITIZEN] житель: +{1_Num} [ICON_GREAT_PEOPLE] очков великого человека для великого человека с наибольшим количеством очков, масштабируется с эпохой</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GROWTH">
+			<Text>Когда в этом городе рождается [ICON_CITIZEN] житель: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GROWTH_SCALING">
+			<Text>Когда в этом городе рождается [ICON_CITIZEN] житель: получите {2_YieldIcon} {3_Yield:textkey}, равное {1_Num}% от выработки города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_BORDER_GROWTH">
+			<Text>Когда этот город естественно расширяется: {1_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GOLD_PURCHASE">
+			<Text>При покупке/инвестировании [ICON_GOLD] золотом в этом городе: получите {2_YieldIcon} {3_Yield:textkey}, равное {1_Num}% стоимости в [ICON_GOLD] золоте</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INSTANT_YIELD_ON_GOLD_PURCHASE_GLOBAL">
+			<Text>При покупке/инвестировании [ICON_GOLD] золотом в любом городе: получите {2_YieldIcon} {3_Yield:textkey}, равное {1_Num}% стоимости в [ICON_GOLD] золоте</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

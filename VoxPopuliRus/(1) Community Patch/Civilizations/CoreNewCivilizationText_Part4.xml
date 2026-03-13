@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_10">
+			<Text>Асдрубал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_11">
+			<Text>Эсбмуназар</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_12">
+			<Text>Мербал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_13">
+			<Text>Тетрамнест</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_14">
+			<Text>Зарак</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_15">
+			<Text>Хамискора</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_16">
+			<Text>Изабель</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_17">
+			<Text>Адония</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_18">
+			<Text>Мелита</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_19">
+			<Text>Танис</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_20">
+			<Text>Фуабал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_21">
+			<Text>Саликар</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_22">
+			<Text>Агбал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_23">
+			<Text>Абимилки</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_24">
+			<Text>Родан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_10">
+			<Text>Бреннус</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_11">
+			<Text>Альбин</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_12">
+			<Text>Эоган</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_13">
+			<Text>Ниалл</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_14">
+			<Text>Фионн</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_15">
+			<Text>Гвинет</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_16">
+			<Text>Роуэн</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_17">
+			<Text>Уна</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_18">
+			<Text>Орлаит</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_19">
+			<Text>Эйтне</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_20">
+			<Text>Риан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_21">
+			<Text>Диармуид</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_22">
+			<Text>Флоин</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_23">
+			<Text>Риахан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_24">
+			<Text>Маедок</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_10">
+			<Text>Акаленех</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_11">
+			<Text>Бахеру</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_12">
+			<Text>Энгеда</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_13">
+			<Text>Гедебу</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_14">
+			<Text>Кабеде</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_15">
+			<Text>Оби</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_16">
+			<Text>Тигист</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_17">
+			<Text>Лейеш</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_18">
+			<Text>Ифра</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_19">
+			<Text>Богалеч</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_20">
+			<Text>Несанет</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_21">
+			<Text>Селанавит</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_22">
+			<Text>Фере Хивот</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_23">
+			<Text>Джембер</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_24">
+			<Text>Йебза</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_10">
+			<Text>Алани</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_11">
+			<Text>Табити</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_12">
+			<Text>Аргимпаса</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_13">
+			<Text>Гульнар</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_14">
+			<Text>Инжу</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_15">
+			<Text>Мормо</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_16">
+			<Text>Тариздун</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_17">
+			<Text>Вунд</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_18">
+			<Text>Гуратнака</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_19">
+			<Text>Хастур</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_20">
+			<Text>Аксунгур</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_21">
+			<Text>Ругила</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_22">
+			<Text>Тимур</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_23">
+			<Text>Бендгуз</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_24">
+			<Text>Эрнах</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_10">
+			<Text>Балем</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_11">
+			<Text>Цикналь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_12">
+			<Text>Чичкан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_13">
+			<Text>Экчуах</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_14">
+			<Text>Хозанек</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_15">
+			<Text>Ицамна</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_16">
+			<Text>Вотан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_17">
+			<Text>Шаман Эк</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_18">
+			<Text>Ишахалуох</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_19">
+			<Text>Колель Каб</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_20">
+			<Text>Акна</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_21">
+			<Text>Болонтику</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_22">
+			<Text>Чаак</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_23">
+			<Text>Ошлаунтику</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_24">
+			<Text>Човен</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_10">
+			<Text>Дортже</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_11">
+			<Text>Герард</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_12">
+			<Text>Катрейн</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_13">
+			<Text>Ханнес</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_14">
+			<Text>Алтже</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_15">
+			<Text>Каспар</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_16">
+			<Text>Майке</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_17">
+			<Text>Клаас</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_18">
+			<Text>Лийсбет</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_19">
+			<Text>Ом</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_20">
+			<Text>Виллемина</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_21">
+			<Text>Рутгер</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_22">
+			<Text>Расмус</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_23">
+			<Text>Ливен</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_24">
+			<Text>Пит</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_10">
+			<Text>Аннборг</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_11">
+			<Text>Това</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_12">
+			<Text>Свеа</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_13">
+			<Text>Гунилла</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_14">
+			<Text>Иде</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_15">
+			<Text>Мона</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_16">
+			<Text>Карин</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_17">
+			<Text>Андер</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_18">
+			<Text>Торстен</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_19">
+			<Text>Пелле</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

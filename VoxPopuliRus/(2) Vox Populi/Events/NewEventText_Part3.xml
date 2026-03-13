@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_1">
+		<Text>Провести полную модернизацию наших Ветряных мельниц, начиная немедленно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_1_HELP">
+		<Text>{1_YieldCost}. Все Ветряные мельницы получают +10% к [ICON_PRODUCTION] Производству.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_2">
+		<Text>Скоординировать работу с нашими Мануфактурами и интегрировать их в современные промышленные процессы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_2_HELP">
+		<Text>{1_YieldCost} и 4 [ICON_RES_IRON] Железа. Все Ветряные мельницы получают +15% к [ICON_PRODUCTION] Производству.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_3">
+		<Text>Модернизировать их где возможно, в остальном они в порядке.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_3_HELP">
+		<Text>{1_YieldCost}. Все Ветряные мельницы получают +3 [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1">
+		<Text>Всемирное спортивное событие!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_HELP">
+		<Text>Всемирная спортивная организация выбрала вашу империю для проведения Международных игр ВСО! В течение следующих {4_Turns} города со Стадионом будут принимать игры, увеличивая [ICON_TOURISM] Туризм в этих городах!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_SUCCESSFUL_S">
+		<Text>{3_PlayerName} примет Турнир Всемирной спортивной организации!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_SUCCESSFUL">
+		<Text>ВСО выбрала {3_PlayerName} для проведения своего Международного Турнира. Их Стадионы будут приносить много [ICON_GOLD] Золота и [ICON_TOURISM] Туризма!{4_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CORRUPTION_SCIENCE_FAILURE_CHOICE_1">
+		<Text>Неудача в исследованиях</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CORRUPTION_SCIENCE_FAILURE_CHOICE_1_HELP">
+		<Text>Ваши исследователи с сожалением сообщают, что недавние исследования были ошибочны и должны быть отброшены. {1_YieldCost}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BABY_BOOM_CHOICE_1">
+		<Text>Бэби-бум!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BABY_BOOM_CHOICE_1_HELP">
+		<Text>Население вашей империи растёт экспоненциально благодаря резкому увеличению рождаемости. Все города получают +1 [ICON_CITIZEN] Населения и испытывают 5 ходов (масштабируется со скоростью игры) [COLOR_POSITIVE_TEXT]Дня любви к королю[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PLAGUE_CHOICE_1">
+		<Text>Надвигающаяся чума</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PLAGUE_CHOICE_1_HELP">
+		<Text>Ваши советники сообщают о далёкой вирулентной болезни, которая парализует другие империи. Надеемся, что болезнь останется подальше от наших городов...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE">
+		<Text>Специальное заседание</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_HELP">
+		<Text>Дипломатический саммит созван для оценки бюджета Всемирного конгресса. Все наши соперничающие державы будут там, стремясь помешать нам. Мы должны быть хитры, если хотим выйти богаче, чем вошли.[NEWLINE][NEWLINE]Поскольку мы можем работать только над одной из многих конкурирующих целей, кого вы поставите во главе нашей делегации?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_1">
+		<Text>Международная торговля и дружба — это высшие силы добра в этом мире. Назначьте нашего советника по иностранным делам во главу делегации. Сносим тарифы, закрытые границы и все другие барьеры для более тесного сотрудничества и понимания!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_1_HELP">
+		<Text>Все Таможни производят +2 [ICON_TOURISM] Туризма. 10 ходов (масштабируется со скоростью игры) [COLOR_POSITIVE_TEXT]Дня любви к королю[ENDCOLOR] во всех городах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2">
+		<Text>Только работая вместе, мы сможем разгадать тайны вселенной! Поставьте нашего советника по науке во главу. Мы должны получить ведущий голос в величайших научных организациях мира.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2_HELP">
+		<Text>Получить {1_YieldCost}. 16.66% шанс на бесплатную Технологию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2_SUCCESSFUL_S">
+		<Text>Исследовательский грант</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2_SUCCESSFUL">
+		<Text>Ваш советник по науке отмечает, что наше влияние на международный исследовательский совет успешно открыло новую технологию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_3">
+		<Text>Саммит подобного рода даёт нам беспрецедентную возможность провести трансграничную монетарную политику. Если наш советник по экономике правильно разыграет свои карты, мы сможем разблокировать огромные суммы капитала. Сейчас и в будущем.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_3_HELP">
+		<Text>Получить инъекцию {2_InstantYield}. Банк навсегда увеличивает [ICON_GOLD] Золотодобычу [ICON_CAPITAL] Столицы на 5%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_4">
+		<Text>Идея международной миротворческой организации получила поддержку по всему миру. Мы не можем позволить такой силе существовать без нашего руководства. Отправьте нашего военного советника в качестве главного представителя. Решительно выступайте за эту армию и за наших людей как её лидеров.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_4_HELP">
+		<Text>Нации мира уважают вашу решимость, принося {2_InstantYield}. Новая армия появляется возле [ICON_CAPITAL] Столицы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT">
+		<Text>Смерть купца</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_HELP">
+		<Text>Богатый купец в вашей империи скончался, оставив неоднозначное завещание. Его два сына — один моряк, другой банкир — каждый имеют законное право на наследство и обратились к государству за разрешением. Что вы решите?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_1">
+		<Text>Мне всё равно, однако я намерен обложить наследство налогом.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_1_HELP">
+		<Text>+{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_2">
+		<Text>Позиция банкира более обоснована, так как его инвестиции совпадают с инвестициями отца.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_2_HELP">
+		<Text>Получите бесплатный Караван в вашей Столице.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_3">
+		<Text>Идеи моряка принесут пользу всем нашим прибрежным городам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_3_HELP">
+		<Text>+{3_CityYieldGlobal} во всех прибрежных городах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION">
+		<Text>Вопрос гигиены</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_HELP">
+		<Text>По мере роста популярности купания растёт и спрос. Граждане вашей империи требуют дополнительных бань, однако элита и аристократы протестуют против этого, заявляя, что бани — это роскошь. Вашим советникам нужно ваше мнение по этому вопросу. Как вы считаете?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_1">
+		<Text>Немытые массы должны остаться немытыми.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_1_HELP">
+		<Text>Получите бесплатного Великого человека на ваш выбор.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_2">
+		<Text>Не жалейте расходов — народ будет чист!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_2_HELP">
+		<Text>+1 [ICON_HAPPINESS_1] Счастья во всех городах. Все Бани стоят дополнительные 3 [ICON_GOLD] Золота.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_3">
+		<Text>Поощряйте людей находить более... творческие способы поддерживать чистоту.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_3_HELP">
+		<Text>Водопроводы во всех городах: +1 [ICON_CULTURE] Культуры.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DO_NOTHING">
+		<Text>Меня это не интересует.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DO_NOTHING_HELP">
+		<Text>Ничего не происходит.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY">
+		<Text>Богатая жила</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_HELP">
+		<Text>Богатая жила синего мрамора была обнаружена на карьере возле города. Ваши шахтёры и каменщики пришли к вам спросить, что бы вы хотели с ней сделать.[NEWLINE][NEWLINE]Выберите из предложенных вариантов...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_1">
+		<Text>Похвастайтесь этим, и купцы придут покупать его у нас.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_1_HELP">
+		<Text>+{2_InstantYield} и 10 ходов (масштабируется со скоростью игры) [COLOR_POSITIVE_TEXT]Дня любви к королю[ENDCOLOR] в городе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_2">
+		<Text>Пожертвовать его Храму.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_2_HELP">
+		<Text>{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_3">
+		<Text>Вырезать из него реликвии и идолы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_3_HELP">
+		<Text>{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_4">
+		<Text>Отдайте его нашим лучшим художникам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_4_HELP">
+		<Text>+2 [ICON_CULTURE] Культуры в городе на протяжении {5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION">
+		<Text>Старик и море</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_HELP">
+		<Text>Группа местных рыбаков обратилась к городу с просьбой о финансировании сезонной рыболовной экспедиции.[NEWLINE][NEWLINE]Выберите из следующих вариантов...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_1">
+		<Text>Давайте сосредоточимся на чём-то простом.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_1_HELP">
+		<Text>Потратить {1_Scaled}. Получить {2_InstantYield} Пищи в городе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_2">
+		<Text>Большие инвестиции принесут дивиденды.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_2_HELP">
+		<Text>Потратить {1_Scaled}. Рыбацкие лодки возле города получат +5 [ICON_FOOD] Пищи на протяжении {5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3">
+		<Text>Я бы предпочёл инвестировать во что-то более прибыльное...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3_HELP">
+		<Text>Инвестировать {1_Scaled}. 50% шанс на постройку Порта в городе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3_SUCCESSFUL_S">
+		<Text>Порт построен!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3_SUCCESSFUL">
+		<Text>Инвестиции в {2_City} оказались успешными и оплатили строительство!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA">
+		<Text>Драматический шедевр</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_HELP">
+		<Text>Писатели из города создали новое произведение, и критики называют его «шедевром». Новость об этом дошла до ваших ушей, и ваши советники ждут вашего ответа.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1">
+		<Text>Распространите новость среди других цивилизаций мира.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1_HELP">
+		<Text>{1_YieldCost}. Получить {2_InstantYield} Туризма со всеми известными цивилизациями.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1_SUCCESSFUL_S">
+		<Text>Писатели из {2_CityName} создали шедевр.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1_SUCCESSFUL">
+		<Text>Писатели из {2_City} создали новое драматическое произведение, привлекая посетителей со всего мира.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_2">
+		<Text>Давайте отпразднуем это.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_2_HELP">
+		<Text>Получить {2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_3">
+		<Text>Убедитесь, что писатели получат признание за это.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_3_HELP">
+		<Text>Получить {4_GPChange} очков в городе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_4">
+		<Text>Вместо этого им следовало молиться.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_4_HELP">
+		<Text>Получить {2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS">
+		<Text>Неприятности в Храме</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_HELP">
+		<Text>Священники из города требуют, чтобы вы высказались по религиозному спору. По мере роста города всё больше людей разных вер просят использовать Храм. Приверженцы господствующей веры возмущены этим и угрожают насилием, если вы позволите неверующим войти в Храм. Неверующие, однако, угрожают уйти, если вы не впустите их. Что вы сделаете?</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

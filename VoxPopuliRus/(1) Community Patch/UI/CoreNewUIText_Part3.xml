@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_PRODUCTION_WORLD_CONGRESS_PROJECT_REWARD_2">
+			<Text>[ICON_TROPHY_SILVER] Награда за [COLOR_PLAYER_MIDDLE_PURPLE_TEXT]{1_Project:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_WORLD_CONGRESS_PROJECT_REWARD_3">
+			<Text>[ICON_TROPHY_GOLD] Награда за [COLOR_PLAYER_MIDDLE_PURPLE_TEXT]{1_Project:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_WORLD_CONGRESS_PROJECT_COST_PER_PLAYER">
+			<Text>Стоимость: {1_ProductionCostPerPlayer} [ICON_PRODUCTION] на цивилизацию в начале игры</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_ON_FOUND">
+			<Text>Строится автоматически при основании города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_ON_FOUND_GENERIC">
+			<Text>Строится автоматически при основании города, если игра начинается в {1_Era:textkey} или позже</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_COUNT">
+			<Text>{1: plural 0?Ни одного не построено; 1?Построено в 1 городе; 2?Построено в {1} городах;}{2: plural 0?; 1?, строится в 1 городе; 2?, строится в {2} городах;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_VICTORY_REQUIREMENT">
+			<Text>Требуется {1_Num} для победы {2_Victory:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPECIAL_SESSION_REQUIREMENT">
+			<Text>Требуется для инициирования специальной сессии [COLOR_PLAYER_MIDDLE_PURPLE_TEXT]{1_Resolution:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_LOCAL_EFFECTS">
+			<Text>Локальные эффекты:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GLOBAL_EFFECTS">
+			<Text>Эффекты для всей империи:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TEAM_EFFECTS">
+			<Text>Эффекты для всей команды:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_CORPORATION_EFFECTS">
+			<Text>Бонусы корпорации:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENTS">
+			<Text>Активирует или усиливает следующие исторические события:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENT_ERA_CHANGE">
+			<Text>Вход в новую эру (Относительная сила: [COLOR_POSITIVE_TEXT]{1_Strength}[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENT_WORLD_WONDER">
+			<Text>Завершение [ICON_WONDER] чуда света (Относительная сила: [COLOR_POSITIVE_TEXT]{1_Strength}[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENT_GREAT_PERSON">
+			<Text>Получение [ICON_GREAT_PEOPLE] великого человека (Относительная сила: [COLOR_POSITIVE_TEXT]{1_Strength}[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENT_WON_WAR">
+			<Text>Победа в [ICON_WAR] войне (Военный счет 25+) (Относительная сила: [COLOR_POSITIVE_TEXT]{1_Strength}[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENT_TRADE_LAND">
+			<Text>Завершение [ICON_CARAVAN] сухопутного торгового пути из этого города к другой цивилизации (Относительная сила: [COLOR_POSITIVE_TEXT]{1_Strength}[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HISTORIC_EVENT_TRADE_SEA">
+			<Text>Завершение [ICON_CARGO_SHIP] морского торгового пути из этого города к другой цивилизации (Относительная сила: [COLOR_POSITIVE_TEXT]{1_Strength}[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ERA_SCALING_SUFFIX">
+			<Text>масштабируется с эрой</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ALL_BOOSTS">
+			<Text>Список возможных усилений этого здания:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_POTENTIAL_BOOSTS">
+			<Text>Возможные усиления этого здания:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_YIELD_CHANGE">
+			<Text>{3_YieldIcon} {4_Yield:textkey}: {2_Sign}{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PROJECTED_YIELD_CHANGE">
+			<Text>Прогнозируемый доход при постройке: {1_YieldChanges}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_YIELD_MODIFIER">
+			<Text>{2_Sign}{1_Num}% {3_YieldIcon} {4_Yield:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PROJECTED_YIELD_MODIFIER">
+			<Text>Прогнозируемые модификаторы дохода при постройке: {1_YieldModifiers}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PROJECTED_HAPPINESS">
+			<Text>Прогнозируемое [ICON_HAPPINESS_1] счастье при постройке: {2_Sign}{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_AIR_DEFENSE">
+			<Text>[ICON_AIRSTRIKE_DEFENSE] Защита города от авиаударов: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GREAT_WORK_YIELD_TYPE">
+			<Text>[ICON_GREAT_WORK] Великие произведения в этом здании дают {1_YieldIcon} {2_Yield:textkey} вместо [ICON_CULTURE] культуры</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_THEMING_BONUS">
+			<Text>До {1_YieldBoosts} при [COLOR_POSITIVE_TEXT]тематизации[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_DEFENSE_FROM_WONDERS">
+			<Text>+{1_Num} [ICON_STRENGTH] к силе города за каждое национальное/чудо света в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_DEFENSE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_STRENGTH] к силе города от зданий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_DEFENSE_MODIFIER_TEAM">
+			<Text>{2_Sign}{1_Num}% [ICON_STRENGTH] к силе города от зданий во всех городах вашей команды</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_DAMAGE_REDUCTION">
+			<Text>[ICON_STRENGTH] Снижение урона: {2_Sign}{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_RESOURCE">
+			<Text>{2_Sign}{1_Num} {3_ResourceIcon} {4_Resource:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_RESOURCE_FROM_POPULATION">
+			<Text>+{1_Num} {2_ResourceIcon} {3_Resource:textkey} за каждого [ICON_CITIZEN] жителя в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_RESOURCE_FROM_FRANCHISE">
+			<Text>+1 {2_ResourceIcon} {3_Resource:textkey} за каждые {1_Num} [ICON_FRANCHISE] установленных {1: plural 1?филиал; other?филиалов;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FOOD_MODIFIER_PER_FOLLOWER">
+			<Text>{2_Sign}{1_Num}% [ICON_FOOD] пищи за последователя основной религии</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPECIFIC_GPP_MODIFIER">
+			<Text>+{1_Num}% {2_GreatPersonIcon} к скорости появления {3_GreatPerson:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GPP_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_GREAT_PEOPLE] к скорости появления великих людей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GPP_MODIFIER_FROM_CORPORATION">
+			<Text>{2_Sign}{1_Num}% [ICON_GREAT_PEOPLE] к скорости появления великих людей за установленный филиал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GPP_MODIFIER_FROM_MARRIAGE">
+			<Text>{2_Sign}{1_Num}% [ICON_GREAT_PEOPLE] к скорости появления великих людей за активный [ICON_RES_MARRIAGE] дипломатический брак</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GPP_MODIFIER_FROM_LOCAL_THEME">
+			<Text>{2_Sign}{1_Num}% [ICON_GREAT_PEOPLE] к скорости появления великих людей за тему в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GGP_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_GREAT_GENERAL] очков великого генерала в бою</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GODLEN_AGE_LENGTH_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_GOLDEN_AGE] длительность золотого века</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_UPGRADE_COST_MODIFIER">
+			<Text>{2_Sign}{1_Num}% стоимость улучшения юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_XP_ALL">
+			<Text>{2_Sign}{1_Num} опыта для всех юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_XP_COMBAT">
+			<Text>{2_Sign}{1_Num} опыта для [COLOR_YELLOW]{3_Combat:textkey}[ENDCOLOR] юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_XP_DOMAIN">
+			<Text>{2_Sign}{1_Num} опыта для [COLOR_YELLOW]{3_Domain:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_XP_DOMAIN_FROM_GREAT_WORK">
+			<Text>{2_Sign}{1_Num} опыта для [COLOR_YELLOW]{3_Domain:textkey}[ENDCOLOR] за каждое [ICON_GREAT_WORK] великое произведение в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNIT_XP_DOMAIN_FROM_GREAT_WRITING_GLOBAL">
+			<Text>{2_Sign}{1_Num} опыта для [COLOR_YELLOW]{3_Domain:textkey}[ENDCOLOR] во всех городах за каждое [ICON_GW_WRITING] великое произведение литературы в империи, максимум 45 опыта</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FOOD_KEPT">
+			<Text>{2_Sign}{1_Num}% [ICON_FOOD] пищи сохраняется при росте города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNHAPPINESS_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_HAPPINESS_4] несчастья</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNHAPPINESS_MODIFIER_LOCAL">
+			<Text>{2_Sign}{1_Num}% [ICON_HAPPINESS_4] несчастья в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNHAPPINESS_MODIFIER_CITY_COUNT">
+			<Text>{2_Sign}{1_Num}% [ICON_HAPPINESS_4] несчастья от размера империи</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HAPPINESS_GLOBAL">
+			<Text>{2_Sign}{1_Num} [ICON_HAPPINESS_1] счастья во всех городах</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HAPPINESS_FROM_POLICY_CAPITAL">
+			<Text>{1: plural 1?+1; other?+1/{1_Num};} [ICON_HAPPINESS_1] счастья в [ICON_CAPITAL] столице за каждую принятую политику</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HAPPINESS_FROM_WAR">
+			<Text>{2_Sign}{1_Num} [ICON_HAPPINESS_1] счастья в империи за каждую крупную цивилизацию, с которой ваша империя воюет</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_URBANIZATION_REDUCTION">
+			<Text>{2_Sign}{1_Num} {1: plural 1?специалист, не; other?специалистов, не;} производящих [ICON_HAPPINESS_3] несчастья от [ICON_URBANIZATION] урбанизации</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_NEVER_CAPTURE">
+			<Text>Уничтожается при захвате</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CONQEUST_PROB_0">
+			<Text>Уничтожается при захвате (может быть отменено политиками)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CONQEUST_PROB_100">
+			<Text>Всегда сохраняется при захвате</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TEAM_SHARE">
+			<Text>Делится эффектами для всей империи с командой</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TECH_SHARE">
+			<Text>Команда получает технологии, которые исследовали {1_Num} других {1: plural 1?команда; other?команд;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WATER_CONNECTION">
+			<Text>Позволяет [ICON_CONNECTED] городское соединение по воде</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WATER_INDUSTRIAL_CONNECTION">
+			<Text>Позволяет [ICON_INDUSTRIAL_CONNECTED] промышленное городское соединение по воде</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_AIR_CONNECTION">
+			<Text>Позволяет [ICON_CONNECTED] городское соединение по воздуху</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_AIRLIFT">
+			<Text>Позволяет [ICON_AIRPORT] авиапереброску</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ITR_FOOD">
+			<Text>Позволяет [ICON_FOOD] пищевые [ICON_INTERNATIONAL_TRADE] внутренние торговые пути из города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ITR_FOOD_GLOBAL">
+			<Text>Позволяет [ICON_FOOD] пищевые [ICON_INTERNATIONAL_TRADE] внутренние торговые пути из всех городов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ITR_PRODUCTION">
+			<Text>Позволяет [ICON_PRODUCTION] производственные [ICON_INTERNATIONAL_TRADE] внутренние торговые пути из города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ITR_PRODUCTION_GLOBAL">
+			<Text>Позволяет [ICON_PRODUCTION] производственные [ICON_INTERNATIONAL_TRADE] внутренние торговые пути из всех городов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ADD_FRESH_WATER">
+			<Text>Добавляет [COLOR_POSITIVE_TEXT]пресную воду[ENDCOLOR] в город и прилегающие клетки</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_PROMOTION">
+			<Text>Бесплатное повышение [COLOR_POSITIVE_TEXT]{1_Promotion:textkey}[ENDCOLOR] для всех будущих подходящих юнитов, обученных в этом городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_PROMOTION_RETROACTIVE">
+			<Text>Бесплатное повышение [COLOR_POSITIVE_TEXT]{1_Promotion:textkey}[ENDCOLOR] для всех существующих и будущих подходящих юнитов, обученных в этом городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FREE_PROMOTION_GLOBAL">
+			<Text>Бесплатное повышение [COLOR_POSITIVE_TEXT]{1_Promotion:textkey}[ENDCOLOR] для всех существующих и будущих подходящих юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_ALLOW_UNITS">
+			<Text>Позволяет производить [COLOR_YELLOW]{1_Units}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_AIR_SLOTS">
+			<Text>{2_Sign}{1_Num} {1: plural 1?слот; other?слотов;} для авиации</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SUPPLY_FLAT">
+			<Text>{2_Sign}{1_Num} [ICON_WAR] военное снабжение</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SUPPLY_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_SILVER_FIST] военное снабжение от населения</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CITY_SECURITY">
+			<Text>{2_Sign}{1_Num} [ICON_CITY_SECURITY] безопасность города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CITY_SECURITY_PER_X_POPULATION">
+			<Text>{2_Sign}1 [ICON_CITY_SECURITY] безопасность города за каждые {1: number #.##} [ICON_CITIZEN] жителей в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CITY_STRIKE_STRENGTH_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_RANGE_STRENGTH] сила удара города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CITY_STRIKE_RANGE">
+			<Text>{2_Sign}{1_Num} дальность удара города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INDIRECT_FIRE">
+			<Text>Удар города может проходить через препятствия</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_WORKING_RANGE">
+			<Text>{2_Sign}{1_Num} радиус работы города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPREAD_ACTION">
+			<Text>{2_Sign}{1_Num} {1: plural 1?действие; other?действий;} распространения для миссионеров, созданных в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPREAD_ACTION_GLOBAL">
+			<Text>{2_Sign}{1_Num} {1: plural 1?действие; other?действий;} распространения для миссионеров</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPREAD_STRENGTH_MODIFIER_GLOBAL">
+			<Text>{2_Sign}{1_Num}% начальная религиозная сила для религиозных юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INFLUENCE_CHANGE">
+			<Text>{2_Sign}{1_Num} [ICON_INFLUENCE] влияние за дипломатические миссии, выполняемые юнитами, созданными в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SPY_RANK">
+			<Text>+{1_Num} ранг для новых [ICON_SPY] шпионов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MAINTENANCE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% [ICON_GOLD] стоимость содержания зданий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PURCHASE_MILITARY_COOLDOWN_MODIFIER">
+			<Text>{2_Sign}{1_Num} {1: plural 1?ход; other?ходов;} перезарядки для покупки военных юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PURCHASE_CIVILIAN_COOLDOWN_MODIFIER">
+			<Text>{2_Sign}{1_Num} {1: plural 1?ход; other?ходов;} перезарядки для покупки гражданских юнитов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INVEST_MILITARY_COOLDOWN_MODIFIER">
+			<Text>{2_Sign}{1_Num} {1: plural 1?ход; other?ходов;} перезарядки для инвестиций в военные юниты</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_INVEST_CIVILIAN_COOLDOWN_MODIFIER">
+			<Text>{2_Sign}{1_Num} {1: plural 1?ход; other?ходов;} перезарядки для инвестиций в гражданские юниты</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRESSURE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% религиозное давление на другие города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRESSURE_MODIFIER_IF_MAJORITY">
+			<Text>{2_Sign}{1_Num}% религиозное давление на другие города, если вера, открывающая это здание, принадлежит основной религии</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRESSURE_MODIFIER_IF_TRADE_ROUTE">
+			<Text>{2_Sign}{1_Num}% религиозное давление на чужие города, связанные [ICON_INTERNATIONAL_TRADE] торговыми путями</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_BASE_PRESSURE_MODIFIER">
+			<Text>{2_Sign}{1_Num}% базовое религиозное давление на другие города</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

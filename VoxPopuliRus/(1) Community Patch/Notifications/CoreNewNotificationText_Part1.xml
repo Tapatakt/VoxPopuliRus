@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_ENHANCED_S">
+
+			<Text>Пантеон усилен</Text>
+
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_ENHANCED_ACTIVE_PLAYER">
+			<Text>Вы усилили свой пантеон, добавив новое убеждение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_ENHANCED">
+			<Text>{1_CivName} {1: plural 1?усилил; 2?усилили;} свой пантеон, добавив новое убеждение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_ENHANCED_UNKNOWN">
+			<Text>Неизвестная цивилизация усилила свой пантеон, добавив новое убеждение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_REVOKED_WAR">
+			<Text>Поскольку вы воюете с {1_MinorCivName:textkey}, они отменили ранее предложенные вам задания. Война должна закончиться, прежде чем они снова предложат вам задания.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_REVOKED_WAR">
+			<Text>{1_MinorCivName:textkey} отменяет задания</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CULTURE_UNIT">
+			<Text>{1_Resource:textkey} принёс вдохновение!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_UNIT">
+			<Text>Рождение {1_Resource:textkey} вызывает культурный подъём в вашей империи!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED_S">
+			<Text>{1_CityName} больше не может работать над {2_BldgName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DEFENSIVE_PACT_S">
+			<Text>Новый пакт о взаимной обороне</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DEFENSIVE_PACT">
+			<Text>{1_CivName} и {2_CivName} подписали пакт о взаимной обороне!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EXPANSION_PROMISE_EXPIRED_THEM_S">
+			<Text>{1_CivDesc} сдержал обещание о расширении.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EXPANSION_PROMISE_EXPIRED_THEM">
+			<Text>Прошло много лет с тех пор, как {1_CivDesc} пообещал не селиться возле вас. Они считают это обещание выполненным.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DOF_S_BROKEN">
+			<Text>{1_CivName:textkey} и {2_CivName:textkey} больше не друзья!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DOF_BROKEN">
+			<Text>{1_CivName:textkey} и {2_CivName:textkey} [COLOR_NEGATIVE_TEXT]нарушили[ENDCOLOR] свою публичную Декларацию дружбы, ссылаясь на дипломатическое напряжение как на причину.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COOP_WAR_BROKEN_S">
+			<Text>Совместная война отменена!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COOP_WAR_BROKEN_DOF">
+			<Text>Из-за новой Декларации дружбы с {1_CivName} ваше соглашение о совместной войне с {2_CivName} прекращено.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COOP_WAR_BROKEN_DP">
+			<Text>Из-за нового пакта о взаимной обороне с {1_CivName} ваше соглашение о совместной войне с {2_CivName} прекращено.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COOP_WAR_BROKEN_INVALID_TARGET">
+			<Text>Поскольку {1_CivName} больше не является допустимой целью для войны, ваше соглашение о совместной войне с {2_CivName} прекращено.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COOP_WAR_BROKEN_AGGRESSION">
+			<Text>Поскольку ваша дружба с {1_CivName} была преждевременно разорвана, ваши соглашения о совместной войне с ними прекращены.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COOP_WAR_BROKEN_ELIMINATED">
+			<Text>Поскольку {1_CivName} больше не может помочь вам в войне, ваши соглашения о совместной войне с ними прекращены.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CS_GIFT_RETURNED_SUMMARY">
+			<Text>{1_CivName:textkey} захвачен, подаренный юнит возвращён!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CS_GIFT_RETURNED">
+			<Text>Поскольку {1_CivName:textkey} был захвачен, ваш подаренный {2_Unit} был возвращён вам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OVER_RESOURCE_LIMIT_CITY">
+			<Text>Городу {2_City} нужен {1_Resource:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OVER_RESOURCE_LIMIT_CITY">
+			<Text>Город {2_City} в настоящее время использует на [COLOR_NEGATIVE_TEXT]{3_Num}[ENDCOLOR] больше {1_Resource:textkey}, чем у вас есть! Обслуживание зданий [ICON_GOLD] во всей империи будет увеличено на [COLOR_NEGATIVE_TEXT]{4_Num}%[ENDCOLOR], пока вы не решите эту проблему!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_CITY_CAPTURE">
+			<Text>Вы захватили {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_CITY_CAPTURE_TT">
+			<Text>Выберите судьбу {1_City}...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PEACE_WITH_MINOR_POSSIBLE_S">
+			<Text>Мир с {1_Civ} возможен!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PEACE_WITH_MINOR_POSSIBLE">
+			<Text>{1_Civ} больше не является союзником цивилизации, с которой вы воюете. Мир с {1_Civ} теперь снова возможен.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_AUTOCRACY_BULLY_INFLUENCE_REDUCTION_CS_S">
+			<Text>{2_Civ} терроризирует {1_CS}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_AUTOCRACY_BULLY_INFLUENCE_REDUCTION_CS">
+			<Text>{2_Civ} запугал {1_CS}, снизив ваше [ICON_INFLUENCE] влияние с {1_CS} на {3_Influence}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_AUTOCRACY_BULLY_INFLUENCE_REDUCTION_CS_YOU_S">
+			<Text>Вы укрепляете свой контроль над {1_CS}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_AUTOCRACY_BULLY_INFLUENCE_REDUCTION_CS_YOU">
+			<Text>Ваш запугивание {1_CS} увеличило ваше [ICON_INFLUENCE] влияние на {2_Influence} и снизило [ICON_INFLUENCE] влияние других цивилизаций на {3_Percent}%!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MP_DIPLO_CONTACT_SUMMARY">
+			<Text>Входящее сообщение от {1_LeaderName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROMOTION_TRANSFER_S">
+			<Text>Ваш {1_Unit} наложил эффект статуса!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROMOTION_TRANSFER">
+			<Text>Эффект статуса {3_Promotion} наложен на {1_Unit} на {2_Unit} во время боя!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROMOTION_TRANSFER_S_THEM_S">
+			<Text>Ваш {1_Unit} получил эффект статуса!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROMOTION_TRANSFER_THEM">
+			<Text>Эффект статуса {3_Promotion} был наложен на наш {2_Unit} вражеским {1_Unit} во время боя!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MORALE_FALL_BACK_S">
+			<Text>{1_Unit} был рассеян!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MORALE_FALL_BACK">
+			<Text>Наш {2_Unit} был вынужден отступить врагом {1_Unit}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MORALE_FALL_BACK_THEM_S">
+			<Text>Вражеский {1_Unit} вынужден отступить!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MORALE_FALL_BACK_THEM">
+			<Text>Наш {1_Unit} вынудил вражеский {2_Unit} отступить!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_PEACE_S">
+			<Text>{1_CivName} организует мир от вашего имени!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_PEACE">
+			<Text>Ваши дипломаты узнали, что {1_PlayerName} заплатил {2_CivName}, чтобы заключить мир с вами!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_PEACE_OTHER_S">
+			<Text>{1_CivName} организует мир между {2_CivName} и {3_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_PEACE_OTHER">
+			<Text>Ваши дипломаты узнали, что {1_PlayerName} заплатил {2_CivName}, чтобы заключить мир с {3_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_UNKNOWN_SUCCESS_S">
+			<Text>Иностранный переворот в {1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_UNKNOWN_SUCCESS">
+			<Text>Неизвестная цивилизация устроила переворот в {1_CityName}, свергла {2_CivAdj} сторонников и установила своих сторонников в правительстве, чтобы стать новым союзником города-государства.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_UNKNOWN_FAILURE_S">
+			<Text>Иностранный переворот в {1_CityName} провалился</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_UNKNOWN_FAILURE">
+			<Text>Попытка переворота неизвестной цивилизации в {1_CityName} провалилась. {2_CivAdj} власти остались у власти.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANARCHY_BEGINS_SUMMARY">
+			<Text>Начинается анархия!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANARCHY_BEGINS">
+			<Text>Начинается анархия из-за смены идеологии!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_1">
+			<Text>Ваше влияние на {1_CivName:textkey} растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_1_BAD">
+			<Text>Ваше влияние на {1_CivName:textkey} падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_2">
+			<Text>Ваше влияние на {1_CivName:textkey} растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_2_BAD">
+			<Text>Ваше влияние на {1_CivName:textkey} падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_3">
+			<Text>Ваше влияние на {1_CivName:textkey} растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_3_BAD">
+			<Text>Ваше влияние на {1_CivName:textkey} падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_4">
+			<Text>Ваше влияние на {1_CivName:textkey} растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_4_BAD">
+			<Text>Ваше влияние на {1_CivName:textkey} падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_5">
+			<Text>Ваше влияние на {1_CivName:textkey} растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_US_5_BAD">
+			<Text>Ваше влияние на {1_CivName:textkey} падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_1">
+			<Text>Влияние {1_CivName:textkey} на вас растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_1_BAD">
+			<Text>Влияние {1_CivName:textkey} на вас падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_2">
+			<Text>Влияние {1_CivName:textkey} на вас растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_2_BAD">
+			<Text>Влияние {1_CivName:textkey} на вас падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_3">
+			<Text>Влияние {1_CivName:textkey} на вас растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_3_BAD">
+			<Text>Влияние {1_CivName:textkey} на вас падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_4">
+			<Text>Влияние {1_CivName:textkey} на вас растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_4_BAD">
+			<Text>Влияние {1_CivName:textkey} на вас падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_5">
+			<Text>Влияние {1_CivName:textkey} на вас растёт!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INFLUENCE_THEM_5_BAD">
+			<Text>Влияние {1_CivName:textkey} на вас падает!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_GAINED_HOLY">
+			<Text>{1_CityName} получил статус святого города для {2_ReligionName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_GAINED_HOLY">
+			<Text>{1_CityName} — святой город!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_LOST_HOLY">
+			<Text>{1_CityName} потерял статус святого города для {2_ReligionName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_LOST_HOLY">
+			<Text>{1_CityName} больше не святой город!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SUMMARY">
+			<Text>Культурная победа близка!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BULLIED_BY_SOMEONE_S">
+			<Text>{1_CivName} запугал {2_CityState}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_BULLIED_BY_SOMEONE">
+			<Text>{1_CivName} запугал {2_CityState}, снизив влияние других цивилизаций!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_MARRIAGE">
+			<Text>Вы заключили брак с {1_CityState}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_MARRIAGE_TT_1">
+			<Text>Брак даёт постоянный бонус к влиянию</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_MARRIAGE_TT_2">
+			<Text>Союзники получают дополнительные бонусы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NEW_PLAYER_MAJORITY_S">
+			<Text>Большинство в {1_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NEW_PLAYER_MAJORITY">
+			<Text>{1_ReligionName} стал большинством в {2_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NEW_PLAYER_STATE_RELIGION_S">
+			<Text>Государственная религия в {1_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NEW_PLAYER_STATE_RELIGION">
+			<Text>{1_ReligionName} стал государственной религией {2_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNIT_RETURNED_AI">
+			<Text>Ваш юнит был возвращён ИИ по дипломатическим причинам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_UNIT_RETURNED_AI_SUMMARY">
+			<Text>Юнит возвращён</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_SUMMARY">
+			<Text>Туристическое событие!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_ARCHAEOLOGY">
+			<Text>Археологическая находка привлекает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_ERA">
+			<Text>Новая эра приносит культурный интерес!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_GOLDEN_AGE">
+			<Text>Золотой век привлекает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_GP">
+			<Text>Великий человек привлекает внимание туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_SUMMARY_TRADE">
+			<Text>Торговля привлекает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_SUMMARY_TRADE_CS">
+			<Text>Торговля с городом-государством привлекает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_TRADE_CS_BONUS">
+			<Text>Бонус торговли с городом-государством!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_TRADE_LAND">
+			<Text>Сухопутная торговля привлекает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_TRADE_SEA">
+			<Text>Морская торговля привлекает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_WAR">
+			<Text>Война отпугивает туристов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_WW">
+			<Text>Мировое чудо привлекает туристов!</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

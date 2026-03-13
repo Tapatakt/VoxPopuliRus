@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_4">
+			<Text>Пригласить их интегрироваться в город.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_4_HELP">
+			<Text>Город получает 1 [ICON_CITIZEN] жителя.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS">
+			<Text>Сопротивление</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_HELP">
+			<Text>Угрозы вашему правлению в городе продолжают расти, и ваши советники обеспокоены тем, что это может перерасти в насилие. Вам необходимо искоренить это сопротивление, пока оно не стало слишком сильным. Однако ваши возможности ограничены:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_1">
+			<Text>Они никогда не ожидают инквизицию!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_1_HELP">
+			<Text>Город теряет 3 [ICON_CITIZEN] жителя.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_2">
+			<Text>Приманить повстанцев — мы сокрушим их военной мощью.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_2_HELP">
+			<Text>Три отряда повстанцев появляются возле города, и город вступает в [ICON_RESISTANCE] сопротивление на 1 ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_3">
+			<Text>Изолировать повстанцев. Они могут захватить часть города, но это неизбежно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_3_HELP">
+			<Text>10% шанс, что каждое здание в городе будет разрушено.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PLANTATION_RARE_CROP_CHOICE_1">
+			<Text>Редкий экземпляр</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PLANTATION_RARE_CROP_CHOICE_1_HELP">
+			<Text>Ваши фермеры обнаружили редкое растение, никогда ранее не встречавшееся на плантации возле города. Ваши исследователи в восторге от возможности изучить его! Получите +{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_GW">
+			<Text>[ICON_GREAT_WORK] Украсть Великое Произведение</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_GW_HELP">
+			<Text>Украсть случайно выбранное [ICON_GREAT_WORK] Великое Произведение из целевого города.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_GW_EFFECT">
+			<Text>[ICON_GREAT_WORK] Великое Произведение «{2_GWName}» было украдено.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SABOTAGE_PRODUCTION">
+			<Text>[ICON_PRODUCTION] Саботировать производство города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SABOTAGE_PRODUCTION_HELP">
+			<Text>Город не может строить или инвестировать в здания, чудеса и проекты в течение {8_Num} ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SABOTAGE_PRODUCTION_EFFECT">
+			<Text>Город не может строить или инвестировать в здания, чудеса и проекты в течение {8_Num} ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FAITH">
+			<Text>[ICON_PEACE] Похитить религиозные реликвии</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FAITH_HELP">
+			<Text>Крадёт 100% [ICON_PEACE] веры за ход из целевого города. -100% к религиозному давлению, исходящему из целевого города. Длится {5_Duration}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FAITH_EFFECT">
+			<Text>Каждый ход крадётся 100% [ICON_PEACE] веры города. Город излучает -100% религиозного давления. {5_DurationText}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SCIENTIFIC_GREATPEOPLE">
+			<Text>[ICON_GREAT_PEOPLE] Похитить специалистов в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SCIENTIFIC_GREATPEOPLE_HELP">
+			<Text>Специалисты производят -1 [ICON_GREAT_PEOPLE] очков великих людей за ход в целевом городе. {6_PlayerEventEffect}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SCIENTIFIC_GREATPEOPLE_EFFECT">
+			<Text>Специалисты производят -1 [ICON_GREAT_PEOPLE] очков великих людей за ход. {5_Duration}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS">
+			<Text>Репатриированные специалисты</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS_HELP">
+			<Text>Специалисты в вашей столице производят +1 [ICON_GREAT_PEOPLE] очков великих людей за ход. Длится {4_Duration}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS_PARENT">
+			<Text>Репатриированные специалисты</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS_PARENT_HELP">
+			<Text>Специалисты в вашей столице производят +1 [ICON_GREAT_PEOPLE] очков великих людей за ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FROM_TREASURY">
+			<Text>[ICON_GOLD] Украсть из государственной казны</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FROM_TREASURY_HELP">
+			<Text>Украсть {8_Num}% [ICON_GOLD] золота из казны целевой империи. {7_AmountToSteal}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FROM_TREASURY_EFFECT">
+			<Text>{3_Num} [ICON_GOLD] золота было украдено из вашей казны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_STEAL_TREASURY_AMOUNT">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Сумма кражи:[ENDCOLOR] {1_Num} [ICON_GOLD] золота</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_TECH">
+			<Text>[ICON_RESEARCH] Украсть технологию</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_TECH_HELP">
+			<Text>Украсть случайно выбранную технологию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_TECH_EFFECT">
+			<Text>Технология «{1_TechName}» была украдена.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_ECONOMIC_TILES">
+			<Text>[ICON_CITIZEN] Радикализировать сельское население</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_ECONOMIC_TILES_HELP">
+			<Text>Все улучшенные клетки с ресурсами, принадлежащие городу, разграблены. Каждая дорога или железная дорога имеет 50% шанс быть разграбленной.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_ECONOMIC_TILES_EFFECT">
+			<Text>Все улучшенные клетки с ресурсами и некоторые дороги/железные дороги вокруг города были разграблены.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_URBAN_UNREST">
+			<Text>[ICON_RESISTANCE] Вооружить местное население</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_URBAN_UNREST_HELP">
+			<Text>Город вступает в [ICON_RESISTANCE] сопротивление на 2 хода и отряды повстанцев появляются в районе. Город не производит [ICON_TOURISM] туризм в течение {8_Num} ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_URBAN_UNREST_EFFECT">
+			<Text>Город вступил в [ICON_RESISTANCE] сопротивление на 2 хода и отряды повстанцев появились в районе. Город не производит [ICON_TOURISM] туризм в течение {8_Num} ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_CITY_DEFENSES">
+			<Text>[ICON_STRENGTH] Атаковать оборону города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_CITY_DEFENSES_HELP">
+			<Text>Все укрепления, принадлежащие этому городу, разграблены. Город блокирован и не может совершать дальнобойные атаки в течение {8_Num} ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_CITY_DEFENSES_EFFECT">
+			<Text>Укрепления вокруг города были разграблены. Город блокирован и не может совершать дальнобойные атаки в течение {8_Num} ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_FOCUS">
+			<Text>Контрразведка</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_FOCUS_HELP">
+			<Text>Ваш шпион установил новую контрразведывательную операцию. На чём бы вы хотели, чтобы он сосредоточился?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK">
+			<Text>[ICON_CITY_SECURITY] Создать контршпионскую сеть.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK_HELP">
+			<Text>Иностранные [ICON_SPY] шпионы генерируют -20 очков сети за ход.[NEWLINE][NEWLINE]Получите 50 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, когда вы идентифицируете иностранного [ICON_SPY] шпиона, и 150 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, когда вы убиваете иностранного шпиона, с масштабированием по эпохе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK_EFFECT">
+			<Text>Иностранные [ICON_SPY] шпионы генерируют [ICON_NEGATIVE_TEXT]-20 очков сети[ENDCOLOR] за ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK_MISSION">
+			<Text>Создать сеть</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE">
+			<Text>[ICON_STRENGTH] Укрепить оборону города.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE_HELP">
+			<Text>[ICON_RANGE_STRENGTH] Дальнобойные атаки города на 30% сильнее. Иностранные шпионы не могут выполнять миссию «Атаковать оборону города».[NEWLINE][NEWLINE]Получите 50 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, когда вы идентифицируете иностранного [ICON_SPY] шпиона, и 150 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, когда вы убиваете иностранного шпиона, с масштабированием по эпохе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE_EFFECTS">
+			<Text>[ICON_RANGE_STRENGTH] Дальнобойные атаки города на 30% сильнее. Иностранные шпионы не могут выполнять миссию «Атаковать оборону города».</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE_MISSION">
+			<Text>Укрепить оборону</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

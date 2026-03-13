@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_POLICY_BRANCH_ANCIENT">
+
+			<Text>Завершение древней ветки политик</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_POLICY_BRANCH_MEDIEVAL">
+
+			<Text>Завершение средневековой ветки политик</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_POLICY_BRANCH_INDUSTRIAL">
+
+			<Text>Завершение индустриальной ветки политик</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_CHOOSE_IDEOLOGY">
+
+			<Text>Выбор идеологии</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_PANTHEON">
+
+			<Text>Выбор пантеона</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_FOUNDER">
+
+			<Text>Выбор основополагающего убеждения</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_FOLLOWER">
+
+			<Text>Выбор убеждения последователей</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_ENHANCER">
+
+			<Text>Выбор усиливающего убеждения</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_REFORMATION">
+
+			<Text>Выбор реформационного убеждения</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_GENERAL">
+
+			<Text>Генерал Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_ADMIRAL">
+
+			<Text>Адмирал Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_PROPHET">
+
+			<Text>Пророк Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_WRITER">
+
+			<Text>Писатель Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_ARTIST">
+
+			<Text>Художник Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_MUSICIAN">
+
+			<Text>Музыкант Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_ENGINEER">
+
+			<Text>Инженер Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_MERCHANT">
+
+			<Text>Торговец Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_SCIENTIST">
+
+			<Text>Учёный Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_DIPLOMAT">
+
+			<Text>Дипломат Длинного Счёта майя</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_ELIMINATE_PLAYER">
+
+			<Text>Уничтожение игрока</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_DIPLOMATIC_MISSION_BOOST">
+
+			<Text>Дипломатическая миссия юнита Проксенос</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_WARS_WON">
+
+			<Text>Победа в войне</Text>
+
+		</Row>
+
+	</Language_RU_RU>
+
+</GameData>
+

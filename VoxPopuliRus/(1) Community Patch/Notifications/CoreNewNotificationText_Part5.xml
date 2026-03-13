@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_COOP_WAR_OTHER">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} и {4_CivName} готовятся начать войну с {5_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_MILITARY_MIGHT_RISEN_S">
+			<Text>Военная мощь {1_CivName} значительно возросла.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_MILITARY_MIGHT_RISEN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что военная мощь {3_PlayerName} значительно возросла в последнее время. Возможно, они готовятся к войне!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUKE_STRIKE_AFFECTED_S">
+			<Text>Ядерный удар!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUKE_STRIKE_AFFECTED">
+			<Text>По нам нанесла удар {TXT_KEY_GRAMMAR_A_AN << {1_CIV}} ядерная ракета!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUKE_STRIKE_S">
+			<Text>Ядерный удар!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUKE_STRIKE_OWNED_TERRITORY">
+			<Text>Ядерная ракета, запущенная {1_CivName}, взорвалась на территории {2_CIV}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUKE_STRIKE_UNOWNED_TERRITORY">
+			<Text>Ядерная ракета, запущенная {1_CivName}, взорвалась в нейтральной территории!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ATOMIC_BOMB_INTERCEPTED_S">
+			<Text>Перехват атомной бомбы!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ATOMIC_BOMB_INTERCEPTED">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN << {1_CIV}} атомная бомба была перехвачена городом {2_City}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ATOMIC_BOMB_INTERCEPTED_US_S">
+			<Text>Атомная бомба перехвачена!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ATOMIC_BOMB_INTERCEPTED_US">
+			<Text>ПВО города {2_City} перехватило нашу атомную бомбу, уничтожив её!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUCLEAR_MISSILE_INTERCEPTED_S">
+			<Text>Частичный перехват ядерной ракеты!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUCLEAR_MISSILE_INTERCEPTED">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN << {1_CIV}} ядерная ракета была частично перехвачена городом {2_City}, что снизило нанесённый ущерб!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUCLEAR_MISSILE_INTERCEPTED_US_S">
+			<Text>Ядерная ракета частично перехвачена!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NUCLEAR_MISSILE_INTERCEPTED_US">
+			<Text>ПВО города {2_City} частично перехватило нашу ядерную ракету, снизив нанесённый ею ущерб!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_SUMMARY_GP_BONUS">
+			<Text>Ещё одна ночь, ещё одна сказка...</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_SCIENTIST">
+			<Text>Легенды и фольклор о странных существах и артефактах привлекают мудрых мыслителей в ваши земли. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_SCIENTIST] Великого учёного!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_WRITER">
+			<Text>Сказки Шахерезады вдохновили поколения ваших лучших авторов. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_WRITER] Великого писателя!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_ARTIST">
+			<Text>Художники со всего мира приехали в ваши земли, чтобы запечатлеть сцены из сказок Шахерезады. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_ARTIST] Великого художника!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_MUSICIAN">
+			<Text>Поэзия Шахерезады привела к музыкальному возрождению в вашей империи. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_MUSICIAN] Великого музыканта!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_MERCHANT">
+			<Text>Влиятельные и богатые люди стекаются к вашему двору, чтобы послушать сказки Шахерезады. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_MERCHANT] Великого торговца!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_ENGINEER">
+			<Text>Архитекторы и инженеры черпают вдохновение из легендарных героев сказок Шахерезады. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_ENGINEER] Великого инженера!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS_DIPLOMAT">
+			<Text>Придворные со всего мира умоляют о аудиенции с вами и Шахерезадой. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_DIPLOMAT] Великого дипломата!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOURISM_EVENT_GP_BONUS">
+			<Text>Сказки Шахерезады привлекают блестящие умы со всего мира в ваши земли. Ваша [ICON_CAPITAL] столица получает +1 [ICON_RESEARCH] науки и [ICON_CULTURE] культуры, и +{1_Num} к прогрессу [ICON_GREAT_PEOPLE] Великого человека!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CARNAVAL_WLTKD_S">
+			<Text>Карнавал начинается!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CARNAVAL_WLTKD">
+			<Text>Начался карнавал! Все города будут праздновать карнавал в течение {1_Num} ходов, в течение которых [ICON_HAPPINESS_3] недовольство от потребностей снижается на 50% в дополнение к обычному бонусу 25% к [ICON_FOOD] росту.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ADOPT_SUMMARY_GP_BONUS">
+			<Text>Очевидная судьба!</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ADOPT_GP_BONUS">
+			<Text>Ваш город получает +{1_Num} к прогрессу [ICON_GREAT_PEOPLE] Великого человека!</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ADOPT_GP_BONUS_MERCHANT">
+			<Text>Изданы новые управленческие политики, выгодные нашей экономике. Ваш город получает +{1_Num} к прогрессу [ICON_GREAT_MERCHANT] Великого торговца!</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ADOPT_GP_BONUS_ENGINEER">
+			<Text>Изданы новые управленческие политики, выгодные нашей промышленности. Ваш город получает +{1_Num} к прогрессу [ICON_GREAT_ENGINEER] Великого инженера!</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ADOPT_GP_BONUS_SCIENTIST">
+			<Text>Изданы новые управленческие политики, выгодные нашим исследованиям. Ваш город получает +{1_Num} к прогрессу [ICON_GREAT_SCIENTIST] Великого учёного!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UNIT">
+			<Text>{1_CityName:textkey} любит Короля!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UNIT">
+			<Text>Рождение {1_Unit:textkey} заставляет город {2_CityName:textkey} начать праздновать «День любви к Королю»!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CONQUEST_OF_WORLD_UNIT">
+			<Text>{1_CityName:textkey} нашёл военный юнит для службы!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CONQUEST_OF_WORLD_UNIT">
+			<Text>Кочевники из {2_CityName:textkey} сформировали отряд {1_Unit:textkey}, готовый служить нам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCIENCE_BOOST_CONQUEST_ASSYRIA">
+			<Text>Ваши солдаты нашли [ICON_RESEARCH] науку при завоевании {1_Name}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_PLAGUE_TRANSFER_S">
+			<Text>Ваш {1_Unit} распространяет чуму!</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_PLAGUE_TRANSFER">
+			<Text>Вирулентная чума распространилась от вашего {1_Unit} к их {2_Unit} во время боя!</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_PLAGUE_TRANSFER_THEM_S">
+			<Text>Чума распространяется на ваш {1_Unit}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_PLAGUE_TRANSFER_THEM">
+			<Text>Вирулентная чума распространилась на наш {1_Unit} от их {2_Unit} во время боя!</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

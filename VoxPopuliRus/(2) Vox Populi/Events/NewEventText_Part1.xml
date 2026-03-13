@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_NO_CHOICE">
+		<Text>Мне это не интересно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_NO_CHOICE_HELP">
+		<Text>Завершает событие без эффекта.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_DESCRIPTION">
+		<Text>Комета в небе!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_HELP">
+		<Text>Комета появилась на нашем ночном небе. Некоторые считают это чудом, другие — дурным предзнаменованием. Ваши советники не уверены и ждут вашего решения. Что это значит?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_1">
+		<Text>Это хорошее предзнаменование.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_1_HELP">
+		<Text>{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_2">
+		<Text>Наши боги благосклонны к нам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_2_HELP">
+		<Text>+1 [ICON_HAPPINESS_1] счастья во всех городах на {4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_3">
+		<Text>Наши жрецы проведут гадание, чтобы узнать, хороший ли это знак.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_3_HELP">
+		<Text>50% шанс получить {2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_CHOICE_3_SUCCESSFUL_S">
+		<Text>Гадание удалось!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_CHOICE_3_SUCCESSFUL">
+		<Text>Ваши жрецы считают, что гадание было успешным, и ваша [ICON_PEACE] вера значительно возросла.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_4">
+		<Text>Наши обсерватории смогут многому научиться благодаря этому.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_4_HELP">
+		<Text>+500 [ICON_RESEARCH] науки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_DESCRIPTION">
+		<Text>Падающие звёзды</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_HELP">
+		<Text>Прошлой ночью небо озарили яркие вспышки света — на нашу планету обрушился метеоритный дождь. Крупные метеориты упали по всему миру. Ваши чиновники собрали один такой образец и привезли его в столицу для изучения. Что с ним делать?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1">
+		<Text>Разбить его и отправить в кузницу.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1_HELP">
+		<Text>50% шанс получить 2 [ICON_RES_IRON] железа.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1_SUCCESSFUL_S">
+		<Text>[ICON_RES_IRON] Железо извлечено из метеорита!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1_SUCCESSFUL">
+		<Text>Ваши кузнецы смогли выколотить крупные куски железа из метеорита и могут выковать из этого материала прекрасные мечи и копья.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_2">
+		<Text>Дар с небес следует разделить и передать нашим жрецам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_2_HELP">
+		<Text>+1 [ICON_PEACE] веры во всех святилищах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_3">
+		<Text>Вырезать из него декоративные предметы для моего тронного зала.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_3_HELP">
+		<Text>+2 [ICON_CULTURE] культуры от дворца.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_4">
+		<Text>Передать его университетам для изучения.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_4_HELP">
+		<Text>+1 [ICON_RESEARCH] науки от всех университетов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_5">
+		<Text>Ему место в музее.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_5_HELP">
+		<Text>+1 [ICON_CULTURE] культуры от всех музеев.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_DESCRIPTION">
+		<Text>Затмение!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_HELP">
+		<Text>Наши люди были удивлены сегодняшним затмением. Что это значит для нашей империи?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1">
+		<Text>Не уверен, что это значит.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1_HELP">
+		<Text>Получить {1_YieldCost}. 25% шанс на этот эффект: {2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1_SUCCESSFUL_S">
+		<Text>Дурное предзнаменование!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1_SUCCESSFUL">
+		<Text>Это было дурное предзнаменование.{4_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_2">
+		<Text>Быстро, принесите жертву!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_2_HELP">
+		<Text>Потратить {1_YieldCost} в [ICON_CAPITAL] столице. Получить {2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_3">
+		<Text>Наука может это объяснить!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_3_HELP">
+		<Text>{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_4">
+		<Text>Быстро, сделайте снимок!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_4_HELP">
+		<Text>{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_DESCRIPTION">
+		<Text>Жара!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_HELP">
+		<Text>Каждое лето становится всё жарче, и наши озёра и реки высыхают. Скоро может наступить засуха. Что нам делать?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_1">
+		<Text>Субсидировать фермы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_1_HELP">
+		<Text>{1_YieldCost}. Вы уверены, что сможете избежать засухи.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_2">
+		<Text>Отложить резервные средства.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_2_HELP">
+		<Text>{1_YieldCost}. Вы надеетесь, что сможете избежать засухи.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_3">
+		<Text>Отправить деньги местным чиновникам.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_3_HELP">
+		<Text>{1_YieldCost}. Вы не уверены, что сможете избежать засухи.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_4">
+		<Text>Скрипя зубами терпеть. Ничего нельзя поделать.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_4_HELP">
+		<Text>Вы обеспокоены возможной засухой.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_DESCRIPTION">
+		<Text>Ледниковый период!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_HELP">
+		<Text>Внезапное падение средних температур может означать только одно: малый ледниковый период! Как нам подготовиться?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_1">
+		<Text>Людям следует оставаться дома, даже если это снизит торговлю.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_1_HELP">
+		<Text>-2 [ICON_GOLD] золота во всех городах на {4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_2">
+		<Text>Забрать топливо с наших производств и раздать бедным и нуждающимся.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_2_HELP">
+		<Text>-2 [ICON_PRODUCTION] производства во всех городах на {4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_3">
+		<Text>Поезда и паровые машины делают нас неуязвимыми к холоду.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_3_HELP">
+		<Text>Нет негативного эффекта.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_4">
+		<Text>Будем решать проблемы по мере их поступления.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_4_HELP">
+		<Text>Ожидайте, что холод вызовет проблемы в наших городах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_DESCRIPTION">
+		<Text>Революция!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_HELP">
+		<Text>К оружию! Мятежные граждане со всей империи подняли восстание, чтобы оспорить ваше правление! Что будете делать?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_1">
+		<Text>Пусть едят пирожные.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_1_HELP">
+		<Text>2 варвара появляются у всех принадлежащих вам городов. 5 ходов [ICON_RESISTANCE] сопротивления во всех городах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_2">
+		<Text>Использовать связи с городами-государствами, чтобы найти общий язык.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_2_HELP">
+		<Text>3 хода [ICON_RESISTANCE] сопротивления во всех городах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_3">
+		<Text>Мы все братья и сёстры прогресса, не так ли?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_3_HELP">
+		<Text>1 варвар появляется у каждого принадлежащего вам города, 2 хода [ICON_RESISTANCE] сопротивления во всех городах.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_4">
+		<Text>Найти лидера и подкупить его.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_4_HELP">
+		<Text>{1_YieldCost}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_DESCRIPTION">
+		<Text>Военный пыл!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_HELP">
+		<Text>Ваш народ требует войны! Наш боевой дух высок, и ваш военный советник хочет знать, как бы вы хотели направить эту энергию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_1">
+		<Text>Объединить боевой дух нашего народа.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_1_HELP">
+		<Text>Все подходящие юниты получают временную версию повышения [COLOR_POSITIVE_TEXT]Боевой дух[ENDCOLOR]. +5 [ICON_HAPPINESS_1] счастья на {4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_2">
+		<Text>Направить энергию в наши производства.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_2_HELP">
+		<Text>+{3_CityYield} во всех городах на {4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_3">
+		<Text>Новый мировой порядок начинается сейчас!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_3_HELP">
+		<Text>10 ходов (масштабируется со скоростью игры) [COLOR_POSITIVE_TEXT]Дня, когда мы любим короля[ENDCOLOR] во всех городах. Военные академии производят +5 [ICON_RESEARCH] науки на {4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_4">
+		<Text>За Родину!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_4_HELP">
+		<Text>Фабрики дают городам +10% [ICON_PRODUCTION] производства на {4_Turns}.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

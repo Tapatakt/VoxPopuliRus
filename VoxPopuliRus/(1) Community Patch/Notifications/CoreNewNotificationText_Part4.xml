@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+<Row Tag="TXT_KEY_NOTIFICATION_COUP_FAILED_S">
+			<Text>Переворот не удался!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_COUP_FAILED">
+			<Text>Ваш переворот потерпел неудачу — либо ваш шпион погиб, либо {@1_City} больше не является подходящей целью. Квест от {@2_Civname} был отозван.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_COUP_FAILED_B">
+			<Text>Переворот не удался!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_COUP_FAILED_B_S">
+			<Text>Ваш переворот потерпел неудачу — либо ваш шпион погиб, либо город больше не является подходящей целью. Квест от {@1_Civname} был отозван.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_SPY_ON_MAJOR">
+			<Text>Разведданные от {@1_Civ}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_SPY_ON_MAJOR">
+			<Text>Агенты в {@2_Civ} сообщают, что {@1_Civ} сейчас уязвим для шпионажа. Если вы выполните [COLOR_POSITIVE_TEXT]миссию шпиона[ENDCOLOR] против {@1_Civ}, вас щедро наградят.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_ON_MAJOR_COMPLETE">
+			<Text>Шпионская операция выполнена!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_SPY_ON_MAJOR_COMPLETE">
+			<Text>Агенты в {@2_Civ} гордятся вашими успешными действиями против {@1_Civ}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_BUILD_X_BUILDINGS">
+			<Text>Строительный проект от {@1_Civ}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_BUILD_X_BUILDINGS">
+			<Text>Строители из {3_Civ} хотят изучить [COLOR_POSITIVE_TEXT]{1_Building}[ENDCOLOR]. {3_Civ} обещает щедрую награду, если вы построите [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] таких зданий в невассальных городах вашей империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BUILD_X_BUILDINGS_COMPLETE">
+			<Text>Строительный проект завершён!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_BUILD_X_BUILDINGS_COMPLETE">
+			<Text>Строители из {@1_Civ} восхищены вашими масштабными строительными усилиями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_EXPLORE_AREA">
+			<Text>Картографический заказ</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_EXPLORE_AREA">
+			<Text>Картографы из {@1_Civ} просят вашей помощи в составлении карт. Исследуйте указанную область. Они отблагодарят вас.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_EXPLORE_AREA_COMPLETE">
+			<Text>Картографическая миссия завершена!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_EXPLORE_AREA_COMPLETE">
+			<Text>Картографы из {@1_Civ} благодарят вас за помощь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_PLOT_DISCOVERY_FAILED_S">
+			<Text>Картографическая миссия завершена досрочно</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_PLOT_DISCOVERY_FAILED">
+			<Text>Проект картографии от {1_Civ} прерван: ходят слухи, что другая цивилизация уже заняла эти неизведанные земли.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CITY_STATE_ATTACKED">
+			<Text>{1_CivName:textkey} атакован {3_TargetName:textkey} и нуждается в помощи. Получите [COLOR_POSITIVE_TEXT]полную[ENDCOLOR] награду квеста от {1_TargetName:textkey}, [COLOR_NEGATIVE_TEXT]уничтожив[ENDCOLOR] {3_CivName:textkey}, или [COLOR_POSITIVE_TEXT]частичную[ENDCOLOR] награду, став [COLOR_POSITIVE_TEXT]союзником[ENDCOLOR] обоих городов-государств. Международное давление принудит стороны к миру через [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] {2_Num: plural 1?ход; other?ходов;}, так что действуйте быстро!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CS_WAR">
+			<Text>Мир между {1_Civ} и {2_Civ}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CS_WAR">
+			<Text>Война между {1_Civ} и {2_Civ} окончена с заключением белого мира. Мир вздохнул с облегчением, зная, что конфликт не обострился.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CS_PEACE_MADE">
+			<Text>Война между {1_Civ} и {2_Civ} окончена благодаря вашим дипломатическим усилиям.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CS_OTHER_PEACE_MADE">
+			<Text>Война между {1_Civ} и {2_Civ} окончена благодаря дипломатическим действиям {3_Civ}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONSTRUCT_WONDER_TIME">
+			<Text>{@2_CivName} больше не желает {@1_WonderName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONSTRUCT_WONDER_TIME">
+			<Text>После долгого ожидания лидеры {2_MinorCivName:textkey} потеряли интерес к {@1_WonderName} и отменили ранее выданный квест.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_BONUS_HEADER_FINISH">
+			<Text>[COLOR_POSITIVE_TEXT]     Награда квеста:[ENDCOLOR][NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_BONUS_HEADER_START">
+			<Text>[COLOR_POSITIVE_TEXT]     Возможная награда квеста:[ENDCOLOR][NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_INFLUENCE">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_INFLUENCE] влияния</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_ADMIRAL">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_GREAT_ADMIRAL] очков Великого адмирала</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_GENERAL">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_GREAT_GENERAL] очков Великого генерала</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_CULTURE">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_CULTURE] культуры</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_EXPERIENCE">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] опыта для всех военных юнитов</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_JUGGERNAUTS">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] {1_Num: plural 1?юнит; 2?юнита; other?юнитов;} Джаггернаут</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_JUGGERNAUTS_XP">
+			<Text> ([COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] бонусного опыта)</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_FAITH">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_PEACE] веры</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_FOOD">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_FOOD] еды в [ICON_CAPITAL] столице</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_GAP">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_GOLDEN_AGE] очков Золотого века</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_GOLD">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_GOLD] золота</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_GPP">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_GREAT_PEOPLE] очков Великих людей в [ICON_CAPITAL] столице</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_GPP_GLOBAL">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_GREAT_PEOPLE] очков Великих людей во всех городах</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_HAPPINESS">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_HAPPINESS_1] счастья в [ICON_CAPITAL] столице</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_TOURISM">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_TOURISM] туризма со всеми известными цивилизациями</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_PRODUCTION">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_PRODUCTION] производства в [ICON_CAPITAL] столице</Text>
+		</Row>
+<Row Tag="TXT_KEY_CS_QUEST_SCIENCE">
+			<Text>[COLOR_POSITIVE_TEXT]      [ICON_BULLET] {1_Num}[ENDCOLOR] [ICON_RESEARCH] науки</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_HAS_COMPLETED_FIRST">
+			<Text>{1_PlyrName} первым завершил {@2_PrjctName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_WONDER_COMPLETED_UNKNOWN_FIRST">
+			<Text>{@1_PrjctName} впервые построен в далёкой земле!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_PROD_COST_MOD">
+			<Text>{2_ResourceName:textkey} теперь доступен в {1_CityName:textkey}! Снижена [ICON_PRODUCTION] стоимость производства:{3_Details}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_PROD_COST_MOD_LIST">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]{1_UnitCombat}[ENDCOLOR]: {2_CostModifier}%{3_EraInfo}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_PROD_COST_MOD_BUILDING">
+			<Text>Здания</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_PROD_COST_MOD_ERA_PREREQUISITE">
+			<Text>(Требуется: {1_RequiredEra})</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_PROD_COST_MOD_ERA_OBSOLETE">
+			<Text>(Устаревает: {1_ObsoleteEra})</Text>
+		</Row>
+<Row Tag="TXT_KEY_YOUR_ALLIES">
+			<Text>[NEWLINE][NEWLINE]Ваши вассалы и союзники: {1_Str}</Text>
+		</Row>
+<Row Tag="TXT_KEY_OTHER_PLAYER_ALLIES">
+			<Text>[NEWLINE][NEWLINE]Вассалы и союзники {1_Civ}: {2_Str}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_YOU_DECLARED_WAR_ON_DETAILED">
+			<Text>Вы объявили войну {1_TeamName}! Все союзники или вассалы любой из сторон также вступают в войну. {2_OurAllies} {3_TheirAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_YOU_DECLARED_WAR_ON_DEFENSIVE_PACT_DETAILED">
+			<Text>По оборонительному пакту {2_PlyrName} присоединился к {1_DefensivePactTeam} в войне против вас! Все союзники или вассалы любой из сторон также вступают в войну. {3_OurAllies} {4_TheirAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_YOU_DECLARED_WAR_ON_MINOR_DETAILED">
+			<Text>Вы объявили войну {1_TeamName}! Ваши союзники и вассалы также объявили войну. {2_OurAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_DECLARED_WAR_ON_YOU_DETAILED">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_PlyrName} объявил вам войну! Все союзники и вассалы любой из сторон также вступают в войну.[ENDCOLOR] {2_OurAllies} {3_TheirAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_DECLARED_WAR_ON_YOU_DEFENSIVE_PACT_DETAILED">
+			<Text>По оборонительному пакту вы присоединились к {1_DefensivePactTeam} в войне против {2_TeamName}! Все союзники и вассалы любой из сторон также вступают в войну.[ENDCOLOR] {3_OurAllies} {4_TheirAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_MINOR_DECLARED_WAR_ON_YOU_DETAILED">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_PlyrName} объявил вам войну! Ваши союзники и вассалы также воюют с {1_PlyrName}.[ENDCOLOR] {2_OurAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_DECLARED_WAR_DETAILED">
+			<Text>{1_PlyrName} объявил войну {2_PlyrName}! Все союзники и вассалы любой из сторон также вступают в войну. {3_FirstPlayerAllies} {4_SecondPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_DECLARED_WAR_DEFENSIVE_PACT_WITH_YOU_DETAILED">
+			<Text>По оборонительному пакту {2_PlyrName} присоединился к вам в войне против {1_PlyrName}! Все союзники и вассалы любой из сторон также вступают в войну. {3_FirstPlayerAllies} {4_SecondPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_DECLARED_WAR_DEFENSIVE_PACT_DETAILED">
+			<Text>По оборонительному пакту {3_PlyrName} присоединился к {1_DefensivePactTeam} в войне против {2_PlyrName}! Все союзники и вассалы любой из сторон также вступают в войну. {4_FirstPlayerAllies} {5_SecondPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_DECLARED_WAR_MINOR_DETAILED">
+			<Text>{1_PlyrName} объявил войну {2_PlyrName}! Союзники или вассалы {1_PlyrName} также воюют с {2_PlayerName}. {3_FirstPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOME_MINOR_DECLARED_WAR_DETAILED">
+			<Text>{1_PlyrName} объявил войну {2_PlyrName} и их союзникам и вассалам! {3_SecondPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_YOU_MADE_PEACE_WITH_DETAILED">
+			<Text>Вы заключили мир с {1_TeamName}! Все союзники и вассалы любой из сторон также заключили мир друг с другом. {2_OurAllies} {3_TheirAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_YOU_MADE_PEACE_WITH_MINOR_DETAILED">
+			<Text>Вы заключили мир с {1_TeamName}! Ваши союзники и вассалы также заключили мир. {2_OurAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_MADE_PEACE_DETAILED">
+			<Text>{1_PlyrName} заключил мир с {2_PlyrName}! Все союзники или вассалы любой из сторон также заключили мир друг с другом. {3_FirstPlayerAllies} {4_SecondPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_SOMEONE_MADE_PEACE_MINOR_DETAILED">
+			<Text>{1_PlyrName} заключил мир с {2_PlyrName}! Союзники или вассалы {1_PlyrName} также заключили мир. {3_FirstPlayerAllies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLUTION_CP_SUMMARY">
+			<Text>Революционные волнения</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLUTION_CP">
+			<Text>Поскольку в вашей империи не менее 20 [ICON_HAPPINESS_4] недовольства, город восстанет через [COLOR_NEGATIVE_TEXT]{1_Turns}[ENDCOLOR] {1_Turns: plural 1?ход; other?ходов;}. На основе текущего уровня недовольства наиболее вероятно восстание в городе {2_CityName}. Если город восстанет, он восстановит суверенитет {3_CivName}. Попытайтесь как можно скорее улучшить уровень счастья вашей империи!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLUTION_CP_FREE_CITY">
+			<Text>Поскольку в вашей империи не менее 20 [ICON_HAPPINESS_4] недовольства, город восстанет через [COLOR_NEGATIVE_TEXT]{1_Turns}[ENDCOLOR] {1_Turns: plural 1?ход; other?ходов;}. На основе текущего уровня недовольства наиболее вероятно восстание в городе {2_CityName}. Если город восстанет, он станет независимым городом-государством. Попытайтесь как можно скорее улучшить уровень счастья вашей империи!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT_UNKNOWN">
+			<Text>Город восстал и присоединился к {3_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT_FREE_CITY">
+			<Text>Город {2_CityName} ({1_CivAdjective}) восстал и объявил себя свободным городом-государством {3_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_IDEOLOGY">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} из-за идеологических разногласий!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_WARMONGER">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey}, сославшись на опасения по поводу теплокровности!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_MINORS">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} из-за конкуренции за влияние над городами-государствами!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_NUKED">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} за применение ядерного оружия!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_LAND">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey}, сославшись на пограничные споры!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_DOF">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} из уважения к мнению друзей!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_DOGPILE">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} из-за их плохой мировой репутации!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_UNTRUSTWORTHY">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} из-за разрыва во внешних отношениях!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_DIGGING">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} за археологическую кражу!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_FAITH">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} из-за религиозных различий!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_WONDERS">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey} в результате конкуренции за чудеса света!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_VICTORY">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey}, сославшись на борьбу за мировое господство!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_UNFORGIVEABLE">
+			<Text>{1_CivName:textkey} {1_CivName: plural 1?публично осудил; other?публично осудили;} {2_CivName:textkey}, заявив, что тот невыносим!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCTING_WONDER_ANY_CITY_S">
+			<Text>{1_PlayerName} строит {2_WonderOrProject}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCTING_WONDER_ANY_CITY">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} строит {4_WonderOrProject} в одном из своих городов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BOUGHT_VOTES_S">
+			<Text>{1_CivName} купил голоса у {2_CivName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BOUGHT_VOTES">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} купил голоса на предстоящей сессии мирового конгресса у {4_PlayerName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SOLD_VOTES_S">
+			<Text>{1_CivName} продал голоса {2_CivName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SOLD_VOTES">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} продал часть своих голосов на предстоящей сессии мирового конгресса {4_PlayerName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_WAR_S">
+			<Text>{1_CivName} подстрекает к войне против вас!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_WAR">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} подкупил {4_CivName}, чтобы начать войну с вами!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_WAR_OTHER_S">
+			<Text>{1_CivName} подстрекает к войне против {2_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_WAR_OTHER">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} подкупил {4_CivName}, чтобы начать войну с {5_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_WAR_OBSERVER">
+			<Text>{1_PlayerName} подкупил {2_CivName}, чтобы начать войну с {3_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_COOP_WAR_S">
+			<Text>{1_CivName} и {2_CivName} планируют войну против вас!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_COOP_WAR">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {3_PlayerName} и {4_CivName} готовятся начать войну с вами!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_THIRD_PARTY_BROKER_COOP_WAR_OTHER_S">
+			<Text>{1_CivName} и {2_CivName} планируют войну против {3_CivName}!</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

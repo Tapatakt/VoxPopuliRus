@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/30/2023 12:08:52 PM -->
+<GameData>
+
+    <Language_ru_RU>
+        <Row Tag="TXT_KEY_SQUADS">
+            <Text>Отряды</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TITLE">
+            <Text>Отряды для VP</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MANAGE_SQUAD">
+            <Text>Управление отрядом</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVE_SQUAD">
+            <Text>Переместить отряд</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_RESET_SQUAD">
+            <Text>Сбросить отряд</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_NAME">
+            <Text>Название отряда</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTIONS">
+            <Text>Настройки</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_HIGHLIGHT">
+            <Text>Выделять юниты отряда</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_FLAGS_NUMBER">
+            <Text>Отображать номер отряда на значках юнитов</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_ESCORT">
+            <Text>Сопровождать небоевые юниты</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_ESCORT_TT">
+            <Text>При перемещении отряда боевые юниты, начинающие ход на одной клетке с небоевыми, будут сопровождать их, связывая их перемещение до достижения пункта назначения или отдачи другого приказа на перемещение.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE">
+            <Text>Поведение при завершении перемещения:</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE_ALERT_ON_ARRIVAL">
+            <Text>Бдительность по прибытии</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE_WAKE_ON_UNIT_ARRIVAL">
+            <Text>Пробуждение при прибытии каждого юнита</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE_WAKE_ON_SQUAD_ARRIVAL">
+            <Text>Пробуждение при прибытии отряда</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TT_MANAGE_SQUAD">
+            <Text>Войти в режим управления, в котором юниты могут быть добавлены или удалены с помощью [COLOR_YELLOW]ЛКМ[ENDCOLOR] на юните или его значке. Группы юнитов можно добавлять в отряд сразу, удерживая [COLOR_YELLOW]ПКМ[ENDCOLOR] и выделяя рамкой юниты для добавления. Режим управления также можно активировать комбинацией клавиш [COLOR_YELLOW]CTRL+NUM[ENDCOLOR], где num — клавиша номера отряда.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TT_MOVE_SQUAD">
+            <Text>Войти в режим перемещения, в котором [COLOR_YELLOW]ПКМ[ENDCOLOR] по клетке отдаст приказ на перемещение всем юнитам этого отряда в эту область. Режим перемещения также можно активировать двойным нажатием клавиши с цифрой, соответствующей отряду.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TT_RESET_SQUAD">
+            <Text>Удалить всех юнитов из этого отряда. Юниты могут быть удалены из отряда по отдельности с помощью [COLOR_YELLOW]ПКМ[ENDCOLOR] в списке юнитов.</Text>
+        </Row>
+    </Language_ru_RU>
+  
+</GameData>

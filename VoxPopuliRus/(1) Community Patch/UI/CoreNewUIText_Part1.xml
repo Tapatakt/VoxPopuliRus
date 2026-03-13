@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_FORCE_MP_SAVE">
+			<Text>Принудительное сохранение в середине хода (Не рекомендуется - может повредить сохранение!)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FORCE_MP_SAVE_TOOLTIP">
+			<Text>ОПАСНОСТЬ! Эмуляция ванильной версии, где сохранение текущего состояния хода могло быть выполнено в середине хода путём эксплуатации ошибки в проверке перезаписи файла. Обычно сохранение было просто переименованной копией последнего автосохранения. При включении этой опции состояние в середине хода может быть сохранено, НО Firaxis явно пыталась предотвратить это, предположительно из-за возможных проблем. Эта опция НИ В КОЕМ СЛУЧАЕ не рекомендуется и используется на ваш страх и риск.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_COMPLETES_PROJECT_FIRST">
+			<Text>{1_PlyrName} первым завершает {@2_PrjctName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_UNITS_UNLOCKED">
+			<Text>Открытые юниты:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_BUILDINGS_UNLOCKED">
+			<Text>Открытые здания:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_WONDERS_UNLOCKED">
+			<Text>Открытые чудеса:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_PROJECTS_UNLOCKED">
+			<Text>Открытые проекты:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_PROCESSES_UNLOCKED">
+			<Text>Открытые процессы:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_CORPS_UNLOCKED">
+			<Text>Открытые корпорации:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_RESOURCES_UNLOCKED">
+			<Text>Открытые ресурсы:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_BUILDS_UNLOCKED">
+			<Text>Открытые улучшения:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_ACTIONS_UNLOCKED">
+			<Text>Уникальные действия:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_YIELDS_UNLOCKED">
+			<Text>Изменения доходов:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_SPECIALIST_YIELDS_UNLOCKED">
+			<Text>Изменения специалистов:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_NUMBER_CHANGE">
+			<Text>{1: number "'+'##.##;'-'##.##"}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_YIELD_CHANGE">
+			<Text>{1: number "'+'##.##;'-'##.##"} {2_YieldIcon}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_BUILD_REDUCTION">
+			<Text>{1_Build}: {2_Turns} {2_Turns: plural 1?ход; other?ходов;} требуется</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_CHOP_BOOST">
+			<Text>Вырубка лесов/джунглей: {2_Sign}{1_Num} [ICON_PRODUCTION] производства</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_BUILD_COST_REDUCTION">
+			<Text>{1: number "'+'##.##;'-'##.##"}% ходов на {2_Build}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_FASTER_ROUTE_MOVEMENT">
+			<Text>{1: number "'+'##.##;'-'##.##"} стоимость передвижения при движении по {2_Route:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_FASTER_EMBARKED_MOVEMENT">
+			<Text>{2_Sign}{1_Num} передвижения на кораблях</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_FORTIFICATION_MODIFIER">
+			<Text>{2_Sign}{1_Num}% боевой силы от укрепления юнита</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_HEAL_MODIFIER">
+			<Text>{2_Sign}{1_Num}% базового количества восстановления ОЗ при лечении</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_HAPPINESS_GLOBAL">
+			<Text>{2_Sign}{1_Num} [ICON_HAPPINESS_1] счастья во всех городах</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_EXTRA_TRADE_ROUTES">
+			<Text>{2_Sign}{1_Num} [ICON_INTERNATIONAL_TRADE] торговых {1: plural 1?пути; other?путей;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_LAND_TRADE_ROUTE_EXTENSION">
+			<Text>{2_Sign}{1_Num} дальность для [ICON_CARAVAN] сухопутных торговых путей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_SEA_TRADE_ROUTE_EXTENSION">
+			<Text>{2_Sign}{1_Num} дальность для [ICON_CARGO_SHIP] морских торговых путей</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_TOURISM_MODIFIER">
+			<Text>{2_Sign}{1_Num} [ICON_TOURISM] туризма во всех городах</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_BUILDING_BOOST">
+			<Text>{1_Building:textkey}: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_SPECIALIST_BOOST">
+			<Text>{1_Specialist:textkey}: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_TERRAIN_BOOST">
+			<Text>{1_Terrain:textkey}: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_FEATURE_BOOST">
+			<Text>{1_Feature:textkey}: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_IMPROVEMENT_BOOST">
+			<Text>{1_Improvement:textkey}: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_IMPROVEMENT_BOOST_FRESH_WATER">
+			<Text>{1_Improvement:textkey} с пресной водой: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_IMPROVEMENT_BOOST_NO_FRESH_WATER">
+			<Text>{1_Improvement:textkey} без пресной воды: {2_YieldBoosts}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_DELEGATES_FROM_DIPLOMATS">
+			<Text>{2_Sign}{1_Num} [ICON_DIPLOMAT] {1: plural 1?делегат; other?делегатов;} во Всемирном конгрессе за каждого [ICON_DIPLOMAT] дипломата в иностранных [ICON_CAPITAL] столицах</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_TECH_BOOST_CHOP">
+			<Text>+{1_Num}% [ICON_PRODUCTION] производства от вырубки лесов/джунглей (+25 [ICON_PRODUCTION])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_ENABLES_CORPORATIONS">
+			<Text>Позволяет основывать корпорации</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_REDUCED_EMBARK_COST">
+			<Text>Посадка на берег/высадка с берега в дружественных городах или каналах расходует только 1 очко передвижения</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_NO_EMBARK_COST">
+			<Text>Посадка на берег/высадка с берега в дружественных городах или каналах расходует только 0.1 очка передвижения</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_MAP_TRADING">
+			<Text>Позволяет продавать карты мира другим цивилизациям</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_TECH_TRADING">
+			<Text>Позволяет продавать технологии другим цивилизациям</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_VASSALAGE">
+			<Text>Позволяет делать соперничающие цивилизации вашими вассалами</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_CITY_RANGE_INCREASE">
+			<Text>+1 к дальности атаки города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_CITY_INDIRECT_INCREASE">
+			<Text>+1 к дальности непрямой атаки города</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TOURISM_THEME_BONUS">
+			<Text>[COLOR_POSITIVE_TEXT]Активный бонус темы:[ENDCOLOR] +{1_Num} {2_YieldIcon} {3_YieldName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TOURISM_THEME_BONUS_NEEDED">
+			<Text>[COLOR_POSITIVE_TEXT]Если вы соответствуете требованиям темы этого здания, получите:[ENDCOLOR] +{1_Num} {2_YieldIcon} {3_YieldName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHOOSER_ADVISOR_RECOMMENDATION">
+			<Text>[COLOR_POSITIVE_TEXT]Ваш советник рекомендует это убеждение.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_DESTROY_CAPTURED_CITY">
+			<Text>Уничтожить город!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_CITY_CAPTURE_INFO_DESTROY">
+			<Text>Город немедленно уничтожается. В режиме испытания с одним городом ИГРОКИ-ЛЮДИ не могут сохранять захваченные города.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_HEADER">
+			<Text>Последствия от [COLOR_NEGATIVE_TEXT]захвата[ENDCOLOR] этого города:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_CARE_1000">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет крайне возмущён.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_CARE_800">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет сильно возмущён.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_CARE_600">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет довольно возмущён.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_CARE_400">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет слегка возмущён.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_CARE_200">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет немного возмущён.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_CARE_NIL">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] едва заметит.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_HEADER">
+			<Text>Бонусы от [COLOR_POSITIVE_TEXT]освобождения[ENDCOLOR] этого города:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_CARE_1000">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет крайне благодарен.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_CARE_800">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет очень благодарен.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_CARE_600">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет довольно благодарен.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_CARE_400">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет слегка благодарен.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_CARE_200">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] будет немного благодарен.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATOR_PREVIEW_CARE_NIL">
+			<Text>[ICON_BULLET]  [COLOR_POSITIVE_TEXT]{1_LeaderName}[ENDCOLOR] едва заметит.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_OPEN_BORDERS_MOD">
+			<Text>Открытые границы [ICON_GOLD] бонус к золоту: +{1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_DOMAIN_LAND_MODIFIER">
+			<Text>Сухопутный путь: {1_Num}x</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_PER_TURN_POSITIVE">
+			<Text>+{1_Num} [ICON_GOLD] золота в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_PER_TURN_NEGATIVE">
+			<Text>[COLOR_NEGATIVE]{1_Num}[ENDCOLOR] [ICON_GOLD] золота теряется в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_PER_TURN">
+			<Text>+{1_Num} [ICON_CULTURE] культуры в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_PER_TURN">
+			<Text>+{1_Num} [ICON_RESEARCH] науки в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_TOURISM_PER_TURN">
+			<Text>+{1_Num} [ICON_TOURISM] в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_POINTS_PER_TURN">
+			<Text>+{1_Num} [ICON_GOLDEN_AGE] очков Золотого века в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_TURNS_UNTIL_GOLDEN_AGE">
+			<Text>До следующего Золотого века: {1_Num} {1_Num: plural 1?ход; other?ходов;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_FAITH_PER_TURN">
+			<Text>+{1_Num} [ICON_PEACE] веры в ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INSTANT_YIELD_THIS_TURN">
+			<Text>[NEWLINE]        [ICON_BULLET] Этот ход: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INSTANT_YIELD_AVERAGE_CITIES">
+			<Text>[NEWLINE]        [ICON_BULLET] В среднем: +{1_Num} в ход на город</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INSTANT_YIELD_TOTAL">
+			<Text>[ICON_BULLET] {2_YieldIcon} {3_YieldColorString}{1_YieldType}[ENDCOLOR]: {4_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INSTANT_YIELD_PER_PLAYER_TOURISM">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT][ICON_TOURISM] Мгновенный туризм на игрока:[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INSTANT_YIELD_PER_PLAYER_TOURISM_NAME">
+			<Text>[NEWLINE] [ICON_BULLET] {1_Civ}: {2_Val} [ICON_TOURISM] туризма (+{3_Avg} в ход)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_PER_TURN_HEADER">
+			<Text>[COLOR_POSITIVE_TEXT]Мгновенные доходы, полученные в этот ход и за предыдущие {1_Num} {1_Num: plural 1?ход; other?ходов;}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_PER_TURN_HEADER_EMPTY">
+			<Text>Мгновенные доходы получаются многими способами, включая социальные институты, убеждения и здания. Здесь будет указана сумма мгновенных доходов, полученных в этот ход и за последние 10 ходов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_TOURISM_YIELD_TT">
+			<Text>{1_Num} [ICON_TOURISM] туризма</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_GOLDEN_AGE_POINTS_YIELD_TT">
+			<Text>{1_Num} [ICON_GOLDEN_AGE] очков Золотого века</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BASE_COST_LABEL">
+			<Text>Базовая стоимость:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEPROJ_LABEL">
+			<Text>Уникальные проекты:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INVESTED">
+			<Text>[COLOR_POSITIVE_TEXT] (ИНВЕСТИРОВАНО)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_COST_PREFIX">
+			<Text>Стоимость: {1_CostStr}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_COST_PRODUCTION">
+			<Text>{1_Num} [ICON_PRODUCTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_COST_GOLD">
+			<Text>{1_Num} [ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_COST_FAITH">
+			<Text>{1_Num} [ICON_PEACE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_YIELD_BOOST">
+			<Text>{1: number "'+'##.##;'-'##.##"} {2_YieldIcon}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_YIELD_MODIFIER">
+			<Text>{1: number "'+'##;'-'##"}% {2_YieldIcon}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_YIELD_BOOST_FRACTION">
+			<Text>{1: number "'+'##;'-'##"}/{2_Denominator} {3_YieldIcon}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_PUPPET_INVESTABLE">
+			<Text>Можно инвестировать в [ICON_PUPPET] марионеточном городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_PUPPET_PURCHASABLE">
+			<Text>Можно купить в [ICON_PUPPET] марионеточном городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_REQUIRED_BUILDINGS">
+			<Text>Требуемые здания: [COLOR_YIELD_FOOD]{1_Buildings}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_REQUIRED_POLICY">
+			<Text>Требуется социальный институт: [COLOR_MAGENTA]{1_Policy:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_REQUIRED_POLICY_BRANCH">
+			<Text>Требуется любой институт ветви [COLOR_MAGENTA]{1_PolicyBranch:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_REQUIRED_POLICY_BRANCH_OPENER">
+			<Text>Требуется открытие ветви [COLOR_MAGENTA]{1_PolicyBranch:textkey}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_REQUIRED_POLICY_BRANCH_COMPLETION">
+			<Text>Требуется завершение ветви [COLOR_MAGENTA]{1_PolicyBranch:textkey}[ENDCOLOR]</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

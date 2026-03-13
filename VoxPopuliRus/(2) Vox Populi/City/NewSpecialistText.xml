@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT">
+			<Text>Государственный служащий|Государственные служащие</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT_STRATEGY">
+			<Text>Государственные служащие производят 1 [ICON_RESEARCH] науки, 1 [ICON_CULTURE] культуры и 2 [ICON_GOLD] золота, а также ускоряют появление великих дипломатов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT_SLOTS">
+			<Text>Государственные служащие:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT_TITLE">
+			<Text>Очки великого дипломата:</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

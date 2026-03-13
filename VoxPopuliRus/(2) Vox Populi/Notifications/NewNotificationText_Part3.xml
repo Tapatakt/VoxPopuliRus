@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_CORPORATION_BUILDING_FOREIGN">
+		<Text>{@2_BldgName}, иностранная корпорация, распространилась в город {@1_City} в результате торгового пути с {@3_City}. Это увеличит стоимость их корпорации!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_CORPORATION_BUILDING_FREEDOM_SUMMARY">
+		<Text>{@1_BldgName} распространяется в {@2_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_CORPORATION_BUILDING_FREEDOM">
+		<Text>{@2_BldgName} распространилась в город {@1_City}! Это увеличит стоимость всех ваших корпоративных офисов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_CORPORATION_BUILDING_FOREIGN_FREEDOM_SUMMARY">
+		<Text>{@1_BldgName} распространяется в {@2_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_CORPORATION_BUILDING_FOREIGN_FREEDOM">
+		<Text>{@2_BldgName}, иностранная корпорация, распространилась в город {@1_City}! Это увеличит стоимость их корпорации!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CORPORATION_DESTROYED_SUMMARY">
+		<Text>{@1_BldgName} закрывает все офисы и франшизы!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CORPORATION_DESTROYED">
+		<Text>{@1_BldgName} закрыла все глобальные офисы и франшизы в результате преждевременного уничтожения их штаб-квартиры.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CORPORATION_BUILDINGS_REMOVED_CITY_S">
+		<Text>{@1_BldgName} удалена из {2_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CORPORATION_BUILDINGS_REMOVED_CITY">
+		<Text>{@1_BldgName} была принудительно закрыта цивилизацией {3_Civ} в городе {2_City} из-за доктрины или резолюции!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_HAS_ENDED_T">
+		<Text>Событие завершилось.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_HAS_ENDED">
+		<Text>Эффекты события закончились:[NEWLINE]{1_Event}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_HAS_ENDED_CITY_T">
+		<Text>Событие в городе {1_City} завершилось.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_HAS_ENDED_CITY">
+		<Text>Эффекты события в городе {2_City} закончились:[NEWLINE]{1_Event}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ESPIONAGE_EVENT_HAS_ENDED_CITY_T">
+		<Text>Эффект шпионажа в городе {1_City} завершился.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ESPIONAGE_EVENT_HAS_ENDED_CITY">
+		<Text>Эффекты миссии шпиона в городе {2_City} закончились:[NEWLINE]{1_Event}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_FAILED_T">
+		<Text>«{1_Event}» не произошло.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_FAILED">
+		<Text>«{3_Event}» не произошло. Ваш выбор:[NEWLINE][NEWLINE]{1_EventChoice} ({2_EventChoiceHelp})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_FAILED_CITY_T">
+		<Text>{2_City}: «{1_Event}» не произошло.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_FAILED_CITY">
+		<Text>{4_City}: «{3_Event}» не произошло. Ваш выбор:[NEWLINE][NEWLINE]{1_EventChoice} ({2_EventChoiceHelp})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_YIELD_SIPHON_PAST">
+		<Text>[COLOR_POSITIVE_TEXT]Количество украдено:[ENDCOLOR] {1_Yield} за ход в течение {2_Turns}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_YIELD_SIPHON_PAST_ENEMY">
+		<Text>[COLOR_NEGATIVE_TEXT]Количество украдено:[ENDCOLOR] {1_Yield} за ход в течение {2_Turns}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SIPHON_EVENT_ENDED_T">
+		<Text>Эффект шпионажа завершился.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SIPHON_EVENT_ENDED">
+		<Text>Эффекты миссии шпиона против {2_Civ} закончились: кража {1_MissionResult} за ход</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SIPHON_EVENT_ENDED_ENEMY_T">
+		<Text>Иностранный эффект шпионажа завершился.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SIPHON_EVENT_ENDED_ENEMY">
+		<Text>Эффекты иностранной миссии шпиона против вас закончились: кража {1_MissionResult} за ход</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SUCCESS_S">
+		<Text>{1_SpyRank} {2_SpyName} успешно завершил миссию в городе {3_CityName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SUCCESS">
+		<Text>{1_SpyRank} {2_SpyName} в городе {3_CityName} завершил свою миссию: {4_MissionResult}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_SUCCEEDED_ESPIONAGE_T_ESPIONAGE">
+		<Text>Шпионы ({2_CivAdj}) успешно завершили миссию в городе {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_SUCCEEDED_ESPIONAGE">
+		<Text>Шпионы ({2_CivAdj}) провели [COLOR_NEGATIVE_TEXT]миссию шпиона[ENDCOLOR] в городе {1_City}. {3_MissionResult}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_SUCCEEDED_T_ESPIONAGE_UNKNOWN">
+		<Text>Неизвестные иностранные шпионы успешно завершили миссию в городе {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_EVENT_SUCCEEDED_ESPIONAGE_UNKNOWN">
+		<Text>Неизвестные иностранные шпионы провели [COLOR_NEGATIVE_TEXT]миссию шпиона[ENDCOLOR] в городе {1_City}: {2_MissionResult}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_IDENTIFIED_AND_KILLED_S">
+		<Text>{1_SpyRank} {2_SpyName} обнаружен и уничтожен!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_IDENTIFIED_AND_KILLED">
+		<Text>{1_SpyRank} {2_SpyName} был [COLOR_NEGATIVE_TEXT]обнаружен и уничтожен[ENDCOLOR] во время выполнения своей миссии! Дипломатические отношения с {3_CivName} ухудшились. Потребуется некоторое время, пока замена будет завербована для {1_SpyRank} {2_SpyName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_VP">
+		<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN << {1_CivAdj}} шпион был уничтожен в городе {2_CityName} после завершения [COLOR_NEGATIVE_TEXT]миссии шпиона[ENDCOLOR]: {3_MissionText}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_VP_S">
+		<Text>Уничтожен {TXT_KEY_GRAMMAR_A_AN << {1_CivAdj}} шпион!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_NOT_IDENTIFIED">
+		<Text>Неопознанный иностранный шпион был уничтожен в городе {1_CityName} после завершения [COLOR_NEGATIVE_TEXT]миссии шпиона[ENDCOLOR]: {2_MissionText}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_NOT_IDENTIFIED_S">
+		<Text>Уничтожен иностранный шпион!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_IDENTIFIED_S">
+		<Text>{1_SpyRank} {2_SpyName} обнаружен!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_IDENTIFIED">
+		<Text>{1_SpyRank} {2_SpyName} был [COLOR_NEGATIVE_TEXT]обнаружен[ENDCOLOR] во время выполнения своей миссии! Дипломатические отношения с {3_CivName} ухудшились. {1_SpyRank} {2_SpyName} может остаться в городе и собирать разведданные для другой миссии.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_NOT_DETECTED_S">
+		<Text>{1_SpyRank} {2_SpyName} не обнаружен!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_NOT_DETECTED">
+		<Text>{1_SpyRank} {2_SpyName} завершил свою миссию и [COLOR_POSITIVE_TEXT]не был обнаружен[ENDCOLOR]. Он может остаться в городе и собирать разведданные для другой миссии.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NO_TOURISM_EVENT_ENDED_S">
+		<Text>{1_City} снова генерирует туризм</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NO_TOURISM_EVENT_ENDED">
+		<Text>Восстание в городе {1_City}, вызванное иностранными шпионами, закончилось. Город снова генерирует туризм.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GPP_EVENT_ENDED_S">
+		<Text>Эффект шпионажа завершился</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GPP_EVENT_ENDED">
+		<Text>Эффекты миссии шпиона закончились: специалисты в вашей столице производят +1 [ICON_GREAT_PEOPLE] очков великих людей за ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COUNTERSPY_DETECTED_S">
+		<Text>Контрразведчик в городе {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COUNTERSPY_DETECTED">
+		<Text>По прибытии в город {1_City}, {2_SpyRank} {3_SpyName} обнаружил наличие вражеского [ICON_SPY] контрразведчика! Следующие эффекты активны:[NEWLINE][NEWLINE]{4_MissionEffect}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COUNTERSPY_STARTED_S">
+		<Text>Контрразведчик в городе {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COUNTERSPY_STARTED">
+		<Text>[ICON_SPY] Контрразведчик начал операцию в городе {1_City}. Следующие эффекты теперь активны:[NEWLINE][NEWLINE]{2_MissionEffect}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COUNTERSPY_ENDED_S">
+		<Text>Миссия контрразведчика в городе {1_City} завершилась!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_COUNTERSPY_ENDED">
+		<Text>Поскольку [ICON_SPY] контрразведчик покинул город {1_City} или сменил фокус, следующие эффекты больше не активны:[NEWLINE][NEWLINE]{2_MissionEffect}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEW_MISSIONS_AVAILABLE_S">
+		<Text>Доступны новые миссии шпионов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEW_MISSIONS_AVAILABLE">
+		<Text>{1_SpyRank} {2_SpyName} собрал достаточно очков сети в городе {3_City} для проведения следующих {4_Num: plural 1?миссии шпиона; other?миссий шпионов;}, если выполнены остальные условия миссии:[NEWLINE]{5_Missions}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_CREATED_VASSAL_DIPLOMAT">
+		<Text>Дипломат был завербован!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_CREATED_VASSAL_DIPLOMAT">
+		<Text>{1_SpyName} был завербован для службы дипломатом в столице вашего нового вассала {2_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEW_PASSIVE_BONUS_S">
+		<Text>Разблокирован новый пассивный бонус шпиона</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEW_PASSIVE_BONUS">
+		<Text>{1_SpyRank} {2_SpyName} собрал достаточно очков сети в городе {3_City} для разблокировки следующих пассивных бонусов:[NEWLINE][NEWLINE] {4_Missions}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEW_PASSIVE_BONUS_DIPLOMAT_S">
+		<Text>Разблокирован новый бонус дипломата</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEW_PASSIVE_BONUS_DIPLOMAT">
+		<Text>Дипломат {2_SpyName} собрал достаточно очков сети в городе {3_City} для разблокировки следующих бонусов:[NEWLINE][NEWLINE] {4_Missions}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION">
+		<Text>{1_Cost}{2_Yield}{3_City}{4_Turns}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION_CITY_HEADER">
+		<Text>{1_Cost}{2_Yield}{3_City}{4_GPP}{5_Turns}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION_SPENT">
+		<Text>[NEWLINE]Потрачено: {3_Value} {2_Icon} {1_Yield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION_INSTANT">
+		<Text>[NEWLINE]Мгновенная доходность: {3_Value} {2_Icon} {1_Yield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION_CITY">
+		<Text>[NEWLINE]{3_Value} {2_Icon} {1_Yield} за ход в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION_GPP">
+		<Text>[NEWLINE]{2_Yield} очков великого {1_Name} в городе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_SCALED_NOTIFICATION_TURNS">
+		<Text>[NEWLINE]Длится: {1_Turns} ходов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YIELD_DURATION">
+		<Text>{1_Num} ходов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA">
+		<Text>Рождение ресурса {1_Resource:textkey} заставляет город {2_CityName:textkey} вступить в «День любви к Императрице». Все города получают +1 [ICON_FOOD] пищи и +1 [ICON_GOLD] золота.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA">
+		<Text>{1_CityName:textkey} любит Императрицу!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_GWAM_BONUS_CONQUEST">
+		<Text>В результате завоевания города {4_CityName} ваша [ICON_CAPITAL] столица получает:[NEWLINE][ICON_BULLET]{1_Num} [ICON_GREAT_WRITER] очков великого писателя[NEWLINE][ICON_BULLET]{2_Num} [ICON_GREAT_ARTIST] очков художника[NEWLINE][ICON_BULLET]{3_Num} [ICON_GREAT_MUSICIAN] очков музыканта</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOURISM_EVENT_GWAM_BONUS_CONQUEST_S">
+		<Text>Вдохновлённая победа</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_PLUNDERED">
+		<Text>Наполеон украл {1_Num} [ICON_GREAT_WORK] {1_Num: plural 1?великое произведение; other?великих произведений;} из городов около {2_City} когда завоевал его!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_PLUNDERED_SUMMARY">
+		<Text>Искусство украдено!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_STOLEN">
+		<Text>Вы разграбили {1_Num} [ICON_GREAT_WORK] {1_Num: plural 1?великое произведение; other?великих произведений;} из городов около {2_City} после того как завоевали его!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_STOLEN_SUMMARY">
+		<Text>Искусство разграблено!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_BOOST_ART">
+		<Text>Завоевание города {2_City} увеличило общую [ICON_CULTURE] культурную добычу вашей империи на {3_Num}% на следующие {1_Num} {1_Num: plural 1?ход; other?ходов;}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_BOOST_ART_SUMMARY">
+		<Text>Культурный буст!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BOOST_ART">
+		<Text>Завоевание города {2_City} увеличило [ICON_PRODUCTION] производственный выход всех городов на {3_Num}% на следующие {1_Num} {1_Num: plural 1?ход; other?ходов;}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BOOST_ART_SUMMARY">
+		<Text>Производственный буст!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_KNOWN_CS_BULLY_ANNEXED_KNOWN">
+		<Text>{1_Bully} принудил {2_CS} к капитуляции запугиванием!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_KNOWN_CS_BULLY_ANNEXED_KNOWN_SUMMARY">
+		<Text>{1_CS} капитулировал!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_UNKNOWN_CS_BULLY_ANNEXED_KNOWN">
+		<Text>{1_Bully} принудил неизвестное городское государство к капитуляции запугиванием!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_UNKNOWN_CS_BULLY_ANNEXED_KNOWN_SUMMARY">
+		<Text>{1_Bully} принудил городское государство к капитуляции!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_KNOWN_CS_BULLY_ANNEXED_UNKNOWN">
+		<Text>Неизвестный игрок принудил {1_CS} к капитуляции запугиванием!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_KNOWN_CS_BULLY_ANNEXED_UNKNOWN_SUMMARY">
+		<Text>{1_CS} капитулировал!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_ANNEXED_CS">
+		<Text>Вы принудили {1_CS} к капитуляции запугиванием!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BALANCE_ANNEXED_CS_SUMMARY">
+		<Text>Вы запугали {1_CS}!</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

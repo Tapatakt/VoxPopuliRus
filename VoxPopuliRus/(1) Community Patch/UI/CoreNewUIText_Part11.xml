@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_DIPLO_DEAL_VALUE_STR_ACCEPTABLE">
+			<Text>Стоимость сделки для них: Приемлемо</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEAL_VALUE_STR_IMPOSSIBLE">
+			<Text>Стоимость сделки для них: Невозможно!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEAL_VALUE_STR_TT">
+			<Text>Текущая оценка сделки лидером. Если значение здесь отрицательное или "Невозможно!", лидер отказывается торговать одним или несколькими предметами в сделке.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEAL_VALUE_STR_EMBARGO">
+			<Text>ПОД САНКЦИЯМИ ВСЕМИРНОГО КОНГРЕССА</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEAL_VALUE_STR_EMBARGO_TT">
+			<Text>Вы не можете заключать сделки в мирное время с этой цивилизацией, пока санкции не будут сняты.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_DEAL_VALUE_STR">
+			<Text>Стоимость мирной сделки: {1_Num}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_DEAL_VALUE_STR_IMPOSSIBLE">
+			<Text>Стоимость мирной сделки: Невозможно!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_DEAL_VALUE_STR_TT">
+			<Text>Текущая оценка мирной сделки лидером. Если значение здесь "Невозможно!", лидер отказывается торговать одним или несколькими предметами в мирной сделке.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_MAX_STR">
+			<Text>Макс. стоимость: {1_Num}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_MAX_STR_TT">
+			<Text>Максимальная стоимость предметов в мирной сделке. Если значение слева превысит это число, лидер откажется от сделки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_MIN_STR">
+			<Text>Мин. стоимость: {1_Num}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PEACE_MIN_STR_TT">
+			<Text>Минимальная стоимость предметов в мирной сделке. Если это число превысит значение слева, лидер откажется от сделки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_CLEAR_WINNER_TT">
+			<Text>Нельзя добавлять к стороне, не капитулирующей в мирной сделке.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_AGREEMENT_INSUFFICIENT_FUNDS">
+			<Text>По крайней мере один игрок не имеет необходимых средств для этого соглашения.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NOT_BANK_TT">
+			<Text>Нельзя торговать одноразовыми предметами (такими как Золото) на предметы, выдаваемые со временем (такие как Ресурсы).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_GOLD_ONLY_TRADE_TT">
+			<Text>Нельзя торговать Золотом на Золото за ход.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_AI_TEAMMATE_TRADE_TT">
+			<Text>Человек-союзник препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WARTIME_TRADE_TT">
+			<Text>Не разрешено в мирных сделках.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ALLOW_EMBASSY_NO_CAPITAL">
+			<Text>У нас нет Столицы для приёма их Посольства!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ALLOW_EMBASSY_NO_CAPITAL_THEM">
+			<Text>У них нет Столицы для приёма нашего Посольства!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ALLOW_EMBASSY_DENOUNCEMENT">
+			<Text>Посольства не могут быть установлены, если одна из цивилизаций осудила другую.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_INSUFFICIENT_MAJORS">
+			<Text>В настоящее время нет других живых не-вассальных цивилизаций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_DISABLED_BY_OPTIONS">
+			<Text>Пакты о ненападении отключены настройками этой игры.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_EXISTING_VASSALAGE">
+			<Text>Вассалы не могут заключать Пакты о ненападении.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CONTAINS_INVALID_VASSALAGE">
+			<Text>Недопустимо, если сделка содержит Вассалитет.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEFENSIVE_PACT_LIMIT_REACHED">
+			<Text>Вы не можете заключать Пакты о ненападении с более чем {1_Num} цивилизациями.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEFENSIVE_PACT_LIMIT_REACHED_THEM">
+			<Text>Они не могут заключать Пакты о ненападении с более чем {1_Num} цивилизациями.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_US_ALREADY_THEIR_VASSAL">
+			<Text>Вы уже их вассал!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_THEM_ALREADY_YOUR_VASSAL">
+			<Text>Они уже ваш вассал!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_YOU_ARE_VASSAL">
+			<Text>Вы вассал {1_PlayerName:textkey} и не можете иметь собственных вассалов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_THEY_ARE_VASSAL">
+			<Text>Они вассал {1_PlayerName:textkey} и не могут иметь собственных вассалов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_US_NOT_YET_ENABLED">
+			<Text>Мы должны достичь Средневековья, чтобы создавать вассалов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_THEM_NOT_YET_ENABLED">
+			<Text>Они должны достичь Средневековья, чтобы создавать вассалов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_US_ALREADY_A_VASSAL">
+			<Text>Вы уже вассал {1_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_THEM_ALREADY_A_VASSAL">
+			<Text>Они уже вассал {1_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_YOU_TOO_SOON">
+			<Text>Вы не можете стать их вассалом в течение {1_Num} {1_Num: plural 1?хода; other?ходов;} после окончания вашего вассалитета.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_THEM_TOO_SOON">
+			<Text>Они не могут стать вашим вассалом в течение {1_Num} {1_Num: plural 1?хода; other?ходов;} после окончания их вассалитета.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_YOU_NO_POPULATION">
+			<Text>Вы не можете стать их вассалом, потому что у вас нет городов или населения!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_THEM_NO_POPULATION">
+			<Text>Они не могут стать вашим вассалом, потому что у них нет городов или населения!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSALAGE_AND_INVALID_ITEM">
+			<Text>Недопустимо, если сделка содержит Пакт о ненападении или Освобождение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSALAGE_YOU_DECLARE_WAR_REQUIRED">
+			<Text>Они должны иметь возможность объявить войну всем, с кем вы воюете.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSALAGE_THEM_DECLARE_WAR_REQUIRED">
+			<Text>Вы должны иметь возможность объявить войну всем, с кем воюют они.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_REVOKE_US_NO_VASSALS">
+			<Text>У нас нет вассалов для освобождения!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_REVOKE_THEM_NO_VASSALS">
+			<Text>У них нет вассалов для освобождения!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_REVOKE_THEM_YOUR_MASTER">
+			<Text>Мы не можем просить нашего сюзерена освободить его вассалов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_REVOKE_US_THEIR_MASTER">
+			<Text>Они не могут просить своего сюзерена освободить вассалов!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_REVOKE_US_TOO_SOON">
+			<Text>Мы недавно подчинили себе вассала и не можем выполнить это действие ещё {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VASSAL_REVOKE_THEM_TOO_SOON">
+			<Text>Они недавно подчинили себе вассала и не могут выполнить это действие ещё {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WAR_NO_PEACE_THIRD_PARTY_TT">
+			<Text>В мирной сделке могут участвовать только союзные городские государства.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CANNOT_PEACE_VASSAL">
+			<Text>Вассалы не могут заключать мир.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BLOCKED_LOCKED_INTO_WAR">
+			<Text>Соглашение о войне с другим лидером препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BLOCKED_DIPLOMACY">
+			<Text>Лидер, имеющий Пакт о ненападении с целью, также имеет Декларацию дружбы или Пакт о ненападении с одним из нас.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BLOCKED_GAME_RULE">
+			<Text>Особое правило игры препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WAR_SCORE">
+			<Text>Военный счёт должен быть не менее {1_Num}. Текущий военный счёт: {2_Num}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WAR_SCORE_TEAM">
+			<Text>Военный счёт против всех цивилизаций этой команды должен быть не менее {1_Num}. Наименьший военный счёт: {2_Num}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_VASSAL">
+			<Text>Вассалы не могут объявлять войну.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_VASSAL_TARGET">
+			<Text>Нельзя организовать войну против вассала.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_OUR_MASTER">
+			<Text>Вы не можете организовать войну против своего сюзерена.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_THEIR_MASTER">
+			<Text>Они не могут организовать войну против своего сюзерена.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_DP">
+			<Text>Пакт о ненападении препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_DP_OUR_MASTER">
+			<Text>Пакт о ненападении нашего сюзерена препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_DP_THEIR_MASTER">
+			<Text>Пакт о ненападении их сюзерена препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_DOF">
+			<Text>Декларация дружбы препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_WAR_PTP">
+			<Text>Обещание защиты препятствует этому действию.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_DENOUNCE_HUMAN">
+			<Text>Осудить</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_DENOUNCE_HUMAN_TT">
+			<Text>Нажатие этой кнопки [COLOR_NEGATIVE_TEXT]ОСУДИТ[ENDCOLOR] другого игрока.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_SHARE_APPROACH">
+			<Text>Что вы думаете о...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DECLARE_WAR_TT">
+			<Text>Выбор этого варианта может предупредить целевого игрока и его союзников о ваших военных приготовлениях, если лидер откажется помочь и решит предупредить целевого игрока. Это может иметь дипломатические последствия![NEWLINE][NEWLINE]В зависимости от ответа лидера совместная война может начаться немедленно, через 10 ходов или как только один из вас объявит войну цели.[NEWLINE][NEWLINE]Совместные войны отменяются, если вы преждевременно разорвёте дружбу с этим лидером (включая через осуждения или войну).[NEWLINE][NEWLINE]Если вы подружитесь с целью, заключите Пакт о ненападении с ними или потеряете возможность объявить им войну, ваше соглашение с этим лидером также будет отменено.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DECLARE_WAR_NOT_FRIENDS_TT">
+			<Text>Для обсуждения этого требуется Декларация дружбы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DECLARE_WAR_NO_TARGET_TT">
+			<Text>Должна существовать хотя бы одна цивилизация, на которую вы оба можете объявить войну. ПРИМЕЧАНИЕ: Целевая цивилизация должна иметь хотя бы один город.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_END_DEC_FRIENDSHIP_TT">
+			<Text>Это действие отменяет вашу текущую Декларацию дружбы, разрывает Пакт о ненападении (если он есть) и разрывает любые обещания объявить войну другим (если вы ещё не воюете). Это действие определённо разозлит вашего друга и может иметь серьёзные глобальные дипломатические последствия.[NEWLINE][NEWLINE]Если вы осудите или объявите войну этому игроку в течение [COLOR_NEGATIVE_TEXT]10[ENDCOLOR] ходов после отмены Декларации дружбы, вы получите дипломатический штраф за предательство.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_MOVE_TROOPS">
+			<Text>Пожалуйста, уберите войска с наших границ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_MOVE_TROOPS_HOSTILE">
+			<Text>Собираетесь на нас напасть, свиньи?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_MOVE_TROOPS_TT">
+			<Text>Попросите лидера убрать войска с вашей границы. Если лидер согласится на вашу просьбу, [COLOR_WARNING_TEXT]вы оба[ENDCOLOR] пообещаете не объявлять друг другу войну в течение 20 ходов. Если вы нарушите это обещание, другие лидеры могут счесть вас предателем![NEWLINE][NEWLINE]Если лидер отклонит вашу просьбу, они объявят вам войну, так что будьте осторожны!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DURATION_PROMISE">
+			<Text>Это обещание будет действовать [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] {1_Num: plural 1?ход; other?ходов;}. Если вы нарушите это обещание в течение этого времени, этот игрок почувствует себя преданным!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DURATION_MILITARY_PROMISE">
+			<Text>Выбор этого варианта создаёт [COLOR_WARNING_TEXT]взаимное[ENDCOLOR] обещание не объявлять друг другу войну в течение [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] {1_Num: plural 1?хода; other?ходов;}. Если вы нарушите это обещание, другие лидеры могут счесть вас предателем!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DURATION_ATTACK_MINOR_PROMISE">
+			<Text>Это обещание [COLOR_WARNING_TEXT]не имеет срока действия[ENDCOLOR]. Если вы нарушите это обещание, другие лидеры могут счесть вас предателем!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_YOULL_PAY_TT">
+			<Text>Выбор этого оскорбительного ответа может привести к [COLOR_NEGATIVE_TEXT]войне[ENDCOLOR]! Если это оскорбление не вызовет войну, лидер будет унижен, и его мнение о вас временно сбросится до Нейтрального.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_HOW_DARE_YOU_TT">
+			<Text>Выбор этого варианта предупредит {2_CivName:textkey} и их союзников о военных приготовлениях {1_CivName:textkey}. Это нарушение дипломатической секретности, которое разозлит {1_CivName:textkey} и порадует {2_CivName:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEFENSE_PACT_WITH_US">
+			<Text>[COLOR_NEGATIVE_TEXT]У нас с ними Пакт о ненападении![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEUTRAL_CSTATE">
+			<Text>Нейтральное</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEACE_BLOCKED_TURNS">
+			<Text>Мир заблокирован на {1_Num} {1_Num: plural 1?ход; other?ходов;}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEACE_BLOCKED_CSTATE_TURNS_TT">
+			<Text>Вы агрессивно напали на это городское государство и не можете заключить мир в течение {1_Num} {1_Num: plural 1?хода; other?ходов;}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CSTATE_JERK_STATUS">
+			<Text>[COLOR_NEGATIVE_TEXT]Вы агрессивно напали на это городское государство![ENDCOLOR][NEWLINE]В течение следующих [COLOR_NEGATIVE_TEXT]{1_JerkRate}[ENDCOLOR] {1_JerkRate: plural 1?хода; other?ходов;} городское государство не будет давать вам заданий, и ваш якорь [ICON_INFLUENCE] влияния будет снижен.[NEWLINE]Если вы [COLOR_POSITIVE_TEXT]станете Друзьями[ENDCOLOR] с этим городским государством в это время, эти штрафы будут сняты досрочно.[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_RESILIENT_VARIABLE_THRESHOLD">
+			<Text>Они в настоящее время [COLOR_WARNING_TEXT]стойкие[ENDCOLOR], потому что вы на {1_FactorScore}% ниже порога дани [COLOR_CYAN]{2_Threshold}%[ENDCOLOR]:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_NO_CAPITAL">
+			<Text>Нет Столицы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_CITY_FORMAL">
+			<Text>Они хотят, чтобы вы нашли город {@1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_EXPLORE_AREA_FORMAL">
+			<Text>Исследуйте неоткрытую область мира ([COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]% завершено).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_BUILD_X_BUILDINGS_FORMAL">
+			<Text>Постройте [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] {@1_Building} {2_Num: plural 1?здание; other?зданий;} в не-марионеточных городах вашей империи.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_SPY_ON_MAJOR_FORMAL">
+			<Text>Проведите шпионскую миссию против {1_Civ}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_COUP_FORMAL">
+			<Text>Устройте переворот в {1_Civ}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_ACQUIRE_CITY_FORMAL">
+			<Text>Приобретите город {1_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_ACQUIRE_CITY_OCC_FORMAL">
+			<Text>Они хотят, чтобы вы захватили город {1_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEBUG_SCORE">
+			<Text>Счёт: [COLOR_CYAN]{1_Score}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DAMAGED_AOE_STRIKE_PILLAGE">
+			<Text>Викинг</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DAMAGED_AOE_STRIKE">
+			<Text>Урон по области</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DAMAGED_AOE_STRIKE_FORTIFY">
+			<Text>Пилум</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DAMAGED_SPLASH">
+			<Text>Осколочный урон</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_TILE_DAMAGE_NOT_MOVED">
+			<Text>Присевший тигр</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOU_ENEMY_UNITS_DEFECT">
+			<Text>Переход врага на вашу сторону</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

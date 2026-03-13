@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_20">
+			<Text>Олов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_21">
+			<Text>Нильс</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_22">
+			<Text>Эспен</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_23">
+			<Text>Бьёрн</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_24">
+			<Text>Асмунд</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_10">
+			<Text>Аснаппар</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_11">
+			<Text>Нукиммут</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_12">
+			<Text>Серуя</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_13">
+			<Text>Билит</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_14">
+			<Text>Издубар</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_15">
+			<Text>Тиамат</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_16">
+			<Text>Ханану</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_17">
+			<Text>Апиашал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_18">
+			<Text>Самано</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_19">
+			<Text>Эришум</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_20">
+			<Text>Нарамсин</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_21">
+			<Text>Ламашту</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_22">
+			<Text>Эдимму</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_23">
+			<Text>Угаллу</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_24">
+			<Text>Кусарикку</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_10">
+			<Text>Алоизио</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_11">
+			<Text>Бонифасио</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_12">
+			<Text>Кристиано</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_13">
+			<Text>Ансельмо</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_14">
+			<Text>Фаустино</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_15">
+			<Text>Густаво</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_16">
+			<Text>Натанаэл</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_17">
+			<Text>Тио</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_18">
+			<Text>Тасито</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_19">
+			<Text>Тимотео</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_20">
+			<Text>Зеферино</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_21">
+			<Text>Марселино</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_22">
+			<Text>Габриэла</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_23">
+			<Text>Клементина</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_24">
+			<Text>Витория</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_10">
+			<Text>Супарман</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_11">
+			<Text>Ридван</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_12">
+			<Text>Сонни</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_13">
+			<Text>Хандоко</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_14">
+			<Text>Паман</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_15">
+			<Text>Индра</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_16">
+			<Text>Сухендра</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_17">
+			<Text>Янди</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_18">
+			<Text>Веравати</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_19">
+			<Text>Фарида</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_20">
+			<Text>Сусанти</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_21">
+			<Text>Видьявати</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_22">
+			<Text>Шри</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_23">
+			<Text>Гунарди</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_24">
+			<Text>Тегух</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_10">
+			<Text>ибн-Рашид</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_11">
+			<Text>ибн-Васим</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_12">
+			<Text>Илиас</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_13">
+			<Text>Карим</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_14">
+			<Text>Авада</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_15">
+			<Text>Зубайда</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_16">
+			<Text>Шерифа</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_17">
+			<Text>Хатижа</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_18">
+			<Text>Васила</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_19">
+			<Text>Сулеф</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_20">
+			<Text>Захра</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_21">
+			<Text>Билал</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_22">
+			<Text>Софиан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_23">
+			<Text>аль-Ахмар</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_24">
+			<Text>аль-Джабири</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_10">
+			<Text>Наташа</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_11">
+			<Text>Фридерика</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_12">
+			<Text>Юстина</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_13">
+			<Text>Кассия</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_14">
+			<Text>Эдита</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_15">
+			<Text>Вероника</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_16">
+			<Text>Алоизий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_17">
+			<Text>Клавдий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_18">
+			<Text>Марек</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_19">
+			<Text>Стефан</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_20">
+			<Text>Виктор</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_21">
+			<Text>Земовит</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_22">
+			<Text>Гервасий</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_23">
+			<Text>Лешек</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_24">
+			<Text>Вуйек</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_10">
+			<Text>Дебора</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_11">
+			<Text>Сантос</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_12">
+			<Text>Матильда</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_13">
+			<Text>Карлито</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_14">
+			<Text>Тереза</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_15">
+			<Text>Беренгар</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_16">
+			<Text>Джудит</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_17">
+			<Text>Саломея</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_18">
+			<Text>Фелипе</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_19">
+			<Text>Роза</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_20">
+			<Text>Грегорио</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_21">
+			<Text>Бенедита</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_22">
+			<Text>Иниго</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_23">
+			<Text>Жоаким</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_24">
+			<Text>Фредерико</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_10">
+			<Text>Кимама</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_11">
+			<Text>Хайви</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_12">
+			<Text>Хуиттсуу</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_13">
+			<Text>Дехейя</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_14">
+			<Text>Окайпин</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

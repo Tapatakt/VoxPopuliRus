@@ -1,0 +1,3 @@
+UPDATE Language_RU_RU
+SET Text = 'Кром'
+WHERE Tag = 'TXT_KEY_LEADER_BARBARIAN';

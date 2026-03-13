@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_BARB_GG_GA_POINTS">
+
+			<Text>Очки ВП/ВА за варваров</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_BARB_GG_GA_POINTS_HELP">
+
+			<Text>Позволяет всем игрокам накапливать очки великого полководца и великого адмирала за бои с варварами.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_CHILL_BARBARIANS">
+
+			<Text>Спокойные варвары</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_CHILL_BARBARIANS_HELP">
+
+			<Text>Частота появления варваров слегка снижена. Круто, чувак.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_DISABLE_AI_VICTORY_COMPETITION">
+
+			<Text>Отключить конкуренцию ИИ за победу</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_DISABLE_AI_VICTORY_COMPETITION_HELP">
+
+			<Text>Лидеры ИИ не будут негативно относиться к другим игрокам за прогресс в условиях победы. Это значительно упрощает игру.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_DISABLE_AI_ENDGAME_AGGRESSION">
+
+			<Text>Отключить агрессию ИИ в конце игры</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_DISABLE_AI_ENDGAME_AGGRESSION_HELP">
+
+			<Text>Лидеры ИИ не получат бонус к агрессии против игроков, приближающихся к победе. ПРИМЕЧАНИЕ: эта опция избыточна, если включена «Отключить конкуренцию ИИ за победу».</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_RANDOMIZED_VICTORIES">
+
+			<Text>Случайные победы</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_RANDOMIZED_VICTORIES_HELP">
+
+			<Text>Один случайный тип победы (культурная, дипломатическая или научная) включается, когда любой игрок входит в Атомную эру. Все остальные победы отключаются (примечание: победы по времени и господства всегда возможны).</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_TRANSPARENT_DIPLOMACY">
+
+			<Text>Прозрачная дипломатия</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_TRANSPARENT_DIPLOMACY_HELP">
+
+			<Text>Отображать числовые значения рядом с дипломатическими модификаторами. Кроме того, лидеры ИИ никогда не будут скрывать отрицательные модификаторы.</Text>
+
+		</Row>
+
+
+
+		<!-- Multiplayer only -->
+		<Row Tag="TXT_KEY_GAME_OPTION_KEEP_UNMET_PLAYERS_UNKNOWN">
+
+			<Text>Скрывать незнакомые цивилизации в предыгре</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_KEEP_UNMET_PLAYERS_UNKNOWN_HELP">
+
+			<Text>В настройках игры не показывать информацию о лидере и цивилизации других игроков на других командах (если они не выбрали случайного лидера).[NEWLINE]При загрузке сохранения не показывать информацию об игроках на других командах, с которыми вы ещё не встретились в игре.</Text>
+
+		</Row>
+
+
+
+		<!-- Events (invisible in Community Patch) -->
+
+		<Row Tag="TXT_KEY_GAME_OPTION_BAD_EVENTS">
+
+			<Text>Включить события (плохие)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_BAD_EVENTS_HELP">
+
+			<Text>Включить события с негативным исходом из системы событий игрока и города Vox Populi.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_CIV_SPECIFIC_EVENTS">
+
+			<Text>Включить события (цивилизации)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_CIV_SPECIFIC_EVENTS_HELP">
+
+			<Text>Включить события, специфичные для цивилизаций, из системы событий игрока и города Vox Populi.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_GOOD_EVENTS">
+
+			<Text>Включить события (хорошие)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_GOOD_EVENTS_HELP">
+
+			<Text>Включить события с положительным исходом из системы событий игрока и города Vox Populi.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_NEUTRAL_EVENTS">
+
+			<Text>Включить события (нейтральные)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_NEUTRAL_EVENTS_HELP">
+
+			<Text>Включить события с нейтральным исходом из системы событий игрока и города Vox Populi.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GAME_OPTION_TRADE_EVENTS">
+
+			<Text>Включить события (торговля)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_GAME_OPTION_TRADE_EVENTS_HELP">
+
+			<Text>Включить торговые (различные) события из системы событий игрока и города Vox Populi.</Text>
+
+		</Row>
+
+	</Language_RU_RU>
+
+</GameData>
+

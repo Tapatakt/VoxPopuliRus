@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+		<Row Tag="TXT_KEY_DIPLO_MAINTAINED_THEIR_HOSTING">
+			<Text>Мы помогли им остаться хозяевами Всемирного конгресса.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_PROPOSAL_PREVIOUSLY">
+			<Text>Мы ранее приняли их предложение на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_FOILED_THEIR_PROPOSAL_PREVIOUSLY">
+			<Text>Мы ранее отклонили их предложение на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_GOOD_VOTING_HISTORY">
+			<Text>Ваши голоса поддержали интересы их цивилизации на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BAD_VOTING_HISTORY">
+			<Text>Ваши голоса противоречили интересам их цивилизации на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SANCTIONED_THEM_SUCCESSFUL">
+			<Text>Мы ввели санкции против них на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SANCTIONED_THEM_UNSUCCESSFUL">
+			<Text>Мы пытались ввести санкции против них на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_UNSANCTIONED_THEM_SUCCESSFUL">
+			<Text>Мы освободили их от санкций на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_UNSANCTIONED_THEM_UNSUCCESSFUL">
+			<Text>Мы пытались освободить их от санкций на Всемирном конгрессе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_LIKED_OUR_PROPOSAL_UN">
+			<Text>Им понравилось наше предложение в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISLIKED_OUR_PROPOSAL_UN">
+			<Text>Им не понравилось наше предложение в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_PROPOSAL_UN">
+			<Text>Мы приняли их предложение в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_FOILED_THEIR_PROPOSAL_UN">
+			<Text>Мы отклонили их предложение в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_HOSTING_UN">
+			<Text>Мы помогли им стать хозяевами Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAINTAINED_THEIR_HOSTING_UN">
+			<Text>Мы помогли им остаться хозяевами Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_PROPOSAL_PREVIOUSLY_UN">
+			<Text>Мы ранее приняли их предложение в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_FOILED_THEIR_PROPOSAL_PREVIOUSLY_UN">
+			<Text>Мы ранее отклонили их предложение в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_GOOD_VOTING_HISTORY_UN">
+			<Text>Ваши голоса поддержали интересы их цивилизации в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BAD_VOTING_HISTORY_UN">
+			<Text>Ваши голоса противоречили интересам их цивилизации в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SANCTIONED_THEM_SUCCESSFUL_UN">
+			<Text>Мы ввели санкции против них в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SANCTIONED_THEM_UNSUCCESSFUL_UN">
+			<Text>Мы пытались ввести санкции против них в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_UNSANCTIONED_THEM_SUCCESSFUL_UN">
+			<Text>Мы освободили их от санкций в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_UNSANCTIONED_THEM_UNSUCCESSFUL_UN">
+			<Text>Мы пытались освободить их от санкций в Организации Объединенных Наций.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BACKSTAB_WARNING_TURNS">
+			<Text>Если вы осудите их или объявите им войну в течение следующих {1_Num} {1_Num: plural 1?хода; other?ходов;}, другие цивилизации могут посчитать вас предателем.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BACKSTAB_WARNING_WAR_ONLY_TURNS">
+			<Text>Если вы объявите им войну в течение следующих {1_Num} {1_Num: plural 1?хода; other?ходов;}, другие цивилизации могут посчитать вас предателем.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_BACKSTAB_WARNING_DENOUNCE_ONLY_TURNS">
+			<Text>Если вы осудите их в течение следующих {1_Num} {1_Num: plural 1?хода; other?ходов;}, другие цивилизации могут посчитать вас предателем.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ATTACKED_OWN_VASSAL">
+			<Text>Вы объявили войну своему вассалу!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ATTACKED_RESURRECTED_CIV">
+			<Text>Вы объявили войну цивилизациям, которые вы воскресили!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_RESURRECTOR_ATTACKED_US">
+			<Text>Вы восстановили их цивилизацию, а затем объявили им войну!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_CRITICAL_NUCLEAR">
+			<Text>Они опасаются, что ваша воинственная политика погрузит мир в ядерную зиму!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_MAXIMAL">
+			<Text>[SPACE](Они яростно ненавидят разжигателей войны!)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_EXTREME">
+			<Text>[SPACE](Они ненавидят разжигателей войны!)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_MINIMAL">
+			<Text>[SPACE](Они игнорируют большинство проявлений воинственности.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_BLOODTHIRSTY">
+			<Text>[SPACE](Они сами кровожадные разжигатели войны!)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_WAR">
+			<Text>Настоящий подход: Война.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_PLANNING_WAR">
+			<Text>Настоящий подход: Планирование войны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_HOSTILE">
+			<Text>Настоящий подход: Враждебный.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_DECEPTIVE">
+			<Text>Настоящий подход: Обманчивый.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_GUARDED">
+			<Text>Настоящий подход: Осторожный.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_AFRAID">
+			<Text>Настоящий подход: Боится.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_FRIENDLY">
+			<Text>Настоящий подход: Дружелюбный.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REAL_APPROACH_NEUTRAL">
+			<Text>Настоящий подход: Нейтральный.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_FRIEND">
+			<Text>Лучший друг:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_ALLY">
+			<Text>Лучший СН:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_LEAGUE_ALLY">
+			<Text>Лучший союзник ВК:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_LEAGUE_COMPETITOR">
+			<Text>Главный соперник ВК:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_LEAGUE_ALLY_UN">
+			<Text>Лучший союзник ООН:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_LEAGUE_COMPETITOR_UN">
+			<Text>Главный соперник ООН:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_COMPETITOR">
+			<Text>Главный конкурент:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_CHOICE_NONE">
+			<Text>Нет</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEBUG_TOP_CHOICE_YOU">
+			<Text>Вы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NEGOTIATE_PEACE_BLOCKED_THEM_TT">
+			<Text>Они не могут вести переговоры о мире с вами еще {1_Num} {1_Num: plural 1?ход; other?ходов;} из-за сделки, которую они заключили с другим игроком.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NEGOTIATE_PEACE_BLOCKED_MOD_TT">
+			<Text>Вы всегда в состоянии войны с этим игроком!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK_DP">
+			<Text>Нельзя атаковать этого игрока до истечения текущего мирного договора с его союзником (пакт о ненападении или сюзерен).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DECLARE_WAR_VASSAL_BLOCKED_TT">
+			<Text>Нельзя объявлять войну как вассал (война объявляется автоматически, когда ваш сюзерен объявляет войну этой цивилизации).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DECLARE_WAR_VASSAL_BLOCKED_MASTER_TT">
+			<Text>Вы не можете объявить войну своему сюзерену, пока не потребуете независимости или не будете освобождены.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAY_NOT_MAKE_PEACE_VASSAL">
+			<Text>Нельзя заключать мир с вассалом другой цивилизации (вы должны заключить мир с их сюзереном, {1_CivName}).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NEGOTIATE_PEACE_VASSAL_BLOCKED_TT">
+			<Text>Нельзя заключать мир как вассал (мир заключается автоматически, когда ваш сюзерен заключает мир с этой цивилизацией).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEMAND_BUTTON_TT">
+			<Text>Потребовать дань от этой цивилизации. Этот вариант влечет дипломатический штраф.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REQUEST_HELP_BUTTON">
+			<Text>Запросить помощь</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REQUEST_HELP_BUTTON_TT">
+			<Text>Запросить помощь у игрока, с которым вы заключили Декларацию о дружбе. Этот вариант не влечет дипломатического штрафа.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REQUEST_HELP_DEAL_BUTTON">
+			<Text>ЗАПРОСИТЬ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_SCORE">
+			<Text>[COLOR_POSITIVE_TEXT]Военный счет: {1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_SCORE_EXPLANATION">
+			<Text>Это значение показывает, насколько успешно идет ваша война. Колеблется между [COLOR_NEGATIVE_TEXT]-100[ENDCOLOR] и [COLOR_POSITIVE_TEXT]100[ENDCOLOR].[NEWLINE][COLOR_POSITIVE_TEXT]Текущая информация о войне:[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_PATHETIC">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Они жалки!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_WEAK">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Они очень слабы.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_POOR">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Они слабее.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_AVERAGE">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Мы равны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_STRONG">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Они сильны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_POWERFUL">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Они могущественны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_STRENGTH_IMMENSE">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_STRENGTH] Военная мощь:[ENDCOLOR] Они огромны!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_PATHETIC">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Они в руинах!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_WEAK">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Они жалки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_POOR">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Они бедны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_AVERAGE">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Мы равны.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_STRONG">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Они процветают.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_POWERFUL">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Они богаты.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_ECONOMY_IMMENSE">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_GOLD] Экономическая мощь:[ENDCOLOR] Они очень богаты!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_THEM_MINOR">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_WAR] Статус войны:[ENDCOLOR] Война идет успешно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_THEM_MAJOR">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_WAR] Статус войны:[ENDCOLOR] Мы побеждаем.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_THEM_SERIOUS">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_WAR] Статус войны:[ENDCOLOR] Наша победа неизбежна.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_THEM_CRIPPLED">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_WAR] Статус войны:[ENDCOLOR] Они подавлены!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_US_MINOR">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_RAZING] Статус войны:[ENDCOLOR] Война идет плохо.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_US_MAJOR">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_RAZING] Статус войны:[ENDCOLOR] Они побеждают.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_US_SERIOUS">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_RAZING] Статус войны:[ENDCOLOR] Поражение вероятно.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_DAMAGE_US_CRIPPLED">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_RAZING] Статус войны:[ENDCOLOR] Разрушение неминуемо!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAR_NO_PEACE_OFFER">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Невозможно!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_WHITE_PEACE">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Белый мир.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_ARMISTICE">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Перемирие.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_SETTLEMENT">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Малое соглашение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_BACKDOWN">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Крупное соглашение.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_SUBMISSION">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Малые уступки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_SURRENDER">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Некоторые уступки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_CESSION">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Крупные уступки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_CAPITULATION">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Огромные уступки.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OFFER_PEACE_TREATY_UNCONDITIONAL_SURRENDER">
+			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT][ICON_PEACE] Их предложение мира:[ENDCOLOR] Полная капитуляция!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_DPS_CP">
+			<Text>ПАКТЫ О НЕНАПАДЕНИИ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_LIMIT_TT">
+			<Text>Если один из игроков подвергнется нападению другой крупной цивилизации, другой игрок немедленно и автоматически вступит в войну с агрессором. Это соглашение длится {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_WLTKD_RESOURCE_CITIES">
+			<Text>Следующие города в настоящее время требуют этот ресурс:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DEAL_VALUE_STR">
+			<Text>Ценность сделки для них: {1_Num}.</Text>
+		</Row>
+</Language_RU_RU>
+</GameData>

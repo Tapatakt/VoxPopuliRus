@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_YIELD_TOURISM">
+			<Text>Туризм</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_GOLDEN_AGE_POINTS">
+			<Text>Очки золотого века</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_GREAT_GENERAL_POINTS">
+			<Text>Очки великого полководца</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_GREAT_ADMIRAL_POINTS">
+			<Text>Очки великого адмирала</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_POPULATION">
+			<Text>Население</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_CULTURE_LOCAL">
+			<Text>Очки роста границ</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

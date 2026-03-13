@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_MISSIONARY">
+
+			<Text>Распространять религию (авто)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_MISSIONARY_HELP">
+
+			<Text>Автоматизировать все действия [COLOR_UNIT_TEXT]миссионера[ENDCOLOR]. Юнит останется автоматизированным до отмены автоматизации.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_MISSIONARY_DISABLED_HELP">
+
+			<Text>Сейчас нет подходящих целей для распространения религии.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_ARCHAEOLOGIST">
+
+			<Text>Раскапывать артефакты (авто)</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_ARCHAEOLOGIST_HELP">
+
+			<Text>Автоматизировать все действия [COLOR_UNIT_TEXT]археолога[ENDCOLOR]. Юнит останется автоматизированным до отмены автоматизации.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_ARCHAEOLOGIST_DISABLED_HELP">
+
+			<Text>Сейчас нет подходящих целей для археологических раскопок.</Text>
+
+		</Row>
+
+	</Language_RU_RU>
+
+</GameData>
+

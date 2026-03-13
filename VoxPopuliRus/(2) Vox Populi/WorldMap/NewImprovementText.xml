@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_BUILD_FARM_HELP">
+			<Text>+1 [ICON_FOOD] к пище за каждые 2 фермы, примыкающие к этой ферме и/или от пресной воды.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FARM_REC">
+			<Text>Это увеличит [ICON_FOOD] производство пищи на этой клетке. Фермы, примыкающие к двум другим фермам и/или к пресной воде, получают +1 [ICON_FOOD] к пище.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_TRADING_POST_HELP">
+			<Text>+1 [ICON_PRODUCTION] к производству и [ICON_GOLD] к золоту, если построено на дороге, соединяющей два города, удваивается при постройке на железной дороге. +1 [ICON_PRODUCTION] к производству и [ICON_GOLD] к золоту, если торговый путь проходит через эту деревню, удваивается в постиндустриальную эпоху.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_LUMBERMILL_HELP">
+			<Text>+1 [ICON_PRODUCTION] к производству и [ICON_GOLD] к золоту за каждые 2 лесопилки, примыкающие к этой лесопилке.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_CUSTOMS_HOUSE">
+			<Text>Юнит будет израсходован. +2 [ICON_PRODUCTION] к производству и [ICON_GOLD] к золоту, если построено на дороге, соединяющей два города, удваивается при постройке на железной дороге. +2 [ICON_PRODUCTION] к производству и [ICON_GOLD] к золоту, если торговый путь проходит через эту деревню, удваивается в постиндустриальную эпоху.[NEWLINE][NEWLINE]Великие улучшения клеток соединят стратегические ресурсы на этой клетке с торговой сетью. Города улучшат генерацию золота от дипломатической миссии великого торговца и длительность WLTKD на [COLOR_POSITIVE_TEXT]25%[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_MANUFACTORY">
+			<Text>Юнит будет израсходован.[NEWLINE][NEWLINE]Великие улучшения клеток соединят стратегические ресурсы на этой клетке с торговой сетью. Мануфактуры улучшат способность великого инженера [COLOR_POSITIVE_TEXT]Ускорить производство[ENDCOLOR] на [COLOR_POSITIVE_TEXT]10%[ENDCOLOR] и считаются каждым типом улучшения для [COLOR_POSITIVE_TEXT]бонусов за соседство[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_ACADEMY">
+			<Text>Юнит будет израсходован.[NEWLINE][NEWLINE]Великие улучшения клеток соединят стратегические ресурсы на этой клетке с торговой сетью. Академии улучшат способность великого ученого [COLOR_POSITIVE_TEXT]Открыть технологию[ENDCOLOR] на [COLOR_POSITIVE_TEXT]10%[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_EMBASSY">
+			<Text>Посольство</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_EMBASSY_TEXT">
+			<Text>Посольства могут быть построены только на территории городов-государств великими дипломатами.[NEWLINE][NEWLINE]Первый игрок (и только первый!), построивший посольство на земле города-государства, [COLOR_POSITIVE_TEXT]получает дополнительный голос в Мировом конгрессе[ENDCOLOR]. Никакой игрок не получит дополнительных голосов за посольства сверх первого, построенного на территории города-государства.[NEWLINE][NEWLINE]Посольство нельзя разграбить — построив его, его нельзя удалить, и оно всегда будет предоставлять дополнительный голос в Мировом конгрессе первоначальному строителю. Однако, если первоначальный строитель завоеван, завоеватель получит право собственности на его посольства и их голоса!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_EMBASSY">
+			<Text>Построить [LINK=IMPROVEMENT_EMBASSY]посольство[ENDLINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_EMBASSY">
+			<Text>Юнит будет израсходован.[NEWLINE][NEWLINE]Дает [COLOR_POSITIVE_TEXT]1 голос в Мировом конгрессе[ENDCOLOR] при постройке. Дает +1 [ICON_RES_PAPER] бумаги.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_MOUNTAIN_CITY">
+			<Text>Горный город</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>
