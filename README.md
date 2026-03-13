@@ -27,7 +27,7 @@
 
 ### Способ 2: Через Steam (для всех остальных)
 
-Скоро будет!
+[Вот же он!](https://steamcommunity.com/sharedfiles/filedetails/?id=3684232823)
 
 ## Структура проекта
 
@@ -36,6 +36,7 @@ VoxPopuliRus/
 ├── (1) Community Patch/      # Перевод Community Patch
 ├── (2) Vox Populi/           # Перевод Vox Populi
 ├── (3a) EUI Compatibility Files/  # Перевод EUI
+├── (4a) Squads for VP/  # Перевод Squads for VP
 └── VoxPopuliRus.civ5proj     # Проектный файл ModBuddy
 ```
 

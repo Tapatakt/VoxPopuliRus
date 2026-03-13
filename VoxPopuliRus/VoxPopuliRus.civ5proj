@@ -7,10 +7,11 @@
     <Guid>99dda740-fcac-4d41-8493-0b257dd272e3</Guid>
     <ModVersion>1</ModVersion>
     <Stability>Beta</Stability>
-    <Teaser>Русский перевод для VoxPopuli</Teaser>
-    <Description>Русский перевод мода [url=https://forums.civfanatics.com/forums/community-patch-project.497/]Vox Populi[/url] (Community Patch Project) для Civilization V.
+    <Teaser>
+    </Teaser>
+    <Description>Russian translation for[url=https://forums.civfanatics.com/forums/community-patch-project.497/]Vox Populi[/url] (Community Patch Project).
 
-Включает перевод для:
+Includes:
 
 [list]
 [*]Community Patch
@@ -19,7 +20,7 @@
 [*]Squads for VP
 [/list]
 
-Это нейросетевой перевод (использовалась Kimi Code 2.5) с лёгкой вычиткой. Наверняка в нём много косяков и неточностей. Я буду исправлять их по мере обнаружения. Вы можете помочь этому процессу, написав мне.</Description>
+Most of translation was done by LLM (Kimi K2.5).</Description>
     <Authors>Kellendros95</Authors>
     <SpecialThanks>
     </SpecialThanks>
