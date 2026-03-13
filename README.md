@@ -44,6 +44,11 @@ VoxPopuliRus/
 
 - **Команда Vox Populi** — за создание лучшего мода для Civilization V
 
+## Если вы хотите купить мне кофе
+
+- В России: 5336 6902 3766 3721
+- USDT (TRX): 0xb1A5fF78bfFBB4048A0ff4ba125e0f4bE634DF26
+
 ## Лицензия
 
 MIT
