@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
   <Language_RU_RU>
 <Row Tag="TXT_KEY_PROMOTION_AIR_REPAIR_HELP">
@@ -848,7 +848,7 @@
 
 <Row Tag="TXT_KEY_PROMOTION_CONSCRIPTION">
 
-			<Text>Конscription</Text>
+			<Text>Призыв</Text>
 
 		</Row>
 

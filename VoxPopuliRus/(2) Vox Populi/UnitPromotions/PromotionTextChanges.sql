@@ -1,4 +1,4 @@
-﻿UPDATE Language_RU_RU
+UPDATE Language_RU_RU
 SET Text = '+10% [ICON_STRENGTH] к боевой мощи.[NEWLINE]+5% к бонусу [COLOR_POSITIVE_TEXT]фланговой атаки[ENDCOLOR].'
 WHERE Tag = 'TXT_KEY_PROMOTION_SHOCK_1_HELP';
 UPDATE Language_RU_RU
