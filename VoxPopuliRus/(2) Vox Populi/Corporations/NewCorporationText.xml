@@ -1,137 +1,274 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_CORPORATION_TRADER_SIDS">
-			<Text>Trader Sid’s, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADER_SIDS_HELP">
-			<Text>Предоставляет преимущества, направленные на получение [ICON_GOLD] золота и наземную торговлю.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+100% к дальности наземных [ICON_CARAVAN] торговых путей.[NEWLINE][ICON_BULLET]+3 [ICON_GOLD] золота от {TXT_KEY_BUILDING_CARAVANSARY} и {TXT_KEY_BUILDING_MARKET} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_TRADER_SIDS">
-			<Text>[ICON_RES_SPICES] Корица, [ICON_RES_SUGAR] сахар, [ICON_RES_SALT] соль, [ICON_RES_NUTMEG] мускатный орех, [ICON_RES_CLOVES] гвоздика, [ICON_RES_PEPPER] перец, [ICON_RES_COCOA] какао и [ICON_RES_TOBACCO] табак дают +1 [ICON_GOLD] золота во всех городах с филиалом Trader Sid’s.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_TRADER_SIDS">
-			<Text>+4 [ICON_GOLD] золота за каждый глобальный филиал, а [ICON_INTERNATIONAL_TRADE] торговые пути в этот город приносят +2 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TRADER_SIDS">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Trader Sid’s в города с филиалом Trader Sid’s дают дополнительно +25% [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADER_SIDS_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_CORPORATION_CENTAURUS_EXTRACTORS">
-			<Text>Centaurus Extractors, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_CENTAURUS_EXTRACTORS_HELP">
-			<Text>Предоставляет преимущества, направленные на морское [ICON_PRODUCTION] производство и прибрежные города.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+100% к дальности морских [ICON_CARGO_SHIP] торговых путей.[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] производства от {TXT_KEY_BUILDING_HARBOR} и {TXT_KEY_BUILDING_SEAPORT} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_CENTAURUS_EXTRACTORS">
-			<Text>[ICON_RES_HORSE] Лошади, [ICON_RES_WHALE] киты, [ICON_RES_CRAB] крабы, [ICON_RES_IVORY] слоновая кость и [ICON_RES_CORAL] кораллы дают +1 [ICON_PRODUCTION] производства во всех городах с филиалом Centaurus Extractors.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_CENTAURUS_EXTRACTORS">
-			<Text>+3 [ICON_PRODUCTION] производства за каждый глобальный филиал и +1 [ICON_PRODUCTION] производства на всех морских клетках рядом с городом.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CENTAURUS_EXTRACTORS">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Centaurus Extractors в города с филиалом Centaurus Extractors дают +10% [ICON_RESEARCH] науки городу-отправителю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_CENTAURUS_EXTRACTORS_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_CORPORATION_HEXXON_REFINERY">
-			<Text>Hexxon Refinery, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_HEXXON_REFINERY_HELP">
-			<Text>Предоставляет бонусы, усиливающие вашу способность вести позднюю [ICON_WAR] войну и накапливать стратегические ресурсы.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] производства для всех юнитов, требующих для постройки [ICON_RES_OIL] нефть, [ICON_RES_ALUMINUM] алюминий или [ICON_RES_URANIUM] уран.[NEWLINE][ICON_BULLET]+3 [ICON_PRODUCTION] производства от {TXT_KEY_BUILDING_REFINERY}, {TXT_KEY_BUILDING_TIDAL_PLANT}, {TXT_KEY_BUILDING_HYDRO_PLANT}, {TXT_KEY_BUILDING_NUCLEAR_PLANT}, {TXT_KEY_BUILDING_WIND_PLANT} и {TXT_KEY_BUILDING_SOLAR_PLANT} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_HEXXON_REFINERY">
-			<Text>[ICON_RES_COAL] Уголь, [ICON_RES_OIL] нефть, [ICON_RES_INCENSE] благовония, [ICON_RES_URANIUM] уран, [ICON_RES_BRAZILWOOD] бразильское дерево, [ICON_RES_PERFUME] духи и [ICON_RES_GLASS] стекло дают +1 [ICON_PRODUCTION] производства во всех городах с филиалом Hexxon Refinery.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_HEXXON_REFINERY">
-			<Text>+1 дополнительная [ICON_RES_OIL] нефть и [ICON_RES_COAL] уголь за каждые три глобальных филиала, а также +15% [ICON_PRODUCTION] производства военных юнитов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_HEXXON_REFINERY">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Hexxon Refinery в города с филиалом Hexxon Refinery дают +10% [ICON_PRODUCTION] производства городу-отправителю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_HEXXON_REFINERY_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_CORPORATION_GIORGIO_ARMEIER">
-			<Text>Giorgio Armeier, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_GIORGIO_ARMEIER_HELP">
-			<Text>Предоставляет преимущества, направленные на получение [ICON_CULTURE] культуры и культурных специалистов.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] культуры от [ICON_WRITER] писателей, [ICON_ARTIST] художников и [ICON_MUSICIAN] музыкантов.[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] культуры от {TXT_KEY_BUILDING_MUSEUM} и {TXT_KEY_BUILDING_OPERA_HOUSE} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_GIORGIO_ARMEIER">
-			<Text>[ICON_RES_SILK] Шёлк, [ICON_RES_COTTON] хлопок, [ICON_RES_DYE] красители, [ICON_RES_FUR] меха и [ICON_RES_LAPIS] лазурит дают +1 [ICON_CULTURE] культуры во всех городах с филиалом Giorgio Armeier.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_GIORGIO_ARMEIER">
-			<Text>+2 [ICON_CULTURE] культуры за каждый глобальный филиал и -1 [ICON_HAPPINESS_3] недовольства от [ICON_RESEARCH] неграмотности и [ICON_CULTURE] скуки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_GIORGIO_ARMEIER">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Giorgio Armeier в города с филиалом Giorgio Armeier дают +10% [ICON_CULTURE] культуры городу-отправителю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_GIORGIO_ARMEIER_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_CORPORATION_FIRAXITE_MATERIALS">
-			<Text>Firaxite Materials, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_FIRAXITE_MATERIALS_HELP">
-			<Text>Предоставляет преимущества, направленные на [ICON_RESEARCH] научные инновации и развитие инфраструктуры.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]Торговые юниты нельзя грабить.[NEWLINE][ICON_BULLET]+3 [ICON_RESEARCH] науки от {TXT_KEY_BUILDING_FACTORY} и {TXT_KEY_BUILDING_UNIVERSITY} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_FIRAXITE_MATERIALS">
-			<Text>[ICON_RES_IRON] Железо, [ICON_RES_ALUMINUM] алюминий, [ICON_RES_MARBLE] мрамор, [ICON_RES_COPPER] медь, [ICON_RES_JADE] нефрит и [ICON_RES_PORCELAIN] фарфор дают +1 [ICON_RESEARCH] науки во всех городах с филиалом Firaxite Materials.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_FIRAXITE_MATERIALS">
-			<Text>+2 [ICON_RESEARCH] науки за каждый глобальный филиал и +20% [ICON_PRODUCTION] производства при строительстве зданий.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_FIRAXITE_MATERIALS">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Firaxite Materials в города с филиалом Firaxite Materials дают дополнительно +50% [ICON_RESEARCH] науки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_FIRAXITE_MATERIALS_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_CORPORATION_TWOKAY_FOODS">
-			<Text>TwoKay Foods, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TWOKAY_FOODS_HELP">
-			<Text>Предоставляет преимущества, направленные на получение [ICON_FOOD] пищи и рост городов.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]Торговые юниты открывают туман войны.[NEWLINE][ICON_BULLET]+3 [ICON_FOOD] пищи от {TXT_KEY_BUILDING_GROCER}, {TXT_KEY_BUILDING_HOSPITAL} и {TXT_KEY_BUILDING_AGRIBUSINESS} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_TWOKAY_FOODS">
-			<Text>[ICON_RES_WINE] Вино, [ICON_RES_TRUFFLES] трюфели, [ICON_RES_CITRUS] цитрусовые, [ICON_RES_OLIVE] оливки, [ICON_RES_COFFEE] кофе и [ICON_RES_TEA] чай дают +1 [ICON_FOOD] пищи во всех городах с филиалом TwoKay Foods.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_TWOKAY_FOODS">
-			<Text>+3 [ICON_FOOD] пищи за каждый глобальный филиал. +10% [ICON_FOOD] пищи в городе. -1 [ICON_HAPPINESS_3] недовольства от всех потребностей и -5% к модификатору размера [ICON_CITY_STATE] империи во всех городах.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TWOKAY_FOODS">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом TwoKay Foods в города с филиалом TwoKay Foods дают +10% [ICON_FOOD] пищи городу-отправителю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TWOKAY_FOODS_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_CORPORATION_CIVILIZED_JEWELERS">
-			<Text>Civilized Jewelers, Inc.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_CIVILIZED_JEWELERS_HELP">
-			<Text>Предоставляет преимущества, направленные на получение [ICON_GREAT_PEOPLE] великих людей и [ICON_GOLDEN_AGE] золотых веков.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+100% к скорости передвижения торговых юнитов.[NEWLINE][ICON_BULLET]+4 [ICON_GOLDEN_AGE] очков золотого века от {TXT_KEY_BUILDING_MINT} и {TXT_KEY_BUILDING_BANK} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_CIVILIZED_JEWELERS">
-			<Text>[ICON_RES_GOLD] Золото, [ICON_RES_SILVER] серебро, [ICON_RES_GEMS] драгоценные камни, [ICON_RES_PEARLS] жемчуг, [ICON_RES_JEWELRY] украшения и [ICON_RES_AMBER] янтарь дают +1 [ICON_GOLDEN_AGE] очко золотого века во всех городах с филиалом Civilized Jewelers.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_CIVILIZED_JEWELERS">
-			<Text>+3% к модификатору длины [ICON_GOLDEN_AGE] золотого века. +15% к скорости появления [ICON_GREAT_PEOPLE] великих людей и дополнительно +10% к скорости появления [ICON_GREAT_PEOPLE] великих людей за каждый глобальный филиал.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CIVILIZED_JEWELERS">
-			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Civilized Jewelers в города с филиалом Civilized Jewelers дают +10% [ICON_GOLD] золота городу-отправителю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CORPORATION_CIVILIZED_JEWELERS_OFFICE_BENEFIT_HELP">
-			<Text>Текущий бонус офиса: {1_String}</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADER_SIDS">
+
+			<Text>Trader Sid’s, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADER_SIDS_HELP">
+
+			<Text>Предоставляет преимущества, направленные на получение [ICON_GOLD] золота и наземную торговлю.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+100% к дальности наземных [ICON_CARAVAN] торговых путей.[NEWLINE][ICON_BULLET]+3 [ICON_GOLD] золота от {TXT_KEY_BUILDING_CARAVANSARY} и {TXT_KEY_BUILDING_MARKET} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_TRADER_SIDS">
+
+			<Text>[ICON_RES_SPICES] Корица, [ICON_RES_SUGAR] сахар, [ICON_RES_SALT] соль, [ICON_RES_NUTMEG] мускатный орех, [ICON_RES_CLOVES] гвоздика, [ICON_RES_PEPPER] перец, [ICON_RES_COCOA] какао и [ICON_RES_TOBACCO] табак дают +1 [ICON_GOLD] золота во всех городах с филиалом Trader Sid’s.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_TRADER_SIDS">
+
+			<Text>+4 [ICON_GOLD] золота за каждый глобальный филиал, а [ICON_INTERNATIONAL_TRADE] торговые пути в этот город приносят +2 [ICON_GOLD] золота.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TRADER_SIDS">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Trader Sid’s в города с филиалом Trader Sid’s дают дополнительно +25% [ICON_GOLD] золота.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADER_SIDS_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CORPORATION_CENTAURUS_EXTRACTORS">
+
+			<Text>Centaurus Extractors, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_CENTAURUS_EXTRACTORS_HELP">
+
+			<Text>Предоставляет преимущества, направленные на морское [ICON_PRODUCTION] производство и прибрежные города.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+100% к дальности морских [ICON_CARGO_SHIP] торговых путей.[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] производства от {TXT_KEY_BUILDING_HARBOR} и {TXT_KEY_BUILDING_SEAPORT} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_CENTAURUS_EXTRACTORS">
+
+			<Text>[ICON_RES_HORSE] Лошади, [ICON_RES_WHALE] киты, [ICON_RES_CRAB] крабы, [ICON_RES_IVORY] слоновая кость и [ICON_RES_CORAL] кораллы дают +1 [ICON_PRODUCTION] производства во всех городах с филиалом Centaurus Extractors.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_CENTAURUS_EXTRACTORS">
+
+			<Text>+3 [ICON_PRODUCTION] производства за каждый глобальный филиал и +1 [ICON_PRODUCTION] производства на всех морских клетках рядом с городом.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CENTAURUS_EXTRACTORS">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Centaurus Extractors в города с филиалом Centaurus Extractors дают +10% [ICON_RESEARCH] науки городу-отправителю.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_CENTAURUS_EXTRACTORS_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CORPORATION_HEXXON_REFINERY">
+
+			<Text>Hexxon Refinery, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_HEXXON_REFINERY_HELP">
+
+			<Text>Предоставляет бонусы, усиливающие вашу способность вести позднюю [ICON_WAR] войну и накапливать стратегические ресурсы.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] производства для всех юнитов, требующих для постройки [ICON_RES_OIL] нефть, [ICON_RES_ALUMINUM] алюминий или [ICON_RES_URANIUM] уран.[NEWLINE][ICON_BULLET]+3 [ICON_PRODUCTION] производства от {TXT_KEY_BUILDING_REFINERY}, {TXT_KEY_BUILDING_TIDAL_PLANT}, {TXT_KEY_BUILDING_HYDRO_PLANT}, {TXT_KEY_BUILDING_NUCLEAR_PLANT}, {TXT_KEY_BUILDING_WIND_PLANT} и {TXT_KEY_BUILDING_SOLAR_PLANT} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_HEXXON_REFINERY">
+
+			<Text>[ICON_RES_COAL] Уголь, [ICON_RES_OIL] нефть, [ICON_RES_INCENSE] благовония, [ICON_RES_URANIUM] уран, [ICON_RES_BRAZILWOOD] бразильское дерево, [ICON_RES_PERFUME] парфюм и [ICON_RES_GLASS] стекло дают +1 [ICON_PRODUCTION] производства во всех городах с филиалом Hexxon Refinery.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_HEXXON_REFINERY">
+
+			<Text>+1 дополнительная [ICON_RES_OIL] нефть и [ICON_RES_COAL] уголь за каждые три глобальных филиала, а также +15% [ICON_PRODUCTION] производства военных юнитов.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_HEXXON_REFINERY">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Hexxon Refinery в города с филиалом Hexxon Refinery дают +10% [ICON_PRODUCTION] производства городу-отправителю.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_HEXXON_REFINERY_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CORPORATION_GIORGIO_ARMEIER">
+
+			<Text>Giorgio Armeier, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_GIORGIO_ARMEIER_HELP">
+
+			<Text>Предоставляет преимущества, направленные на получение [ICON_CULTURE] культуры и культурных специалистов.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] культуры от [ICON_WRITER] писателей, [ICON_ARTIST] художников и [ICON_MUSICIAN] музыкантов.[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] культуры от {TXT_KEY_BUILDING_MUSEUM} и {TXT_KEY_BUILDING_OPERA_HOUSE} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_GIORGIO_ARMEIER">
+
+			<Text>[ICON_RES_SILK] Шёлк, [ICON_RES_COTTON] хлопок, [ICON_RES_DYE] красители, [ICON_RES_FUR] меха и [ICON_RES_LAPIS] лазурит дают +1 [ICON_CULTURE] культуры во всех городах с филиалом Giorgio Armeier.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_GIORGIO_ARMEIER">
+
+			<Text>+2 [ICON_CULTURE] культуры за каждый глобальный филиал и -1 [ICON_HAPPINESS_3] недовольства от [ICON_RESEARCH] неграмотности и [ICON_CULTURE] скуки.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_GIORGIO_ARMEIER">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Giorgio Armeier в города с филиалом Giorgio Armeier дают +10% [ICON_CULTURE] культуры городу-отправителю.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_GIORGIO_ARMEIER_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CORPORATION_FIRAXITE_MATERIALS">
+
+			<Text>Firaxite Materials, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_FIRAXITE_MATERIALS_HELP">
+
+			<Text>Предоставляет преимущества, направленные на [ICON_RESEARCH] научные инновации и развитие инфраструктуры.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]Торговые юниты нельзя грабить.[NEWLINE][ICON_BULLET]+3 [ICON_RESEARCH] науки от {TXT_KEY_BUILDING_FACTORY} и {TXT_KEY_BUILDING_UNIVERSITY} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_FIRAXITE_MATERIALS">
+
+			<Text>[ICON_RES_IRON] Железо, [ICON_RES_ALUMINUM] алюминий, [ICON_RES_MARBLE] мрамор, [ICON_RES_COPPER] медь, [ICON_RES_JADE] нефрит и [ICON_RES_PORCELAIN] фарфор дают +1 [ICON_RESEARCH] науки во всех городах с филиалом Firaxite Materials.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_FIRAXITE_MATERIALS">
+
+			<Text>+2 [ICON_RESEARCH] науки за каждый глобальный филиал и +20% [ICON_PRODUCTION] производства при строительстве зданий.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_FIRAXITE_MATERIALS">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Firaxite Materials в города с филиалом Firaxite Materials дают дополнительно +50% [ICON_RESEARCH] науки.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_FIRAXITE_MATERIALS_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CORPORATION_TWOKAY_FOODS">
+
+			<Text>TwoKay Foods, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TWOKAY_FOODS_HELP">
+
+			<Text>Предоставляет преимущества, направленные на получение [ICON_FOOD] пищи и рост городов.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]Торговые юниты открывают туман войны.[NEWLINE][ICON_BULLET]+3 [ICON_FOOD] пищи от {TXT_KEY_BUILDING_GROCER}, {TXT_KEY_BUILDING_HOSPITAL} и {TXT_KEY_BUILDING_AGRIBUSINESS} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_TWOKAY_FOODS">
+
+			<Text>[ICON_RES_WINE] Вино, [ICON_RES_TRUFFLES] трюфели, [ICON_RES_CITRUS] цитрусовые, [ICON_RES_OLIVE] оливки, [ICON_RES_COFFEE] кофе и [ICON_RES_TEA] чай дают +1 [ICON_FOOD] пищи во всех городах с филиалом TwoKay Foods.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_TWOKAY_FOODS">
+
+			<Text>+3 [ICON_FOOD] пищи за каждый глобальный филиал. +10% [ICON_FOOD] пищи в городе. -1 [ICON_HAPPINESS_3] недовольства от всех потребностей и -5% к модификатору размера [ICON_CITY_STATE] империи во всех городах.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TWOKAY_FOODS">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом TwoKay Foods в города с филиалом TwoKay Foods дают +10% [ICON_FOOD] пищи городу-отправителю.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TWOKAY_FOODS_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CORPORATION_CIVILIZED_JEWELERS">
+
+			<Text>Civilized Jewelers, Inc.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_CIVILIZED_JEWELERS_HELP">
+
+			<Text>Предоставляет преимущества, направленные на получение [ICON_GREAT_PEOPLE] великих людей и [ICON_GOLDEN_AGE] золотых веков.[NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] торговый путь.[NEWLINE][ICON_BULLET]+100% к скорости передвижения торговых юнитов.[NEWLINE][ICON_BULLET]+4 [ICON_GOLDEN_AGE] очков золотого века от {TXT_KEY_BUILDING_MINT} и {TXT_KEY_BUILDING_BANK} во всех городах.[NEWLINE][ICON_BULLET]Каждый [ICON_FRANCHISE] филиал в городах иностранных цивилизаций увеличивает [ICON_TOURISM] туризм с ними на 2%.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_RESOURCE_BONUS_CIVILIZED_JEWELERS">
+
+			<Text>[ICON_RES_GOLD] Золото, [ICON_RES_SILVER] серебро, [ICON_RES_GEMS] драгоценные камни, [ICON_RES_PEARLS] жемчуг, [ICON_RES_JEWELRY] украшения и [ICON_RES_AMBER] янтарь дают +1 [ICON_GOLDEN_AGE] очко золотого века во всех городах с филиалом Civilized Jewelers.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_OFFICE_BONUS_CIVILIZED_JEWELERS">
+
+			<Text>+3% к модификатору длины [ICON_GOLDEN_AGE] золотого века. +15% к скорости появления [ICON_GREAT_PEOPLE] великих людей и дополнительно +10% к скорости появления [ICON_GREAT_PEOPLE] великих людей за каждый глобальный филиал.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CIVILIZED_JEWELERS">
+
+			<Text>[ICON_INTERNATIONAL_TRADE] Торговые пути из городов с офисом Civilized Jewelers в города с филиалом Civilized Jewelers дают +10% [ICON_GOLD] золота городу-отправителю.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CORPORATION_CIVILIZED_JEWELERS_OFFICE_BENEFIT_HELP">
+
+			<Text>Текущий бонус офиса: {1_String}</Text>
+
+		</Row>
+
+	</Language_RU_RU>
+
+</GameData>
+
