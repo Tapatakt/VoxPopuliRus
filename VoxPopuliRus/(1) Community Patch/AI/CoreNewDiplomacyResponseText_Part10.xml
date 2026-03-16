@@ -1,570 +1,404 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_GENERIC_GENEROUS_OFFER_1">
-
 			<Text>Друг, пожалуйста, прими это предложение как жест благодарности за нашу дружбу.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_GENEROUS_OFFER_2">
-
 			<Text>В твой трудный час я дарю тебе подарок.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_GENEROUS_OFFER_3">
-
 			<Text>Чтобы показать нашу поддержку дружбы, я предлагаю твоему народу это в надежде, что однажды ты ответишь тем же.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_2">
-
 			<Text>Отношения между нашими империями могут только улучшаться со временем. Давай обменяемся посольствами, чтобы ускорить этот процесс?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_3">
-
 			<Text>Мы должны обменяться посольствами в знак доброй воли.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_OFFER_2">
-
 			<Text>Я заинтересован в установлении посольства в твоей столице. Устраивает ли тебя такая договорённость?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_OFFER_3">
-
 			<Text>Мы хотели бы открыть посольство в твоей столице. Согласишься ли ты на эту просьбу?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_EMBASSY_OFFER_4">
-
 			<Text>Обмен посольствами облегчит более тесное сотрудничество между нашими народами. Ты согласен?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_EXCHANGE_3">
-
 			<Text>Давай откроем наши границы друг для друга. Нам нечего бояться друг друга, верно?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_EXCHANGE_4">
-
 			<Text>Давай откроем наши границы в знак доброй воли и доверия.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Даже великие империи, как моя, должны открывать свои границы для империй, как твоя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WASHINGTON_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Америка желает открыть свои границы для тебя. Сделаешь ли ты то же самое?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_HARUN_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Арабский народ желает открытых границ. Давай придём к соглашению.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Великий Монтесума желает открытых границ. Ты осмелишься противиться ему?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Соглашение об открытых границах приведёт к великим делам.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_RAMESSES_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Врата Египта открыты для тебя, если твои открыты для нас.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Англия — свободная земля, и, как таковая, желает разделить открытые границы с тобой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Соглашение об открытых границах необходимо для тактической гибкости наших армий, ты не согласен?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Я считаю, что соглашение об открытых границах необходимо для наших будущих отношений.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_GANDHI_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Закрытая граница символизирует закрытый разум. Давай разделим наши границы и наши идеи.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_HIAWATHA_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Дикая местность не знает границ. Таким образом, давай заключим соглашение.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ODA_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Кодекс самураев требует, чтобы я открыл свои границы для тебя. Сделаешь ли ты то же самое?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Оттоманы желают побывать в твоих землях. Согласишься ли ты на это?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_DARIUS_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Знание — сила, и я считаю, что нам обоим нужно больше знаний. Откроем ли мы наши границы друг для друга?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Слава Рима не знает границ... кроме твоих. Откроем ли мы наши границы друг для друга?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Открытая граница принесёт тебе гораздо больше пользы, чем России. Ну же, разве это не щедрое предложение?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Сотрудничество — врата к просветлению. Давай разделим наши земли друг с другом.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ASKIA_OPEN_BORDERS_EXCHANGE_2">
-
 			<Text>Мой народ желает открыть свои границы для тебя. Ты откажешь Сонгаю?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_OFFER_2">
-
 			<Text>Соглашение об открытых границах принесёт пользу нам обоим.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_OFFER_3">
-
 			<Text>Позволишь ли ты моим войскам войти в твои земли?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_OFFER_4">
-
 			<Text>Мне нужно пересечь твои границы. Согласишься ли ты на это?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_OPEN_BORDERS_OFFER_5">
-
 			<Text>Пожалуйста, рассмотри мою просьбу об открытых границах.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEFENSE_PACT_OFFER_1">
-
 			<Text>Я восхищаюсь твоей военной мощью. Давай заключим пакт о взаимной обороне?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEFENSE_PACT_OFFER_2">
-
 			<Text>Мы должны сформировать альянс, чтобы принести гибель нашим врагам. Хочешь заключить пакт о взаимной обороне?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEFENSE_PACT_OFFER_3">
-
 			<Text>Наши враги окружают нас. Если мы не будем работать вместе, мы погибнем. Хочешь заключить пакт о взаимной обороне?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEFENSE_PACT_OFFER_4">
-
 			<Text>Тираны мира дрожали бы у наших ног, если бы только мы были союзниками. Видишь ли ты ценность в пакте о взаимной обороне?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_STRATEGIC_TRADE_REQUEST_1">
-
 			<Text>Ты владеешь стратегическим ресурсом, который могла бы использовать моя империя. Давай торговаться?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_4">
-
 			<Text>Невозможное предложение, которому мы не можем соответствовать. Ты просто позоришь себя, особенно если примешь эту торговлю.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_INSULTING_4">
-
 			<Text>Ты, должно быть, шутишь. Верно?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_INSULTING_5">
-
 			<Text>Ты можешь лучше.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_INSULTING_6">
-
 			<Text>Ты принимаешь меня за дурака?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_TRADE_4">
-
 			<Text>Да ладно, ты можешь лучше.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_TRADE_5">
-
 			<Text>Это не сработает, если ты продолжишь пытаться обмануть меня.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_TRADE_6">
-
 			<Text>Ты пытаешься оскорбить меня?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_YES_4">
-
 			<Text>Я уступлю твоим требованиям, на этот раз.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_YES_5">
-
 			<Text>Ты просишь слишком много, но я должен согласиться.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_YES_6">
-
 			<Text>Твои требования суровы, но я не могу отказаться. Наши отношения пострадают в результате этого.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_MUCH_4">
-
 			<Text>Твои требования слишком велики. Я не могу согласиться с ними.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_MUCH_5">
-
 			<Text>Я не поддамся твоей жадности. Ответ — нет.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_MUCH_6">
-
 			<Text>Ты думаешь, я слабак? Я не дам тебе ничего.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_SOON_4">
-
 			<Text>Этот шквал безумных требований может привести только к войне.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_SOON_5">
-
 			<Text>Ты варварская и жадная личность, ты это знал?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_TOO_SOON_6">
-
 			<Text>Ты — жадный негодяй. Я не дам тебе ничего.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_5">
-
 			<Text>Ни за что. Ты слаб и не обладаешь силой, чтобы предъявлять такие требования.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_6">
-
 			<Text>Ты и я оба знаем, что ты не можешь принудить меня к этому требованию.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_7">
-
 			<Text>Ты дурак, если думаешь, что я дам тебе что-то бесплатно.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_WEAK_8">
-
 			<Text>Ни единого шанса. Возможно, тебе стоит попробовать такие тактики на кого-то менее способного, чем я.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_PROTECTED_BY_MASTER_1">
-
 			<Text>Ха! Тебе придётся победить {1_CivName}, прежде чем вытребовать такие уступки от меня.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_PROTECTED_BY_MASTER_2">
-
 			<Text>Мы защищены {1_CivName}. Отнеси свои жадные прошения к ним.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_PROTECTED_BY_MASTER_3">
-
 			<Text>Твоя жадность не знает границ. К счастью, {1_CivName} защитит нас от тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_6">
-
 			<Text>Ты ничего не получишь от меня, тиран.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_7">
-
 			<Text>Никогда!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_8">
-
 			<Text>Невозможно.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_9">
-
 			<Text>Ты, должно быть, шутишь. Ни за что.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_DEMAND_REFUSE_HOSTILE_10">
-
 			<Text>Абсурд. Это шутка?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_YES_1">
-
 			<Text>Я рад помочь.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_YES_2">
-
 			<Text>Пусть этот дар принесёт процветание твоему народу.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_YES_3">
-
 			<Text>Мне приятно помогать нуждающимся.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_REFUSE_TOO_SOON_1">
-
 			<Text>Извини, но я уже предложил столько помощи, сколько мог на данный момент. Может быть, в другой раз.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_REFUSE_TOO_SOON_2">
-
 			<Text>Слишком рано с нашего последнего проявления щедрости. Боюсь, я должен отказать.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_REFUSE_TOO_SOON_3">
-
 			<Text>Я не могу удовлетворить эту просьбу в данный момент. Мне жаль.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_REFUSE_TOO_MUCH_1">
-
 			<Text>Извини. Моя щедрость не простирается так далеко, как тебе хотелось бы, боюсь.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_REFUSE_TOO_MUCH_2">
-
 			<Text>Ты попросил слишком много, боюсь. Я не могу согласиться.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HELP_REQUEST_REFUSE_TOO_MUCH_3">
-
 			<Text>Категорически нет. Я щедрый человек, но это слишком много, что ты просишь меня отдать.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DEMAND_2">
-
 			<Text>Без обид, но у тебя есть то, что я хочу, и я вполне уверен, что могу забрать это у тебя.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_AI_DEMAND_3">
-
 			<Text>Превосходно.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_AI_DEMAND_4">
-
 			<Text>Ты принял мудрое решение.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_REQUEST_ITEM_4">
-
 			<Text>Я попал в трудные времена и мог бы использовать помощь. Не мог бы ты одолжить это, друг?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_REQUEST_ITEM_5">
-
 			<Text>Мне больше не к кому обратиться. Не мог бы ты дать мне это, как друг?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_REQUEST_ITEM_6">
-
 			<Text>Мой народ нуждается в помощи, и они смотрят на тебя. Наверняка ты не можешь отказать им в этой помощи?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_RESPONSE_REQUEST_2">
-
 			<Text>Могучий Александр... нуждается в помощи. Ты окажешь мне помощь?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WASHINGTON_RESPONSE_REQUEST_2">
-
 			<Text>Твоя помощь в это время была бы бесценна.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_HARUN_RESPONSE_REQUEST_2">
-
 			<Text>Я попал в трудные времена и отчаянно нуждаюсь в помощи.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_RESPONSE_REQUEST_2">
-
 			<Text>Твоя помощь будет поддерживать наши огни и наполнять алтари кровью. Не поможешь ли?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_RESPONSE_REQUEST_2">
-
 			<Text>Мне больно просить, но не мог бы ты помочь императрице-вдове Китая?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_RAMESSES_RESPONSE_REQUEST_2">
-
 			<Text>Хотя боги редко просят простых смертных о помощи, я должен попросить такой от тебя.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_RESPONSE_REQUEST_2">
-
 			<Text>Английский народ нуждается в твоей помощи. Ответишь ли ты на их призыв?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_RESPONSE_REQUEST_2">
-
 			<Text>Подарок Франции будет вознаграждён добротой. Давай, не копи своё богатство.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_RESPONSE_REQUEST_2">
-
 			<Text>Германия в отчаянной нужде. Ответишь ли ты на призыв?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_GANDHI_RESPONSE_REQUEST_2">
-
 			<Text>Карма зарабатывается теми, кто делится своим богатством с менее удачливыми.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_HIAWATHA_RESPONSE_REQUEST_2">
-
 			<Text>Леса бедны в этот сезон, и я мог бы использовать помощь.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ODA_RESPONSE_REQUEST_2">
-
 			<Text>Даже могущественный воин иногда нуждается в помощи.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_RESPONSE_REQUEST_2">
-
 			<Text>Трон Османа просит о твоей помощи в это время.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_DARIUS_RESPONSE_REQUEST_2">
-
 			<Text>Подарок Персидской империи укрепил бы нашу вечную дружбу.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_RESPONSE_REQUEST_2">
-
 			<Text>Могучему Риму нужна помощь. Не мог бы ты одолжить это?</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_RESPONSE_REQUEST_2">
-
 			<Text>Мне неловко это говорить, но России нужна твоя помощь.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_RESPONSE_REQUEST_2">
-
 			<Text>Подарок Сиаму в это время сильно улучшил бы наши отношения.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_LEADER_ASKIA_RESPONSE_REQUEST_2">
-
 			<Text>Народ Сонгаи нуждается в твоей помощи. Пожалуйста, не отворачивайся от нас.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_THANKFUL_4">
-
 			<Text>Спасибо.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_RESPONSE_THANKFUL_5">
-
 			<Text>Я благодарен.</Text>
 		</Row>
 	</Language_RU_RU>

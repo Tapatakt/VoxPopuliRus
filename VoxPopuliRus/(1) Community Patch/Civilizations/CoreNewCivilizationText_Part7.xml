@@ -1,158 +1,203 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-<Language_RU_RU>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_10">
-			<Text>Авга Ах</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_11">
-			<Text>Нергюй</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_12">
-			<Text>Наранбаатар</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_13">
-			<Text>Чингис</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_14">
-			<Text>Отгонбаяр</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_15">
-			<Text>Алтай</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_16">
-			<Text>Энхжаргал</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_17">
-			<Text>Наранцэцэг</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_18">
-			<Text>Отцэцэг</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_19">
-			<Text>Сарангэрэл</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_20">
-			<Text>Ганзориг</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_21">
-			<Text>Сух</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_22">
-			<Text>Одвал</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_23">
-			<Text>Туул</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_24">
-			<Text>Баатарсайх</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_10">
-			<Text>Тонтон</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_11">
-			<Text>Икайя</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_12">
-			<Text>Нахеле</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_13">
-			<Text>Кекипи</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_14">
-			<Text>Пелеке</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_15">
-			<Text>Пилипо</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_16">
-			<Text>Моана</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_17">
-			<Text>Кеоки</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_18">
-			<Text>Капена</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_19">
-			<Text>Каймана</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_20">
-			<Text>Аламеа</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_21">
-			<Text>Улани</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_22">
-			<Text>Окелани</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_23">
-			<Text>Кекепания</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_24">
-			<Text>Хокулани</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_10">
-			<Text>Терсеро</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_11">
-			<Text>Сантьяго</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_12">
-			<Text>Рикардо</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_13">
-			<Text>Альфонсо</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_14">
-			<Text>Энрике</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_15">
-			<Text>Фернандо</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_16">
-			<Text>Хулио</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_17">
-			<Text>Пабло</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_18">
-			<Text>Каталина</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_19">
-			<Text>Грасия</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_20">
-			<Text>Хуанита</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_21">
-			<Text>Мигела</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_22">
-			<Text>Валенсия</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_23">
-			<Text>Инес</Text>
-			<Gender>feminine</Gender>
-		</Row>
-		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_24">
-			<Text>Эстрелла</Text>
-			<Gender>feminine</Gender>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_10">
+			<Text>Авга Ах</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_11">
+			<Text>Нергюй</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_12">
+			<Text>Наранбаатар</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_13">
+			<Text>Чингис</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_14">
+			<Text>Отгонбаяр</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_15">
+			<Text>Алтай</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_16">
+			<Text>Энхжаргал</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_17">
+			<Text>Наранцэцэг</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_18">
+			<Text>Отцэцэг</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_19">
+			<Text>Сарангэрэл</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_20">
+			<Text>Ганзориг</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_21">
+			<Text>Сух</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_22">
+			<Text>Одвал</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_23">
+			<Text>Туул</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_24">
+			<Text>Баатарсайх</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_10">
+			<Text>Тонтон</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_11">
+			<Text>Икайя</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_12">
+			<Text>Нахеле</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_13">
+			<Text>Кекипи</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_14">
+			<Text>Пелеке</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_15">
+			<Text>Пилипо</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_16">
+			<Text>Моана</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_17">
+			<Text>Кеоки</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_18">
+			<Text>Капена</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_19">
+			<Text>Каймана</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_20">
+			<Text>Аламеа</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_21">
+			<Text>Улани</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_22">
+			<Text>Окелани</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_23">
+			<Text>Кекепания</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_24">
+			<Text>Хокулани</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_10">
+			<Text>Терсеро</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_11">
+			<Text>Сантьяго</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_12">
+			<Text>Рикардо</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_13">
+			<Text>Альфонсо</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_14">
+			<Text>Энрике</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_15">
+			<Text>Фернандо</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_16">
+			<Text>Хулио</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_17">
+			<Text>Пабло</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_18">
+			<Text>Каталина</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_19">
+			<Text>Грасия</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_20">
+			<Text>Хуанита</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_21">
+			<Text>Мигела</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_22">
+			<Text>Валенсия</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_23">
+			<Text>Инес</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_24">
+			<Text>Эстрелла</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

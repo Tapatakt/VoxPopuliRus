@@ -1,305 +1,405 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-<Language_RU_RU>
-		<Row Tag="TXT_KEY_INTRIGUE_SOLD_VOTES">
-			<Text>{1_PlayerName} продал голоса на Всемирном конгрессе игроку {2_PlayerName}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_PATRONAGE_FINISHER_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от социальных политик</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_RELIGION_REFORMATION_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от догмата Реформации</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_TRAIT_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от особенности цивилизации</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_FAITH_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от религиозного авторитета</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_CAPITALS_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от завоеванных столиц</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_DOF_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от деклараций дружбы</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_RA_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от соглашений о совместных исследованиях</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_DP_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от оборонительных пактов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_IMPROVEMENT_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от посольств в городах-государствах</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_GPT_VOTES">
-			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от золота в ход</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_NEUTRAL">
-			<Text>[NEWLINE][NEWLINE]Цивилизации, которые в основном не затронуты этим:</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_END">
-			<Text>[NEWLINE][NEWLINE]Цивилизации будут голосовать, чтобы помочь себе и друзьям, и навредить врагам/конкурентам.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_UNKNOWN">
-			<Text>[NEWLINE][ICON_BULLET]Неизвестно: {1_NumDelegates} {1_NumDelegates: plural 1?делегат; other?делегатов;} ({2_NumCivs} {2_NumCivs: plural 1?цивилизация; other?цивилизаций;})</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_ATTEMPTED_LAST_SESSION">
-			<Text>Резолюция была предложена на предыдущей сессии, не может быть предложена снова до следующей сессии.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_CONTRADICTION">
-			<Text>Заблокирована действующей или предложенной резолюцией.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_PREREQ">
-			<Text>Недоступна до принятия мировой идеологии.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_NO_VASSALS">
-			<Text>Недоступна из-за отсутствия вассалов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_CONTRADICTION_CBP">
-			<Text>Заблокирована действующей или предложенной резолюцией.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_WRONG_SPHERE_PROPOSER">
-			<Text>Вы должны быть текущим союзником города-государства, чтобы предложить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_CITY_CSD">
-			<Text>{@1_CityName}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PREFIX_PROPOSER">
-			<Text>{1_CivAdj}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_TOURISM">
-			<Text>Глобальные модификаторы [ICON_TOURISM] туризма скорректированы на {1_UnitMaintenancePercent}%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SOI">
-			<Text>Сферы влияния: {1_CivsList}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SOI_ENTRY">
-			<Text>{@1_CivName} (для {@2_CivName})</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_OPEN_DOOR">
-			<Text>Открытые двери: {1_CivsList}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_OPEN_DOOR_ENTRY">
-			<Text>{@1_CivName}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_VASSAL_MAINTENANCE">
-			<Text>+{1_VassalMaintenancePercent}% стоимость [ICON_GOLD] золота за содержание юнитов/городов вассалов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SPACESHIP_LIMIT">
-			<Text>{1_Spaceship}% [ICON_PRODUCTION] производства при строительстве частей космического корабля</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SPACESHIP_PURCHASE">
-			<Text>+{1_Spaceship}% стоимость [ICON_GOLD] золота при покупке частей космического корабля</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_WORLD_WAR">
-			<Text>{1_UnitMaintenancePercent}% стоимость [ICON_GOLD] золота за содержание юнитов. [ICON_VICTORY_DOMINATION] Штрафы за захватчиков значительно снижены</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_WAR_PEACE">
-			<Text>+{1_UnitMaintenancePercent}% стоимость [ICON_GOLD] золота за содержание юнитов. [ICON_VICTORY_DOMINATION] Штрафы за захватчиков без изменений.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_IDEOLOGY">
-			<Text>Нет [ICON_INTERNATIONAL_TRADE] торговых путей с идеологическими противниками или несоюзными городами-государствами. [ICON_INFLUENCE] Влияние на союзные города-государства не уменьшается.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_ALLIES">
-			<Text>{1_Num} от альянсов с городами-государствами</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_MILITARY">
-			<Text>{1_Num} от военной мощи</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DP_WITH_CBP">
-			<Text>[COLOR_POSITIVE_TEXT]Оборонительный пакт с {1_CivName:textkey}[ENDCOLOR]</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NUCLEAR_GANDHI">
-			<Text>Слова Ганди подкреплены ЯДЕРНЫМ ОРУЖИЕМ!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_COOP_WAR_AGAINST_TURNS">
-			<Text>Мы объявим им войну через {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_PREVIOUSLY_FRIENDS">
-			<Text>Мы ранее были друзьями с их цивилизацией.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_UNTRUSTWORTHY_FRIEND">
-			<Text>Мы совершенно ненадежны для них.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_ELIMINATED_INDICATOR">
-			<Text>Этот лидер был уничтожен в игре.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_HUMAN_TEAMMATE">
-			<Text>[COLOR_POSITIVE_TEXT]Мы в одной команде.[ENDCOLOR]</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NEUTRAL_FRIENDLY">
-			<Text>У них нет сильных чувств к нам ни в ту, ни в другую сторону.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NEUTRAL_HOSTILE">
-			<Text>Они не считают нас значимыми для их интересов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VERY_GOOD_BASE_OPINION">
-			<Text>Дипломатия намного легче на вашем уровне сложности.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_GOOD_BASE_OPINION">
-			<Text>Дипломатия легче на вашем уровне сложности.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_BAD_BASE_OPINION">
-			<Text>Дипломатия сложнее на вашем уровне сложности.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VERY_BAD_BASE_OPINION">
-			<Text>Дипломатия намного сложнее на вашем уровне сложности.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_MUTUAL_EMBASSY">
-			<Text>У нас есть общие посольства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_WE_HAVE_EMBASSY">
-			<Text>У нас есть посольство в их столице.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DIPLOMAT">
-			<Text>У нас есть дипломат в их столице.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_MUTUAL">
-			<Text>Мы открыли границы друг другу.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_US">
-			<Text>Мы открыли им свои границы.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_THEM">
-			<Text>Они открыли нам свои границы.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DP">
-			<Text>Мы заключили оборонительный пакт!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DP_WITH_ENEMY">
-			<Text>Вы заключили оборонительный пакт с одним из их врагов!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_MADE_RESEARCH_AGREEMENT">
-			<Text>Мы заключили соглашение о совместных исследованиях!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_RETURNED_CAPITAL">
-			<Text>Вы вернули им их первоначальную столицу.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_LIBERATED_HOLY_CITY">
-			<Text>Вы освободили их священный город!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_RETURNED_HOLY_CITY">
-			<Text>Вы вернули им их священный город!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_SAME_PTP">
-			<Text>Мы пообещали защищать одни и те же города-государства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DP_MUTUAL">
-			<Text>Мы заключили оборонительный пакт с одними и теми же лидерами!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_SAME_MASTER">
-			<Text>Мы вассалы одного и того же повелителя!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_CAPTURED_HOLY_CITY">
-			<Text>Вы захватили их священный город!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_CULTURE_BOMB_HUMAN">
-			<Text>Вы украли их территорию!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_RAZED">
-			<Text>Вы убили или захватили их гражданских лиц!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_RAZED_OTHER">
-			<Text>Вы убили или захватили гражданских лиц других цивилизаций!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_STOLEN_ARTIFACTS">
-			<Text>Вы раскопали их культурные артефакты!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_PLOTTED_AGAINST_US">
-			<Text>Вас поймали на том, что вы замышляли против них.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_PERFORMED_COUP">
-			<Text>Ваши шпионы совершили переворот и устранили их союз с городом-государством.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_TECH_BLOCK">
-			<Text>Вы соревнуетесь за технологическое превосходство.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_TECH_BLOCK_FIERCE">
-			<Text>Они завидуют нашему превосходству в технологиях!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NO_TECH_BLOCK">
-			<Text>Вы не соревнуетесь за технологическое превосходство.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_POLICY_BLOCK">
-			<Text>Вы соревнуетесь за культурное превосходство.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_POLICY_BLOCK_FIERCE">
-			<Text>Они завидуют нашему культурному превосходству!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NO_POLICY_BLOCK">
-			<Text>Вы не соревнуетесь за культурное превосходство.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_WONDER_SPAMMER">
-			<Text>Они считают, что мы слишком агрессивно строим чудеса света!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NO_WONDER_DISPUTE">
-			<Text>Вы не соревнуетесь за чудеса света.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_NO_MINOR_CIV_DISPUTE">
-			<Text>Вы не соревнуетесь за благосклонность одних и тех же городов-государств.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_NONE">
-			<Text>Они не считают вас угрозой для их амбиций.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_WEAK">
-			<Text>Они боятся, что вы соревнуетесь с ними.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_STRONG">
-			<Text>Они подозревают, что вы соревнуетесь с ними.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_FIERCE">
-			<Text>Они знают, что вы соревнуетесь с ними, и ненавидят это!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_BLOCK_WEAK">
-			<Text>Ваши успехи тревожат их.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_BLOCK_STRONG">
-			<Text>Ваши успехи злят их.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_VICTORY_BLOCK_FIERCE">
-			<Text>Ваши успехи приводят их в ярость.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_MUTUAL_DENOUNCEMENT">
-			<Text>Мы осудили друг друга!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_SAME_POLICIES">
-			<Text>У нас схожие социальные политики.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DIFFERENT_POLICIES">
-			<Text>У нас расходятся социальные политики.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_SAME_LATE_POLICY_TREES_VASSAL">
-			<Text>Вы оба приняли идеологию {1_PolicyTree}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_DIFFERENT_LATE_POLICY_TREES_VASSAL">
-			<Text>Вы приняли идеологию {1_YourPolicyTree}, но они верят в {2_TheirPolicyTree}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_RELIGIOUS_DIFFERENCES_NEUTRAL">
-			<Text>У нас различные религиозные убеждения.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_RELIGIOUS_DIFFERENCES">
-			<Text>Религиозные различия напрягают ваши отношения.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_SAME_STATE_RELIGIONS">
-			<Text>Мы приняли одну и ту же религию в большинстве наших городов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_AGGRESSIVE_POSTURE_MEDIUM">
-			<Text>Размещение ваших войск угрожающе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_AGGRESSIVE_POSTURE_HIGH">
-			<Text>Размещение ваших войск чрезвычайно угрожающе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_MILITARY_PROMISE_TURNS">
-			<Text>Вы пообещали не объявлять друг другу войну еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_EXPANSION_PROMISE_TURNS">
-			<Text>Вы пообещали не основывать города рядом с ними еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_BORDER_PROMISE_TURNS">
-			<Text>Вы пообещали не покупать землю рядом с ними еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_DIPLO_AI_EXPANSION_PROMISE_TURNS">
-			<Text>Они пообещали не основывать города рядом с вами еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_INTRIGUE_SOLD_VOTES">
+			<Text>{1_PlayerName} продал голоса на Всемирном конгрессе игроку {2_PlayerName}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_PATRONAGE_FINISHER_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от социальных политик</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_RELIGION_REFORMATION_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от догмата Реформации</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_TRAIT_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от особенности цивилизации</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_FAITH_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от религиозного авторитета</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_CAPITALS_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от завоеванных столиц</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_DOF_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от деклараций дружбы</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_RA_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от соглашений о совместных исследованиях</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_DP_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от оборонительных пактов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_IMPROVEMENT_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от посольств в городах-государствах</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_GPT_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} от золота в ход</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_NEUTRAL">
+			<Text>[NEWLINE][NEWLINE]Цивилизации, которые в основном не затронуты этим:</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_END">
+			<Text>[NEWLINE][NEWLINE]Цивилизации будут голосовать, чтобы помочь себе и друзьям, и навредить врагам/конкурентам.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_UNKNOWN">
+			<Text>[NEWLINE][ICON_BULLET]Неизвестно: {1_NumDelegates} {1_NumDelegates: plural 1?делегат; other?делегатов;} ({2_NumCivs} {2_NumCivs: plural 1?цивилизация; other?цивилизаций;})</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_ATTEMPTED_LAST_SESSION">
+			<Text>Резолюция была предложена на предыдущей сессии, не может быть предложена снова до следующей сессии.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_CONTRADICTION">
+			<Text>Заблокирована действующей или предложенной резолюцией.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_PREREQ">
+			<Text>Недоступна до принятия мировой идеологии.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_NO_VASSALS">
+			<Text>Недоступна из-за отсутствия вассалов.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_CONTRADICTION_CBP">
+			<Text>Заблокирована действующей или предложенной резолюцией.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_WRONG_SPHERE_PROPOSER">
+			<Text>Вы должны быть текущим союзником города-государства, чтобы предложить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_CITY_CSD">
+			<Text>{@1_CityName}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PREFIX_PROPOSER">
+			<Text>{1_CivAdj}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_TOURISM">
+			<Text>Глобальные модификаторы [ICON_TOURISM] туризма скорректированы на {1_UnitMaintenancePercent}%.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SOI">
+			<Text>Сферы влияния: {1_CivsList}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SOI_ENTRY">
+			<Text>{@1_CivName} (для {@2_CivName})</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_OPEN_DOOR">
+			<Text>Открытые двери: {1_CivsList}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_OPEN_DOOR_ENTRY">
+			<Text>{@1_CivName}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_VASSAL_MAINTENANCE">
+			<Text>+{1_VassalMaintenancePercent}% стоимость [ICON_GOLD] золота за содержание юнитов/городов вассалов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SPACESHIP_LIMIT">
+			<Text>{1_Spaceship}% [ICON_PRODUCTION] производства при строительстве частей космического корабля</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_SPACESHIP_PURCHASE">
+			<Text>+{1_Spaceship}% стоимость [ICON_GOLD] золота при покупке частей космического корабля</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_WORLD_WAR">
+			<Text>{1_UnitMaintenancePercent}% стоимость [ICON_GOLD] золота за содержание юнитов. [ICON_VICTORY_DOMINATION] Штрафы за захватчиков значительно снижены</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_WAR_PEACE">
+			<Text>+{1_UnitMaintenancePercent}% стоимость [ICON_GOLD] золота за содержание юнитов. [ICON_VICTORY_DOMINATION] Штрафы за захватчиков без изменений.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_IDEOLOGY">
+			<Text>Нет [ICON_INTERNATIONAL_TRADE] торговых путей с идеологическими противниками или несоюзными городами-государствами. [ICON_INFLUENCE] Влияние на союзные города-государства не уменьшается.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_ALLIES">
+			<Text>{1_Num} от альянсов с городами-государствами</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_MILITARY">
+			<Text>{1_Num} от военной мощи</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DP_WITH_CBP">
+			<Text>[COLOR_POSITIVE_TEXT]Оборонительный пакт с {1_CivName:textkey}[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NUCLEAR_GANDHI">
+			<Text>Слова Ганди подкреплены ЯДЕРНЫМ ОРУЖИЕМ!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_COOP_WAR_AGAINST_TURNS">
+			<Text>Мы объявим им войну через {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_PREVIOUSLY_FRIENDS">
+			<Text>Мы ранее были друзьями с их цивилизацией.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_UNTRUSTWORTHY_FRIEND">
+			<Text>Мы совершенно ненадежны для них.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_ELIMINATED_INDICATOR">
+			<Text>Этот лидер был уничтожен в игре.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_HUMAN_TEAMMATE">
+			<Text>[COLOR_POSITIVE_TEXT]Мы в одной команде.[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NEUTRAL_FRIENDLY">
+			<Text>У них нет сильных чувств к нам ни в ту, ни в другую сторону.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NEUTRAL_HOSTILE">
+			<Text>Они не считают нас значимыми для их интересов.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VERY_GOOD_BASE_OPINION">
+			<Text>Дипломатия намного легче на вашем уровне сложности.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_GOOD_BASE_OPINION">
+			<Text>Дипломатия легче на вашем уровне сложности.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_BAD_BASE_OPINION">
+			<Text>Дипломатия сложнее на вашем уровне сложности.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VERY_BAD_BASE_OPINION">
+			<Text>Дипломатия намного сложнее на вашем уровне сложности.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_MUTUAL_EMBASSY">
+			<Text>У нас есть общие посольства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_WE_HAVE_EMBASSY">
+			<Text>У нас есть посольство в их столице.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DIPLOMAT">
+			<Text>У нас есть дипломат в их столице.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_MUTUAL">
+			<Text>Мы открыли границы друг другу.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_US">
+			<Text>Мы открыли им свои границы.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_THEM">
+			<Text>Они открыли нам свои границы.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DP">
+			<Text>Мы заключили оборонительный пакт!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DP_WITH_ENEMY">
+			<Text>Вы заключили оборонительный пакт с одним из их врагов!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_MADE_RESEARCH_AGREEMENT">
+			<Text>Мы заключили соглашение о совместных исследованиях!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_RETURNED_CAPITAL">
+			<Text>Вы вернули им их первоначальную столицу.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_LIBERATED_HOLY_CITY">
+			<Text>Вы освободили их священный город!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_RETURNED_HOLY_CITY">
+			<Text>Вы вернули им их священный город!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_SAME_PTP">
+			<Text>Мы пообещали защищать одни и те же города-государства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DP_MUTUAL">
+			<Text>Мы заключили оборонительный пакт с одними и теми же лидерами!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_SAME_MASTER">
+			<Text>Мы вассалы одного и того же повелителя!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_CAPTURED_HOLY_CITY">
+			<Text>Вы захватили их священный город!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_CULTURE_BOMB_HUMAN">
+			<Text>Вы украли их территорию!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_RAZED">
+			<Text>Вы убили или захватили их гражданских лиц!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_RAZED_OTHER">
+			<Text>Вы убили или захватили гражданских лиц других цивилизаций!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_STOLEN_ARTIFACTS">
+			<Text>Вы раскопали их культурные артефакты!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_PLOTTED_AGAINST_US">
+			<Text>Вас поймали на том, что вы замышляли против них.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_PERFORMED_COUP">
+			<Text>Ваши шпионы совершили переворот и устранили их союз с городом-государством.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_TECH_BLOCK">
+			<Text>Вы соревнуетесь за технологическое превосходство.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_TECH_BLOCK_FIERCE">
+			<Text>Они завидуют нашему превосходству в технологиях!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NO_TECH_BLOCK">
+			<Text>Вы не соревнуетесь за технологическое превосходство.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_POLICY_BLOCK">
+			<Text>Вы соревнуетесь за культурное превосходство.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_POLICY_BLOCK_FIERCE">
+			<Text>Они завидуют нашему культурному превосходству!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NO_POLICY_BLOCK">
+			<Text>Вы не соревнуетесь за культурное превосходство.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_WONDER_SPAMMER">
+			<Text>Они считают, что мы слишком агрессивно строим чудеса света!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NO_WONDER_DISPUTE">
+			<Text>Вы не соревнуетесь за чудеса света.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_NO_MINOR_CIV_DISPUTE">
+			<Text>Вы не соревнуетесь за благосклонность одних и тех же городов-государств.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_NONE">
+			<Text>Они не считают вас угрозой для их амбиций.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_WEAK">
+			<Text>Они боятся, что вы соревнуетесь с ними.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_STRONG">
+			<Text>Они подозревают, что вы соревнуетесь с ними.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE_FIERCE">
+			<Text>Они знают, что вы соревнуетесь с ними, и ненавидят это!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_BLOCK_WEAK">
+			<Text>Ваши успехи тревожат их.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_BLOCK_STRONG">
+			<Text>Ваши успехи злят их.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_VICTORY_BLOCK_FIERCE">
+			<Text>Ваши успехи приводят их в ярость.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_MUTUAL_DENOUNCEMENT">
+			<Text>Мы осудили друг друга!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_SAME_POLICIES">
+			<Text>У нас схожие социальные политики.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DIFFERENT_POLICIES">
+			<Text>У нас расходятся социальные политики.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_SAME_LATE_POLICY_TREES_VASSAL">
+			<Text>Вы оба приняли идеологию {1_PolicyTree}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_DIFFERENT_LATE_POLICY_TREES_VASSAL">
+			<Text>Вы приняли идеологию {1_YourPolicyTree}, но они верят в {2_TheirPolicyTree}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_RELIGIOUS_DIFFERENCES_NEUTRAL">
+			<Text>У нас различные религиозные верования.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_RELIGIOUS_DIFFERENCES">
+			<Text>Религиозные различия напрягают ваши отношения.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_SAME_STATE_RELIGIONS">
+			<Text>Мы приняли одну и ту же религию в большинстве наших городов.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_AGGRESSIVE_POSTURE_MEDIUM">
+			<Text>Размещение ваших войск угрожающе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_AGGRESSIVE_POSTURE_HIGH">
+			<Text>Размещение ваших войск чрезвычайно угрожающе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_MILITARY_PROMISE_TURNS">
+			<Text>Вы пообещали не объявлять друг другу войну еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_EXPANSION_PROMISE_TURNS">
+			<Text>Вы пообещали не основывать города рядом с ними еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_BORDER_PROMISE_TURNS">
+			<Text>Вы пообещали не покупать землю рядом с ними еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DIPLO_AI_EXPANSION_PROMISE_TURNS">
+			<Text>Они пообещали не основывать города рядом с вами еще {1_Num} {1_Num: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

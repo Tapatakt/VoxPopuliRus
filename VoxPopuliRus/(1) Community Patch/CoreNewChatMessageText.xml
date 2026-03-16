@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <!-- In MP games, these messages are automatically sent when triggered -->
-
 <GameData>
-
 	<Language_RU_RU>
-
 		<!-- Host schedules forced resync -->
 
 		<Row Tag="TXT_KEY_VP_MP_WARNING_RESYNC_SCHEDULED">
-
 			<Text>Я запланировал принудительную ресинхронизацию. На следующем ходу сессия будет перезагружена.</Text>
-
 		</Row>
-
 		<!-- Desync warning -->
 
 		<Row Tag="TXT_KEY_VP_MP_WARNING_DESYNC">
-
 			<Text>Мой клиент рассинхронизировался, возможно непредсказуемое поведение. Пожалуйста, создайте отчёт об ошибке на GitHub: https://github.com/LoneGazebo/Community-Patch-DLL/issues</Text>
-
 		</Row>
-
 	</Language_RU_RU>
-
 </GameData>
-

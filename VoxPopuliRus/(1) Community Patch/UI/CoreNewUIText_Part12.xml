@@ -1,126 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 <Language_RU_RU>
+
 		<Row Tag="TXT_KEY_MISC_YOU_UNIT_WAS_DAMAGED_AOE_STRIKE_ON_MOVE">
 			<Text>Разрыв</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_BULLIED_POPUP">
 			<Text>ЗАПУГИВАНИЕ:</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_STATE_ACQUIRE_CITY_QUEST_LONG">
 			<Text>{1_Civ} хочет, чтобы вы захватили этот город.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_STATE_EXPLORE_AREA_QUEST_LONG">
 			<Text>{1_Civ} хочет, чтобы вы исследовали эту область.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_WORK_HAS_BEGUN_IN_CITY">
 			<Text>Началось строительство {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {@1_ProdName}} в {@2_CityName}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_WORK_HAS_BEGUN_IN_CITY_LIMITED">
 			<Text>Началось строительство {@1_ProdName} в {@2_CityName}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_DIPLOMATIC_MISSION_RESULT_NO_GOLD">
 			<Text>Вы получили {1_Num} [ICON_INFLUENCE] влияния от дипломатической миссии!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_IMPROVEMENT_DESTROYED_EVENT">
 			<Text>{2_Num} {1_Improvement}{2_Num: plural 1?; other?ов;} разграблено возле {3_City} из-за выбора события!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_STRATEGIC_RESOURCE_PILLAGED_EVENT">
 			<Text>{2_Num} {1_Num: plural 1?источник; other?источников;} {1_Resource} разграблено возле {3_City} из-за выбора события!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_BUILDING_DESTROYED_EVENT">
 			<Text>[COLOR_NEGATIVE_TEXT]{1_Building}[ENDCOLOR] уничтожено в {2_City} из-за выбора события!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_AIR_PATROL_BOMBED_GROUND_TARGETS">
 			<Text>Ваш {@1_UnitName} не встретил сопротивления и атаковал вражеские воздушные и зенитные части на земле!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_YOU_ATTACKED_CITY_CP">
 			<Text>Ваш {@2_UnitName} обстрелял вражеский город {@1_CityName} ({3_Num} урона)!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_YOU_ATTACK_BY_AIR_ACTUALLY">
 			<Text>Ваш {@1_UnitName} обстрелял вражеский город {2_CityName} ({3_Num} урона) и не был перехвачен!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_YOU_ATTACK_INTERCEPTED_KILLED">
 			<Text>Ваш {@2_UnitName} был уничтожен при перехвате вражеским {@1_AttUnitName}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_YOU_ATTACK_BY_AIR_INTERCEPTED">
 			<Text>При атаке {4_CityName} вражеский {@1_UnitName} перехватил ваш {@2_DefUnitName} ({3_Num} урона)!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_YOU_ATTACK_UNIT_BY_AIR_INTERCEPTED">
 			<Text>Вражеский {@1_IntUnitName} перехватил ваш {@2_AttUnitName} ({3_Num} урона)!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_YOU_ARE_ATTACKED_BY_AIR_CITY">
 			<Text>Город {@1_CityName} был обстрелян вражеским {@2_EnUName} ({3_Num} урона)!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_ENEMY_AIR_UNIT_INTERCEPTED_CITY">
 			<Text>Благодаря вашему перехватывающему {@1_UnitName}, мы нанесли урон {@2_owner_adjective} {@3_EnUName} ({4_Num} урона), атакующему ваш город {@5_CityName}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_PARADROP_AA_DAMAGED">
 			<Text>Ваш {1_Unit} был перехвачен вражеским {2_EnUName} ({3_Num} урона)!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_PARADROP_AA_KILLED">
 			<Text>Ваш {1_Unit} был уничтожен вражеским {2_EnUName}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GRATEFUL_SETTLERS">
 			<Text>Поселенцы решили присоединиться к вашей цивилизации!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_CITY_FATE">
 			<Text>ВЫБЕРИТЕ СУДЬБУ ГОРОДА</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_CITY_FATE_TT">
 			<Text>Выберите судьбу захваченного города...</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_EVENT">
 			<Text>СДЕЛАЙТЕ ВЫБОР СОБЫТИЯ</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_EVENT_TT">
 			<Text>Произошло событие с несколькими вариантами, ожидающее вашего решения.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DIPLOMATIC_REQUEST">
 			<Text>ОЖИДАЕТСЯ ДИПЛОМАТИЯ</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DIPLOMATIC_REQUEST_TT">
 			<Text>Дипломатическое сообщение от другой цивилизации ожидает вашего рассмотрения.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_UNHAPPINESS">
 			<Text>[ICON_HAPPINESS_3] Недовольство: {2_Sign}{1_Num}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILDINGS_UNHAPPINESS">
 			<Text>Здания ({1_Num})</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILDINGS_UNHAPPINESS_TT">
 			<Text>Некоторые здания в городах производят [ICON_HAPPINESS_4] недовольство.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_TP_UNHAPPINESS_BUILDINGS">
 			<Text>{1_Num} от зданий.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_LOG_TAB">
 			<Text>Журнал уведомлений</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_TITLE">
 			<Text>Настройки уведомлений о мгновенной прибыли</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_TAB">
 			<Text>Настройки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_CITY_BUTTON">
 			<Text>Города</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_MILITARY_BUTTON">
 			<Text>Военные юниты</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_CIVILIAN_BUTTON">
 			<Text>Гражданские юниты</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_SPIES_BUTTON">
 			<Text>Шпионы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_MISC_BUTTON">
 			<Text>Прочее</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_TURN_OFF_ALL_BUTTON">
 			<Text>Выключить все</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SETTINGS_TURN_ON_ALL_BUTTON">
 			<Text>Включить все</Text>
 		</Row>

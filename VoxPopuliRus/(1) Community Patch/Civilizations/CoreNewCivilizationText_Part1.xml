@@ -1,688 +1,444 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 <Language_RU_RU>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_10">
-
 			<Text>Сноуден</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_11">
-
 			<Text>Майлз</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_12">
-
 			<Text>Дональд</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_13">
-
 			<Text>Алджернон</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_14">
-
 			<Text>Борн</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_15">
-
 			<Text>Лидия</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_16">
-
 			<Text>Констанс</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_17">
-
 			<Text>Джулия</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_18">
-
 			<Text>Шэрон</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_19">
-
 			<Text>Уиттакер</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_20">
-
 			<Text>Джон</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_21">
-
 			<Text>Роберт</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_22">
-
 			<Text>Миссис Джонс</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_23">
-
 			<Text>Ричард</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AMERICA_24">
-
 			<Text>Дядя</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_10">
-
 			<Text>Халил</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_11">
-
 			<Text>Бахамут</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_12">
-
 			<Text>Хишам</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_13">
-
 			<Text>Гариб</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_14">
-
 			<Text>Ясмин</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_15">
-
 			<Text>Амир</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_16">
-
 			<Text>Фадиль</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_17">
-
 			<Text>Халила</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_18">
-
 			<Text>Захида</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_19">
-
 			<Text>Фахима</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_20">
-
 			<Text>Салех</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_21">
-
 			<Text>Тахмид</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_22">
-
 			<Text>Хания</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_23">
-
 			<Text>Рафик</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ARABIA_24">
-
 			<Text>Осама</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_10">
-
 			<Text>Оллин</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_11">
-
 			<Text>Коатль</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_12">
-
 			<Text>Хилишоч</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_13">
-
 			<Text>Шочитль</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_14">
-
 			<Text>Изель</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_15">
-
 			<Text>Куикатль</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_16">
-
 			<Text>Сентеуа</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_17">
-
 			<Text>Некуаметль</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_18">
-
 			<Text>Науатль</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_19">
-
 			<Text>Тлалок</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_20">
-
 			<Text>Точтли</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_21">
-
 			<Text>Тлазопилли</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_22">
-
 			<Text>Иштли</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_23">
-
 			<Text>Иуикатль</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_AZTEC_24">
-
 			<Text>Иккауэтли</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_10">
-
 			<Text>Цян</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_11">
-
 			<Text>Шуй</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_12">
-
 			<Text>Сян</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_13">
-
 			<Text>Шушу</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_14">
-
 			<Text>Тай</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_15">
-
 			<Text>Чжэн</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_16">
-
 			<Text>Чжи</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_17">
-
 			<Text>Цзян</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_18">
-
 			<Text>Хай</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_19">
-
 			<Text>Бо</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_20">
-
 			<Text>Вэй</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_21">
-
 			<Text>Вэнь</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_22">
-
 			<Text>Сюй</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_23">
-
 			<Text>Хун</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_CHINA_24">
-
 			<Text>Го</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_10">
-
 			<Text>Ах</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_11">
-
 			<Text>Падубаст</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_12">
-
 			<Text>Хефрен</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_13">
-
 			<Text>Менес</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_14">
-
 			<Text>Брахим</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_15">
-
 			<Text>Анку</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_16">
-
 			<Text>Хотепхетес</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_17">
-
 			<Text>Хата</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_18">
-
 			<Text>Бенемба</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_19">
-
 			<Text>Соф</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_20">
-
 			<Text>Термутис</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_21">
-
 			<Text>Бектмут</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_22">
-
 			<Text>Ребу</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_23">
-
 			<Text>Хуфу</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_EGYPT_24">
-
 			<Text>Себек</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_10">
-
 			<Text>Бонд</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_11">
-
 			<Text>Перси</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_12">
-
 			<Text>Смайли</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_13">
-
 			<Text>Манипенни</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_14">
-
 			<Text>Грейс</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_15">
-
 			<Text>Милисент</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_16">
-
 			<Text>Гарриет</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_17">
-
 			<Text>Беатрис</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_18">
-
 			<Text>Эбигейл</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_19">
-
 			<Text>Флеминг</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_20">
-
 			<Text>Тётя</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_21">
-
 			<Text>Бенедикт</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_22">
-
 			<Text>Алистер</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_23">
-
 			<Text>Мерлин</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_ENGLAND_24">
-
 			<Text>Спенсер</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_10">
-
 			<Text>Адриен</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_11">
-
 			<Text>Клод</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_12">
-
 			<Text>Ален</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_13">
-
 			<Text>Жерар</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_14">
-
 			<Text>Камилла</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_15">
-
 			<Text>Пьер</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_16">
-
 			<Text>Шевалье</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_17">
-
 			<Text>Мишель</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_18">
-
 			<Text>Сюзанна</Text>
-
 			<Gender>feminine</Gender>
-
 		</Row>
 
 <Row Tag="TXT_KEY_SPY_NAME_FRANCE_19">
-
 			<Text>Анри</Text>
-
 		</Row>
-
 </Language_RU_RU>
-
 </GameData>
-

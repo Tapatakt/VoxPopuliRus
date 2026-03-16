@@ -1,481 +1,321 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_6">
-
 			<Text>Ты силён, но тебе не хватает решимости. Я воспользуюсь моментом.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_7">
-
 			<Text>Твоя гордыня станет твоей погибелью.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_8">
-
 			<Text>Ты ошибаешься, если думаешь, что можешь победить меня.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_9">
-
 			<Text>Мои армии не будут так легко побеждены.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_HOSTILE_10">
-
 			<Text>Ты не победишь меня.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCING_FRIEND_3">
-
 			<Text>Я пытался закрывать глаза на твои злодеяния, но больше не могу. Ты — тиран, и тираны должны быть наказаны.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCING_FRIEND_4">
-
 			<Text>Нет смысла больше скрывать: раньше ты мне нравился, но теперь я тебя ненавижу.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_IDEOLOGY_1">
-
 			<Text>Наверняка даже ты должен понимать, что для будущего этого мира есть только один путь. А ты идёшь по неправильному.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_IDEOLOGY_2">
-
 			<Text>Ты предал не только меня, но и свой собственный народ, приняв эту идеологию. Послушай нас обоих, пока твои действия не привели к ещё худшим конфликтам.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_HUMAN_BELIEVES_FREEDOM_1">
-
 			<Text>Жадность и амбиции твоего народа в конечном итоге только погубят их. Позволь своему народу сбросить иго Свободы и прекрати распространять свою ложь, пока не стало слишком поздно.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_HUMAN_BELIEVES_FREEDOM_2">
-
 			<Text>Твоя империалистическая агрессия стала утомительной. Прекрати пытаться убедить мой народ следовать пути Свободы, пока я не был вынужден принять решительные меры.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_HUMAN_BELIEVES_ORDER_1">
-
 			<Text>Я знаю, что ты пытаешься вызвать рабочую революцию в моих землях. Ради стабильности моей нации и твоей, немедленно прекрати это проповедование Порядка.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_HUMAN_BELIEVES_ORDER_2">
-
 			<Text>Держи свои радикальные убеждения Порядка подальше от ушей моего народа, пока я не показал тебе, что значит «лучше смерть, чем красность».[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_HUMAN_BELIEVES_AUTOCRACY_1">
-
 			<Text>Твоя якобы военная мощь недостаточна, чтобы скрыть от мира жестокость, которую ты причиняешь собственному народу. Прекрати свою тиранию, пока мы не были вынуждены объявить тебе войну![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_HUMAN_BELIEVES_AUTOCRACY_2">
-
 			<Text>Другие нации могут колебаться от страха перед тобой, но ради этого мира наша будет той, кто восстанет. Отрекись от своей веры в Автократию, пока не стало слишком поздно![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BELIEVES_FREEDOM_1">
-
 			<Text>Даже отсюда я слышу, как твой народ взывает о свободе и справедливости! Если ты не послушаешь их слов, это могут быть последние слова, которые мы говорим в мире.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BELIEVES_FREEDOM_2">
-
 			<Text>Демократия, свободная пресса и свободный рынок — права всех людей. Наша нация больше не будет смотреть, как ты продолжаешь попирать сердца своих граждан![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BELIEVES_ORDER_1">
-
 			<Text>Голоса твоего народа взывают к экономической справедливости и социальному равенству. Пока ты отрицаешь праведный путь Порядка, мы никогда не сможем прийти к согласию.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BELIEVES_ORDER_2">
-
 			<Text>Почему ты продолжаешь отрицать права своих рабочих жить без зол голода и нищеты? Если для прекращения их страданий нужно это осуждение, так тому и быть.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BELIEVES_AUTOCRACY_1">
-
 			<Text>Без сильного лидера, который ведёт их, твоя нация стоит на краю пропасти. Ещё не поздно принять путь безопасности и стабильности — не принуждай меня к действиям.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BELIEVES_AUTOCRACY_2">
-
 			<Text>Твой выбор ясно показал, что только одна нация имеет силу привести этот мир к процветанию: моя. Присоединяйся ко мне или потерпи последствия.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_WARMONGER_1">
-
 			<Text>Я достаточно долго стоял в стороне, пока твои армии опустошали этот мир. Я могу только надеяться, что это осуждение наконец остановит твои амбиции.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_WARMONGER_2">
-
 			<Text>Твоя жажда крови — мерзость, тиран. Пока я дышу, весь мир будет знать о жестокости, которую ты причинил ему.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_MINORSX_1">
-
 			<Text>Я ясно дал понять, что те города-государства, с которыми ты водишь дружбу, принадлежат мне, а не тебе. Ты можешь заключать с ними союзы, но со мной у тебя никогда не будет.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_MINORSX_2">
-
 			<Text>Если ты думаешь, что дипломатия — это красть мои союзы с городами-государствами, ты сильно ошибаешься. За каждый союз, который ты отнял у меня, я позабочусь, чтобы ты обзавёлся другим врагом.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_MINORS_BULLY_1">
-
 			<Text>Ты — злобный хулиган, и я сыт по горло твоим обращением со слабыми. Выйди со мной на чистую, трус, если у тебя хватит смелости противостоять равному.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_MINORS_BULLY_2">
-
 			<Text>Я назначил себя защитником этих городов-государств, но ты продолжаешь их терзать и угнетать. Я сообщил другим лидерам о твоей трусости — не вызывай моего гнева дальше.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_NUKE_1">
-
 			<Text>Те оружия войны, которые ты использовал, — мерзость для человечества. Любой, кто готов совершить такие зверства против невинных гражданских, явно не подлежит искуплению.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_NUKE_2">
-
 			<Text>Ничто из того, что я могу сказать или сделать, не искупит ужаса твоих преступлений. Я могу только надеяться, что это осуждение отпугнёт других лидеров от использования такого ужасного оружия.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_SPIES_1">
-
 			<Text>Твои попытки украсть мои технологические секреты больше не могут быть терпимы. Я поговорил с другими лидерами о твоей попытке шпионажа, и они будут готовы в будущем.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_SPIES_2">
-
 			<Text>Я всегда верил в прозрачность и честность, но ясно, что ты — нет. Если ты предпочитаешь работать во тьме, то мне придётся осветить твои деяния.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_COVET_1">
-
 			<Text>Я ясно дал понять, что земли, которые ты занял, по праву принадлежат мне. Если мы не можем уладить эти территориальные споры дипломатически, помолись, чтобы нам не пришлось решать их на поле боя.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_COVET_2">
-
 			<Text>Ты можешь называть это «завистью» к твоим землям, если хочешь. Но что касается меня, я не могу завидовать тому, что ты украл у меня. Я верю, другие лидеры увидят это так же.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_ENEMY_FRIENDSHIP_1">
-
 			<Text>Я предупреждал тебя, что декларация верности моему врагу будет ошибкой. Теперь столкнись с последствиями своих действий![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_ENEMY_FRIENDSHIP_2">
-
 			<Text>Декларация дружбы, которую ты заключил с моим врагом, — предательство, которое я не могу принять. Твой народ больше не желанен в моём дворе.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_DOGPILE_1">
-
 			<Text>Другие лидеры сказали мне, что тебе нельзя доверять. Я могу не знать всех подробностей, но я верю им больше, чем тебе.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_DOGPILE_2">
-
 			<Text>Что бы ты ни сделал, чтобы вызвать гнев других лидеров, я уверен, что ты заслуживаешь этого. Пусть наши осуждения послужат тебе уроком.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_PROMISE_BROKEN_1">
-
 			<Text>Единственное, что хуже тирана, так это интриган. Если ты неспособен говорить правду, тогда мне придётся делать это за тебя.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_PROMISE_BROKEN_2">
-
 			<Text>Твоё поведение отвратительно. Пусть это осуждение научит тебя, что нечестность и жадность — плохие примеры внешней политики.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_PROMISE_BROKEN_3">
-
 			<Text>Ты доказал, что являешься опасностью для моего народа, и должен быть наказан за это.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_PROMISE_BROKEN_4">
-
 			<Text>Из всех людей, кого можно было бы признать непригодными для этого мира, я не думал, что это будешь ты. Жаль.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_PROMISE_BROKEN_5">
-
 			<Text>Я пытался закрывать глаза на твои действия, но больше не могу. Ты — тиран, и тираны должны быть наказаны.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_PROMISE_BROKEN_6">
-
 			<Text>Нет смысла больше скрывать: раньше ты мне нравился, но теперь я тебя ненавижу.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BETRAYAL_1">
-
 			<Text>Ты бесспорно доказал, что твоя дружба ничего не значит. Пощади нас от своей болтовни — между нами больше не будет слов.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BETRAYAL_2">
-
 			<Text>В отличие от тебя, я честен относительно того, кто мои друзья и враги. Например: ты только что сделал себя моим врагом. Никогда больше не возвращайся в этот двор.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BETRAYAL_3">
-
 			<Text>Геноцид, который ты совершил против моего народа, никогда не может быть прощён. Весь мир узнает об ужасах того, что ты сделал.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_BETRAYAL_4">
-
 			<Text>Ты хоть останавливаешься, чтобы подумать о невинных, которых убил? Мой народ не сможет успокоиться, пока их семьи и близкие не будут отомщены... и я тоже.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_FAITH_1">
-
-			<Text>Святотатственные убеждения твоего народа — чума на этой земле. Я надеялся, что этот день не настанет, но если твой народ не увидит свет, то мы обречены быть врагами.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
+			<Text>Святотатственные верования твоего народа — чума на этой земле. Я надеялся, что этот день не настанет, но если твой народ не увидит свет, то мы обречены быть врагами.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_FAITH_2">
-
 			<Text>То, что я позволил твоей языческой вере распространиться так далеко, наполняет меня отвращением. Любая нация, которая добровольно верит в такую ложь, никогда не может быть доверена.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_ARTIFACTS_1">
-
 			<Text>Твоё неуважение к нашим границам и культурным артефактам достигло предела. С этого момента ни твои археологи, ни твои дипломаты не будут здесь желанны.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_ARTIFACTS_2">
-
 			<Text>Культурные артефакты моего народа не для тебя. Другие лидеры скоро узнают о твоём наглом воровстве.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_WONDERS_1">
-
 			<Text>Столько лет, потраченных на планирование и строительство этих Чудес... как кто-то вроде тебя мог построить их первым? Ты украл у меня секреты?! Мир узнает об этом предательстве![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_WONDERS_2">
-
 			<Text>Это невероятные Чудеса, которые ты построил. Было бы так жаль, если бы с ними что-то... случилось.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_VICTORY_DISPUTE_1">
-
 			<Text>Разве мы не стремимся к одному и тому же? Как жаль, что мы не можем заглянуть за наши разногласия и работать вместе во благо мира.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_VICTORY_DISPUTE_2">
-
 			<Text>Ты и я оба знаем, кому суждено выиграть это соревнование. Ради обоих наших народов, сдайся, пока это не переросло в дальнейший конфликт.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_VICTORY_BLOCK_1">
-
 			<Text>Ты приближаешься к победе слишком быстро для комфорта. Я поговорил с другими лидерами, и мы согласны, что пришло время противостоять тебе.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_DENOUNCE_VICTORY_BLOCK_2">
-
 			<Text>Позволить тебе взять контроль над миром было бы серьёзной ошибкой. Пришло время положить конец твоим амбициям — любой ценой.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_4">
-
 			<Text>Ты ужасный человек, ты это знал?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_5">
-
 			<Text>Не может быть мира в мире, пока ты существуешь.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_6">
-
 			<Text>Почему ты должен вести себя как такой имбецил?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_7">
-
 			<Text>Есть только несколько слов, описывающих тебя, и они не очень приятные.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_8">
-
 			<Text>Я больше не могу кусать себе язык. Ты — тиран.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_9">
-
 			<Text>Надеюсь, смерть придёт к тебе быстро, негодяй.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DENOUNCE_10">
-
 			<Text>Не принимай это на свой счёт, но... подожди, нет, прими это на свой счёт: ты ужасен.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Они публично осудили нас![ENDCOLOR])</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_5">
-
 			<Text>Твои жестокие слова не имеют здесь силы. Прочь!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_6">
-
 			<Text>Ты скоро узнаешь масштаб ошибки, которую только что совершил.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_7">
-
 			<Text>Ты — абсолютный дурак.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_RESPONSE_TO_BEING_DENOUNCED_8">
-
 			<Text>Ты можешь быть честным, но это не делает тебя менее ужасным, отвратительным человеком.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_COOP_WAR_YES_2">
-
 			<Text>Мои солдаты взволнованы перспективой войны. К оружию, союзник!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_COOP_WAR_SOON_2">
-
 			<Text>Война, говоришь? Дай мне 10 ходов, чтобы собрать войска.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_COOP_WAR_REQUEST_4">
-
 			<Text>Время войны против {1_PlayerName:textkey} близко. Давай объединим наши силы и сокрушим этого злодея?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_COOP_WAR_REQUEST_5">
-
 			<Text>{1_PlayerName:textkey} зашёл слишком далеко и должен быть остановлен. Я рассчитываю на твою помощь: будем ли мы сражаться с этой угрозой вместе?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_COOP_WAR_REQUEST_6">
-
 			<Text>Действия {1_PlayerName:textkey} вынудили меня действовать. Война неизбежна, и мне нужен союзник. Присоединишься ли ты?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_COOP_WAR_TIME_2">
-
 			<Text>Война против {1_PlayerName:textkey} началась. Начнём?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_AGGRESSIVE_MILITARY_WARNING_2">
-
 			<Text>Твоей военной агрессии должен прийти конец. Выведи свои войска или готовься к войне.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_AGGRESSIVE_MILITARY_WARNING_GOOD_2">
-
 			<Text>Посмотрим, насколько ты честен на самом деле.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_AGGRESSIVE_MILITARY_WARNING_GOOD_3">
-
 			<Text>Посмотрим, предадут ли твои действия твои слова.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_AGGRESSIVE_MILITARY_WARNING_BAD_2">
-
 			<Text>О боже.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_AGGRESSIVE_MILITARY_WARNING_BAD_3">
-
 			<Text>Похоже, мои страхи были обоснованы.</Text>
-
 		</Row>
 	</Language_RU_RU>
 </GameData>

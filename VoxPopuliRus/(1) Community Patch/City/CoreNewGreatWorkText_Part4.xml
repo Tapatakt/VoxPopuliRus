@@ -1,69 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_GREAT_WORK_MW_860">
-			<Text>Ослепительные огни</Text>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_860">
+			<Text>Ослепительные огни</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_MW_870">
 			<Text>Я думаю о тебе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_MW_880">
 			<Text>Источник</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_MW_890">
 			<Text>Нена</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_MW_900">
 			<Text>Цветение</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_1">
 			<Text>Саркофаг Хуфу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_2">
 			<Text>Саркофаг Неферефре</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_3">
 			<Text>Саркофаг Ментухотепа I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_4">
 			<Text>Саркофаг Менекхаре</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_5">
 			<Text>Саркофаг Сенусерта I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_6">
 			<Text>Саркофаг Хатшепсут</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_7">
 			<Text>Саркофаг Тутмоса II</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_8">
 			<Text>Саркофаг Рамсеса I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_9">
 			<Text>Саркофаг Сети II</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_10">
 			<Text>Саркофаг Аменемопе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_11">
 			<Text>Саркофаг Осоркона I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_12">
 			<Text>Саркофаг Иупута I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_13">
 			<Text>Саркофаг Никаубы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_14">
 			<Text>Саркофаг Артаксеркса I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_15">
 			<Text>Саркофаг Береники II</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_16">
 			<Text>Саркофаг Клеопатры I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_17">
 			<Text>Саркофаг Птолемея I</Text>
 		</Row>

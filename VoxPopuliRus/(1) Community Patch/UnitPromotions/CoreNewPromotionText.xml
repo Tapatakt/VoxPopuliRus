@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<!-- Cannot End Turn on Ocean Tile -->
-		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_HELP">
-			<Text>Нельзя закончить ход в [COLOR_NEGATIVE_TEXT]океане[ENDCOLOR].[NEWLINE]Может проходить через видимый океан, если пункт назначения — видимое побережье.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION">
-			<Text>Посадка в океане</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION_HELP">
-			<Text>Позволяет парящим юнитам садиться на берегу/границе океана.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION">
-			<Text>Посадка в океане с защитой</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION_HELP">
-			<Text>Позволяет парящим юнитам садиться на берегу/границе океана. Посаженные юниты получают +100% [ICON_STRENGTH] к защите.</Text>
-		</Row>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<!-- Cannot End Turn on Ocean Tile -->
+
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_HELP">
+			<Text>Нельзя закончить ход в [COLOR_NEGATIVE_TEXT]океане[ENDCOLOR].[NEWLINE]Может проходить через видимый океан, если пункт назначения — видимое побережье.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION">
+			<Text>Посадка в океане</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION_HELP">
+			<Text>Позволяет парящим юнитам садиться на берегу/границе океана.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION">
+			<Text>Посадка в океане с защитой</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION_HELP">
+			<Text>Позволяет парящим юнитам садиться на берегу/границе океана. Посаженные юниты получают +100% [ICON_STRENGTH] к защите.</Text>
+		</Row>
 	</Language_RU_RU>
 </GameData>

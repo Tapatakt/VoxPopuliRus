@@ -1,20 +1,21 @@
 ------------------------------------------------
 -- Ranking popup
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Ранжирует игроков по среднему [ICON_PRODUCTION] Производству, создаваемому всеми их городами.'
 WHERE Tag = 'TXT_KEY_PROGRESS_SCREEN_PRODUCTION_TT';
-
 ------------------------------------------------
 -- Advisors
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Я не уверен, есть ли у {1_LongCivName:textkey} вообще армия. Любые враждебные действия против них будут смехотворно неравными.'
 WHERE Tag = 'TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_PATHETIC';
-
 ------------------------------------------------
 -- Tech tree
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Позволяет сухопутным юнитам садиться на суда и пересекать водные клетки.'
 WHERE Tag = 'TXT_KEY_ALLOWS_EMBARKING';
@@ -58,10 +59,10 @@ WHERE Tag = 'TXT_KEY_ABLTY_NO_FRESH_WATER_STRING';
 UPDATE Language_RU_RU
 SET Text = 'Ведет к:'
 WHERE Tag = 'TXT_KEY_TECH_HELP_LEADS_TO';
-
 ------------------------------------------------
 -- Civilopedia
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Добро пожаловать в Цивилопедию! Здесь вы найдете подробные описания всех аспектов игры. Используйте поле «Поиск», чтобы найти статьи по любой конкретной теме. Нажатие на вкладки в верхней части экрана перенесет вас в различные основные разделы Цивилопедии. Панель навигации в левой части экрана отображает различные записи внутри раздела. Нажмите на запись, чтобы перейти прямо туда.[NEWLINE][NEWLINE]В верхней левой части экрана вы найдете кнопки «Вперед» и «Назад», которые помогут вам перемещаться между страницами. Нажмите «X» в верхней правой части экрана, чтобы вернуться в игру.[NEWLINE][NEWLINE]Добро пожаловать в Community Patch, мод, содержащий несколько исправлений ошибок и улучшений ИИ. [COLOR_YELLOW]Игровые концепции, которые были изменены в Community Patch, выделены желтым цветом в Цивилопедии.[ENDCOLOR]'
 WHERE Tag = 'TXT_KEY_PEDIA_HOME_PAGE_HELP_TEXT';
@@ -93,17 +94,16 @@ WHERE Tag = 'TXT_KEY_CIV5_RUSSIA_TEXT_4';
 UPDATE Language_RU_RU
 SET Text = 'Первое монгольское вторжение на киевские территории произошло в 1223 году, когда монгольский разведывательный отряд встретил объединенных воинов нескольких русских государств под командованием замечательно названных «Мстислав Храбрый» и «Мстислав Романович Старый» в битве при реке Калке. Русские силы имели ранний успех, но они стали дезорганизованными в погоне за отступающим врагом. Монгольские всадники собрались и победили преследователей по частям, прежде чем они могли реорганизоваться. Большая часть русских сил сдалась монголам при условии, что они будут пощажены; монголы приняли условия, а затем все равно перебили их. Монголы затем покинули Русь на несколько лет, прежде чем вернуться гораздо большей силой.[NEWLINE][NEWLINE]В 1237 году обширная монгольская армия из около 30 000 или более конных лучников снова пересекла реку Волгу. В течение нескольких коротких лет монголы захватили, разграбили и уничтожили десятки русских городов и поселков, включая Рязань, Коломну, Москву, Ростов, Кашин, Дмитров, Козельск, Галич и Киев. Они решительно победили каждую силу, поднятую для противостояния им. К 1240 году большая часть Руси была дымящейся руиной, твердо под контролем монголов, которые затем повернули свой взгор дальше на запад, к Венгрии и Польше.[NEWLINE]'
 WHERE Tag = 'TXT_KEY_CIV5_RUSSIA_TEXT_5';
-
 ------------------------------------------------
 -- Info tooltip
 ------------------------------------------------
-
 -- Common
+
 UPDATE Language_RU_RU
 SET Text = 'Требуемые ресурсы: {1_NumResource} {2_ResIcon} {3_Res:textkey}'
 WHERE Tag = 'TXT_KEY_PRODUCTION_RESOURCES_REQUIRED';
-
 -- Building
+
 UPDATE Language_RU_RU
 SET Text = '[ICON_HAPPINESS_1] Счастье: {2_Sign}{1_Num}'
 WHERE Tag = 'TXT_KEY_PRODUCTION_BUILDING_HAPPINESS';
@@ -115,8 +115,8 @@ WHERE Tag = 'TXT_KEY_PRODUCTION_BUILDING_DEFENSE';
 UPDATE Language_RU_RU
 SET Text = '[ICON_STRENGTH] Очки здоровья: {2_Sign}{1_Num}'
 WHERE Tag = 'TXT_KEY_PRODUCTION_BUILDING_HITPOINTS';
-
 -- Yield
+
 UPDATE Language_RU_RU
 SET Text = '[ICON_FOOD] Пища определяет, как быстро ваш город растет, чтобы приобретать новых [ICON_CITIZEN] жителей, которые работают на земле и собирают доходы для города. Большие города почти всегда лучше, но остерегайтесь повышенного [ICON_HAPPINESS_3] недовольства!'
 WHERE Tag = 'TXT_KEY_FOOD_HELP_INFO';
@@ -160,10 +160,10 @@ WHERE Tag = 'TXT_KEY_YIELD_FROM_POP';
 UPDATE Language_RU_RU
 SET Text = '[ICON_BULLET]{1_Num} {2_IconString} от других источников'
 WHERE Tag = 'TXT_KEY_YIELD_FROM_MISC';
-
 ------------------------------------------------
 -- City screen/banner
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Вы хотите аннексировать марионетку {@1_CityName} в свою империю? Это позволит вам управлять городом, но увеличит ваше [ICON_HAPPINESS_4] недовольство и стоимость новых [ICON_CULTURE] социальных институтов, [ICON_RESEARCH] технологий и [ICON_GOLDEN_AGE] золотых веков. Вы не сможете отменить это.'
 WHERE Tag = 'TXT_KEY_POPUP_ANNEX_PUPPET';
@@ -203,24 +203,24 @@ WHERE Tag = 'TXT_KEY_RELIGION_TOOLTIP_LINE';
 UPDATE Language_RU_RU
 SET Text = '{1_ReligionIcon} {2_NumFollowers} {2_NumFollowers: plural 1?последователь; other?последователей;} {3_PressureString} ({4_Num} торговых путей)'
 WHERE Tag = 'TXT_KEY_RELIGION_TOOLTIP_LINE_WITH_TRADE';
-
 ------------------------------------------------
 -- Conquest picker
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = '[COLOR_POSITIVE_TEXT]Разрушение[ENDCOLOR] Город будет гореть [ICON_RAZING] каждый ход, пока не достигнет населения 0, и будет удален из игры. Это производит много [ICON_HAPPINESS_4] недовольства, но также увеличивает ваш [COLOR_POSITIVE_TEXT]Военный счет[ENDCOLOR] против этого игрока.'
 WHERE Tag = 'TXT_KEY_POPUP_CITY_CAPTURE_INFO_RAZE';
-
 ------------------------------------------------
 -- Great Person panel
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = '{1_Progress}/{2_Threshold}, осталось {3_Turns} {3_Turns: plural 1?ход; other?ходов;}'
 WHERE Tag = 'TXT_KEY_GPLIST_PROGRESS';
-
 ------------------------------------------------
 -- Unit panel
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = '{1_Num} {1_Num: plural 1?ход; other?ходов;}'
 WHERE Tag = 'TXT_KEY_BUILD_NUM_TURNS';
@@ -236,10 +236,10 @@ WHERE Tag = 'TXT_KEY_UPANEL_UNIT_MAY_MOVE';
 UPDATE Language_RU_RU
 SET Text = 'Ваш юнит может нанести удар в пределах {1_Num} {1_Num: plural 1?клетки; other?клеток;} или перебазироваться в пределах {2_Num} клеток.'
 WHERE Tag = 'TXT_KEY_UPANEL_UNIT_MAY_STRIKE_REBASE';
-
 ------------------------------------------------
 -- Combat simulator
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = '[COLOR_CYAN]Шанс захвата при поражении[ENDCOLOR]'
 WHERE Tag = 'TXT_KEY_EUPANEL_CAPTURE_CHANCE';
@@ -251,21 +251,19 @@ WHERE Tag = 'TXT_KEY_EUPANEL_VISIBLE_AA_UNITS';
 UPDATE Language_RU_RU
 SET Text = 'Расстояние от столицы'
 WHERE Tag = 'TXT_KEY_EUPANEL_CAPITAL_DEFENSE_BONUS';
-
 ------------------------------------------------
 -- Diplomacy overview / player icon tooltip
 ------------------------------------------------
-
 -- Neutral Indicators
+
 UPDATE Language_RU_RU
 SET Text = 'УНИЧТОЖЕН'
 WHERE Tag = 'TXT_KEY_EMOTIONLESS';
-
 ------------------------------------------------
 -- Opinion modifiers
 ------------------------------------------------
-
 -- Dispute Modifiers
+
 UPDATE Language_RU_RU
 SET Text = 'Территориальные споры напрягают ваши отношения.'
 WHERE Tag = 'TXT_KEY_DIPLO_LAND_DISPUTE';
@@ -277,8 +275,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_WONDER_DISPUTE';
 UPDATE Language_RU_RU
 SET Text = 'Вы соперничаете за благосклонность одних и тех же городов-государств!'
 WHERE Tag = 'TXT_KEY_DIPLO_MINOR_CIV_DISPUTE';
-
 -- War Stuff
+
 UPDATE Language_RU_RU
 SET Text = 'У них есть некоторые ранние опасения по поводу вашей военной активности.'
 WHERE Tag = 'TXT_KEY_DIPLO_WARMONGER_THREAT_MINOR';
@@ -322,8 +320,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_PAST_WAR_BAD';
 UPDATE Language_RU_RU
 SET Text = 'Вы захватили их первоначальную столицу.'
 WHERE Tag = 'TXT_KEY_DIPLO_CAPTURED_CAPITAL';
-
 -- Recent diplomatic actions
+
 UPDATE Language_RU_RU
 SET Text = 'Ваши недавние дипломатические действия радуют их.'
 WHERE Tag = 'TXT_KEY_DIPLO_ASSISTANCE_TO_THEM';
@@ -331,8 +329,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_ASSISTANCE_TO_THEM';
 UPDATE Language_RU_RU
 SET Text = 'Ваши недавние дипломатические действия разочаровывают их.'
 WHERE Tag = 'TXT_KEY_DIPLO_REFUSED_REQUESTS';
-
 -- Player has done nice stuff
+
 UPDATE Language_RU_RU
 SET Text = 'Мы торговые партнеры.'
 WHERE Tag = 'TXT_KEY_DIPLO_TRADE_PARTNER';
@@ -372,8 +370,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_FORGAVE_FOR_SPYING';
 UPDATE Language_RU_RU
 SET Text = 'Вы поделились интригой с ними.'
 WHERE Tag = 'TXT_KEY_DIPLO_SHARED_INTRIGUE';
-
 -- Player has done mean stuff
+
 UPDATE Language_RU_RU
 SET Text = 'Вы украли их территорию, находясь в мире!'
 WHERE Tag = 'TXT_KEY_DIPLO_CULTURE_BOMB';
@@ -381,8 +379,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_CULTURE_BOMB';
 UPDATE Language_RU_RU
 SET Text = 'Ваши шпионы были пойманы при краже у них.'
 WHERE Tag = 'TXT_KEY_DIPLO_CAUGHT_STEALING';
-
 -- Player has asked us to do things we don''t like
+
 UPDATE Language_RU_RU
 SET Text = 'Вы потребовали, чтобы они не основывали поселения рядом с вашими землями!'
 WHERE Tag = 'TXT_KEY_DIPLO_NO_SETTLE_ASKED';
@@ -398,8 +396,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_TRADE_DEMAND';
 UPDATE Language_RU_RU
 SET Text = 'Вы заставили их платить дань.'
 WHERE Tag = 'TXT_KEY_DIPLO_PAID_TRIBUTE';
-
 -- Denouncing
+
 UPDATE Language_RU_RU
 SET Text = 'Мы осудили их!'
 WHERE Tag = 'TXT_KEY_DIPLO_DENOUNCED_BY_US';
@@ -419,8 +417,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_MUTUAL_ENEMY';
 UPDATE Language_RU_RU
 SET Text = 'Их друзья или союзники осудили вас!'
 WHERE Tag = 'TXT_KEY_DIPLO_DENOUNCED_BY_PEOPLE_WE_TRUST_MORE';
-
 -- Promises
+
 UPDATE Language_RU_RU
 SET Text = 'Вы дали обещание не объявлять им войну, а затем нарушили его!'
 WHERE Tag = 'TXT_KEY_DIPLO_MILITARY_PROMISE';
@@ -496,8 +494,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_SPY_PROMISE_IGNORED';
 UPDATE Language_RU_RU
 SET Text = 'Вы дали обещание начать совместную войну против другой империи, а затем нарушили его!'
 WHERE Tag = 'TXT_KEY_DIPLO_COOP_WAR_PROMISE';
-
 -- Religion / Ideology
+
 UPDATE Language_RU_RU
 SET Text = 'Они с радостью приняли вашу религию в большинстве своих городов.'
 WHERE Tag = 'TXT_KEY_DIPLO_ADOPTING_HIS_RELIGION';
@@ -517,8 +515,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_SAME_LATE_POLICY_TREES';
 UPDATE Language_RU_RU
 SET Text = 'Вы решили принять идеологию {1_YourPolicyTree}, но они верят в {2_TheirPolicyTree}.'
 WHERE Tag = 'TXT_KEY_DIPLO_DIFFERENT_LATE_POLICY_TREES';
-
 -- Protected Minors
+
 UPDATE Language_RU_RU
 SET Text = 'Вы захватили города-государства под их защитой!'
 WHERE Tag = 'TXT_KEY_DIPLO_PROTECTED_MINORS_KILLED';
@@ -534,8 +532,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_PROTECTED_MINORS_BULLIED';
 UPDATE Language_RU_RU
 SET Text = 'Они плохо обращались с вашими защищаемыми городами-государствами, и вы не закрывали на это глаза!'
 WHERE Tag = 'TXT_KEY_DIPLO_SIDED_WITH_MINOR';
-
 -- Declaration of Friendship
+
 UPDATE Language_RU_RU
 SET Text = 'Мы заключили публичную Декларацию дружбы!'
 WHERE Tag = 'TXT_KEY_DIPLO_DOF';
@@ -547,8 +545,8 @@ WHERE Tag = 'TXT_KEY_DIPLO_MUTUAL_DOF';
 UPDATE Language_RU_RU
 SET Text = 'Вы заключили Декларацию дружбы с одним из их врагов!'
 WHERE Tag = 'TXT_KEY_DIPLO_HUMAN_DOF_WITH_ENEMY';
-
 -- Traitor Opinion
+
 UPDATE Language_RU_RU
 SET Text = 'Ваши друзья нашли причину осудить вас!'
 WHERE Tag = 'TXT_KEY_DIPLO_HUMAN_DENOUNCED_BY_FRIENDS';
@@ -568,13 +566,13 @@ WHERE Tag = 'TXT_KEY_DIPLO_HUMAN_DECLARED_WAR_ON_FRIENDS';
 UPDATE Language_RU_RU
 SET Text = 'Мы заключили Декларацию дружбы, а затем объявили им войну!'
 WHERE Tag = 'TXT_KEY_DIPLO_HUMAN_FRIEND_DECLARED_WAR';
-
 -- Reckless Expander
+
 UPDATE Language_RU_RU
 SET Text = 'Они считают, что мы слишком агрессивно расширяем нашу империю!'
 WHERE Tag = 'TXT_KEY_DIPLO_RECKLESS_EXPANDER';
-
 -- World Congress
+
 UPDATE Language_RU_RU
 SET Text = 'Им понравилось наше предложение в Всемирный конгресс.'
 WHERE Tag = 'TXT_KEY_DIPLO_LIKED_OUR_PROPOSAL';
@@ -594,10 +592,10 @@ WHERE Tag = 'TXT_KEY_DIPLO_FOILED_THEIR_PROPOSAL';
 UPDATE Language_RU_RU
 SET Text = 'Мы помогли перенести Всемирный конгресс в их земли.'
 WHERE Tag = 'TXT_KEY_DIPLO_SUPPORTED_THEIR_HOSTING';
-
 ------------------------------------------------
 -- City-State screen/tooltip
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Дружественное [COLOR_POSITIVE_TEXT]воинственное[ENDCOLOR] город-государство будет предоставлять вам время от времени подарки в виде продвинутых военных юнитов.[NEWLINE][NEWLINE]Они знают секреты [COLOR_POSITIVE_TEXT]{@1_UniqueUnitName}[ENDCOLOR]. Если вы являетесь их союзником и изучили [COLOR_CYAN]{@2_PrereqTech}[ENDCOLOR], они будут предоставлять этот юнит в качестве своего подарка.'
 WHERE Tag = 'TXT_KEY_CITY_STATE_MILITARISTIC_TT';
@@ -625,22 +623,21 @@ WHERE Tag = 'TXT_KEY_CITY_STATE_QUEST_CONTEST_TECHS_WINNING_FORMAL';
 UPDATE Language_RU_RU
 SET Text = '{TXT_KEY_CITY_STATE_QUEST_CONTEST_TECHS_FORMAL} Пока что лидер имеет {1_LeaderScore} {1_LeaderScore: plural 1?технологию; other?технологий;} и у вас [COLOR_POSITIVE_TEXT]{2_PlayerScore}[ENDCOLOR].'
 WHERE Tag = 'TXT_KEY_CITY_STATE_QUEST_CONTEST_TECHS_LOSING_FORMAL';
-
 ------------------------------------------------
 -- Top panel
 ------------------------------------------------
-
 -- Anarchy (Gold, Science, Culture, Faith)
+
 UPDATE Language_RU_RU
 SET Text = '[COLOR_NEGATIVE_TEXT]Империя находится в анархии из-за смены идеологии еще {1_Turns} {1_Num: plural 1?ход; other?ходов;}. Во время анархии империя не получает [ICON_RESEARCH] науку, [ICON_GOLD] золото, [ICON_CULTURE] культуру или [ICON_PEACE] веру, а города не имеют [ICON_PRODUCTION] производства для строительства чего-либо[ENDCOLOR].'
 WHERE Tag = 'TXT_KEY_TP_ANARCHY';
-
 -- Culture
+
 UPDATE Language_RU_RU
 SET Text = 'Следующий институт: {1_Num} {1_Num: plural 1?ход; other?ходов;}'
 WHERE Tag = 'TXT_KEY_NEXT_POLICY_TURN_LABEL';
-
 -- Faith
+
 UPDATE Language_RU_RU
 SET Text = '{1_Num} [ICON_PEACE] веры - минимум, необходимый для основания следующего религиозного пантеона. Если вы хотите основать пантеон, вы должны сделать это до появления усиленной религии в игре (хотя вы всегда можете создать его, если пантеонов не было столько, сколько максимальное количество религий).'
 WHERE Tag = 'TXT_KEY_TP_FAITH_NEXT_PANTHEON';
@@ -648,18 +645,18 @@ WHERE Tag = 'TXT_KEY_TP_FAITH_NEXT_PANTHEON';
 UPDATE Language_RU_RU
 SET Text = '{1_Num} [ICON_PEACE] веры - минимум, необходимый для вашего следующего шанса получить великого пророка.'
 WHERE Tag = 'TXT_KEY_TP_FAITH_NEXT_PROPHET';
-
 -- Gold
+
 UPDATE Language_RU_RU
 SET Text = '[ICON_GOLD][COLOR:255:235:0:255]{1_TotalGold: number "#,###"} {2_GoldPerTurn: number "''(+''#,###'')'';''[COLOR:255:60:60:255](-''#,###'')''"}[/COLOR]'
 WHERE Tag = 'TXT_KEY_TOP_PANEL_GOLD';
-
 -- Golden Age
+
 UPDATE Language_RU_RU
 SET Text = '{1_NumCurrent}/{2_NumNeeded} прогресса к следующему [ICON_GOLDEN_AGE] золотому веку.'
 WHERE Tag = 'TXT_KEY_TP_GOLDEN_AGE_PROGRESS';
-
 -- Tourism
+
 UPDATE Language_RU_RU
 SET Text = '{1_Num} [ICON_GREAT_WORK] {1_Num: plural 1?слот великого произведения заполнен; other?слотов великих произведений заполнено;}'
 WHERE Tag = 'TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_1';
@@ -667,9 +664,8 @@ WHERE Tag = 'TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_1';
 UPDATE Language_RU_RU
 SET Text = '{1_Num} [ICON_GREAT_WORK] {1_Num: plural 1?слот великого произведения свободен; other?слотов великих произведений свободно;}'
 WHERE Tag = 'TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_2';
-
-
 -- Trade routes
+
 UPDATE Language_RU_RU
 SET Text = 'У вас {1_TradeRoutesUsedNum} {1_TradeRoutesUsedNum: plural 1?торговый юнит; other?торговых юнитов;}.[NEWLINE]У вас доступно {2_TradeRoutesAvailableNum} {2_TradeRoutesAvailableNum: plural 1?торговый путь; other?торговых путей;}.'
 WHERE Tag = 'TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT';
@@ -677,17 +673,17 @@ WHERE Tag = 'TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT';
 UPDATE Language_RU_RU
 SET Text = 'У вас {1_Num} неназначенных {2_UnitName}{1_Num: plural 1?; other?ов;}.[NEWLINE]'
 WHERE Tag = 'TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT_UNASSIGNED';
-
 ------------------------------------------------
 -- Demographics
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Развертываемые войска'
 WHERE Tag = 'TXT_KEY_DEMOGRAPHICS_ARMY_MEASURE';
-
 ------------------------------------------------
 -- Espionage overview
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = '[COLOR_POSITIVE_TEXT]Шанс убить вражеских шпионов: {1_Num}%[ENDCOLOR]'
 WHERE Tag = 'TXT_KEY_EO_SPY_COUNTER_INTEL_SUM_TT';
@@ -699,19 +695,18 @@ WHERE Tag = 'TXT_KEY_EO_SPY_RIGGING_ELECTIONS_TT';
 UPDATE Language_RU_RU
 SET Text = 'Все города-государства по всему миру проводят выборы одновременно каждые {1_Num} ходов. Следующие выборы будут через {2_Num} {2_Num: plural 1?ход; other?ходов;}.'
 WHERE Tag = 'TXT_KEY_EO_CITY_STATE_ELECTION';
-
 ------------------------------------------------
 -- Religion overview
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Глава {1_ReligionName}'
 WHERE Tag = 'TXT_KEY_RO_STATUS_FOUNDER';
-
 ------------------------------------------------
 -- Cultural overview
 ------------------------------------------------
-
 -- CV progress screen
+
 UPDATE Language_RU_RU
 SET Text = '+{1_Num}% бонус от торгового пути между империями[NEWLINE]'
 WHERE Tag = 'TXT_KEY_CO_PLAYER_TOURISM_TRADE_ROUTE';
@@ -719,17 +714,17 @@ WHERE Tag = 'TXT_KEY_CO_PLAYER_TOURISM_TRADE_ROUTE';
 UPDATE Language_RU_RU
 SET Text = 'Влияние через {1_Num} {1_Num: plural 1?ход; other?ходов;} (при условии, что производство туризма останется неизменным)'
 WHERE Tag = 'TXT_KEY_CO_INFLUENTIAL_TURNS_TT';
-
 ------------------------------------------------
 -- Deal overview
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Заканчивается после:[NEWLINE]Ход {1_turn}'
 WHERE Tag = 'TXT_KEY_DO_ENDS_ON';
-
 ------------------------------------------------
 -- Trade Route picker
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Вы открыли {1_Num} {1_Num: plural 1?технологию; other?технологий;}, котор{1_Num: plural 1?ую; other?ые;} {2_CivName} {2_CivName: plural 1?не знает; other?не знают;}.[NEWLINE]Они получают +{3_Num} [ICON_RESEARCH] науки на этом пути благодаря их культурному влиянию на вас.'
 WHERE Tag = 'TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_EXPLAINED';
@@ -737,10 +732,10 @@ WHERE Tag = 'TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_EXPL
 UPDATE Language_RU_RU
 SET Text = '{1_CivName} {1_CivName: plural 1?открыл; other?открыли;} {2_Num} {2_Num: plural 1?технологию; other?технологий;}, котор{2_Num: plural 1?ую; other?ые;} вы не знаете.[NEWLINE]Вы получаете +{3_Num} [ICON_RESEARCH] науки на этом пути благодаря вашему культурному влиянию на них.'
 WHERE Tag = 'TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_EXPLAINED';
-
 ------------------------------------------------
 -- World Congress screen
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = '[NEWLINE][ICON_BULLET]{1_NumVotes} от чудес'
 WHERE Tag = 'TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WONDER_VOTES';
@@ -756,17 +751,17 @@ WHERE Tag = 'TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_POSITIVE';
 UPDATE Language_RU_RU
 SET Text = '[NEWLINE][NEWLINE]Цивилизации, негативно затронутые этим:'
 WHERE Tag = 'TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_NEGATIVE';
-
 ------------------------------------------------
 -- Leader screen
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Вы не можете вести переговоры о мире с этим игроком еще {1_Num} {1_Num: plural 1?ход; other?ходов;} из-за сделки, которую вы заключили с другим игроком.'
 WHERE Tag = 'TXT_KEY_DIPLO_NEGOTIATE_PEACE_BLOCKED_TT';
-
 ------------------------------------------------
 -- Trade screen
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Открывает расширенные торговые опции с этой цивилизацией и раскрывает местоположение их столицы.'
 WHERE Tag = 'TXT_KEY_DIPLO_ALLOW_EMBASSY_TT';
@@ -862,10 +857,10 @@ WHERE Tag = 'TXT_KEY_DIPLO_TO_TRADE_CITY_NO_TT';
 UPDATE Language_RU_RU
 SET Text = 'У них нет городов для торговли и/или у них нет с нами посольства.'
 WHERE Tag = 'TXT_KEY_DIPLO_TO_TRADE_CITY_NO_THEM';
-
 ------------------------------------------------
 -- Discussion/Dialogue options
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Наша Декларация дружбы должна закончиться.'
 WHERE Tag = 'TXT_KEY_DIPLO_DISCUSS_MESSAGE_END_WORK_WITH_US';
@@ -873,10 +868,10 @@ WHERE Tag = 'TXT_KEY_DIPLO_DISCUSS_MESSAGE_END_WORK_WITH_US';
 UPDATE Language_RU_RU
 SET Text = 'Невозможно. Вы заходите слишком далеко.'
 WHERE Tag = 'TXT_KEY_DIPLO_DISCUSS_HOW_DARE_YOU';
-
 ------------------------------------------------
 -- Banner message
 ------------------------------------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Ваш венецианский купец купил город-государство!'
 WHERE Tag = 'TXT_KEY_VENETIAN_MERCHANT_BOUGHT_CITY_STATE';

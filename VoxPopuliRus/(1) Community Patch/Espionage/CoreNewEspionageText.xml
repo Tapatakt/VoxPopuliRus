@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_SPY_NAME_UNKNOWN">
-			<Text>Неизвестно</Text>
-		</Row>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_SPY_NAME_UNKNOWN">
+			<Text>Неизвестно</Text>
+		</Row>
 	</Language_RU_RU>
 </GameData>

@@ -1,8 +1,8 @@
 --------------------
 -- Tradition
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = '{1_PlayerName:textkey} Великий, правитель {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_TRADITION_TITLE';
@@ -70,10 +70,10 @@ WHERE Tag = 'TXT_KEY_POLICY_LEGALISM_HELP';
 UPDATE Language_RU_RU
 SET Text = 'Церемония — это событие ритуального значения, проводимое по особому случаю. Слово может быть этрусского происхождения, через латинское caerimonia. Одним из основных признаков двора является церемония. Большинство монархических дворов включали церемонии, связанные с инвеститурой или коронацией монарха и аудиенциями у монарха. Некоторые дворы имели церемонии вокруг пробуждения и сна монарха, называемые левée. Ордена рыцарства как почётные ордена стали важной частью культуры двора, начиная с XV века. Они были правом монарха создавать и даровать как источник чести.'
 WHERE Tag = 'TXT_KEY_POLICY_LEGALISM_TEXT';
-
 --------------------
 -- Progress
 --------------------
+
 UPDATE Language_RU_RU
 SET Text = 'Прогресс'
 WHERE Tag = 'TXT_KEY_POLICY_BRANCH_LIBERTY';
@@ -149,12 +149,11 @@ WHERE Tag = 'TXT_KEY_POLICY_MERITOCRACY_HELP';
 UPDATE Language_RU_RU
 SET Text = 'В философии братство — это этический вид отношений между людьми, основанный на любви и солидарности. Синоним братства — братство. Братство упоминается в национальном девизе Франции, Liberté, égalité, fraternité (Свобода, равенство, братство). Сегодня коннотации братств варьируются в зависимости от контекста, включая товарищество и братства, посвященные религиозным, интеллектуальным, академическим, физическим и/или социальным устремлениям своих членов. Кроме того, в современные времена это иногда означает тайное общество, особенно в отношении масонства, странных парней и различных академических и студенческих обществ.'
 WHERE Tag = 'TXT_KEY_CIV5_POLICY_MERITOCRACY_TEXT';
-
 --------------------
 -- Authority
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = '{1_PlayerName:textkey} Могучий, правитель {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_HONOR_TITLE';
@@ -223,8 +222,8 @@ UPDATE Language_RU_RU SET Text = 'В обществе, основанном на
 --------------------
 -- Fealty
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = '{@1: gender feminine?Леди; other?Лорд;} {1_PlayerName:textkey} из {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_PIETY_TITLE';
@@ -292,12 +291,11 @@ WHERE Tag = 'TXT_KEY_POLICY_FREE_RELIGION_HELP';
 UPDATE Language_RU_RU
 SET Text = 'Крепостное право — это статус многих крестьян при феодализме, в частности относящийся к поместной системе. Это было состояние крепости, которое развивалось в основном в эпоху высокого средневековья в Европе и длилось в некоторых странах до середины XIX века. Крепостные, занимавшие участок земли, должны были работать на лорда поместья, владеющего этой землей. Взамен они имели право на защиту, правосудие и право возделывать определенные поля в поместье для поддержания своего собственного пропитания. Крепостные часто должны были не только работать на полях лорда, но и в его шахтах и лесах и трудиться для поддержания дорог. Поместье составляло базовую единицу феодального общества, и лорд поместья и вилланы, и в определенной степени крепостные, были связаны юридически: налогообложением в случае первых и экономически и социально в последних.'
 WHERE Tag = 'TXT_KEY_POLICY_FREERELIGION_TEXT';
-
 --------------------
 -- Statecraft
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = '{@1: gender feminine?Госпожа; other?Господин;} {1_PlayerName:textkey} из {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_PATRONAGE_TITLE';
@@ -368,14 +366,12 @@ WHERE Tag = 'TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP';
 
 UPDATE Language_RU_RU
 SET Text = 'Торговая конфедерация, также известная как отраслевая торговая группа, деловая ассоциация, секторная ассоциация или отраслевой орган, — это организация, основанная и финансируемая предприятиями, работающими в определенной отрасли. Отраслевая торговая ассоциация участвует в деятельности по связям с общественностью, такой как реклама, образование, политические пожертвования, лоббирование и издательская деятельность, но ее фокус — сотрудничество между компаниями. Ассоциации могут предлагать другие услуги, такие как проведение конференций, нетворкинг или благотворительные мероприятия или предоставление курсов или образовательных материалов. Многие ассоциации являются некоммерческими организациями, управляемыми уставами и возглавляемыми должностными лицами, которые также являются членами.'
-
 WHERE Tag = 'TXT_KEY_POLICY_MERCHANT_CONFEDERACY_TEXT';
-
 --------------------
 -- Artistry
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = '{@1: gender feminine?Покровительница; other?Покровитель;} {1_PlayerName:textkey} из {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_AESTHETICS_TITLE';
@@ -451,12 +447,11 @@ WHERE Tag = 'TXT_KEY_POLICY_ARTISTIC_GENIUS_TEXT';
 UPDATE Language_RU_RU
 SET Text = '[COLOR_POSITIVE_TEXT]Культурный обмен[ENDCOLOR][NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] счастья за каждые 3 [ICON_GREAT_WORK] великих произведения в городе.[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] производства и [ICON_CULTURE] культуры от амфитеатров, галерей и оперных театров.[NEWLINE][ICON_BULLET]+10% модификатор [ICON_TOURISM] туризма за [COLOR_POSITIVE_TEXT]открытые границы[ENDCOLOR] с другими цивилизациями.'
 WHERE Tag = 'TXT_KEY_POLICY_ETHICS_HELP';
-
 --------------------
 -- Industry
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = 'Премьер-министр {1_PlayerName:textkey} из {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_COMMERCE_TITLE';
@@ -512,12 +507,11 @@ WHERE Tag = 'TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP';
 UPDATE Language_RU_RU
 SET Text = '[COLOR_POSITIVE_TEXT]Протекционизм[ENDCOLOR][NEWLINE][ICON_BULLET][ICON_INVEST] Инвестиции золотом в здания снижают их [ICON_PRODUCTION] стоимость производства дополнительно на 10%.[NEWLINE][ICON_BULLET]+33% доходов от внутренних [ICON_INTERNATIONAL_TRADE] торговых путей.[NEWLINE][ICON_BULLET]+10% [ICON_FOOD] еды и [ICON_RESEARCH] науки во время «[COLOR_POSITIVE_TEXT]Дня, когда мы любим короля[ENDCOLOR]».'
 WHERE Tag = 'TXT_KEY_POLICY_PROTECTIONISM_HELP';
-
 --------------------
 -- Imperialism
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = '{@1: gender feminine?Императрица; other?Император;} {1_PlayerName:textkey} из {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_EXPLORATION_TITLE';
@@ -593,12 +587,11 @@ WHERE Tag = 'TXT_KEY_POLICY_TREASURE_FLEETS_HELP';
 UPDATE Language_RU_RU
 SET Text = 'Миссия цивилизатрис (французское название «цивилизаторской миссии») — это обоснование для интервенции или колонизации, предлагающее внести вклад в распространение цивилизации, что в основном сводится к оведению коренных народов. Это был заметный основополагающий принцип французского и португальского колониального правления в конце XIX — начале XX веков. Он оказал влияние на французские колонии в Алжире, Французской Западной Африке и Индокитае, а также на португальские колонии в Анголе, Гвинее, Мозамбике и Тиморе. Европейские колониальные державы считали своим долгом принести западную цивилизацию тем, кого они воспринимали как отсталые народы. Вместо того чтобы просто управлять колониальными народами, европейцы пытались западнизировать их в соответствии с колониальной идеологией, известной как «ассимиляция».'
 WHERE Tag = 'TXT_KEY_POLICY_TREASURE_FLEETS_TEXT';
-
 --------------------
 -- Rationalism
 --------------------
-
 -- Leader title change
+
 UPDATE Language_RU_RU
 SET Text = 'Канцлер {1_PlayerName:textkey} из {2_CivName:textkey}'
 WHERE Tag = 'TXT_KEY_RATIONALISM_TITLE';
@@ -658,7 +651,6 @@ WHERE Tag = 'TXT_KEY_POLICY_SOVEREIGNTY_TEXT';
 UPDATE Language_RU_RU
 SET Text = '[COLOR_POSITIVE_TEXT]Свобода мысли[ENDCOLOR][NEWLINE][ICON_BULLET]-5 [ICON_HAPPINESS_3] несчастья от религиозных беспорядков во всех городах.[NEWLINE][ICON_BULLET]+25% к мгновенным доходам от [ICON_GREAT_SCIENTIST] великих ученых.[NEWLINE][ICON_BULLET]Зарабатывайте [ICON_GREAT_SCIENTIST] великих ученых на 33% быстрее.'
 WHERE Tag = 'TXT_KEY_POLICY_FREE_THOUGHT_HELP';
-
 --------------------
 -- Freedom
 --------------------
@@ -746,73 +738,124 @@ WHERE Tag = 'TXT_KEY_POLICY_VOLUNTEER_ARMY_TEXT';
 UPDATE Language_RU_RU
 SET Text = '[COLOR_POSITIVE_TEXT]Космические закупки[ENDCOLOR]: Можно инвестировать в части космического корабля [ICON_GOLD] золотом. Строить фабрики космических кораблей вдвое быстрее. +20% [ICON_RESEARCH] науки от исследовательских лабораторий.'
 WHERE Tag = 'TXT_KEY_POLICY_SPACE_PROCUREMENTS_HELP';
-
 --------------------
 -- Order
 --------------------
+
 UPDATE Language_RU_RU SET Text = 'Социалистический реализм' WHERE Tag = 'TXT_KEY_POLICY_CULTURAL_REVOLUTION';
+
 UPDATE Language_RU_RU SET Text = 'Культурная революция' WHERE Tag = 'TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT';
+
 UPDATE Language_RU_RU SET Text = 'Диктатура пролетариата' WHERE Tag = 'TXT_KEY_POLICY_PARTY_LEADERSHIP';
+
 UPDATE Language_RU_RU SET Text = 'Коммунизм' WHERE Tag = 'TXT_KEY_POLICY_SKYSCRAPERS';
+
 UPDATE Language_RU_RU SET Text = 'Народная армия' WHERE Tag = 'TXT_KEY_POLICY_SOCIALIST_REALISM';
+
 UPDATE Language_RU_RU SET Text = 'Большой скачок' WHERE Tag = 'TXT_KEY_POLICY_YOUNG_PIONEERS';
 
 UPDATE Language_RU_RU SET Text = 'Вождь {1_PlayerName:textkey} из {2_CivName:textkey}' WHERE Tag = 'TXT_KEY_AUTOCRACY_TITLE';
-
 --------------------
 -- Autocracy
 --------------------
-UPDATE Language_RU_RU SET Text = 'Боевой дух' WHERE Tag = 'TXT_KEY_POLICY_NEW_ORDER';
-UPDATE Language_RU_RU SET Text = 'Новый мировой порядок' WHERE Tag = 'TXT_KEY_POLICY_FORTIFIED_BORDERS';
-UPDATE Language_RU_RU SET Text = 'Жизненное пространство' WHERE Tag = 'TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE';
-UPDATE Language_RU_RU SET Text = 'Превосходство в воздухе' WHERE Tag = 'TXT_KEY_POLICY_MILITARISM';
-UPDATE Language_RU_RU SET Text = 'Военно-промышленный комплекс' WHERE Tag = 'TXT_KEY_POLICY_MOBILIZATION';
-UPDATE Language_RU_RU SET Text = 'Mare Nostrum' WHERE Tag = 'TXT_KEY_POLICY_NATIONALISM';
-UPDATE Language_RU_RU SET Text = 'Сфера сопроцветания' WHERE Tag = 'TXT_KEY_POLICY_GUNBOAT_DIPLOMACY';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Социалистический реализм[ENDCOLOR]: Открывает процесс пропаганды (преобразует 15% [ICON_PRODUCTION] производства в [ICON_TOURISM] туризм). +25% [ICON_TOURISM] туризма к другим цивилизациям, следующим Порядку. +4 [ICON_PRODUCTION] производства от всех [ICON_GREAT_WORK] великих произведений.' WHERE Tag = 'TXT_KEY_POLICY_CULTURAL_REVOLUTION_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Академия наук[ENDCOLOR]: -2 [ICON_HAPPINESS_3] несчастья от [ICON_RESEARCH] неграмотности во всех городах, +100% [ICON_PRODUCTION] производства к исследовательским лабораториям и получите 5 [COLOR_POSITIVE_TEXT]бесплатных[ENDCOLOR] исследовательских лабораторий в вашей империи. Исследовательские лаборатории генерируют дополнительно +2 [ICON_RESEARCH] науки.' WHERE Tag = 'TXT_KEY_POLICY_ACADEMY_SCIENCES_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Культурная ре...+25% [ICON_TOURISM] туризма к цивилизациям с меньшим [ICON_HAPPINESS_1] счастьем. +1 [ICON_HAPPINESS_1] счастья от фабрик.' WHERE Tag = 'TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Двойные агенты[ENDCOLOR]: Получите 200 [ICON_SPY_POINT] очков шпионажа. Получите 125 [ICON_RESEARCH] науки при идентификации иностранного шпиона, масштабируется с эпохой.' WHERE Tag = 'TXT_KEY_POLICY_DOUBLE_AGENTS_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Герой народа[ENDCOLOR]: Скорость появления [ICON_GREAT_PEOPLE] великих людей увеличена на 25%. Выбранный [ICON_GREAT_PEOPLE] великий человек появляется возле вашей [ICON_CAPITAL] столицы.' WHERE Tag = 'TXT_KEY_POLICY_HERO_OF_THE_PEOPLE_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Железный занавес[ENDCOLOR]: Бесплатный суд при немедленной аннексии города. +200% [ICON_FOOD] еды или [ICON_PRODUCTION] производства от внутренних торговых путей. [ICON_CONNECTED] Городские связи генерируют +5 [ICON_GOLD] золота и [ICON_PRODUCTION] производства.' WHERE Tag = 'TXT_KEY_POLICY_IRON_CURTAIN_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Пионеры космоса[ENDCOLOR]: Получите бесплатного великого инженера и великого ученого. Можно завершать части космического корабля великими инженерами. Использование [ICON_GREAT_PEOPLE] великого человека дает 100 [ICON_RESEARCH] науки, масштабируется с эпохой. Ускорение [ICON_PRODUCTION] производства великими инженерами на 50% эффективнее.' WHERE Tag = 'TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Диктатура пролетариата[ENDCOLOR]: +7 [ICON_FOOD] еды, [ICON_RESEARCH] науки, [ICON_GOLD] золота и [ICON_CULTURE] культуры в каждом городе.' WHERE Tag = 'TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Отечественная война[ENDCOLOR]: Наземные юниты получают +20% [ICON_STRENGTH] силы в городах и на соседних клетках. При первом завоевании города все боевые юниты в радиусе 3 клеток полностью исцеляются. Можно строить [COLOR_YELLOW]Т-34[ENDCOLOR].' WHERE Tag = 'TXT_KEY_POLICY_PATRIOTIC_WAR_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Переселение[ENDCOLOR]: Новые города имеют +3 [ICON_CITIZEN] населения. Все города получают +2 [ICON_CITIZEN] гражданина немедленно. Нет партизан при сожжении вражеских городов.' WHERE Tag = 'TXT_KEY_POLICY_RESETTLEMENT_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Коммунизм[ENDCOLOR]: [ICON_GOLD] Золотая стоимость инвестиций в здания снижена на 25%. +20% [ICON_PRODUCTION] производства при строительстве [ICON_WONDER] чудес.' WHERE Tag = 'TXT_KEY_POLICY_SKYSCRAPERS_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Народная армия[ENDCOLOR]: +100% [ICON_PRODUCTION] производства к военным академиям и получите 5 [COLOR_POSITIVE_TEXT]бесплатных[ENDCOLOR] военных академий в вашей империи. Школы производят +5 [ICON_CULTURE] культуры и +2 [ICON_HAPPINESS_1] счастья.' WHERE Tag = 'TXT_KEY_POLICY_SOCIALIST_REALISM_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Рабочие факультеты[ENDCOLOR]: Фабрики увеличивают [ICON_RESEARCH] научный выход города на 10%. +100% [ICON_PRODUCTION] производства к фабрикам и получите 5 [COLOR_POSITIVE_TEXT]бесплатных[ENDCOLOR] фабрик в вашей империи.' WHERE Tag = 'TXT_KEY_POLICY_WORKERS_FACULTIES_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Большой скачок[ENDCOLOR]: Получите бесплатную технологию. Шпионы получают +100% [ICON_RESEARCH] науки. +1 [ICON_RESEARCH] науки в городах за каждых 3 не-специалистских [ICON_CITIZEN] гражданина.' WHERE Tag = 'TXT_KEY_POLICY_YOUNG_PIONEERS_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Пятилетний план[ENDCOLOR]: +20% [ICON_PRODUCTION] производства к зданиям во всех городах. +3 [ICON_PRODUCTION] производства за каждую шахту, карьер, лесопилку, нефтяную вышку и уникальное улучшение.' WHERE Tag = 'TXT_KEY_POLICY_FIVE_YEAR_PLAN_HELP';
 
+UPDATE Language_RU_RU SET Text = 'Боевой дух' WHERE Tag = 'TXT_KEY_POLICY_NEW_ORDER';
+
+UPDATE Language_RU_RU SET Text = 'Новый мировой порядок' WHERE Tag = 'TXT_KEY_POLICY_FORTIFIED_BORDERS';
+
+UPDATE Language_RU_RU SET Text = 'Жизненное пространство' WHERE Tag = 'TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE';
+
+UPDATE Language_RU_RU SET Text = 'Превосходство в воздухе' WHERE Tag = 'TXT_KEY_POLICY_MILITARISM';
+
+UPDATE Language_RU_RU SET Text = 'Военно-промышленный комплекс' WHERE Tag = 'TXT_KEY_POLICY_MOBILIZATION';
+
+UPDATE Language_RU_RU SET Text = 'Mare Nostrum' WHERE Tag = 'TXT_KEY_POLICY_NATIONALISM';
+
+UPDATE Language_RU_RU SET Text = 'Сфера сопроцветания' WHERE Tag = 'TXT_KEY_POLICY_GUNBOAT_DIPLOMACY';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Социалистический реализм[ENDCOLOR]: Открывает процесс пропаганды (преобразует 15% [ICON_PRODUCTION] производства в [ICON_TOURISM] туризм). +25% [ICON_TOURISM] туризма к другим цивилизациям, следующим Порядку. +4 [ICON_PRODUCTION] производства от всех [ICON_GREAT_WORK] великих произведений.' WHERE Tag = 'TXT_KEY_POLICY_CULTURAL_REVOLUTION_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Академия наук[ENDCOLOR]: -2 [ICON_HAPPINESS_3] несчастья от [ICON_RESEARCH] неграмотности во всех городах, +100% [ICON_PRODUCTION] производства к исследовательским лабораториям и получите 5 [COLOR_POSITIVE_TEXT]бесплатных[ENDCOLOR] исследовательских лабораторий в вашей империи. Исследовательские лаборатории генерируют дополнительно +2 [ICON_RESEARCH] науки.' WHERE Tag = 'TXT_KEY_POLICY_ACADEMY_SCIENCES_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Культурная ре...+25% [ICON_TOURISM] туризма к цивилизациям с меньшим [ICON_HAPPINESS_1] счастьем. +1 [ICON_HAPPINESS_1] счастья от фабрик.' WHERE Tag = 'TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Двойные агенты[ENDCOLOR]: Получите 200 [ICON_SPY_POINT] очков шпионажа. Получите 125 [ICON_RESEARCH] науки при идентификации иностранного шпиона, масштабируется с эпохой.' WHERE Tag = 'TXT_KEY_POLICY_DOUBLE_AGENTS_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Герой народа[ENDCOLOR]: Скорость появления [ICON_GREAT_PEOPLE] великих людей увеличена на 25%. Выбранный [ICON_GREAT_PEOPLE] великий человек появляется возле вашей [ICON_CAPITAL] столицы.' WHERE Tag = 'TXT_KEY_POLICY_HERO_OF_THE_PEOPLE_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Железный занавес[ENDCOLOR]: Бесплатный суд при немедленной аннексии города. +200% [ICON_FOOD] еды или [ICON_PRODUCTION] производства от внутренних торговых путей. [ICON_CONNECTED] Городские связи генерируют +5 [ICON_GOLD] золота и [ICON_PRODUCTION] производства.' WHERE Tag = 'TXT_KEY_POLICY_IRON_CURTAIN_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Пионеры космоса[ENDCOLOR]: Получите бесплатного великого инженера и великого ученого. Можно завершать части космического корабля великими инженерами. Использование [ICON_GREAT_PEOPLE] великого человека дает 100 [ICON_RESEARCH] науки, масштабируется с эпохой. Ускорение [ICON_PRODUCTION] производства великими инженерами на 50% эффективнее.' WHERE Tag = 'TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Диктатура пролетариата[ENDCOLOR]: +7 [ICON_FOOD] еды, [ICON_RESEARCH] науки, [ICON_GOLD] золота и [ICON_CULTURE] культуры в каждом городе.' WHERE Tag = 'TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Отечественная война[ENDCOLOR]: Наземные юниты получают +20% [ICON_STRENGTH] силы в городах и на соседних клетках. При первом завоевании города все боевые юниты в радиусе 3 клеток полностью исцеляются. Можно строить [COLOR_YELLOW]Т-34[ENDCOLOR].' WHERE Tag = 'TXT_KEY_POLICY_PATRIOTIC_WAR_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Переселение[ENDCOLOR]: Новые города имеют +3 [ICON_CITIZEN] населения. Все города получают +2 [ICON_CITIZEN] гражданина немедленно. Нет партизан при сожжении вражеских городов.' WHERE Tag = 'TXT_KEY_POLICY_RESETTLEMENT_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Коммунизм[ENDCOLOR]: [ICON_GOLD] Золотая стоимость инвестиций в здания снижена на 25%. +20% [ICON_PRODUCTION] производства при строительстве [ICON_WONDER] чудес.' WHERE Tag = 'TXT_KEY_POLICY_SKYSCRAPERS_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Народная армия[ENDCOLOR]: +100% [ICON_PRODUCTION] производства к военным академиям и получите 5 [COLOR_POSITIVE_TEXT]бесплатных[ENDCOLOR] военных академий в вашей империи. Школы производят +5 [ICON_CULTURE] культуры и +2 [ICON_HAPPINESS_1] счастья.' WHERE Tag = 'TXT_KEY_POLICY_SOCIALIST_REALISM_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Рабочие факультеты[ENDCOLOR]: Фабрики увеличивают [ICON_RESEARCH] научный выход города на 10%. +100% [ICON_PRODUCTION] производства к фабрикам и получите 5 [COLOR_POSITIVE_TEXT]бесплатных[ENDCOLOR] фабрик в вашей империи.' WHERE Tag = 'TXT_KEY_POLICY_WORKERS_FACULTIES_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Большой скачок[ENDCOLOR]: Получите бесплатную технологию. Шпионы получают +100% [ICON_RESEARCH] науки. +1 [ICON_RESEARCH] науки в городах за каждых 3 не-специалистских [ICON_CITIZEN] гражданина.' WHERE Tag = 'TXT_KEY_POLICY_YOUNG_PIONEERS_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Пятилетний план[ENDCOLOR]: +20% [ICON_PRODUCTION] производства к зданиям во всех городах. +3 [ICON_PRODUCTION] производства за каждую шахту, карьер, лесопилку, нефтяную вышку и уникальное улучшение.' WHERE Tag = 'TXT_KEY_POLICY_FIVE_YEAR_PLAN_HELP';
 --------------------
 -- Autocracy HELP Texts
 --------------------
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Боевой дух[ENDCOLOR]: +25% [ICON_STRENGTH] боевой силы при рукопашной атаке на 50 ходов, масштабируется со скоростью игры. [ICON_WAR] Военная усталость снижена на 25%, а скорость [ICON_RAZING] сожжения удвоена.' WHERE Tag = 'TXT_KEY_POLICY_NEW_ORDER_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Культ личности[ENDCOLOR]: +50% [ICON_TOURISM] туризма к цивилизациям, воюющим с общим врагом. 50% вашего наивысшего военного счета засчитывается как модификатор [ICON_TOURISM] туризма со всеми цивилизациями. Бесплатный [ICON_GREAT_PEOPLE] великий человек по вашему выбору.' WHERE Tag = 'TXT_KEY_POLICY_CULT_PERSONALITY_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Элитные силы[ENDCOLOR]: Новые военные юниты получают +15 опыта. Военные юниты получают на 50% больше опыта от боя.' WHERE Tag = 'TXT_KEY_POLICY_ELITE_FORCES_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Новый мировой порядок[ENDCOLOR]: -2 [ICON_HAPPINESS_3] несчастья от [ICON_FOOD] и [ICON_PRODUCTION] низкой производительности во всех городах. Полицейские участки и констебли дают +3 [ICON_CULTURE] культуры и +5 [ICON_PRODUCTION] производства и строятся на 100% быстрее.' WHERE Tag = 'TXT_KEY_POLICY_FORTIFIED_BORDERS_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Футуризм[ENDCOLOR]: Усиливает [ICON_TOURISM] туризм от [COLOR_POSITIVE_TEXT]исторических событий[ENDCOLOR], генерируемых дворцом. +2 [ICON_CULTURE] культуры от великих произведений. Получайте 50 [ICON_TOURISM] туризма при первом завоевании города, масштабируется с эпохой и размером города.' WHERE Tag = 'TXT_KEY_POLICY_FUTURISM_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Жизненное пространство[ENDCOLOR]: Получайте 10 [ICON_CULTURE] культуры и [ICON_GOLDEN_AGE] очков золотого века при расширении границ, масштабируется с эпохой. Цитадели можно строить в иностранной территории, прилегающей к вашим границам. Сохраняйте клетки после сожжения городов.' WHERE Tag = 'TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Блицкриг[ENDCOLOR]: +3 [ICON_MOVES] перемещения для великих генералов. Огнестрельные юниты получают +15% к атаке и игнорируют вражеский ЗОК; бронированные юниты получают +15% к атаке и +1 [ICON_MOVES] перемещения.' WHERE Tag = 'TXT_KEY_POLICY_LIGHTNING_WARFARE_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Превосходство в воздухе[ENDCOLOR]: Получите бесплатный аэропорт в каждом городе. +25% [ICON_PRODUCTION] производства при строительстве авиации. Можно строить [COLOR_YELLOW]Зеро[ENDCOLOR].' WHERE Tag = 'TXT_KEY_POLICY_MILITARISM_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Военно-промышленный комплекс[ENDCOLOR]: -33% [ICON_GOLD] золотая стоимость покупки юнитов. +3 [ICON_RESEARCH] науки от [ICON_STRENGTH] оборонительных зданий, цитаделей, фортов и уникальных улучшений.' WHERE Tag = 'TXT_KEY_POLICY_MOBILIZATION_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Mare Nostrum[ENDCOLOR]: +1 [ICON_RES_OIL] нефти и [ICON_RES_COAL] угля за каждый альянс с городом-государством. +2 [ICON_PRODUCTION] производства и [ICON_CULTURE] культуры от атоллов, рыбацких лодок и морских нефтяных платформ. Морские дальнобойные юниты получают повышение [COLOR_POSITIVE_TEXT]Mare Nostrum[ENDCOLOR].' WHERE Tag = 'TXT_KEY_POLICY_NATIONALISM_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Полицейское государство[ENDCOLOR]: +3 [ICON_HAPPINESS_1] местного счастья от каждого суда и +10 к безопасности города от полицейских участков. +100% [ICON_PRODUCTION] производства к судам и полицейским участкам.' WHERE Tag = 'TXT_KEY_POLICY_POLICE_STATE_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Третий путь[ENDCOLOR]: Количество производимых стратегических ресурсов (включая [ICON_RES_PAPER] бумагу) увеличено на 100%. Снижает [ICON_GOLD] золотые затраты на содержание юнитов на 25%.' WHERE Tag = 'TXT_KEY_POLICY_THIRD_ALTERNATIVE_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Тотальная война[ENDCOLOR]: +25% [ICON_PRODUCTION] производства при строительстве наземных юнитов. Военный счет растет на 25% быстрее, и запугивание городов-государств на 25% легче.' WHERE Tag = 'TXT_KEY_POLICY_TOTAL_WAR_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Сфера сопроцветания[ENDCOLOR]: Запугивание [ICON_CITY_STATE] городов-государств больше не снижает [ICON_INFLUENCE] влияние, не отменяет квесты и не аннулирует обещания защиты. При этом [ICON_INFLUENCE] влияние всех других цивилизаций с запуганным городом-государством снижается на 10%, а ваше [ICON_INFLUENCE] влияние увеличивается на 10%.' WHERE Tag = 'TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_HELP';
-UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Единый фронт[ENDCOLOR]: Военное снабжение, генерируемое [ICON_CITIZEN] населением, увеличено на 25%. Во время войны ваша точка покоя для [ICON_INFLUENCE] влияния с союзными городами-государствами увеличена на 100, а скорость получения юнитов от военных городов-государств утроена.' WHERE Tag = 'TXT_KEY_POLICY_UNITED_FRONT_HELP';
-UPDATE Language_RU_RU SET Text = 'Движение социалистического реализма, стиль реалистического выражения, зародившийся в Советской России и ставший доминирующим в коммунистических странах по всему миру, пропагандировало торжество социализма через искусство, фотографию, кино и общественные памятники. Наряду со стилем социалистического классицизма в архитектуре, социалистический реализм был единственным одобренным партией стилем публичного искусства в Советском Союзе в течение шестидесяти лет.' WHERE Tag = 'TXT_KEY_POLICY_CULTURAL_REVOLUTION_TEXT';
-UPDATE Language_RU_RU SET Text = 'Великая пролетарская культурная ре...являлась социальным движением 1966-1976 годов в Китайской Народной Республике. Начатая Мао Цзедуном и Коммунистической партией, культурная ре...направлена на пере... крестьян через аресты и насилие. Культурная борьба охватила все уровни общества.' WHERE Tag = 'TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT_TEXT';
-UPDATE Language_RU_RU SET Text = 'В социально-политической теории Маркса диктатура пролетариата относится к социальному состоянию, в котором рабочий класс имеет прямой контроль над политической властью. В данном случае диктатура не относится к общепринятому определению, а означает, что целый социальный класс контролирует нацию.' WHERE Tag = 'TXT_KEY_POLICY_PARTY_LEADERSHIP_TEXT';
-UPDATE Language_RU_RU SET Text = 'Коммунизм — это социально-экономическая система, основанная на общей собственности на средства производства и характеризующаяся отсутствием социальных классов, денег и государства.' WHERE Tag = 'TXT_KEY_POLICY_SKYSCRAPERS_TEXT';
-UPDATE Language_RU_RU SET Text = 'Народно-освободительная армия ведет свою историю от восстания в Наньчане 1 августа 1927 года. Выжившие после этого и других прерванных коммунистических восстаний бежали в горы Цзинганшань.' WHERE Tag = 'TXT_KEY_POLICY_SOCIALIST_REALISM_TEXT';
-UPDATE Language_RU_RU SET Text = 'Великий скачок Китая был экономической и социальной кампанией Коммунистической партии Китая 1958-1961 годов. Кампания проводилась под руководством Мао Цзедуна и была направлена на быстрое превращение страны из аграрной экономики в коммунистическое общество.' WHERE Tag = 'TXT_KEY_POLICY_YOUNG_PIONEERS_TEXT';
-UPDATE Language_RU_RU SET Text = 'Боевой дух представляет собой распространенность соревновательных и боевых видов спорта в обществе. Сегодня спортсмены обычно сражаются один на один, но могут использовать различные комплексы навыков.' WHERE Tag = 'TXT_KEY_POLICY_NEW_ORDER_TEXT';
-UPDATE Language_RU_RU SET Text = 'Lebensraum (немецкое слово, означающее жизненное пространство или буквально жизненное пространство) была идеологией, предлагавшей агрессивное расширение Германии и немецкого народа.' WHERE Tag = 'TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_TEXT';
-UPDATE Language_RU_RU SET Text = 'Превосходство в воздухе — это положение в войне, когда одна сторона имеет полный контроль над воздушными боевыми действиями и воздушной мощью над противником.' WHERE Tag = 'TXT_KEY_POLICY_MILITARISM_TEXT';
-UPDATE Language_RU_RU SET Text = 'Военно-промышленный комплекс включает политические и денежные отношения между законодателями, национальными вооруженными силами и оружейной промышленностью.' WHERE Tag = 'TXT_KEY_POLICY_MOBILIZATION_TEXT';
-UPDATE Language_RU_RU SET Text = 'Mare Nostrum, что означает Наше море, относится к контролю Римской империи над всем Средиземноморским бассейном.' WHERE Tag = 'TXT_KEY_POLICY_NATIONALISM_TEXT';
-UPDATE Language_RU_RU SET Text = 'Большая сфера сопроцветания Восточной Азии была экономическим блоком, состоящим из Японии и ее азиатских союзников. Заявленная цель организации — восточноазиатское сотрудничество.' WHERE Tag = 'TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_TEXT';
 
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Боевой дух[ENDCOLOR]: +25% [ICON_STRENGTH] боевой силы при рукопашной атаке на 50 ходов, масштабируется со скоростью игры. [ICON_WAR] Военная усталость снижена на 25%, а скорость [ICON_RAZING] сожжения удвоена.' WHERE Tag = 'TXT_KEY_POLICY_NEW_ORDER_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Культ личности[ENDCOLOR]: +50% [ICON_TOURISM] туризма к цивилизациям, воюющим с общим врагом. 50% вашего наивысшего военного счета засчитывается как модификатор [ICON_TOURISM] туризма со всеми цивилизациями. Бесплатный [ICON_GREAT_PEOPLE] великий человек по вашему выбору.' WHERE Tag = 'TXT_KEY_POLICY_CULT_PERSONALITY_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Элитные силы[ENDCOLOR]: Новые военные юниты получают +15 опыта. Военные юниты получают на 50% больше опыта от боя.' WHERE Tag = 'TXT_KEY_POLICY_ELITE_FORCES_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Новый мировой порядок[ENDCOLOR]: -2 [ICON_HAPPINESS_3] несчастья от [ICON_FOOD] и [ICON_PRODUCTION] низкой производительности во всех городах. Полицейские участки и констебли дают +3 [ICON_CULTURE] культуры и +5 [ICON_PRODUCTION] производства и строятся на 100% быстрее.' WHERE Tag = 'TXT_KEY_POLICY_FORTIFIED_BORDERS_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Футуризм[ENDCOLOR]: Усиливает [ICON_TOURISM] туризм от [COLOR_POSITIVE_TEXT]исторических событий[ENDCOLOR], генерируемых дворцом. +2 [ICON_CULTURE] культуры от великих произведений. Получайте 50 [ICON_TOURISM] туризма при первом завоевании города, масштабируется с эпохой и размером города.' WHERE Tag = 'TXT_KEY_POLICY_FUTURISM_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Жизненное пространство[ENDCOLOR]: Получайте 10 [ICON_CULTURE] культуры и [ICON_GOLDEN_AGE] очков золотого века при расширении границ, масштабируется с эпохой. Цитадели можно строить в иностранной территории, прилегающей к вашим границам. Сохраняйте клетки после сожжения городов.' WHERE Tag = 'TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Блицкриг[ENDCOLOR]: +3 [ICON_MOVES] перемещения для великих генералов. Огнестрельные юниты получают +15% к атаке и игнорируют вражеский ЗОК; бронированные юниты получают +15% к атаке и +1 [ICON_MOVES] перемещения.' WHERE Tag = 'TXT_KEY_POLICY_LIGHTNING_WARFARE_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Превосходство в воздухе[ENDCOLOR]: Получите бесплатный аэропорт в каждом городе. +25% [ICON_PRODUCTION] производства при строительстве авиации. Можно строить [COLOR_YELLOW]Зеро[ENDCOLOR].' WHERE Tag = 'TXT_KEY_POLICY_MILITARISM_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Военно-промышленный комплекс[ENDCOLOR]: -33% [ICON_GOLD] золотая стоимость покупки юнитов. +3 [ICON_RESEARCH] науки от [ICON_STRENGTH] оборонительных зданий, цитаделей, фортов и уникальных улучшений.' WHERE Tag = 'TXT_KEY_POLICY_MOBILIZATION_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Mare Nostrum[ENDCOLOR]: +1 [ICON_RES_OIL] нефти и [ICON_RES_COAL] угля за каждый альянс с городом-государством. +2 [ICON_PRODUCTION] производства и [ICON_CULTURE] культуры от атоллов, рыбацких лодок и морских нефтяных платформ. Морские дальнобойные юниты получают повышение [COLOR_POSITIVE_TEXT]Mare Nostrum[ENDCOLOR].' WHERE Tag = 'TXT_KEY_POLICY_NATIONALISM_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Полицейское государство[ENDCOLOR]: +3 [ICON_HAPPINESS_1] местного счастья от каждого суда и +10 к безопасности города от полицейских участков. +100% [ICON_PRODUCTION] производства к судам и полицейским участкам.' WHERE Tag = 'TXT_KEY_POLICY_POLICE_STATE_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Третий путь[ENDCOLOR]: Количество производимых стратегических ресурсов (включая [ICON_RES_PAPER] бумагу) увеличено на 100%. Снижает [ICON_GOLD] золотые затраты на содержание юнитов на 25%.' WHERE Tag = 'TXT_KEY_POLICY_THIRD_ALTERNATIVE_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Тотальная война[ENDCOLOR]: +25% [ICON_PRODUCTION] производства при строительстве наземных юнитов. Военный счет растет на 25% быстрее, и запугивание городов-государств на 25% легче.' WHERE Tag = 'TXT_KEY_POLICY_TOTAL_WAR_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Сфера сопроцветания[ENDCOLOR]: Запугивание [ICON_CITY_STATE] городов-государств больше не снижает [ICON_INFLUENCE] влияние, не отменяет квесты и не аннулирует обещания защиты. При этом [ICON_INFLUENCE] влияние всех других цивилизаций с запуганным городом-государством снижается на 10%, а ваше [ICON_INFLUENCE] влияние увеличивается на 10%.' WHERE Tag = 'TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_HELP';
+
+UPDATE Language_RU_RU SET Text = '[COLOR_POSITIVE_TEXT]Единый фронт[ENDCOLOR]: Военное снабжение, генерируемое [ICON_CITIZEN] населением, увеличено на 25%. Во время войны ваша точка покоя для [ICON_INFLUENCE] влияния с союзными городами-государствами увеличена на 100, а скорость получения юнитов от военных городов-государств утроена.' WHERE Tag = 'TXT_KEY_POLICY_UNITED_FRONT_HELP';
+
+UPDATE Language_RU_RU SET Text = 'Движение социалистического реализма, стиль реалистического выражения, зародившийся в Советской России и ставший доминирующим в коммунистических странах по всему миру, пропагандировало торжество социализма через искусство, фотографию, кино и общественные памятники. Наряду со стилем социалистического классицизма в архитектуре, социалистический реализм был единственным одобренным партией стилем публичного искусства в Советском Союзе в течение шестидесяти лет.' WHERE Tag = 'TXT_KEY_POLICY_CULTURAL_REVOLUTION_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Великая пролетарская культурная ре...являлась социальным движением 1966-1976 годов в Китайской Народной Республике. Начатая Мао Цзедуном и Коммунистической партией, культурная ре...направлена на пере... крестьян через аресты и насилие. Культурная борьба охватила все уровни общества.' WHERE Tag = 'TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'В социально-политической теории Маркса диктатура пролетариата относится к социальному состоянию, в котором рабочий класс имеет прямой контроль над политической властью. В данном случае диктатура не относится к общепринятому определению, а означает, что целый социальный класс контролирует нацию.' WHERE Tag = 'TXT_KEY_POLICY_PARTY_LEADERSHIP_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Коммунизм — это социально-экономическая система, основанная на общей собственности на средства производства и характеризующаяся отсутствием социальных классов, денег и государства.' WHERE Tag = 'TXT_KEY_POLICY_SKYSCRAPERS_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Народно-освободительная армия ведет свою историю от восстания в Наньчане 1 августа 1927 года. Выжившие после этого и других прерванных коммунистических восстаний бежали в горы Цзинганшань.' WHERE Tag = 'TXT_KEY_POLICY_SOCIALIST_REALISM_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Великий скачок Китая был экономической и социальной кампанией Коммунистической партии Китая 1958-1961 годов. Кампания проводилась под руководством Мао Цзедуна и была направлена на быстрое превращение страны из аграрной экономики в коммунистическое общество.' WHERE Tag = 'TXT_KEY_POLICY_YOUNG_PIONEERS_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Боевой дух представляет собой распространенность соревновательных и боевых видов спорта в обществе. Сегодня спортсмены обычно сражаются один на один, но могут использовать различные комплексы навыков.' WHERE Tag = 'TXT_KEY_POLICY_NEW_ORDER_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Lebensraum (немецкое слово, означающее жизненное пространство или буквально жизненное пространство) была идеологией, предлагавшей агрессивное расширение Германии и немецкого народа.' WHERE Tag = 'TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Превосходство в воздухе — это положение в войне, когда одна сторона имеет полный контроль над воздушными боевыми действиями и воздушной мощью над противником.' WHERE Tag = 'TXT_KEY_POLICY_MILITARISM_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Военно-промышленный комплекс включает политические и денежные отношения между законодателями, национальными вооруженными силами и оружейной промышленностью.' WHERE Tag = 'TXT_KEY_POLICY_MOBILIZATION_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Mare Nostrum, что означает Наше море, относится к контролю Римской империи над всем Средиземноморским бассейном.' WHERE Tag = 'TXT_KEY_POLICY_NATIONALISM_TEXT';
+
+UPDATE Language_RU_RU SET Text = 'Большая сфера сопроцветания Восточной Азии была экономическим блоком, состоящим из Японии и ее азиатских союзников. Заявленная цель организации — восточноазиатское сотрудничество.' WHERE Tag = 'TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_TEXT';

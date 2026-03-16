@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_RU_RU>
+
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_TRADING">
 			<Text>Без торговли технологиями</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_TRADING_HELP">
 			<Text>Отключает торговлю технологиями между цивилизациями.</Text>
 		</Row>
@@ -11,6 +13,7 @@
 		<Row Tag="TXT_KEY_GAME_OPTION_RESEARCH_AGREEMENTS">
 			<Text>Включить соглашения о исследованиях</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GAME_OPTION_RESEARCH_AGREEMENTS_HELP">
 			<Text>Если включено, можно заключать соглашения о исследованиях с другими цивилизациями.</Text>
 		</Row>
@@ -18,6 +21,7 @@
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_BROKERING">
 			<Text>Без посредничества в технологиях</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_BROKERING_HELP">
 			<Text>Если включено, нельзя продавать технологию другой цивилизации, если вы не исследовали её самостоятельно.</Text>
 		</Row>
@@ -25,6 +29,7 @@
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_VASSALAGE">
 			<Text>Без вассалитета</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GAME_OPTION_NO_VASSALAGE_HELP">
 			<Text>Отключает систему вассалитета. Нельзя создавать вассалов.</Text>
 		</Row>
@@ -32,6 +37,7 @@
 		<Row Tag="TXT_KEY_GAME_OPTION_PASSIVE_ESPIONAGE">
 			<Text>Пассивный шпионаж</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GAME_OPTION_PASSIVE_ESPIONAGE_HELP">
 			<Text>Отключает продвинутые миссии шпионов. Шпионы дают только пассивные преимущества, находясь в городе. Примечание: эта опция ничего не делает, если включена опция «Без шпионажа».</Text>
 		</Row>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_RU_RU>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_FLOOD_TABLET">
 			<Text>Табличка о Потопе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FLOOD_TABLET">
 			<Text>«Море успокоилось, и прекратились вихрь и потоп.[NEWLINE]Утнапиштим открыл окно и почувствовал свежий воздух на лице.[NEWLINE]Он взглянул на горизонт в поисках берегов и увидел участок суши.[NEWLINE]Лодка прочно застряла на горе Нимуш, которая удерживала её несколько дней, не позволяя качаться.[NEWLINE]Он выпустил ворона, который мог есть и склёвывать, и не возвращался к лодке.[NEWLINE]Затем он выпустил свой скот в разных направлениях.»</Text>
 		</Row>
@@ -11,13 +13,15 @@
 		<Row Tag="TXT_KEY_GREAT_WORK_THE_CROWN_JEWELS">
 			<Text>Королевские регалии</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_THE_CROWN_JEWELS_QUOTE">
 			<Text>«Напротив. Каждый доллар Бизона будет стоить[NEWLINE] пять британских фунтов. Ибо это обменный курс,[NEWLINE] который Банк Англии введёт после того,[NEWLINE] как я похищу их королеву.»[NEWLINE]— М. Бизон</Text>
 		</Row>
-		
+
 		<Row Tag="TXT_KEY_GREAT_WORK_BODHISATTVA">
 			<Text>Путь Бодхисаттвы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_BODHISATTVA_QUOTE">
 			<Text>«Мы сами творцы своей судьбы;[NEWLINE]и будучи творцами, мы в конечном счёте, пусть это и пугает,[NEWLINE]свободны.»[NEWLINE]— Шантидева</Text>
 		</Row>

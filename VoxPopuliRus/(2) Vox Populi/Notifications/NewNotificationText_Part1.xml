@@ -1,269 +1,357 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD_LATE">
-			<Text>{2_ResourceName:textkey} теперь доступен в {1_CityName:textkey}! Это увеличивает [ICON_PRODUCTION] Производство при строительстве чудес допромышленной эпохи в этом городе на {3_Num}%!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_PARTISANS_NEAR_RAZING_CITY">
-			<Text>Из-за того что вы сжигаете их город дотла, партизаны появились возле {1_Name}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_PARTISANS_NEAR_RAZING_CITY_S">
-			<Text>Партизаны возле {1_Name}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_FRIENDLY_PARTISANS_NEAR_RAZING_CITY">
-			<Text>Из-за того что ваш захваченный город сжигают дотла, дружественные партизаны появились возле {1_Name}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_FRIENDLY_PARTISANS_NEAR_RAZING_CITY_S">
-			<Text>Дружественные партизаны возле {1_Name}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CONSCRIPTION_SPAWN">
-			<Text>Так как в городе {1_CityName:textkey} проживает {2_Population} [ICON_CITIZEN] жителей, {3_Unit} был призван!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CONSCRIPTION_SPAWN_SUMMARY">
-			<Text>{2_Unit} призван городом {1_CityName:textkey}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_ANNEXED_CITY_STATE_UNIT_SPAWN">
-			<Text>Покорённый город-государство {1_CivName:textkey} даровал вам новый отряд!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ANNEXED_CITY_STATE_UNIT_SPAWN">
-			<Text>Новый отряд от {1_CivName:textkey}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_GREAT_MERCHANT">
-			<Text>Великое богатство, привезённое вашим {1_UnitType}, побудило вашу империю отпраздновать «День любви к королю» на [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] ходов!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_GREAT_MERCHANT_SUMMARY">
-			<Text>Ваш {1_UnitType} успешно торговал!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_FREE_RESOURCE">
-			<Text>Ваш {1_UnitType} отправился в далёкие земли и открыл [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]! Вам было передано [COLOR_POSITIVE_TEXT]{3_Num}[ENDCOLOR] ед. этого ресурса в знак признания вашего покровительства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_FREE_RESOURCE_SUMMARY">
-			<Text>Путешествие вашего {1_UnitType} завершено!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT">
-			<Text>Ваш {1_UnitType} увеличил ваше [ICON_INFLUENCE] влияние в {3_CivShortDesc} на [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR], и уменьшил влияние всех известных город-государству великих держав на ту же величину! Ваше минимальное [ICON_INFLUENCE] влияние у город-государства также увеличилось на [COLOR_POSITIVE_TEXT]{4_Num}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT_SUMMARY">
-			<Text>Миссия вашего {1_UnitType} выполнена!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT_OTHER">
-			<Text>{1_UnitType} увеличил {4_OwnerAdj} [ICON_INFLUENCE] влияние в {3_CivShortDesc} на [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR], и уменьшил ваше [ICON_INFLUENCE] влияние в город-государстве на ту же величину! Их минимальное [ICON_INFLUENCE] влияние у город-государства также увеличилось на [COLOR_NEGATIVE_TEXT]{5_Num}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT_OTHER_SUMMARY">
-			<Text>Миссия чужого {1_UnitType} выполнена!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_UNIT_EXPENDED_SUPPLY">
-			<Text>Использование {1_UnitName} увеличило лимит снабжения ваших военных отрядов на {2_Num}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_UNIT_EXPENDED_SUPPLY_S">
-			<Text>Лимит снабжения военных отрядов увеличен!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR">
-			<Text>Ваши музыканты были радостно встречены народом {1_PlayerAdj}. Вы получаете +[COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] [ICON_TOURISM] туризма с ними, и +{3_num} [ICON_HAPPINESS_1] счастья в вашей [ICON_CAPITAL] столице.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR_S">
-			<Text>Гастроли в землях {1_PlayerAdj} завершены!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR_TARGET">
-			<Text>{1_PlayerAdj} музыканты недавно гастролировали в вашей империи и были тепло приняты. {1_PlayerAdj} [ICON_TOURISM] культурное влияние на вас увеличилось на [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR].</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR_TARGET_S">
-			<Text>{1_PlayerName} музыканты прибыли!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS">
-			<Text>Ваши музыканты были радостно встречены народом {1_PlayerAdj}. Вы получаете +[COLOR_POSITIVE_TEXT]50%[ENDCOLOR] [ICON_TOURISM] туризма со всеми цивилизациями на {2_Num} ходов, и +[COLOR_POSITIVE_TEXT]100%[ENDCOLOR] [ICON_TOURISM] туризма с целевой цивилизацией на {2_Num} ходов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS_S">
-			<Text>Гастроли в землях {1_PlayerAdj} завершены!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS_TARGET">
-			<Text>{1_PlayerAdj} музыканты недавно гастролировали в вашей империи и были тепло приняты. {2_Player} получает +[COLOR_NEGATIVE_TEXT]100%[ENDCOLOR] [ICON_TOURISM] туризма с вами на [COLOR_NEGATIVE_TEXT]{3_Num}[ENDCOLOR] ходов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS_TARGET_S">
-			<Text>{1_PlayerName} музыканты прибыли!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_MONOPOLY_GAINED">
-			<Text>Вы контролируете более 50% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому имеете глобальную монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MONOPOLY_GAINED">
-			<Text>Глобальная монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_MONOPOLY_GAINED">
-			<Text>{3_CivName} {3_CivName: plural 1?контролирует; other?контролируют;} более 50% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому {3_CivName: plural 1?имеет; other?имеют;} глобальную монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OTHER_PLAYER_MONOPOLY_GAINED">
-			<Text>У {2_CivName} {2_CivName: plural 1?есть; other?есть;} глобальная монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_MONOPOLY_LOST">
-			<Text>У вас [COLOR_NEGATIVE_TEXT]больше нет[ENDCOLOR] глобальной монополии на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]![NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Потеряно:[ENDCOLOR][NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MONOPOLY_LOST">
-			<Text>Потеряна глобальная монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_STRATEGIC_MONOPOLY_GAINED">
-			<Text>Вы контролируете более 25% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому имеете стратегическую монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_STRATEGIC_MONOPOLY_GAINED">
-			<Text>Стратегическая монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_STRATEGIC_MONOPOLY_GAINED">
-			<Text>{3_CivName} {3_CivName: plural 1?контролирует; other?контролируют;} более 25% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому имеет стратегическую монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OTHER_PLAYER_STRATEGIC_MONOPOLY_GAINED">
-			<Text>У {2_CivName} {2_CivName: plural 1?есть; other?есть;} стратегическая монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_STRATEGIC_MONOPOLY_LOST">
-			<Text>У вас [COLOR_NEGATIVE_TEXT]больше нет[ENDCOLOR] стратегической монополии на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]![NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Потеряно:[ENDCOLOR][NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_STRATEGIC_MONOPOLY_LOST">
-			<Text>Потеряна стратегическая монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_PROJECT_STARTED">
-			<Text>{1_Player} начал строительство [COLOR_NEGATIVE_TEXT]{2_Building}[ENDCOLOR], и завершит его через [COLOR_NEGATIVE_TEXT]{3_Turns}[ENDCOLOR] {1_Num: plural 1?ход; other?ходов;}! По завершении {1_Player} достигнет [COLOR_NEGATIVE_TEXT]культурной победы[ENDCOLOR]!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_PROJECT_STARTED_S">
-			<Text>Строительство [COLOR_POSITIVE_TEXT]{1_Building}[ENDCOLOR] в процессе!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VASSALAGE_ALLOWED">
-			<Text>Вассалитет разблокирован!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_VASSALAGE_ALLOWED">
-			<Text>Так как вы достигли эпохи {1_EraName}, теперь вы можете создавать вассалов!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU_SUMMARY">
-			<Text>{1_TeamName} капитулировал перед нами!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU">
-			<Text>Столкнувшись с почти верным поражением, {1_TeamName} сдался вассалом нашей великой цивилизации.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU_VOLUNTARY_SUMMARY">
-			<Text>{1_TeamName} теперь наш добровольный вассал!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU_VOLUNTARY">
-			<Text>Осознав вашу великую силу, {1_TeamName} согласился принять вашу защиту в качестве вашего вассала.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_YOU_NOW_VASSAL_SUMMARY">
-			<Text>Теперь вы вассал {1_TeamName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_YOU_NOW_VASSAL">
-			<Text>Вы отказались от своей политической независимости в обмен на защиту {1_TeamName}, став их вассалом.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL_UNKNOWN_VASSAL_SUMMARY">
-			<Text>{1_PlyrName} приобрёл нового вассала!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL_UNKNOWN_VASSAL">
-			<Text>{1_PlyrName} приобрёл {2_PlyrName} в качестве нового вассала.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_WITH_YOU_SUMMARY">
-			<Text>{1_TeamName} больше не ваш вассал!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_WITH_YOU_PEACEFUL">
-			<Text>После долгих обсуждений мы согласились даровать народу {1_TeamName} свободу.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Они больше не наш вассал.[ENDCOLOR]</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_WITH_YOU">
-			<Text>Предательские псы во главе с {1_TeamName} взялись за оружие против нашей империи! Они объявили о своей независимости и готовы сражаться до смерти, защищая своё право.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Они больше не наш вассал.[ENDCOLOR]</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_FROM_YOU_SUMMARY">
-			<Text>Вы больше не вассал {1_TeamName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_FROM_YOU_PEACEFUL">
-			<Text>Нам даровали освобождение от {1_TeamName}! Мы больше не связаны их политическим курсом и свободны следовать своим интересам.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_FROM_YOU">
-			<Text>Да здравствует революция! Наш народ взялся за оружие, чтобы защитить право нашей страны на независимость от власти {1_TeamName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_INCREASED_SUMMARY">
-			<Text>Налоги повышены!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_INCREASED">
-			<Text>{1_TeamName} повысил ваши налоги с {2_Num}% до {3_Num}%!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_DECREASED_SUMMARY">
-			<Text>Налоги снижены!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_DECREASED">
-			<Text>{1_TeamName} снизил ваши налоги с {2_Num}% до {3_Num}%!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_LIBERATION_POSSIBLE_SUMMARY">
-			<Text>Освобождение возможно!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_LIBERATION_POSSIBLE">
-			<Text>Так как они были нашим вассалом много лет, теперь мы можем освободить {1_TeamName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_VASSAL_LEVY_SUMMARY">
-			<Text>Дань вассала!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_VASSAL_LEVY">
-			<Text>Так как вы вступили в новую эпоху, ваш вассал {1_TeamName} послал {2_Num} {2_Num: plural 1?отряд; other?отрядов;} в {3_CityName} в качестве дани.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED_VOLUNTARY_VASSAL">
-			<Text>{1_PlayerName} завоевал {2_CityName} и восстановил {3_CivAdj} суверенитет. Пламя {4_CivName}, когда-то угасшее, вновь горит. {4_CivName} теперь вассал {1_PlayerName}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL">
-			<Text>{1_PlyrName} теперь вассал {2_PlyrName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL_UNKNOWN_MASTER">
-			<Text>{1_PlyrName} теперь вассал {2_PlyrName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_SOMEONE_ACQUIRE_NEW_VASSAL">
-			<Text>{1_PlyrName} приобрёл нового вассала!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_SOMEONE_ENDED_VASSALAGE">
-			<Text>{1_PlyrName} больше не вассал {2_PlyrName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MISC_VASSAL_TAXES_AVAILABLE">
-			<Text>Изменение налога вассала доступно для {1_PlyrName}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_UA_STOLE_PLOT">
-			<Text>{1_CivName:textkey} провозглашает «Явное предназначение»!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_UA_STOLE_PLOT">
-			<Text>{1_CivName:textkey} купила часть вашей земли!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RESET_PLOT_COST">
-			<Text>«Явное предназначение»!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_RESET_PLOT_COST">
-			<Text>Основание нового города сбросило увеличение стоимости покупки клеток во всех ваших городах!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_BUILDING_CLAIMED_RESOURCE_S">
-			<Text>Ресурс присоединён!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_BUILDING_CLAIMED_RESOURCE">
-			<Text>При строительстве {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_BldgName}} ваш город {2_City} присоединил клетку с {3_ResourceName:textkey}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_BUILDING_CLAIMED_RESOURCE_FROM_OTHER_PLAYER">
-			<Text>При строительстве {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_BldgName}} ваш город {2_City} присоединил клетку с {3_ResourceName:textkey}! Клетка ранее принадлежала {4_CivName}, и [COLOR_NEGATIVE_TEXT]дипломатические отношения с ними ухудшились![ENDCOLOR]</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SCIENCE_BOOST_CONQUEST_SUMMARY">
-			<Text>Научные тайны разграблены!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SCIENCE_BOOST_CONQUEST">
-			<Text>Ваши солдаты нашли информацию стоимостью {1_Num} [ICON_RESEARCH] науки во время завоевания {2_Name}!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_GREAT_WORK">
-			<Text>Мандат Небес</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_GREAT_WORK">
-			<Text>Создание [ICON_GREAT_WORK] Великого произведения побуждает все города отпраздновать «День любви к императрице» на {1_Num} ходов, увеличивая их [ICON_FOOD] рост на +{2_Num}%! Все города получают +2 [ICON_FOOD] еды.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_CITY_SETTLING">
-			<Text>Мандат Небес</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_CITY_SETTLING">
-			<Text>Основание нового города побуждает все города отпраздновать «День любви к императрице» на {1_Num} ходов, увеличивая их [ICON_FOOD] рост на +{2_Num}%! Все города получают +2 [ICON_FOOD] еды.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_CITY_CONQUEST">
-			<Text>Мандат Небес</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_CITY_CONQUEST">
-			<Text>Завоевание города побуждает все города отпраздновать «День любви к императрице» на {1_Num} ходов, увеличивая их [ICON_FOOD] рост на +{2_Num}%! Все города получают +2 [ICON_FOOD] еды.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_RESOURCE">
-			<Text>Мандат Небес</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_RESOURCE">
-			<Text>Так как {1_Resource:textkey} подключён к вашей торговой сети, город {2_CityName:textkey} отмечает «День любви к императрице» на {3_Num} ходов, увеличивая его [ICON_FOOD] рост на +{4_Num}%!</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD_LATE">
+			<Text>{2_ResourceName:textkey} теперь доступен в {1_CityName:textkey}! Это увеличивает [ICON_PRODUCTION] Производство при строительстве чудес допромышленной эпохи в этом городе на {3_Num}%!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_PARTISANS_NEAR_RAZING_CITY">
+			<Text>Из-за того что вы сжигаете их город дотла, партизаны появились возле {1_Name}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_PARTISANS_NEAR_RAZING_CITY_S">
+			<Text>Партизаны возле {1_Name}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_FRIENDLY_PARTISANS_NEAR_RAZING_CITY">
+			<Text>Из-за того что ваш захваченный город сжигают дотла, дружественные партизаны появились возле {1_Name}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_FRIENDLY_PARTISANS_NEAR_RAZING_CITY_S">
+			<Text>Дружественные партизаны возле {1_Name}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CONSCRIPTION_SPAWN">
+			<Text>Так как в городе {1_CityName:textkey} проживает {2_Population} [ICON_CITIZEN] жителей, {3_Unit} был призван!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CONSCRIPTION_SPAWN_SUMMARY">
+			<Text>{2_Unit} призван городом {1_CityName:textkey}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_ANNEXED_CITY_STATE_UNIT_SPAWN">
+			<Text>Покорённый город-государство {1_CivName:textkey} даровал вам новый отряд!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ANNEXED_CITY_STATE_UNIT_SPAWN">
+			<Text>Новый отряд от {1_CivName:textkey}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_GREAT_MERCHANT">
+			<Text>Великое богатство, привезённое вашим {1_UnitType}, побудило вашу империю отпраздновать «День любви к королю» на [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] ходов!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_GREAT_MERCHANT_SUMMARY">
+			<Text>Ваш {1_UnitType} успешно торговал!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_FREE_RESOURCE">
+			<Text>Ваш {1_UnitType} отправился в далёкие земли и открыл [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]! Вам было передано [COLOR_POSITIVE_TEXT]{3_Num}[ENDCOLOR] ед. этого ресурса в знак признания вашего покровительства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_FREE_RESOURCE_SUMMARY">
+			<Text>Путешествие вашего {1_UnitType} завершено!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT">
+			<Text>Ваш {1_UnitType} увеличил ваше [ICON_INFLUENCE] влияние в {3_CivShortDesc} на [COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR], и уменьшил влияние всех известных город-государству великих держав на ту же величину! Ваше минимальное [ICON_INFLUENCE] влияние у город-государства также увеличилось на [COLOR_POSITIVE_TEXT]{4_Num}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT_SUMMARY">
+			<Text>Миссия вашего {1_UnitType} выполнена!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT_OTHER">
+			<Text>{1_UnitType} увеличил {4_OwnerAdj} [ICON_INFLUENCE] влияние в {3_CivShortDesc} на [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR], и уменьшил ваше [ICON_INFLUENCE] влияние в город-государстве на ту же величину! Их минимальное [ICON_INFLUENCE] влияние у город-государства также увеличилось на [COLOR_NEGATIVE_TEXT]{5_Num}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_DIPLOMAT_OTHER_SUMMARY">
+			<Text>Миссия чужого {1_UnitType} выполнена!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_EXPENDED_SUPPLY">
+			<Text>Использование {1_UnitName} увеличило лимит снабжения ваших военных отрядов на {2_Num}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_EXPENDED_SUPPLY_S">
+			<Text>Лимит снабжения военных отрядов увеличен!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR">
+			<Text>Ваши музыканты были радостно встречены народом {1_PlayerAdj}. Вы получаете +[COLOR_POSITIVE_TEXT]{2_Num}[ENDCOLOR] [ICON_TOURISM] туризма с ними, и +{3_num} [ICON_HAPPINESS_1] счастья в вашей [ICON_CAPITAL] столице.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR_S">
+			<Text>Гастроли в землях {1_PlayerAdj} завершены!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR_TARGET">
+			<Text>{1_PlayerAdj} музыканты недавно гастролировали в вашей империи и были тепло приняты. {1_PlayerAdj} [ICON_TOURISM] культурное влияние на вас увеличилось на [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR].</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_FAMILIAR_TOUR_TARGET_S">
+			<Text>{1_PlayerName} музыканты прибыли!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS">
+			<Text>Ваши музыканты были радостно встречены народом {1_PlayerAdj}. Вы получаете +[COLOR_POSITIVE_TEXT]50%[ENDCOLOR] [ICON_TOURISM] туризма со всеми цивилизациями на {2_Num} ходов, и +[COLOR_POSITIVE_TEXT]100%[ENDCOLOR] [ICON_TOURISM] туризма с целевой цивилизацией на {2_Num} ходов.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS_S">
+			<Text>Гастроли в землях {1_PlayerAdj} завершены!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS_TARGET">
+			<Text>{1_PlayerAdj} музыканты недавно гастролировали в вашей империи и были тепло приняты. {2_Player} получает +[COLOR_NEGATIVE_TEXT]100%[ENDCOLOR] [ICON_TOURISM] туризма с вами на [COLOR_NEGATIVE_TEXT]{3_Num}[ENDCOLOR] ходов.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_MUSICIAN_TOUR_TURNS_TARGET_S">
+			<Text>{1_PlayerName} музыканты прибыли!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_MONOPOLY_GAINED">
+			<Text>Вы контролируете более 50% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому имеете глобальную монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MONOPOLY_GAINED">
+			<Text>Глобальная монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_MONOPOLY_GAINED">
+			<Text>{3_CivName} {3_CivName: plural 1?контролирует; other?контролируют;} более 50% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому {3_CivName: plural 1?имеет; other?имеют;} глобальную монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OTHER_PLAYER_MONOPOLY_GAINED">
+			<Text>У {2_CivName} {2_CivName: plural 1?есть; other?есть;} глобальная монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_MONOPOLY_LOST">
+			<Text>У вас [COLOR_NEGATIVE_TEXT]больше нет[ENDCOLOR] глобальной монополии на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]![NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Потеряно:[ENDCOLOR][NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MONOPOLY_LOST">
+			<Text>Потеряна глобальная монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_STRATEGIC_MONOPOLY_GAINED">
+			<Text>Вы контролируете более 25% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому имеете стратегическую монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_STRATEGIC_MONOPOLY_GAINED">
+			<Text>Стратегическая монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_STRATEGIC_MONOPOLY_GAINED">
+			<Text>{3_CivName} {3_CivName: plural 1?контролирует; other?контролируют;} более 25% мировых запасов [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR], и поэтому имеет стратегическую монополию![NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OTHER_PLAYER_STRATEGIC_MONOPOLY_GAINED">
+			<Text>У {2_CivName} {2_CivName: plural 1?есть; other?есть;} стратегическая монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_STRATEGIC_MONOPOLY_LOST">
+			<Text>У вас [COLOR_NEGATIVE_TEXT]больше нет[ENDCOLOR] стратегической монополии на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]![NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Потеряно:[ENDCOLOR][NEWLINE][NEWLINE]{2_ResourceHelp}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_STRATEGIC_MONOPOLY_LOST">
+			<Text>Потеряна стратегическая монополия на [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_PROJECT_STARTED">
+			<Text>{1_Player} начал строительство [COLOR_NEGATIVE_TEXT]{2_Building}[ENDCOLOR], и завершит его через [COLOR_NEGATIVE_TEXT]{3_Turns}[ENDCOLOR] {1_Num: plural 1?ход; other?ходов;}! По завершении {1_Player} достигнет [COLOR_NEGATIVE_TEXT]культурной победы[ENDCOLOR]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_PROJECT_STARTED_S">
+			<Text>Строительство [COLOR_POSITIVE_TEXT]{1_Building}[ENDCOLOR] в процессе!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VASSALAGE_ALLOWED">
+			<Text>Вассалитет разблокирован!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_VASSALAGE_ALLOWED">
+			<Text>Так как вы достигли эпохи {1_EraName}, теперь вы можете создавать вассалов!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU_SUMMARY">
+			<Text>{1_TeamName} капитулировал перед нами!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU">
+			<Text>Столкнувшись с почти верным поражением, {1_TeamName} сдался вассалом нашей великой цивилизации.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU_VOLUNTARY_SUMMARY">
+			<Text>{1_TeamName} теперь наш добровольный вассал!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_NOW_VASSAL_YOU_VOLUNTARY">
+			<Text>Осознав вашу великую силу, {1_TeamName} согласился принять вашу защиту в качестве вашего вассала.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_YOU_NOW_VASSAL_SUMMARY">
+			<Text>Теперь вы вассал {1_TeamName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_YOU_NOW_VASSAL">
+			<Text>Вы отказались от своей политической независимости в обмен на защиту {1_TeamName}, став их вассалом.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL_UNKNOWN_VASSAL_SUMMARY">
+			<Text>{1_PlyrName} приобрёл нового вассала!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL_UNKNOWN_VASSAL">
+			<Text>{1_PlyrName} приобрёл {2_PlyrName} в качестве нового вассала.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_WITH_YOU_SUMMARY">
+			<Text>{1_TeamName} больше не ваш вассал!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_WITH_YOU_PEACEFUL">
+			<Text>После долгих обсуждений мы согласились даровать народу {1_TeamName} свободу.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Они больше не наш вассал.[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_WITH_YOU">
+			<Text>Предательские псы во главе с {1_TeamName} взялись за оружие против нашей империи! Они объявили о своей независимости и готовы сражаться до смерти, защищая своё право.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Они больше не наш вассал.[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_FROM_YOU_SUMMARY">
+			<Text>Вы больше не вассал {1_TeamName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_FROM_YOU_PEACEFUL">
+			<Text>Нам даровали освобождение от {1_TeamName}! Мы больше не связаны их политическим курсом и свободны следовать своим интересам.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSALAGE_ENDED_FROM_YOU">
+			<Text>Да здравствует революция! Наш народ взялся за оружие, чтобы защитить право нашей страны на независимость от власти {1_TeamName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_INCREASED_SUMMARY">
+			<Text>Налоги повышены!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_INCREASED">
+			<Text>{1_TeamName} повысил ваши налоги с {2_Num}% до {3_Num}%!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_DECREASED_SUMMARY">
+			<Text>Налоги снижены!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_TAX_DECREASED">
+			<Text>{1_TeamName} снизил ваши налоги с {2_Num}% до {3_Num}%!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_LIBERATION_POSSIBLE_SUMMARY">
+			<Text>Освобождение возможно!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_LIBERATION_POSSIBLE">
+			<Text>Так как они были нашим вассалом много лет, теперь мы можем освободить {1_TeamName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_VASSAL_LEVY_SUMMARY">
+			<Text>Дань вассала!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_VASSAL_LEVY">
+			<Text>Так как вы вступили в новую эпоху, ваш вассал {1_TeamName} послал {2_Num} {2_Num: plural 1?отряд; other?отрядов;} в {3_CityName} в качестве дани.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED_VOLUNTARY_VASSAL">
+			<Text>{1_PlayerName} завоевал {2_CityName} и восстановил {3_CivAdj} суверенитет. Пламя {4_CivName}, когда-то угасшее, вновь горит. {4_CivName} теперь вассал {1_PlayerName}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL">
+			<Text>{1_PlyrName} теперь вассал {2_PlyrName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_SOMEONE_NOW_VASSAL_UNKNOWN_MASTER">
+			<Text>{1_PlyrName} теперь вассал {2_PlyrName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_SOMEONE_ACQUIRE_NEW_VASSAL">
+			<Text>{1_PlyrName} приобрёл нового вассала!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_SOMEONE_ENDED_VASSALAGE">
+			<Text>{1_PlyrName} больше не вассал {2_PlyrName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MISC_VASSAL_TAXES_AVAILABLE">
+			<Text>Изменение налога вассала доступно для {1_PlyrName}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_UA_STOLE_PLOT">
+			<Text>{1_CivName:textkey} провозглашает «Явное предназначение»!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_UA_STOLE_PLOT">
+			<Text>{1_CivName:textkey} купила часть вашей земли!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RESET_PLOT_COST">
+			<Text>«Явное предназначение»!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_RESET_PLOT_COST">
+			<Text>Основание нового города сбросило увеличение стоимости покупки клеток во всех ваших городах!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_BUILDING_CLAIMED_RESOURCE_S">
+			<Text>Ресурс присоединён!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_BUILDING_CLAIMED_RESOURCE">
+			<Text>При строительстве {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_BldgName}} ваш город {2_City} присоединил клетку с {3_ResourceName:textkey}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_BUILDING_CLAIMED_RESOURCE_FROM_OTHER_PLAYER">
+			<Text>При строительстве {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_BldgName}} ваш город {2_City} присоединил клетку с {3_ResourceName:textkey}! Клетка ранее принадлежала {4_CivName}, и [COLOR_NEGATIVE_TEXT]дипломатические отношения с ними ухудшились![ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SCIENCE_BOOST_CONQUEST_SUMMARY">
+			<Text>Научные тайны разграблены!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SCIENCE_BOOST_CONQUEST">
+			<Text>Ваши солдаты нашли информацию стоимостью {1_Num} [ICON_RESEARCH] науки во время завоевания {2_Name}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_GREAT_WORK">
+			<Text>Мандат Небес</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_GREAT_WORK">
+			<Text>Создание [ICON_GREAT_WORK] Великого произведения побуждает все города отпраздновать «День любви к императрице» на {1_Num} ходов, увеличивая их [ICON_FOOD] рост на +{2_Num}%! Все города получают +2 [ICON_FOOD] еды.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_CITY_SETTLING">
+			<Text>Мандат Небес</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_CITY_SETTLING">
+			<Text>Основание нового города побуждает все города отпраздновать «День любви к императрице» на {1_Num} ходов, увеличивая их [ICON_FOOD] рост на +{2_Num}%! Все города получают +2 [ICON_FOOD] еды.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_CITY_CONQUEST">
+			<Text>Мандат Небес</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_CITY_CONQUEST">
+			<Text>Завоевание города побуждает все города отпраздновать «День любви к императрице» на {1_Num} ходов, увеличивая их [ICON_FOOD] рост на +{2_Num}%! Все города получают +2 [ICON_FOOD] еды.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD_UA_RESOURCE">
+			<Text>Мандат Небес</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD_UA_RESOURCE">
+			<Text>Так как {1_Resource:textkey} подключён к вашей торговой сети, город {2_CityName:textkey} отмечает «День любви к императрице» на {3_Num} ходов, увеличивая его [ICON_FOOD] рост на +{4_Num}%!</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

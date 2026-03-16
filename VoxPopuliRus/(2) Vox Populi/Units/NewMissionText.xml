@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 <Language_RU_RU>
 
 <Row Tag="TXT_KEY_MISSION_FREE_LUXURY">
-
 			<Text>Путешествие открытий</Text>
-
 		</Row>
 
 <Row Tag="TXT_KEY_MISSION_FREE_LUXURY_HELP">
-
 			<Text>Если юнит находится на своей территории, этот приказ расходует юнита, давая вам [COLOR_POSITIVE_TEXT]бесплатные[ENDCOLOR] экземпляры случайного ресурса роскоши (приоритет отдаётся тем, которых нет на этой карте и которые вы ещё не владеете).[NEWLINE][NEWLINE]Эти ресурсы не появятся на карте и не считаются для монополий, если их не было на карте, но могут быть проданы другим цивилизациям. Также увеличивает ваш [ICON_WAR] военный лимит на 1.</Text>
 		</Row>
 
 <Row Tag="TXT_KEY_MISSION_FREE_LUXURY_HELP_DISABLED">
-
 			<Text>Юнит должен находиться на своей территории, чтобы использовать эту способность.</Text>
 		</Row>
-
 </Language_RU_RU>
-
 </GameData>
-

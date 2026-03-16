@@ -111,10 +111,10 @@ SET Text = 'Без явного победителя, заручившегося
 WHERE Tag = 'TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_FAIL_DETAILS';
 
 UPDATE Language_RU_RU
-SET Text = 'Теперь вы можете добавить убеждение Реформации к вашей религии.'
+SET Text = 'Теперь вы можете добавить верование Реформации к вашей религии.'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_ADD_REFORMATION_BELIEF';
-
 -- World Wonder consolation yields
+
 UPDATE Language_RU_RU
 SET Text = '{1_CityName} больше не может работать над {2_BldgName}. Потерянное [ICON_PRODUCTION] производство конвертировано в {3_NumGold}[ICON_CULTURE]!'
 WHERE Tag = 'TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED' AND EXISTS (SELECT 1 FROM Community WHERE Type = 'COMMUNITY_CORE_BALANCE_WONDER_CONSOLATION_TWEAK' AND Value = 2);
@@ -130,8 +130,8 @@ WHERE Tag = 'TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED' AND EXISTS (SELECT 1 FROM 
 UPDATE Language_RU_RU
 SET Text = '{1_CityName} больше не может работать над {2_BldgName}. Потерянное [ICON_PRODUCTION] производство конвертировано в {3_NumGold}[ICON_PEACE]!'
 WHERE Tag = 'TXT_KEY_MISC_LOST_WONDER_PROD_CONVERTED' AND EXISTS (SELECT 1 FROM Community WHERE Type = 'COMMUNITY_CORE_BALANCE_WONDER_CONSOLATION_TWEAK' AND Value = 5);
-
 -- Cultural influence level changes
+
 UPDATE Language_RU_RU
 SET Text = 'Наша [ICON_CULTURE] культура [COLOR_NEGATIVE_TEXT]больше не является[ENDCOLOR] [COLOR_MAGENTA]экзотической[ENDCOLOR] для {1_Num}. Мы больше не получаем от них никаких бонусов.'
 WHERE Tag = 'TXT_KEY_INFLUENCE_US_1_BAD';
@@ -171,8 +171,8 @@ WHERE Tag = 'TXT_KEY_INFLUENCE_US_5_BAD';
 UPDATE Language_RU_RU
 SET Text = 'Наша [ICON_CULTURE] культура теперь [COLOR_MAGENTA]доминирующая[ENDCOLOR] для {1_Num}! Смотрите обзор культуры для получения увеличенных бонусов!'
 WHERE Tag = 'TXT_KEY_INFLUENCE_US_5';
-
 -- City-State quests
+
 UPDATE Language_RU_RU
 SET Text = 'Война разразилась между {2_CivName:textkey} и {1_TargetName:textkey}'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CITY_STATE';
@@ -188,13 +188,13 @@ WHERE Tag = 'TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CITY_STATE';
 UPDATE Language_RU_RU
 SET Text = 'Война между {2_CivName:textkey} и {1_TargetName:textkey} закончилась, с {2_CivName:textkey} как явным победителем. Ваши советники беспокоятся, что этот исход может привести к будущему конфликту.'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE';
-
 -- City Revolt Brewing
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку рейтинг одобрения вашей империи ниже 35%, город восстанет через [COLOR_NEGATIVE_TEXT]{1_Turns}[ENDCOLOR] ходов. Основываясь на текущих уровнях несчастья и культурном/идеологическом давлении, город, который, скорее всего, восстанет, — {2_CityName}, и он присоединится к {3_CivName}. Постарайтесь вывести уровень счастья вашей империи из этого диапазона как можно скорее!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT';
-
 -- Revolutionary Unrest Brewing
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку рейтинг одобрения вашей империи ниже 35%, город восстанет через [COLOR_NEGATIVE_TEXT]{1_Turns}[ENDCOLOR] {1_Turns: plural 1?ход; other?ходов;}. Основываясь на текущих уровнях несчастья, город, который, скорее всего, восстанет, — {2_CityName}. Если этот город восстанет, он восстановит суверенитет {3_CivName}. Постарайтесь вывести уровень счастья вашей империи из этого диапазона как можно скорее!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLUTION_CP';
@@ -202,18 +202,18 @@ WHERE Tag = 'TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLUTION_CP';
 UPDATE Language_RU_RU
 SET Text = 'Поскольку рейтинг одобрения вашей империи ниже 35%, город восстанет через [COLOR_NEGATIVE_TEXT]{1_Turns}[ENDCOLOR] {1_Turns: plural 1?ход; other?ходов;}. Основываясь на текущих уровнях несчастья, город, который, скорее всего, восстанет, — {2_CityName}. Если этот город восстанет, он станет независимым городом-государством. Постарайтесь вывести уровень счастья вашей империи из этого диапазона как можно скорее!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLUTION_CP_FREE_CITY';
-
 -- A City Revolts!
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку рейтинг одобрения вашей империи ниже 35%, город {1_CityName} восстал и присоединился к {2_CivName}!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_CITY_REVOLT';
-
 -- Rebels Appear!
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку рейтинг одобрения вашей империи ниже 35%, на вашей территории произошло восстание!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_REBELS';
-
 -- BALANCE_RESOURCE_SHORTAGE_UNIT_HEALING
+
 UPDATE Language_RU_RU
 SET Text = 'В настоящее время вы используете больше {1_Resource:textkey}, чем у вас есть! Все юниты, которым он требуется, [COLOR_NEGATIVE_TEXT]не могут исцеляться[ENDCOLOR].'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_OVER_RESOURCE_LIMIT'

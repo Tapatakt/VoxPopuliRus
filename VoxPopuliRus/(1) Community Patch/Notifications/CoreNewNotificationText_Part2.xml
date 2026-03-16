@@ -1,303 +1,403 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_STOPPED_SHORT">
-			<Text>Обещание защиты обеспечено.</Text>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_STOPPED_SHORT">
+			<Text>Обещание защиты обеспечено.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_STOPPED">
 			<Text>Ваше военное положение в мире и/или альянс и/или торговое соединение с {1_CSName} восстановлено, таким образом ваше [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR] {1_CSName} снова надёжно.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_SHORT">
 			<Text>Предупреждение об обещании защиты!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_MILITARY">
 			<Text>Ваш военный советник предупреждает, что [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали {1_CSName}, находится в опасности быть аннулированным из-за ослабления вашей военной мощи. Увеличьте вашу военную мощь на {3_Num}% в течение [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR] ходов, чтобы сохранить это обещание!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_DISTANCE">
 			<Text>Ваш военный советник предупреждает, что [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали {1_CSName}, находится в опасности быть аннулированным из-за расстояния. Заключите союз с {1_CSName} или убедитесь, что вы находитесь в пределах досягаемости торгового пути в течение [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR] {2_Num: plural 1?хода; other?ходов;}, чтобы сохранить это обещание!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_MILITARY_AND_DISTANCE">
 			<Text>Ваш военный советник предупреждает, что [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали {1_CSName}, находится в опасности быть аннулированным как из-за расстояния, так и из-за ослабления вашей военной мощи. Заключите союз с {1_CSName} или убедитесь, что вы находитесь в пределах досягаемости торгового пути И увеличьте вашу военную мощь на {3_Num}% в течение [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR] {2_Num: plural 1?хода; other?ходов;}, чтобы сохранить это обещание!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_SHORT">
 			<Text>Обещание защиты под угрозой!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_MILITARY">
 			<Text>Если вы не улучшите вашу военную мощь на {3_Num}% в течение {2_Num} {2_Num: plural 1?хода; other?ходов;}, [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали {1_CSName}, будет аннулировано!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_DISTANCE">
 			<Text>Если вы не заключите союз с {1_CSName} или не убедитесь, что ваши города находятся в пределах досягаемости торгового пути до истечения {2_Num} {2_Num: plural 1?хода; other?ходов;}, [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали {1_CSName}, будет аннулировано!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_WARNING_TIMER_MILITARY_AND_DISTANCE">
 			<Text>Если вы не заключите союз с {1_CSName} или не убедитесь, что ваши города находятся в пределах досягаемости торгового пути И не увеличите вашу военную мощь на {3_Num}% до истечения {2_Num} {2_Num: plural 1?хода; other?ходов;}, [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали {1_CSName}, будет аннулировано!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_CANCELLED_SHORT">
 			<Text>Обещание защиты аннулировано {1_CSName}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_CANCELLED_NO_CAPITAL">
 			<Text>Поскольку один или оба из вас не имеют городов, {1_CSName} аннулировал ваше [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR] ему.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_CANCELLED_INFLUENCE">
 			<Text>Из-за гнева {1_CSName} на вас они больше не ценят ваше [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR] им. В результате ваше обещание защиты {1_CSName} было [COLOR_NEGATIVE_TEXT]аннулировано[ENDCOLOR].</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_CANCELLED_MILITARY">
 			<Text>После должного рассмотрения и множества предупреждений {1_CSName} считает, что ваша армия больше не способна выполнить [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали. В результате ваше обещание защиты {1_CSName} было [COLOR_NEGATIVE_TEXT]аннулировано[ENDCOLOR].</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_CANCELLED_DISTANCE">
 			<Text>После должного рассмотрения и множества предупреждений {1_CSName} считает, что большие расстояния делают вас неспособными выполнить [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали. В результате ваше обещание защиты {1_CSName} было [COLOR_NEGATIVE_TEXT]аннулировано[ENDCOLOR].</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_PTP_CANCELLED_MILITARY_AND_DISTANCE">
 			<Text>После должного рассмотрения и множества предупреждений {1_CSName} считает, что большие расстояния и ослабление вашей военной мощи делают вас неспособными выполнить [COLOR_POSITIVE_TEXT]обещание защиты[ENDCOLOR], которое вы дали. В результате ваше обещание защиты {1_CSName} было [COLOR_NEGATIVE_TEXT]аннулировано[ENDCOLOR].</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_OTHER_RECEIVED_GOODY_S">
 			<Text>Бонус от древних руин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_OTHER_RECEIVED_GOODY">
 			<Text>{1_Civ:textkey} {@1_CivName: plural 1?получил; other?получили;} награды от древних руин: {@2_Reward}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_RECEIVED_SCIENCE">
 			<Text>[SPACE]Вы получили {1_Num} [ICON_RESEARCH] науки!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_RECEIVED_CULTURE">
 			<Text>[SPACE]Вы получили {1_Num} [ICON_CULTURE] культуры!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_RECEIVED_FAITH">
 			<Text>[SPACE]Вы получили {1_Num} [ICON_PEACE] веры!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_INSTANT_YIELD_EMPIRE">
 			<Text>Бонусы империи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_INSTANT_YIELD">
 			<Text>Обновление бонусов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_INSTANT_YIELD_IN_CITY">
 			<Text>Бонусы в {1_City}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_BIRTH">
 			<Text>Рождение [ICON_CITIZEN] горожанина:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BIRTH_SHORT">
 			<Text>Рождение горожанина</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BIRTH_HOLY_CITY_SHORT">
 			<Text>Рождение горожанина (святой город)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BAKTUN_END">
 			<Text>Конец бактуна:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BAKTUN_END_SHORT">
 			<Text>Окончание бактуна</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_ANCIENT_RUIN">
 			<Text>Древние руины:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_ANCIENT_RUIN_SHORT">
 			<Text>Нахождение древних руин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_PLUNDER_TRADE_ROUTE">
 			<Text>Разграбление торгового пути:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PLUNDER_TRADE_ROUTE_SHORT">
 			<Text>Разграбление торгового пути</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_WLTKD_START">
 			<Text>Начало дня «Мы любим короля»:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_WLTKD_START_SHORT">
 			<Text>Начало дня «Мы любим короля»</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_BIRTH_RETROACTIVE">
 			<Text>Общее число [ICON_CITIZEN] горожан:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BIRTH_RETROACTIVE_SHORT">
 			<Text>Рождение горожанина (ретроактивно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TECH_RETROACTIVE">
 			<Text>Общее число исследованных технологий:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TECH_RETROACTIVE_SHORT">
 			<Text>Исследование технологии (ретроактивно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_ERA">
 			<Text>Вступление в новую [ICON_RESEARCH] эпоху:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_ERA_UNLOCK_SHORT">
 			<Text>Вступление в новую эпоху</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_POLICY">
 			<Text>Открытие [ICON_CULTURE] социального института:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_POLICY_UNLOCK_SHORT">
 			<Text>Принятие социального института</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_INSTANT">
 			<Text>Мгновенный доход:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_INSTANT_SHORT">
 			<Text>Другой мгновенный доход</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TECH">
 			<Text>Исследование [ICON_RESEARCH] технологии:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TECH_SHORT">
 			<Text>Исследование технологии</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_CONSTRUCTION">
 			<Text>Строительство здания:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_CONSTRUCTION_SHORT">
 			<Text>Строительство здания</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_CONSTRUCTION_WONDER_SHORT">
 			<Text>Строительство чуда</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_BORDERS">
 			<Text>Расширение [ICON_CULTURE] границ:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BORDERS_SHORT">
 			<Text>Расширение границ</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_PROPOSAL">
 			<Text>Принятие [ICON_INFLUENCE] предложения:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PROPOSAL_SHORT">
 			<Text>Принятие предложения</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_GP_USE">
 			<Text>Использование [ICON_GREAT_PEOPLE] великого человека:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_GP_USE_SHORT">
 			<Text>Использование великого человека</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_GP_BORN">
 			<Text>Рождение [ICON_GREAT_PEOPLE] великого человека:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_GP_BORN_SHORT">
 			<Text>Рождение великого человека</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_CONQUEST">
 			<Text>[ICON_VICTORY_DOMINATION] Завоевание города:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_F_CONQUEST_SHORT">
 			<Text>Завоевание города</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_VICTORY">
 			<Text>[ICON_VICTORY_DOMINATION] Победа в битве:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_VICTORY_SHORT">
 			<Text>Победа в битве</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_VICTORY_GLOBAL_SHORT">
 			<Text>Победа в битве (глобальный доход)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_PILLAGE">
 			<Text>[ICON_RAZING] Разграбление клетки:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PILLAGE_SHORT">
 			<Text>Разграбление клетки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PILLAGE_UNIT_SHORT">
 			<Text>Разграбление клетки (конкретный юнит)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PILLAGE_GLOBAL_SHORT">
 			<Text>Разграбление клетки (глобальный доход)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_UNIT_PRODUCTION">
 			<Text>[ICON_PRODUCTION] Производство военного юнита:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_U_PROD_SHORT">
 			<Text>Производство военного юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_PURCHASE">
 			<Text>[ICON_GOLD] Покупка юнита или здания:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PURCHASE_SHORT">
 			<Text>Покупка здания или юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TILE_PURCHASE">
 			<Text>[ICON_GOLD] Покупка клетки:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TILE_PURCHASE_SHORT">
 			<Text>Покупка клетки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_FOUND">
 			<Text>[ICON_GOLDEN_AGE] Основание города:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_FOUND_SHORT">
 			<Text>Основание города</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TRADE_ROUTE">
 			<Text>Завершение [ICON_INTERNATIONAL_TRADE] торгового пути:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TR_END_SHORT">
 			<Text>Завершение торгового пути</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_CONVERSION">
 			<Text>Обращение города в вашу [ICON_RELIGION] религию:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_CONVERSION_SHORT">
 			<Text>Обращение города в вашу религию</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_CONVERSION_EXPO_SHORT">
 			<Text>Обращение города в вашу религию (масштабируемо)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DEATH">
 			<Text>[ICON_PIRATE] Смерть военного юнита:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_DEATH_SHORT">
 			<Text>Смерть военного юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_BULLY">
 			<Text>[ICON_PIRATE] Требование дани от {2_MinorName}:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BULLY_SHORT">
 			<Text>Требование дани от города-государства</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_SPREAD">
 			<Text>Распространение вашей [ICON_RELIGION] религии в город:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SPREAD_SHORT">
 			<Text>Распространение вашей религии</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_FOREIGN_SPREAD">
 			<Text>Распространение вашей [ICON_RELIGION] религии в чужой город:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_F_SPREAD_SHORT">
 			<Text>Распространение вашей религии в чужой город</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TR_MOVEMENT">
 			<Text>Активный [ICON_INTERNATIONAL_TRADE] торговый путь:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TR_MOVEMENT_SHORT">
 			<Text>Активный торговый путь</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TR_MOVEMENT_IN_FOREIGN">
 			<Text>Активный [ICON_INTERNATIONAL_TRADE] торговый путь на чужой территории:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TR_MOVEMENT_IN_FOREIGN_SHORT">
 			<Text>Активный торговый путь (чужая территория)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_SCOUTING">
 			<Text>[ICON_MOVES] Исследование:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SCOUTING_SHORT">
 			<Text>Исследование клеток</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_LEVEL_UP">
 			<Text>[ICON_STRENGTH] {2_Unit} повышение юнита:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_LEVEL_UP_SHORT">
 			<Text>Повышение юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DELEGATES">
 			<Text>Всего [ICON_DIPLOMAT] делегатов:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_DELEGATES_SHORT">
 			<Text>Контроль делегатов в мировом конгрессе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_SPIES">
 			<Text>[ICON_SPY] Действия шпионов:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SPY_ATTACK_SHORT">
 			<Text>Проведение шпионской миссии</Text>
 		</Row>

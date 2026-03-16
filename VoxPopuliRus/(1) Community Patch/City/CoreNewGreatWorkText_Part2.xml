@@ -1,305 +1,405 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<!-- Цитаты -->
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_450">
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+		<!-- Цитаты -->
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_450">
 			<Text>«Зло есть зло, — серьёзно сказал ведьмак, поднимаясь. — Меньшее, большее, среднее — всё едино. Пропорции условны, а границы размыты. Я не святой отшельник. Не только доброе делал в жизни. Но если приходится выбирать между одним злом и другим, я предпочитаю не выбирать вовсе».</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_460">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_460">
 			<Text>То, что произошло в подземельях между тобой и профессором Квирреллом, — полная тайна, так что, естественно, вся школа знает.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_470">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_470">
 			<Text>Но помни, что прощение тоже есть сила. Молить о нём — сила, и удержать или даровать её — сила, возможно, величайшая.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_480">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_480">
 			<Text>Как и когда мы приходим в мир, когда мы умираем, мы боимся неизвестного. Но страх — это нечто изнутри нас, не имеющее отношения к реальности. Умирать — всё равно что рождаться: просто перемена.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_490">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_490">
 			<Text>Когда ты ранишь людей, они начинают любить тебя меньше. Вот что делают неосторожные слова — они заставляют людей любить тебя немного меньше.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_500">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_500">
 			<Text>Смотреть в лицо другому человеку — значит сделать две вещи: признать его человечность и утвердить свою собственную.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_510">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_510">
 			<Text>Имена обладают силой. Это фундаментальный принцип магии повсюду. Произнеси имя сверхъестественного существа, и ты получишь его мгновенное и неразделённое внимание так же, как твоё потерянное дитя получит твоё, едва произнеся твоё имя.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_520">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_520">
 			<Text>Нет истин. Только истории.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_530">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_530">
 			<Text>Секрет жизни — упасть семь раз и подняться восемь.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_540">
+
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_540">
 			<Text>Жажда и голод,[NEWLINE]Смех и слёзы,[NEWLINE]Сладость, раны,[NEWLINE]Ярость, сожаления,[NEWLINE]Мы ничего не отбросим,[NEWLINE]Мы понесём всё,[NEWLINE]Вечная виатика,[NEWLINE]В долгий путь.</Text>
 		</Row>
 		<!-- Произведения искусства -->
+
 		<Row Tag="TXT_KEY_GREAT_WORK_SUTTON_HOO">
 			<Text>Саттон-Ху</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_CHINESE_LANDSCAPE">
 			<Text>Китайская весна</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_EGYPTIAN_SCULPTURE">
 			<Text>Нефертем Египетский</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_JAPANESE_LANDSCAPE">
 			<Text>Гейша</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AUGUSTUS">
 			<Text>Статуя императора Августа</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_JUSTINIAN">
 			<Text>Рельеф императора Юстиниана I</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_KELLS_2">
 			<Text>Книга Келлс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_LASCAUX">
 			<Text>Наскальные рисунки Ляско</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_MEDIEVAL_DRAGON">
 			<Text>Средневековый дракон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_ASHURBANIPAL">
 			<Text>Ашшурбанипал, убивающий львов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AZTEC">
 			<Text>Ацтекские боги</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_BAYEUX_TAPESTRY">
 			<Text>Гобелен из Байё</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_GREEK_POTTERY">
 			<Text>Греческая керамика</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_KALAMKARI">
 			<Text>Каламкари</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_PERSIAN_SOLDIERS">
 			<Text>Персидские воины</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_010">
 			<Text>Тамирис, рисующая портрет богини Дианы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_020">
 			<Text>Великая богиня Теотиуакана</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_030">
 			<Text>Портрет Франческо д'Эсте</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_040">
 			<Text>Сад земных наслаждений (центральная панель)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_050">
 			<Text>Бодхисатва сострадания</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_060">
 			<Text>Могёндо</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_070">
 			<Text>Автопортрет</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_080">
 			<Text>Обнажённая, лежащая на диване</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_090">
 			<Text>Сикстинская мадонна</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_100">
 			<Text>Аппалачи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_110">
 			<Text>Маска клоуна</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_120">
 			<Text>Три панели</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_130">
 			<Text>Вид из Бродвея</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_140">
 			<Text>Автопортрет с Беретом</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_150">
 			<Text>Сюита де Театр</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_160">
 			<Text>Даная</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_170">
 			<Text>Голова молодой женщины</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_180">
 			<Text>Водяные лилии</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_190">
 			<Text>Воскресенье на острове Гранд-Жатт</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_200">
 			<Text>Воспоминание о саде в Эттене</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_210">
 			<Text>Арлекин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_220">
 			<Text>Императрица Евгения и её прислужницы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_230">
 			<Text>Скамейка в Глазго</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_240">
 			<Text>Грандиозный канал в Венеции</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_250">
 			<Text>Офелия</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_260">
 			<Text>Импрессионизм, восход солнца</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_270">
 			<Text>Бульвар Монмартр ночью</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_280">
 			<Text>Портрет мадам Матисс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_290">
 			<Text>Танец</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_300">
 			<Text>Музыкальные инструменты</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_310">
 			<Text>Перед полночью</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_320">
 			<Text>Скрипка и гроздь винограда</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_330">
 			<Text>Пляж в Бельпорте</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_340">
 			<Text>Мария Каллас как Медея</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_350">
 			<Text>Голова женщины</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_360">
 			<Text>Ландшафт</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_370">
 			<Text>Королевская семья</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_380">
 			<Text>Группа кубинских женщин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_390">
 			<Text>Пчёлка</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_400">
 			<Text>Белая лилия</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_410">
 			<Text>Автопортрет с кружкой</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_420">
 			<Text>Пейзаж с повозкой</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_430">
 			<Text>Песнь любви II</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_440">
 			<Text>Портрет молодого революционера</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_450">
 			<Text>Мечеть в Амерлис</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_460">
 			<Text>Плачущая девочка</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_470">
 			<Text>Три изобретения телефона</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_480">
 			<Text>Сквозь зелень</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_490">
 			<Text>Портрет Дизи Гастингс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_500">
 			<Text>Идиллия</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_510">
 			<Text>Зелёная полоса</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_520">
 			<Text>Машинист</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_530">
 			<Text>Пейзаж на побережье</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_540">
 			<Text>Любовница Иисуса Кристоса</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_550">
 			<Text>Голова женщины с красной тенью</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_560">
 			<Text>Интерьер</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_570">
 			<Text>Синий человек</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_580">
 			<Text>Арлекин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_590">
 			<Text>Колыбельная</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_600">
 			<Text>Папа Римский</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_610">
 			<Text>Женщина с цветком</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_620">
 			<Text>Подземный переход</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_630">
 			<Text>Мемориал Челмсфорд</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_640">
 			<Text>Молодая женщина, ню</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_650">
 			<Text>Колыбельная</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_660">
 			<Text>Лев, лев</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_670">
 			<Text>Портрет Сестры Рэйни</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_680">
 			<Text>Живописная дорога</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_690">
 			<Text>Портрет молодого человека</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_700">
 			<Text>Сельский пейзаж с красным конём</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_710">
 			<Text>Канал</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_720">
 			<Text>Сидящий мужчина</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_730">
 			<Text>Собачий портрет</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_740">
 			<Text>Корзина хлеба</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_WORK_AW_750">
 			<Text>Коровы</Text>
 		</Row>

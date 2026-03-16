@@ -1,607 +1,405 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_DEC_FRIENDSHIP_5">
-
 			<Text>Давайте заключим публичную Декларацию дружбы? Такой акт стал бы образцом цивилизованности для меньших империй мира.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEC_FRIENDSHIP_6">
-
 			<Text>Я считаю, что ты — честный и праведный лидер. Давай заключим Декларацию дружбы, чтобы другие смотрели на наш пакт со страхом.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEC_FRIENDSHIP_7">
-
 			<Text>Этот мир может быть одиноким и изолирующим местом, и нам обоим нужен сильный союзник. Давай заключим Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DEC_FRIENDSHIP_8">
-
 			<Text>Декларация дружбы принесла бы огромную пользу нам обоим. Давай покажем другим империям мира, что означает «цивилизация».</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_UNTRUSTWORTHY_1">
-
 			<Text>Мы не всегда были единодушны в прошлом. Декларация дружбы могла бы это изменить. Что скажешь?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_UNTRUSTWORTHY_2">
-
 			<Text>Я не доверяю тебе, но мои советники говорят, что Декларация дружбы с тобой — мудрый дипломатический ход. Давай заключим?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_UNTRUSTWORTHY_3">
-
 			<Text>Декларация дружбы могла бы показать миру, что мы готовы оставить прошлые обиды позади. Ты согласен?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_UNTRUSTWORTHY_4">
-
 			<Text>Наша история полна раздоров и конфликтов. Почему бы не оставить всё это позади с публичной Декларацией дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_FRIENDS_1">
-
 			<Text>Наши народы сблизились за эти годы. Было бы стыдно видеть, как эти отношения разрушаются. Давай продлим нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_FRIENDS_2">
-
 			<Text>Ты доказал, что ты заслуживающий доверия друг — редкое качество в этом мире. Хочешь ли ты продлить нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_FRIENDS_3">
-
 			<Text>Мы показали миру, что сотрудничество возможно. Давай покажем им это снова. Продлим нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_FRIENDS_4">
-
 			<Text>Наша Декларация дружбы истекла. От предыдущего соглашения было много пользы, поэтому я считаю, мы должны попробовать снова. Давай?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_OLD_FRIENDS_1">
-
 			<Text>Приветствую, старый друг. Мои советники говорят, что наша Декларация дружбы истекла. Наверняка это просто канцелярская ошибка, да? Давай продлим нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_OLD_FRIENDS_2">
-
 			<Text>Наша дружба выдержала испытание временем. Было бы стыдно видеть её конец сейчас. Хочешь ли ты продлить нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_OLD_FRIENDS_3">
-
 			<Text>В мире мало людей, которым я доверяю больше, чем тебе. Было бы мудро с нашей стороны продлить Декларацию дружбы. Ты согласен?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_OLD_FRIENDS_4">
-
 			<Text>Ты — великий друг, и я не помню времени, когда мы были врагами. Давай продлим нашу Декларацию дружбы ещё раз?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_BATTLE_BROTHERS_1">
-
 			<Text>Ещё раз в бой, дорогой друг. Давай продлим нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_BATTLE_BROTHERS_2">
-
 			<Text>Я был и всегда буду твоим другом. Разделишь ли ты это чувство и продлишь нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_BATTLE_BROTHERS_3">
-
 			<Text>Мы создали легендарный союз за эти годы, не так ли? Давай продлим нашу Декларацию дружбы.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_DOF_BATTLE_BROTHERS_4">
-
 			<Text>Будущее расскажет сказки о нашем историческом союзе. Давай продлим нашу Декларацию дружбы?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_END_WORK_WITH_US_IDEOLOGY_1">
-
 			<Text>Наши идеологические разногласия слишком велики. Я больше не могу поддерживать нашу Декларацию дружбы.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_END_WORK_WITH_US_FAITH_1">
-
 			<Text>Твои религиозные взгляды больше не совпадают с моими. Поэтому я должен прекратить нашу Декларацию дружбы.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_END_WORK_WITH_US_BLOCK_1">
-
 			<Text>Наши пути разошлись, и теперь я вижу, что ты желаешь какой-то великой цели больше, чем наших отношений. Считай нашу Декларацию дружбы прекращённой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_NOW_UNFORGIVABLE_2">
-
 			<Text>Твоё предательство обрушит на тебя гнев самой судьбы. Наша месть будет абсолютной.[NEWLINE][NEWLINE](Если ты осудишь этого игрока или объявишь ему войну в течение следующих [COLOR_WARNING_TEXT]10[ENDCOLOR] ходов, ты получишь дипломатический штраф за предательство.)</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_NOW_UNFORGIVABLE_3">
-
 			<Text>Из всех людей в мире, кто мог бы предать меня... пока я дышу, мы никогда больше не будем друзьями.[NEWLINE][NEWLINE](Если ты осудишь этого игрока или объявишь ему войну в течение следующих [COLOR_WARNING_TEXT]10[ENDCOLOR] ходов, ты получишь дипломатический штраф за предательство.)</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_NOW_UNFORGIVABLE_4">
-
 			<Text>На этот раз ты зашёл слишком далеко. Я думал, мы друзья, но теперь я вижу правду.[NEWLINE][NEWLINE](Если ты осудишь этого игрока или объявишь ему войну в течение следующих [COLOR_WARNING_TEXT]10[ENDCOLOR] ходов, ты получишь дипломатический штраф за предательство.)</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WEAK_BETRAYAL_2">
-
 			<Text>Я не вижу другого выбора, кроме как сражаться с тобой. Мне жаль, что всё должно закончиться так.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_5">
-
 			<Text>Ты должен был предвидеть это. Нет? Мне почти жаль. Почти.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_6">
-
 			<Text>Я никогда не был твоим другом. Считай это уроком политики.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_7">
-
 			<Text>Да ладно, не расстраивайся. Это предательство только если ты глупец.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_BETRAYAL_8">
-
 			<Text>Я чувствовал небольшую вину, вводя тебя в заблуждение, но награда будет такой сладкой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OLD_ENEMIES_1">
-
 			<Text>Снова наши армии встретятся на поле боя. Мы могли бы быть друзьями когда-то, но сейчас между нами слишком много вражды.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OLD_ENEMIES_2">
-
 			<Text>Ах да, наш старейший враг. Я с нетерпением жду нового столкновения с тобой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WARMONGER_1">
-
 			<Text>Достаточно. Кто-то должен остановить твою кровавую жажду власти, и это могу быть я.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WARMONGER_2">
-
 			<Text>Это выпало на мою долю — предотвратить падение мира в новый тёмный век.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_IDEOLOGY_DIFFERENCE_1">
-
 			<Text>Эта холодная война длилась достаточно долго. Давай раз и навсегда уладим это идеологическое спор.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_IDEOLOGY_DIFFERENCE_2">
-
 			<Text>Твои идеологические ценности не имеют места в этом мире. Я скоро уничтожу тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_IDEOLOGY_SAME_1">
-
 			<Text>Хотя ты утверждаешь, что разделяешь мои ценности, твои действия предают тебя. Я сотру тебя с лица земли, ложный друг.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_IDEOLOGY_SAME_2">
-
 			<Text>Мы можем разделять одну идеологию, но даже этого недостаточно, чтобы удержать меня от ненависти к тебе. Ты скоро будешь уничтожен.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_LAND_4">
-
 			<Text>Моей империи нужно больше земли. Твоя земля, если точнее.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_LAND_5">
-
 			<Text>Для тебя несчастье, что мы соседи.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_LAND_6">
-
 			<Text>Твои земли скоро станут моими!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_9">
-
 			<Text>Я умру, прежде чем поддамся твоей тирании.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_10">
-
 			<Text>Твоя сила не компенсирует твоё злодейство.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_11">
-
 			<Text>Если мне суждено умереть, я умру с достоинством. Ты не поймёшь.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_12">
-
 			<Text>Тем, кто вот-вот умрёт, я выражаю своё почтение.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_13">
-
 			<Text>Сегодня хороший день, чтобы умереть.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_14">
-
 			<Text>Эта война послужит боевым кличом тем, кто может и победит тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_15">
-
 			<Text>Удача благоволит смелым, а не сильным.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_DESPERATE_16">
-
 			<Text>История чтит храбрых, а не нечестивых. Ты будешь лишь сноской.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_7">
-
 			<Text>Мир будет моим!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_8">
-
 			<Text>На этой планете нет места для нас обоих.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_9">
-
 			<Text>Моя империя охватит весь мир!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_WORLD_CONQUEST_10">
-
 			<Text>На этой планете может быть только один лидер... и это буду я.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_9">
-
 			<Text>Ты попал прямо в мою ловушку.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_10">
-
 			<Text>Больше нет смысла скрывать: я стремлюсь уничтожить тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_11">
-
 			<Text>День твоего поражения близок!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_12">
-
 			<Text>Ты будешь лишь сноской истории.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_13">
-
 			<Text>Твоё поражение неизбежно. Сдавайся сейчас или иначе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_14">
-
 			<Text>Твои армии будут стёрты с лица земли.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_15">
-
 			<Text>Я увидел возможность и воспользовался ей. Не принимай это на свой счёт.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_OPPORTUNITY_16">
-
 			<Text>Ты слаб, а я силён. Это было неизбежно.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_GENERIC_4">
-
 			<Text>Война — единственное решение наших текущих разногласий.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_GENERIC_5">
-
 			<Text>Время дипломатии прошло. Я приношу войну к твоему порогу.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_DOW_GENERIC_6">
-
 			<Text>Мы должны сражаться. Приготовься!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WAR_DEMAND_REFUSED_3">
-
 			<Text>Нет? Тогда я пошлю более сильного посланника.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WAR_DEMAND_REFUSED_4">
-
 			<Text>Я планировал это. Приготовься.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WAR_DEMAND_INSULTED_1">
-
 			<Text>Твои слова остры, но наши мечи острее. Я вырву твой гнусный язык сам!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WAR_DEMAND_INSULTED_2">
-
 			<Text>Я не буду сидеть сложа руки и терпеть такие оскорбления. Готовься к войне!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_MILITARY_PROMISE_BROKEN_2">
-
 			<Text>Твоё предательство не будет забыто.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WARMONGER_1">
-
 			<Text>Эта война проверит обе наши империи. Другие могли падать от твоего меча, но твоя кампания насилия заканчивается здесь.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_WARMONGER_1">
-
 			<Text>Глупый завоеватель будит спящего дракона. Ты откусил больше, чем можешь прожевать.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_WARMONGER_1">
-
 			<Text>Может, нам не хватает твоей военной мощи; однако я лучше умру благородной смертью, чем стану кровавым тираном, как ты.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_IDEOLOGY_DIFFERENCE_1">
-
 			<Text>Я не удивлён, что ты хочешь сразиться со мной. Наш конфликт за идеологическое будущее мира неизбежно закончится кровопролитием.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_IDEOLOGY_DIFFERENCE_2">
-
 			<Text>Этот конфликт был неизбежен. Наши идеологические разногласия практически гарантировали войну.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_IDEOLOGY_SAME_1">
-
 			<Text>Есть другие, кто бросает вызов нашим идеологическим взглядам, но ты атакуешь меня? Действительно ты сбился с пути, старый друг.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_5">
-
 			<Text>Да победит сильнейший воин!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_6">
-
 			<Text>Должен признать, я с нетерпением ждал этого.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_7">
-
 			<Text>Пришло время, чтобы наши армии встретились на поле боя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_EXCITED_8">
-
 			<Text>Я удобрю свои поля твоей кровью.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_EXCITED_2">
-
 			<Text>Ты попал прямо в мою ловушку. Приготовься к резне.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_EXCITED_3">
-
 			<Text>Ты ведь не думал об этом всерьёз, правда?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_EXCITED_2">
-
 			<Text>Я смеюсь в лицо смерти, даже если стою один!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_WEAK_EXCITED_3">
-
 			<Text>Это будет мой момент торжества.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_5">
-
 			<Text>Мой народ в ужасе вопит от этого решения. Почему?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_6">
-
 			<Text>Что я сделал, чтобы заслужить это?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_7">
-
 			<Text>Мы могли быть союзниками, но ты выбрал путь насилия. Жаль.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_SAD_8">
-
 			<Text>Ты жалкий тиран.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_6">
-
 			<Text>Какое ужасное решение с твоей стороны.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_7">
-
 			<Text>Ты — дурак.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_8">
-
 			<Text>Ты нападаешь на нас? Как глупо.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_9">
-
 			<Text>История будет осмеивать тебя за это.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_HOSTILE_10">
-
 			<Text>Ты принял ужасное решение.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_8">
-
 			<Text>Это будет весело.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_9">
-
 			<Text>Смерть идёт за тобой, глупец.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_10">
-
 			<Text>Ты обрёк свой народ на поражение.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_11">
-
 			<Text>Это была последняя ошибка, которую ты когда-либо совершишь.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_12">
-
 			<Text>Отлично. Прямо в мою ловушку.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_13">
-
 			<Text>Я с нетерпением ждал этого.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_ATTACKED_STRONG_HOSTILE_14">
-
 			<Text>Твой конец близок.</Text>
-
 		</Row>
 	</Language_RU_RU>
 </GameData>

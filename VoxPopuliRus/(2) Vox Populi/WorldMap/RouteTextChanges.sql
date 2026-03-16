@@ -1,4 +1,5 @@
 -- Railroad
+
 UPDATE Language_RU_RU
 SET Text = '[COLOR_NEGATIVE_TEXT]Стоимость[ENDCOLOR] 3 [ICON_GOLD] золота в ход на содержание.[NEWLINE][NEWLINE]Непрерывная цепь железных дорог позволяет юнитам чрезвычайно быстро перемещаться по клеткам.'
 WHERE Tag = 'TXT_KEY_BUILD_RAILROAD_HELP';

@@ -1,245 +1,325 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_5">
-			<Text>Купите облигации победы!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_5_HELP">
-			<Text>Банки дают городам +20% [ICON_GOLD] золота на {4_Turns}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_DESCRIPTION">
-			<Text>Военная усталость!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_HELP">
-			<Text>Война тяжёлым бременем лежит на нашем народе. Они ищут утешения перед лицом разрушений и поражений и обращаются к вам за советом. Как вы отреагируете?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1">
-			<Text>Выступить с речью во дворце.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_HELP">
-			<Text>75% шанс, что все города будут производить -1 [ICON_HAPPINESS_1] счастья на следующие {4_Turns}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_SUCCESSFUL_S">
-			<Text>Речь неудачна!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_SUCCESSFUL">
-			<Text>Речь не тронула ваш народ, и в результате они стали менее счастливы. -1 [ICON_HAPPINESS_1] счастья во всех городах.{4_Help}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_2">
-			<Text>Попросить духовного лидера помолиться за раненых и погибших.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_2_HELP">
-			<Text>{1_YieldCost}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3">
-			<Text>Провести радиообращение к нации.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_HELP">
-			<Text>25% шанс, что все города будут производить -2 [ICON_HAPPINESS_1] счастья.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_SUCCESSFUL_S">
-			<Text>Радиообращение неудачно!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_SUCCESSFUL">
-			<Text>Радиообращение не тронуло ваш народ, и в результате они стали менее счастливы. -2 [ICON_HAPPINESS_1] счастья во всех городах.{4_Help}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4">
-			<Text>Мы должны победить. Начать призыв.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_HELP">
-			<Text>50% шанс, что все города произведут военный отряд и начнут 2 хода [ICON_RESISTANCE] сопротивления.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_SUCCESSFUL_S">
-			<Text>Призыв!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_SUCCESSFUL">
-			<Text>Призыв прошёл успешно, но ваш народ злее, чем когда-либо прежде. Все города испытывают 2 хода [ICON_RESISTANCE] сопротивления и производят 1 военный отряд.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT">
-			<Text>Людные рынки, чужие голоса</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_HELP">
-			<Text>На ваших рынках собираются толпы, звучат голоса из разных земель, заключаются сделки и торгуются. Некоторые возмущены этим и считают, что иностранцы разрушат нашу торговлю. Другие, однако, поощряют иностранный бизнес, надеясь извлечь выгоду из их культуры.[NEWLINE][NEWLINE]Как вы к этому относитесь? Выберите один из следующих вариантов:</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_1">
-			<Text>Позволить иностранцам продолжать торговлю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_1_HELP">
-			<Text>Рынки во всех городах: +1 [ICON_CULTURE] культуры, -1 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_2">
-			<Text>Ввести высокие налоги на импортные товары.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_2_HELP">
-			<Text>Рынки во всех городах: +1 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT">
-			<Text>Символы нашего прошлого</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_HELP">
-			<Text>Памятники представляют собой наиболее важные символы вашей культуры. Ваш народ стремится отпраздновать это, посвятив памятники либо предкам, либо богам.[NEWLINE][NEWLINE]Как вы к этому относитесь? Выберите один из следующих вариантов:</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_1">
-			<Text>Посвятить памятники плодородию.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_1_HELP">
-			<Text>Памятники во всех городах: +1 [ICON_FOOD] пищи.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_2">
-			<Text>Боги — вот что важно сейчас.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_2_HELP">
-			<Text>Памятники во всех городах: +1 [ICON_PEACE] веры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_3">
-			<Text>Ни то, ни другое не подойдёт. Памятник должен приносить доход.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_3_HELP">
-			<Text>Памятники во всех городах: +1 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_DESCRIPTION">
-			<Text>Право замка</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_HELP">
-			<Text>Люди собираются у ворот ваших замков, требуя безопасности во время войны. Ваши замки недостаточно велики, чтобы вместить целые города, поэтому вы должны решить: кому разрешить доступ к укреплению во время войны?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_1">
-			<Text>Дворянам, разумеется.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_1_HELP">
-			<Text>Все замки производят +1 [ICON_CULTURE] культуры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_2">
-			<Text>Нашим лучшим торговцам и ремесленникам, согласно заслугам.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_2_HELP">
-			<Text>Все замки производят +2 [ICON_PRODUCTION] производства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_3">
-			<Text>Укрепление не для граждан!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_3_HELP">
-			<Text>Все замки производят +2 [ICON_FOOD] пищи.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_4">
-			<Text>Духовенству, по воле божьей.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_4_HELP">
-			<Text>Все замки производят +1 [ICON_PEACE] веры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_DESCRIPTION">
-			<Text>Университетская программа</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_HELP">
-			<Text>Профессорско-преподавательский состав и администрация государственных университетов стремятся создать единую программу обучения для всех действующих и будущих университетов вашей империи. Как глава государства, они обращаются к вам за окончательным решением. Что бы вы предпочли?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_1">
-			<Text>Сосредоточиться на естественных науках.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_1_HELP">
-			<Text>Все университеты получают +2 [ICON_RESEARCH] науки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_2">
-			<Text>Гуманитарное образование важнее всего.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_2_HELP">
-			<Text>Все университеты получают +1 [ICON_CULTURE] культуры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_3">
-			<Text>Богословское образование принесёт нам больше всего пользы.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_3_HELP">
-			<Text>Все университеты получают +1 [ICON_PEACE] веры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_4">
-			<Text>Военное образование кажется наиболее разумным.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_4_HELP">
-			<Text>Все университеты получают +2 [ICON_PRODUCTION] производства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP">
-			<Text>Фабричные партнёрства</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_HELP">
-			<Text>Предприниматели обращаются к вашему правительству с просьбой разрешить совместные предприятия с вашими фабриками. Есть пять конкурирующих заявок на партнёрство, и вашему правительству нужен совет. Что бы вы предпочли?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_1">
-			<Text>Давайте производить предметы роскоши.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_1_HELP">
-			<Text>Фабрики во всех городах: +2 [ICON_CULTURE] культуры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_2">
-			<Text>Дешёвые текстильные изделия звучат прибыльно.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_2_HELP">
-			<Text>Фабрики во всех городах: +3 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_3">
-			<Text>Химикаты — ценный актив.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_3_HELP">
-			<Text>Фабрики во всех городах: +2 [ICON_PRODUCTION] производства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_4">
-			<Text>Фармацевтика принесёт пользу нашим местным учёным.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_4_HELP">
-			<Text>Фабрики во всех городах: +2 [ICON_RESEARCH] науки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_5">
-			<Text>Консервы поддержат наши растущие города.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_5_HELP">
-			<Text>Фабрики во всех городах: +2 [ICON_FOOD] пищи.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_DESCRIPTION">
-			<Text>Новая банковская система</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_HELP">
-			<Text>Сложность наших банковских систем растёт, и экономические советники рекомендуют вам установить имперское банковское регулирование. В настоящее время гильдии управляют всеми деньгами в нашей империи, но некоторые считают этот метод управления устаревшим. Некоторые полагают, что централизация — лучший вариант, но ваши советники разделены по этому вопросу. Из следующих вариантов что вы предпочитаете?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_1">
-			<Text>Децентрализовать. Наш народ более чем способен управлять своими деньгами.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_1_HELP">
-			<Text>Все рабочие и торговцы производят +1 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_2">
-			<Text>Гильдии должны продолжать управлять нашими деньгами.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_2_HELP">
-			<Text>Все банки производят +5% [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_3">
-			<Text>Централизовать. Деньги слишком важны, чтобы оставлять их частным лицам.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_3_HELP">
-			<Text>Все банки производят +3 [ICON_GOLD] золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION">
-			<Text>Школьные советы учреждены</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_HELP">
-			<Text>Школьные советы были недавно учреждены в ваших городах, и они стремятся реформировать систему государственного образования. Они обращаются к вам за советом: предпочитаете ли вы бесплатное обучение для всех студентов или хотели бы приватизировать учреждения?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_1">
-			<Text>Образование должно быть бесплатным для всех.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_1_HELP">
-			<Text>Государственные школы во всех городах: +10% [ICON_CULTURE] культуры в городе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_2">
-			<Text>Образование должно быть доступно тем, кто может его оплатить.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_2_HELP">
-			<Text>Государственные школы во всех городах: +10% [ICON_GOLD] золота в городе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_DESCRIPTION">
-			<Text>Стареющие ветряные мельницы</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_HELP">
-			<Text>Когда-то вершина промышленного дизайна, теперь ветряные мельницы нашей нации выглядят довольно устаревшими. Несколько промышленников обращаются к вам по этому вопросу, надеясь заручиться имперской поддержкой для модернизации наших ветряных мельниц. Инженеры предлагают вам следующие проекты. Что вы предпочитаете?</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_5">
+			<Text>Купите облигации победы!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_5_HELP">
+			<Text>Банки дают городам +20% [ICON_GOLD] золота на {4_Turns}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_DESCRIPTION">
+			<Text>Военная усталость!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_HELP">
+			<Text>Война тяжёлым бременем лежит на нашем народе. Они ищут утешения перед лицом разрушений и поражений и обращаются к вам за советом. Как вы отреагируете?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1">
+			<Text>Выступить с речью во дворце.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_HELP">
+			<Text>75% шанс, что все города будут производить -1 [ICON_HAPPINESS_1] счастья на следующие {4_Turns}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_SUCCESSFUL_S">
+			<Text>Речь неудачна!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_SUCCESSFUL">
+			<Text>Речь не тронула ваш народ, и в результате они стали менее счастливы. -1 [ICON_HAPPINESS_1] счастья во всех городах.{4_Help}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_2">
+			<Text>Попросить духовного лидера помолиться за раненых и погибших.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_2_HELP">
+			<Text>{1_YieldCost}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3">
+			<Text>Провести радиообращение к нации.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_HELP">
+			<Text>25% шанс, что все города будут производить -2 [ICON_HAPPINESS_1] счастья.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_SUCCESSFUL_S">
+			<Text>Радиообращение неудачно!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_SUCCESSFUL">
+			<Text>Радиообращение не тронуло ваш народ, и в результате они стали менее счастливы. -2 [ICON_HAPPINESS_1] счастья во всех городах.{4_Help}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4">
+			<Text>Мы должны победить. Начать призыв.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_HELP">
+			<Text>50% шанс, что все города произведут военный отряд и начнут 2 хода [ICON_RESISTANCE] сопротивления.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_SUCCESSFUL_S">
+			<Text>Призыв!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_SUCCESSFUL">
+			<Text>Призыв прошёл успешно, но ваш народ злее, чем когда-либо прежде. Все города испытывают 2 хода [ICON_RESISTANCE] сопротивления и производят 1 военный отряд.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT">
+			<Text>Людные рынки, чужие голоса</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_HELP">
+			<Text>На ваших рынках собираются толпы, звучат голоса из разных земель, заключаются сделки и торгуются. Некоторые возмущены этим и считают, что иностранцы разрушат нашу торговлю. Другие, однако, поощряют иностранный бизнес, надеясь извлечь выгоду из их культуры.[NEWLINE][NEWLINE]Как вы к этому относитесь? Выберите один из следующих вариантов:</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_1">
+			<Text>Позволить иностранцам продолжать торговлю.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_1_HELP">
+			<Text>Рынки во всех городах: +1 [ICON_CULTURE] культуры, -1 [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_2">
+			<Text>Ввести высокие налоги на импортные товары.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_2_HELP">
+			<Text>Рынки во всех городах: +1 [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT">
+			<Text>Символы нашего прошлого</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_HELP">
+			<Text>Памятники представляют собой наиболее важные символы вашей культуры. Ваш народ стремится отпраздновать это, посвятив памятники либо предкам, либо богам.[NEWLINE][NEWLINE]Как вы к этому относитесь? Выберите один из следующих вариантов:</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_1">
+			<Text>Посвятить памятники плодородию.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_1_HELP">
+			<Text>Памятники во всех городах: +1 [ICON_FOOD] пищи.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_2">
+			<Text>Боги — вот что важно сейчас.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_2_HELP">
+			<Text>Памятники во всех городах: +1 [ICON_PEACE] веры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_3">
+			<Text>Ни то, ни другое не подойдёт. Памятник должен приносить доход.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_3_HELP">
+			<Text>Памятники во всех городах: +1 [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_DESCRIPTION">
+			<Text>Право замка</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_HELP">
+			<Text>Люди собираются у ворот ваших замков, требуя безопасности во время войны. Ваши замки недостаточно велики, чтобы вместить целые города, поэтому вы должны решить: кому разрешить доступ к укреплению во время войны?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_1">
+			<Text>Дворянам, разумеется.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_1_HELP">
+			<Text>Все замки производят +1 [ICON_CULTURE] культуры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_2">
+			<Text>Нашим лучшим торговцам и ремесленникам, согласно заслугам.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_2_HELP">
+			<Text>Все замки производят +2 [ICON_PRODUCTION] производства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_3">
+			<Text>Укрепление не для граждан!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_3_HELP">
+			<Text>Все замки производят +2 [ICON_FOOD] пищи.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_4">
+			<Text>Духовенству, по воле божьей.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_4_HELP">
+			<Text>Все замки производят +1 [ICON_PEACE] веры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_DESCRIPTION">
+			<Text>Университетская программа</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_HELP">
+			<Text>Профессорско-преподавательский состав и администрация государственных университетов стремятся создать единую программу обучения для всех действующих и будущих университетов вашей империи. Как глава государства, они обращаются к вам за окончательным решением. Что бы вы предпочли?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_1">
+			<Text>Сосредоточиться на естественных науках.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_1_HELP">
+			<Text>Все университеты получают +2 [ICON_RESEARCH] науки.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_2">
+			<Text>Гуманитарное образование важнее всего.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_2_HELP">
+			<Text>Все университеты получают +1 [ICON_CULTURE] культуры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_3">
+			<Text>Богословское образование принесёт нам больше всего пользы.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_3_HELP">
+			<Text>Все университеты получают +1 [ICON_PEACE] веры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_4">
+			<Text>Военное образование кажется наиболее разумным.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_4_HELP">
+			<Text>Все университеты получают +2 [ICON_PRODUCTION] производства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP">
+			<Text>Фабричные партнёрства</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_HELP">
+			<Text>Предприниматели обращаются к вашему правительству с просьбой разрешить совместные предприятия с вашими фабриками. Есть пять конкурирующих заявок на партнёрство, и вашему правительству нужен совет. Что бы вы предпочли?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_1">
+			<Text>Давайте производить предметы роскоши.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_1_HELP">
+			<Text>Фабрики во всех городах: +2 [ICON_CULTURE] культуры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_2">
+			<Text>Дешёвые текстильные изделия звучат прибыльно.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_2_HELP">
+			<Text>Фабрики во всех городах: +3 [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_3">
+			<Text>Химикаты — ценный актив.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_3_HELP">
+			<Text>Фабрики во всех городах: +2 [ICON_PRODUCTION] производства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_4">
+			<Text>Фармацевтика принесёт пользу нашим местным учёным.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_4_HELP">
+			<Text>Фабрики во всех городах: +2 [ICON_RESEARCH] науки.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_5">
+			<Text>Консервы поддержат наши растущие города.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_5_HELP">
+			<Text>Фабрики во всех городах: +2 [ICON_FOOD] пищи.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_DESCRIPTION">
+			<Text>Новая банковская система</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_HELP">
+			<Text>Сложность наших банковских систем растёт, и экономические советники рекомендуют вам установить имперское банковское регулирование. В настоящее время гильдии управляют всеми деньгами в нашей империи, но некоторые считают этот метод управления устаревшим. Некоторые полагают, что централизация — лучший вариант, но ваши советники разделены по этому вопросу. Из следующих вариантов что вы предпочитаете?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_1">
+			<Text>Децентрализовать. Наш народ более чем способен управлять своими деньгами.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_1_HELP">
+			<Text>Все рабочие и торговцы производят +1 [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_2">
+			<Text>Гильдии должны продолжать управлять нашими деньгами.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_2_HELP">
+			<Text>Все банки производят +5% [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_3">
+			<Text>Централизовать. Деньги слишком важны, чтобы оставлять их частным лицам.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_3_HELP">
+			<Text>Все банки производят +3 [ICON_GOLD] золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION">
+			<Text>Школьные советы учреждены</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_HELP">
+			<Text>Школьные советы были недавно учреждены в ваших городах, и они стремятся реформировать систему государственного образования. Они обращаются к вам за советом: предпочитаете ли вы бесплатное обучение для всех студентов или хотели бы приватизировать учреждения?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_1">
+			<Text>Образование должно быть бесплатным для всех.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_1_HELP">
+			<Text>Государственные школы во всех городах: +10% [ICON_CULTURE] культуры в городе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_2">
+			<Text>Образование должно быть доступно тем, кто может его оплатить.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_2_HELP">
+			<Text>Государственные школы во всех городах: +10% [ICON_GOLD] золота в городе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_DESCRIPTION">
+			<Text>Стареющие ветряные мельницы</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_HELP">
+			<Text>Когда-то вершина промышленного дизайна, теперь ветряные мельницы нашей нации выглядят довольно устаревшими. Несколько промышленников обращаются к вам по этому вопросу, надеясь заручиться имперской поддержкой для модернизации наших ветряных мельниц. Инженеры предлагают вам следующие проекты. Что вы предпочитаете?</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

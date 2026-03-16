@@ -1,303 +1,403 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 <Language_RU_RU>
+
 		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_IDEOLOGY_REQUIRED">
 			<Text>[NEWLINE]Для создания этого проекта необходима идеология.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_PUBLIC_OPINION_CONTENT">
 			<Text>[NEWLINE]Для создания этого проекта население должно быть довольно.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_LACKS_RESOURCES">
 			<Text>[NEWLINE]Для создания этого проекта необходимо: {1_Num} {2_ResourceIcon} {3_ResourceName:textkey}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_PREREQ_PROJECT_REQUIRED">
 			<Text>[NEWLINE]Для создания этого проекта любая цивилизация должна завершить проект {1_PrereqProject}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_NEED_CREATE_MORE_PROJECTS">
 			<Text>[NEWLINE]Прежде чем создать этот проект, вам необходимо завершить еще {1_Num} {1_Num: plural 1?проект; 2?проекта; 3?проекта; 4?проекта; other?проектов;} {2_Project}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ALREADY_INVESTED">
 			<Text>[NEWLINE]Вы уже инвестировали [ICON_GOLD] золота в эту постройку. Стоимость строительства в [ICON_PRODUCTION] производстве снижена на {1_Num}%.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ALREADY_INVESTED_UNIT">
 			<Text>[NEWLINE]Вы уже инвестировали [ICON_GOLD] золота в этот юнит. Стоимость создания в [ICON_PRODUCTION] производстве снижена на {1_Num}%.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_COOLDOWN_X_TURNS_REMAINING">
 			<Text>[NEWLINE]Вы недавно покупали что-то за [ICON_GOLD] золото в этом городе и должны подождать еще {1_Num} {1_Num: plural 1?ход; 2?хода; 3?хода; 4?хода; other?ходов;}, прежде чем сможете сделать это снова.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_COOLDOWN_X_TURNS_REMAINING_FAITH">
 			<Text>[NEWLINE]Вы недавно покупали [ICON_GREAT_PEOPLE] великого человека за [ICON_PEACE] веру и должны подождать еще {1_Num} {1_Num: plural 1?ход; 2?хода; 3?хода; 4?хода; other?ходов;}, прежде чем сможете сделать это снова.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_COOLDOWN_X_TURNS_REMAINING_FAITH_LOCAL">
 			<Text>[NEWLINE]Вы недавно совершали покупку за [ICON_PEACE] веру в этом городе и должны подождать еще {1_Num} {1_Num: plural 1?ход; 2?хода; 3?хода; 4?хода; other?ходов;}, прежде чем сможете сделать это снова.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_GROSS_RESOURCES">
 			<Text>Для улучшения этого юнита необходим доступ к {1_ResourcesString}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UPGRADE_HELP_DISABLED_RESOURCES_NET_NEGATIVE">
 			<Text>Для улучшения этого юнита необходимо положительное количество {1_ResourcesString}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNITCOMBAT_DAMAGE_MODIFIER">
 			<Text>Здоровье юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_PLAGUE_CHANCE">
 			<Text>[COLOR_CYAN]Шанс негативного эффекта ({1_Name})[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_ALREADY_PLAGUED">
 			<Text>[COLOR_CYAN]Имеет {1_Num} негативный эффект[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_IMMUNE_PLAGUED">
 			<Text>[COLOR_CYAN]Иммунитет к {1_Num}[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_WITHDRAW_CHANCE">
 			<Text>[COLOR_CYAN]Шанс отступления[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_SAME_PROMOTION_ATTACK_BONUS">
 			<Text>Бонус за атаки в прошлом ходу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_VS_UNHAPPY_MOD">
 			<Text>Империя цели несчастна</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_RANGED_ATTACK_IN_BONUS">
 			<Text>Бонус к атаке в {1_TerrainType}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_WITHDRAW_CHANCE_100_PERCENT">
 			<Text>[COLOR_CYAN]Юнит отступит при атаке[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE_100_PERCENT">
 			<Text>[COLOR_CYAN]Юнит будет захвачен при поражении[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_RANGED_SUPPORT">
 			<Text>[COLOR_CYAN]Дополнальная дальнобойная атака[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_GARRISON_RANGED_MODIFIER">
 			<Text>Бонус дальнобойной атаки гарнизона</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_IGNORE_ZOC">
 			<Text>[COLOR_CYAN]Игнорирует зоны контроля[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_RESISTANCE_POWER">
 			<Text>Антизавоевательский фанатизм</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_CITY_BLOCKADED">
 			<Text>Блокада</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_TRAIT_SMALL_POP_BONUS">
 			<Text>Бонус против более населенных</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_FULLY_HEALED_UNITS">
 			<Text>Бонус против полностью здоровых</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_MORE_50_HP_UNITS">
 			<Text>Цель имеет более 50% здоровья</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_LESS_50_HP_UNITS">
 			<Text>Цель имеет менее/ровно 50% здоровья</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_MULTI_ATTACK_BONUS">
 			<Text>Бонус множественных атак</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_ATTACK_CS_ALLIANCE_STRENGTH">
 			<Text>Эллинская лига</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_COMBAT_MOD_FROM_UNIT_LEVEL">
 			<Text>Уровень юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_FROM_TERRAIN_BONUS">
 			<Text>Модификатор местности</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_RANGED_DEFENSE_MODIFIER">
 			<Text>Модификатор защиты от дальнобойных атак</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_FRIENDLY_CITY_BELIEF_BONUS_CBP">
 			<Text>Защитник веры</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_ENEMY_CITY_BELIEF_BONUS_CBP">
 			<Text>Рыцарский фанатизм</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_CONQUEST_OF_WORLD">
 			<Text>Бонус Завоевания мира в золотой век</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_PER_ADJACENT_UNIT_COMBAT">
 			<Text>Бонус от соседних юнитов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_BORDER">
 			<Text>Бонус на границе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_BONUS_MARRIAGES">
 			<Text>Бонус от браков</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_MONOPOLY_POWER_ATTACK">
 			<Text>Монополия на ресурсы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_MONOPOLY_POWER_DEFENSE">
 			<Text>Монополия на ресурсы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_COUNTERSPY_DEFENSE">
 			<Text>Бонус контрразведки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_EMBARKATION_DEFENSE">
 			<Text>Защита на воде</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_UNITCLASS_NEAR">
 			<Text>Рядом с юнитом</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_NEARBYPROMOTION_COMBAT_BONUS">
 			<Text>Бонус от юнита поблизости</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_NEARBYPROMOTION_CITY_COMBAT_BONUS">
 			<Text>Рядом с городом</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_NO_FRIENDLY_UNIT_ADJACENT_BONUS">
 			<Text>Нет соседних дружественных юнитов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_PENALTY_VS_DOMAIN">
 			<Text>Штраф против домена</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_ATTACK_BONUS_VS_DOMAIN">
 			<Text>Бонус к атаке против домена</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_ATTACK_PENALTY_VS_DOMAIN">
 			<Text>Штраф к атаке против домена</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_DEFENSE_BONUS_VS_DOMAIN">
 			<Text>Бонус к защите против домена</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_EUPANEL_DEFENSE_PENALTY_VS_DOMAIN">
 			<Text>Штраф к защите против домена</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MISC_BONUS">
 			<Text>Разное</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MP_FORCE_RESYNC_TITLE">
 			<Text>Запланировать принудительную ресинхронизацию</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_IDEOLOGY_INFLUENCE_CIVS_WITH_OTHER_IDEOLOGY">
 			<Text>Влияние от числа цивилизаций с другой идеологией:</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_IDEOLOGY_INFLUENCE_RECENTLY_ADOPTED">
 			<Text>Влияние из-за недавнего принятия/смены идеологии:</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_INSTANT_TT_VALUE">
 			<Text>+{1_Num} [ICON_TOURISM] туризма в ход (в среднем) от мгновенных доходов с этим игроком</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_SAME_TEAM">
 			<Text>+{1_Num}% за нахождение в одной команде[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_LEAGUE">
 			<Text>+{1_Num}% из-за активных предложений в конгрессе[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_LEAGUE_NEGATIVE">
 			<Text>{1_Num}% из-за активных предложений в конгрессе[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_CITY_TOURISM_CAPITAL_PENALTY">
 			<Text>-{1_Num}% от размера империи (разница в {2_NumCity} городах)[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_WARSCORE">
 			<Text>+{1_Num}% бонус от наивысшего военного счета[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_JAPAN_UA">
 			<Text>{1_Num}% из-за отсутствия торговых путей (Сакоку)[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_FRANCHISES">
 			<Text>+{1_Num}% от ваших филиалов корпораций в их империи[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_THEIR_BUILDINGS">
 			<Text>{1: number "'+'##;'-'##"}% от их построек[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_TOUR_BONUS">
 			<Text>+100% от концертного тура ({1_NumTurns} {1_NumTurns: plural 1?ход; 2?хода; 3?хода; 4?хода; other?ходов;})[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_TOUR_BONUS_HALF">
 			<Text>+50% от концертного тура ({1_NumTurns} {1_NumTurns: plural 1?ход; 2?хода; 3?хода; 4?хода; other?ходов;})[NEWLINE]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_EXOTIC_THEY">
 			<Text>[NEWLINE][NEWLINE]Их [ICON_TOURISM] туристическое влияние на {1_Civ}: [COLOR_CYAN]экзотическое[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_FAMILIAR_THEY">
 			<Text>[NEWLINE][NEWLINE]Их [ICON_TOURISM] туристическое влияние на {1_Civ}: [COLOR_CYAN]знакомое[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_POPULAR_THEY">
 			<Text>[NEWLINE][NEWLINE]Их [ICON_TOURISM] туристическое влияние на {1_Civ}: [COLOR_CYAN]популярное[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_INFLUENTIAL_THEY">
 			<Text>[NEWLINE][NEWLINE]Их [ICON_TOURISM] туристическое влияние на {1_Civ}: [COLOR_CYAN]влиятельное[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_DOMINANT_THEY">
 			<Text>[NEWLINE][NEWLINE]Их [ICON_TOURISM] туристическое влияние на {1_Civ}: [COLOR_CYAN]доминирующее[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_STATIC_THEM">
 			<Text>[NEWLINE]Тенденция [ICON_TOURISM] туристического влияния: статичная</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_RISING_SLOWLY_THEM">
 			<Text>[NEWLINE]Тенденция [ICON_TOURISM] туристического влияния: [COLOR_POSITIVE_TEXT]медленный рост[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_RISING_THEM">
 			<Text>[NEWLINE]Тенденция [ICON_TOURISM] туристического влияния: [COLOR_POSITIVE_TEXT]рост[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CO_FALLING_THEM">
 			<Text>[NEWLINE]Тенденция [ICON_TOURISM] туристического влияния: [COLOR_NEGATIVE_TEXT]падение[ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_WR_TOTAL_CITIES">
 			<Text>Города</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_WR_TOTAL_FOLLOWERS">
 			<Text>Последователи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_WR_YEAR_FOUNDED">
 			<Text>Основана</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_WR_OWNED_CITIES">
 			<Text>[COLOR_POSITIVE_TEXT]{1_Num}%[ENDCOLOR] всех городов исповедует {2_Name}.[NEWLINE][NEWLINE]В ваших городах {3_Num} имеют {4_Name} как [ICON_RELIGION] основную религию. Это составляет [COLOR_POSITIVE_TEXT]{5_Num}%[ENDCOLOR] от всех ваших городов с основной религией. Эти города также составляют [COLOR_POSITIVE_TEXT]{6_Num}%[ENDCOLOR] большинства присутствия {7_Name}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_WR_OWNED_FOLLOWERS">
 			<Text>[COLOR_POSITIVE_TEXT]{1_Num}%[ENDCOLOR] населения мира исповедует {2_Name}.[NEWLINE][NEWLINE]{3_Num} ваших [ICON_CITIZEN] граждан исповедуют {4_Name}. Они составляют [COLOR_POSITIVE_TEXT]{5_Num}%[ENDCOLOR] вашего [ICON_CITIZEN] населения. Они также составляют [COLOR_POSITIVE_TEXT]{6_Num}%[ENDCOLOR] последователей {7_Name}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_TAB_MAP">
 			<Text>Карта</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PROPHET_PARAM">
 			<Text>Сохранять для {1_UNITCLASS_PROPHET}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_DISABLE_AUTO_PURCHASE">
 			<Text>Только уведомлять</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_RO_DISABLE_AUTO_PURCHASE_TT">
 			<Text>Если отмечено, религиозные юниты и постройки не будут покупаться автоматически. Вместо этого вы получите уведомление, когда накопится достаточно веры.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_FAITH_PURCHASE_AVAILABLE">
 			<Text>Вы накопили достаточно веры для покупки {TXT_KEY_GRAMMAR_A_AN << {1_Name}}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FAITH_PURCHASE_AVAILABLE">
 			<Text>Доступна покупка за веру</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_STATE_UNASSIGNED_TT">
 			<Text>{1_RankName} {2_SpyName} не назначен.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CAPITAL_CBP_SPY">
 			<Text>{1_CityName} является [ICON_CAPITAL] столицей {@2_CivShortDesc}. Вы можете отправить в этот город [ICON_SPY] шпионов или [ICON_DIPLOMAT] дипломатов.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_YOUR_CAPITAL_CBP_SPY">
 			<Text>{1_CityName} является вашей [ICON_CAPITAL] столицей. Это приоритетная цель для вражеских [ICON_SPY] шпионов.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_ALLY_CBP_SPY">
 			<Text>Союзник с {1_Player}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INTRIGUE_BRIBE_WAR_US">
 			<Text>{1_PlayerName} подкупил {2_PlayerName}, чтобы напасть на вас.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INTRIGUE_BRIBE_WAR_OTHER">
 			<Text>{1_PlayerName} подкупил {2_PlayerName}, чтобы напасть на {3_PlayerName}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INTRIGUE_COOP_WAR_US">
 			<Text>{1_PlayerName} и {2_PlayerName} готовятся напасть на вас.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INTRIGUE_COOP_WAR_OTHER">
 			<Text>{1_PlayerName} и {2_PlayerName} готовятся напасть на {3_PlayerName}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INTRIGUE_MILITARY_MIGHT_RISEN">
 			<Text>Военная мощь {1_PlayerName} значительно возросла за последние ходы.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INTRIGUE_BOUGHT_VOTES">
 			<Text>{1_PlayerName} купил голоса в всемирном конгрессе у {2_PlayerName}.</Text>
 		</Row>

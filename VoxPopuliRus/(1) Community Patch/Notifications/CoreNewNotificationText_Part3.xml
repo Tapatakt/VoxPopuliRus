@@ -1,308 +1,403 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SPY_DEFENSE_SHORT">
-
 			<Text>Поимка иностранного шпиона</Text>
-
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SPY_IDENTIFY_SHORT">
 			<Text>Идентификация иностранного шпиона</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SPY_DEFENSE_OR_ID_SHORT">
 			<Text>Идентификация или поимка иностранного шпиона</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_SPY_RIG_ELECTION_SHORT">
 			<Text>Сфальсифицировать выборы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_MINOR_QUEST">
 			<Text>[ICON_CITY_STATE] Выполнение задания для {2_MinorName} ({1_Data}):[NEWLINE]{3_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_MINOR_QUEST_REWARD_SHORT">
 			<Text>Выполнение задания города-государства</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_HEAVY_TRIBUTE_QUEST">
 			<Text>[ICON_PIRATE] Требование дани от {2_MinorName} — награда за задание ({1_Data}):[NEWLINE]{3_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_CULTURE_BOMB">
 			<Text>Расширение [ICON_CULTURE] границ великим человеком:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_CULTURE_BOMB_SHORT">
 			<Text>Расширение границ великим писателем</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_REMOVE_HERESY">
 			<Text>Удаление [ICON_INQUISITOR] религиозной ереси:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_REMOVE_HERESY_SHORT">
 			<Text>Удаление ереси</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_FAITH_PURCHASE">
 			<Text>[ICON_RELIGION] Покупка верой в городе:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_FAITH_PURCHASE_SHORT">
 			<Text>Покупка здания или юнита верой</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_PROMOTION_OBTAINED">
 			<Text>[ICON_STRENGTH] Получение повышения:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_PROMOTION_OBTAINED_SHORT">
 			<Text>Повышение юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_BARBARIAN_CAMP_CLEARED">
 			<Text>[ICON_VICTORY_DOMINATION] Зачистка варварского лагеря:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_BARBARIAN_CAMP_CLEARED_SHORT">
 			<Text>Зачистка варварского лагеря</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TR_PRODUCTION_SIPHON">
 			<Text>Процесс в городе назначения, связанном [ICON_INTERNATIONAL_TRADE] торговым путём:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_TR_PRODUCTION_SIPHON_SHORT">
 			<Text>Перекачка производства через торговый путь</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_IMPROVEMENT_BUILD">
 			<Text>Строительство улучшения:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_IMPROVEMENT_BUILD_SHORT">
 			<Text>Строительство улучшения</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_RESEARCH_AGREEMENT">
 			<Text>[ICON_RESEARCH] Соглашение об исследованиях:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_RESEARCH_AGREMEENT_SHORT">
 			<Text>Завершение соглашения об исследованиях</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_LUXURY_RESOURCE_GAIN">
 			<Text>Приобретение роскошного ресурса:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_IINSTANT_YIELD_TYPE_LUXURY_RESOURCE_GAIN_SHORT">
 			<Text>Получение роскошного ресурса</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_GOLDEN_AGE_START">
 			<Text>Начало золотого века:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_GOLDEN_AGE_START_SHORT">
 			<Text>Начало золотого века</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_UNIT_GIFT">
 			<Text>Подарок юнита городу-государству:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_UNIT_GIFT_SHORT">
 			<Text>Подарок юнита городу-государству</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_REFUND">
 			<Text>[ICON_PRODUCTION] Возврат за бесплатную замену здания:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_REFUND_SHORT">
 			<Text>Возврат за бесплатное здание (производство)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_FAITH_REFUND">
 			<Text>[ICON_PEACE] Возврат за бесплатную замену здания:[NEWLINE]{1_YieldString}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_FAITH_REFUND_SHORT">
 			<Text>Возврат за бесплатное здание (вера)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_ROUTE_NAME">
 			<Text>Построить дорогу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_KILL_CAMP_NAME">
 			<Text>Уничтожить лагерь</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONNECT_RESOURCE_NAME">
 			<Text>Подключить ресурс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONSTRUCT_WONDER_NAME">
 			<Text>Построить чудо</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_GREAT_PERSON_NAME">
 			<Text>Создать великого человека</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_KILL_CITY_STATE_NAME">
 			<Text>Уничтожить город-государство</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_FIND_PLAYER_NAME">
 			<Text>Найти игрока</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_FIND_CITY_NAME">
 			<Text>Найти город</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_FIND_NATURAL_WONDER_NAME">
 			<Text>Найти чудо природы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_GIVE_GOLD_NAME">
 			<Text>Дать золото</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_PLEDGE_TO_PROTECT_NAME">
 			<Text>Пообещать защиту</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONTEST_CULTURE_NAME">
 			<Text>Культурный конкурс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONTEST_FAITH_NAME">
 			<Text>Конкурс веры</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONTEST_TECHS_NAME">
 			<Text>Технологический конкурс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_INVEST_NAME">
 			<Text>Инвестировать</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_BULLY_CITY_STATE_NAME">
 			<Text>Требовать дань от города-государства</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_DENOUNCE_MAJOR_NAME">
 			<Text>Осудить игрока</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_SPREAD_RELIGION_NAME">
 			<Text>Распространить религию</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_TRADE_ROUTE_NAME">
 			<Text>Установить торговый путь</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_WAR_NAME">
 			<Text>Начать войну против игрока</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONSTRUCT_NATIONAL_WONDER_NAME">
 			<Text>Построить национальное чудо</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_GIFT_SPECIFIC_UNIT_NAME">
 			<Text>Подарить юнита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_FIND_CITY_STATE_NAME">
 			<Text>Найти город-государство</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_INFLUENCE_NAME">
 			<Text>Влияние</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CONTEST_TOURISM_NAME">
 			<Text>Туристический конкурс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_ARCHAEOLOGY_NAME">
 			<Text>Археология</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_CIRCUMNAVIGATION_NAME">
 			<Text>Кругосветное плавание</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_LIBERATION_NAME">
 			<Text>Освободить город-государство</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_HORDE_NAME">
 			<Text>Подавить орду</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_REBELLION_NAME">
 			<Text>Подавить восстание</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_EXPLORE_AREA_NAME">
 			<Text>Открыть земли</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_BUILD_X_BUILDINGS_NAME">
 			<Text>Построить здания</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_SPY_ON_MAJOR_NAME">
 			<Text>Провести шпионаж</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_COUP_NAME">
 			<Text>Выполнить переворот</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MINOR_CIV_QUEST_ACQUIRE_CITY_NAME">
 			<Text>Захватить город</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_UNKNOWN">
 			<Text>Неизвестный тип мгновенного дохода {1_Num}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_LUA_SHORT">
 			<Text>Мгновенные доходы от модмодов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_COMBAT_EXPERIENCE_SHORT">
 			<Text>Получение опыта в бою</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_TYPE_CITY_DAMAGE_SHORT">
 			<Text>Нанесение урона городу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_CITY">
 			<Text>[ICON_BULLET] [COLOR_POSITIVE_TEXT]{1_City}: [ENDCOLOR]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DETAILS">
 			<Text>+{3_Num} {2_Icon} {1_Name}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DETAILS_HAPPINESS">
 			<Text>+{1_Num} [ICON_HAPPINESS_1] счастья</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DETAILS_INFLUENCE">
 			<Text>+{1_Num} [ICON_INFLUENCE] влияния</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DETAILS_EXPERIENCE">
 			<Text>+{1_Num} [ICON_STRENGTH] опыта для всех юнитов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DETAILS_GPP_GLOBAL">
 			<Text>+{1_Num} [ICON_GREAT_PEOPLE] очков великого человека во всех городах</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_YIELD_DETAILS_GPP">
 			<Text>+{1_Num} [ICON_GREAT_PEOPLE] очков великого человека в [ICON_CAPITAL] столице</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_ADDENDUM">
 			<Text>[NEWLINE]{1_Num}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON_PROGRESS_EMPIRE">
 			<Text>Бонусные очки великого человека империи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON_PROGRESS">
 			<Text>Обновление бонусных очков великого человека</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON_PROGRESS_IN_CITY">
 			<Text>Бонусные очки великого человека в {1_City}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_INSTANT_GREAT_PERSON_PROGRESS_DETAILS">
 			<Text>+{3_Num} {2_Icon} очков {1_Name}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_CITY">
 			<Text>{@2_CivName} ищет {@1_CityName}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_CITY">
 			<Text>{@2_CivName} ищет новые торговые возможности. Они слышали о далёком городе под названием «{@1_CityName}». Если вы сможете найти город {@1_CityName}, вас наградят.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_CITY">
 			<Text>{@1_CityName} открыт для {@2_CivName}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_CITY">
 			<Text>Ваше открытие {@1_CityName} сильно обрадовало торговцев {@2_MinorCivName}.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ACQUIRE_CITY">
 			<Text>{@2_CivName} хочет, чтобы вы захватили {@1_CityName}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ACQUIRE_CITY">
 			<Text>Тактические эксперты из {@2_CivName} считают {@1_CityName} стратегически важным. Захватите его любыми средствами, и вас щедро наградят!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ACQUIRE_CITY_COMPLETE">
 			<Text>Успешный захват города для {@1_CivName}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ACQUIRE_CITY_COMPLETE">
 			<Text>Тактические эксперты из {@1_CivName} хвалят вас за ваши усилия и надеются, что город так же полезен военно, как они предвидели.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ACQUIRE_CITY_OCC">
 			<Text>{@2_CivName} хочет, чтобы вы завоевали {@1_CityName}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ACQUIRE_CITY_OCC">
 			<Text>Тактические эксперты из {@2_CivName} считают, что город {@1_CityName} представляет значительную угрозу для их безопасности. Завоюйте его любыми средствами, и вас щедро наградят!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ACQUIRE_CITY_OCC_COMPLETE">
 			<Text>Успешно завоёван город для {@1_CivName}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_ACQUIRE_CITY_OCC_COMPLETE">
 			<Text>Тактические эксперты из {@1_CivName} благодарят вас за завоевание города, который они выбрали целью.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COUP">
 			<Text>Разведданные от {@1_Civ}</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COUP">
 			<Text>Разведывательные отчёты из {@2_CivName} указывают, что {@1_CityName} готов к перевороту. Выполните этот переворот, и вас щедро наградят!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_COUP_COMPLETE">
 			<Text>Успешный переворот для {@1_Civname}!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COUP_COMPLETE">
 			<Text>{@2_Civname} хвалит вас за успешный переворот против {@1_CityName}.</Text>
 		</Row>

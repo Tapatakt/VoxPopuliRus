@@ -1,402 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DOF_3">
-
 			<Text>Хорошо знать, что у {1_CivName} есть такие друзья, как ты. Вместе я искренне верю, что мы можем сделать мир лучше.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DOF_4">
-
 			<Text>Твоя дружба с {1_CivName} — пример для всех нас, и я хочу быть её частью. Надеюсь, другие увидят пользу от такого сотрудничества.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DENOUNCED_FRIEND_2">
-
 			<Text>Осуждение {1_CivName} была большой ошибкой. Я и другие не будем стоять в стороне, пока ты говоришь такие глупые и ложные вещи.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DENOUNCED_FRIEND_3">
-
 			<Text>Хотя твои лжи о {1_CivName} могут обмануть некоторых, они не обманули меня. Я слежу за тобой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOFED_ENEMY_2">
-
 			<Text>{1_CivName} — сплошные проблемы. Если ты ищешь союз с ними, ты скоро обнаружишь себя изолированным на мировой арене.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOFED_ENEMY_3">
-
 			<Text>Не уверен, что ты видишь в {1_CivName}. Что бы это ни было, это усиливает моё чувство, что ты сомнительного интеллекта.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOFED_ENEMY_4">
-
 			<Text>Я бы остерегался {1_CivName}. Быть близко к ним плохо кончится для тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DENOUNCE_2">
-
 			<Text>Любой друг {1_CivName} не заслуживает доверия. Я слежу за тобой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DENOUNCE_3">
-
 			<Text>Ты уверен, что хочешь связаться с {1_CivName}? Это плохо кончится для тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DOF_SO_AI_DENOUNCE_4">
-
 			<Text>Как ты можешь быть таким глупым? Союз с {1_CivName} принесёт тебе только лишения.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DENOUNCED_ENEMY_2">
-
 			<Text>{1_CivName} действительно ужасны, не так ли? Надеюсь, твои суровые слова научат их уроку.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DENOUNCED_ENEMY_3">
-
 			<Text>Давно пора, чтобы кто-то ещё осудил {1_CivName}. Я начинал думать, что я единственный разумный человек на этой планете.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DENOUNCE_SO_AI_DENOUNCE_2">
-
 			<Text>{1_CivName} ужасны, и я рад, что ты согласен. Давай, пойдём в мой кабинет, чтобы сговориться против них.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HUMAN_DENOUNCE_SO_AI_DENOUNCE_3">
-
 			<Text>Осуждение {1_CivName} было лучшим решением, которое я принял за долгое время, и я благодарен тебе за пример.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_3">
-
 			<Text>Твоё предложение {1_LeagueName} было очень мудрым. Это будет прибыльный дипломатический союз.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_4">
-
 			<Text>Какое отличное предложение {1_LeagueName}. Надеюсь, ты понимаешь, как сильно я ценю это действие.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_3">
-
 			<Text>Ты глупец. Твоё предложение {1_LeagueName} не сделает ничего, кроме как посеет конфликт между нами. Это то, чего ты хочешь?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_4">
-
 			<Text>Я не могу рассматривать твоё предложение {1_LeagueName} как что-либо иное, кроме оскорбления. Тебе бы стоило пересмотреть свои взгляды.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_3">
-
 			<Text>Твоя поддержка нашего предложения {1_LeagueName} была необходима. Надеюсь, мы сможем сотрудничать снова в будущем.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_4">
-
 			<Text>Ты сделал мудрый выбор, поддержав наше предложение {1_LeagueName}. Мой народ в долгу перед тобой.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_3">
-
 			<Text>Ты сорвал наше предложение {1_LeagueName}. Я заставлю тебя заплатить за это.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_4">
-
 			<Text>Я только что узнал, что ты в значительной степени виноват в провале нашего предложения {1_LeagueName}. Ты ужасный человек.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_HOSTING_2">
-
 			<Text>Мы — хозяева {1_LeagueName} благодаря тебе. Обещаю делать всё возможное, чтобы поддерживать твои предложения в будущем.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_HOSTING_3">
-
 			<Text>{1_LeagueName} под нашим контролем благодаря мудрым лидерам, как ты. Вместе мы можем сделать мир лучше.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CULTURE_BOMBED_3">
-
 			<Text>Какой наглый акт воровства. Мир услышит об этом.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CULTURE_BOMBED_4">
-
 			<Text>Это была огромная ошибка.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_4">
-
 			<Text>Спасибо за возвращение наших граждан.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_5">
-
 			<Text>Ты мудрый лидер. Мой народ воспевает твои похвалы.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_RETURNED_CIVILIAN_6">
-
 			<Text>Ты вернул моих граждан, и за это я вечно благодарен.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_2">
-
 			<Text>Приветствую, гражданин! Путь Свободы лежит перед нами, и никто не встанет у нас на пути. Пусть тьма мира дрожит перед светом свободы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_ORDER_2">
-
 			<Text>Пусть другие дрожат от нашей общей веры в Порядок. Нам нечего терять, кроме наших цепей. У нас есть мир, чтобы выиграть. Рабочие всех стран, соединяйтесь!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_2">
-
 			<Text>Приветствую, коллега-военачальник! Наше совместное решение решит будущее человечества: это будет либо наш взгляд, либо их, так как компромиссов быть не может!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_FREEDOM_2">
-
 			<Text>Ты сделал мудрое и благородное решение. Послание Свободы — это послание сострадания и принятия, добродетелей, которые я надеюсь, ты будешь придерживаться и делиться с другими.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_ORDER_2">
-
 			<Text>Ты принял Порядок и теперь станешь частью нашего славного будущего. Это хорошо, так как наша пролетарская революция скоро захватит весь мир!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_AUTOCRACY_2">
-
 			<Text>Новый мировой порядок Автократии — сила, которую нельзя отрицать. Твоё решение присоединиться к нашему делу было неизбежно и приведёт к великому и торжественному будущему.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_2">
-
 			<Text>Мой народ требует, чтобы я даровал им конституцию, гражданские свободы и даже право голоса! Это твоя работа, не так ли?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_ORDER_2">
-
 			<Text>Рабочие в моих городах называют себя членами пролетариата и говорят о мировой революции! Должны ли мы все отвергнуть атрибуты собственности и статизма, как ты?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_2">
-
 			<Text>Мой народ говорит о «третьем пути», который обещает великую награду и ещё большую славу. Должны ли все империи прославлять меч, как твоя?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_2">
-
 			<Text>Боевой клич свободы не может быть заглушён твоим репрессивным режимом. Дари свободы своему народу, чтобы мы все могли процветать под знаменем Свободы.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_2">
-
 			<Text>Твоя идеология скоро будет выброшена на свалку истории. Присоединяйся к рабочей революции или будь раздавлен ею.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_2">
-
 			<Text>Ненасытная жажда войны бурлит в сердцах твоего народа. Прими дух воина, иначе я буду вынужден внедрить его в тебя мечом.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_3">
-
 			<Text>Наш текущий конфликт с {@1_MinorCivName} чисто обстоятельственный и не влияет на наши отношения с тобой. Надеюсь, ты это понимаешь.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_4">
-
 			<Text>Я недавно узнал, что {@1_MinorCivName} находится под твоей защитой. Не воспринимай мои действия против этого города-государства лично.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_5">
-
 			<Text>Я искренне надеюсь, что моя война с {@1_MinorCivName} не заставит тебя думать обо мне хуже.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_ATTACKED_MINOR_BAD_2">
-
 			<Text>Ты не поймёшь. Я сделал то, что должно было быть сделано.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_ATTACKED_MINOR_BAD_3">
-
 			<Text>Ты доказал своё дипломатическое невежество.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_3">
-
 			<Text>Твой друг, {@1_MinorCivName}, стоит между мной и моими мечтами о великой империи. Ты собираешься вмешаться или нет?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_4">
-
 			<Text>Земли {@1_MinorCivName} скоро будут моими. Хочешь что-то с этим поделать?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_5">
-
 			<Text>{@1_MinorCivName} скоро падёт перед моими армиями. Как ты отреагируешь? Молчанием? Как уместно.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_GOOD_2">
-
 			<Text>Мудрый выбор.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_GOOD_3">
-
 			<Text>Ты трус.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_GOOD_4">
-
 			<Text>Как я и подозревал.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_BAD_2">
-
 			<Text>Конечно. Как бы то ни было.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_BAD_3">
-
 			<Text>Глупое заявление.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_ATTACKED_MINOR_BAD_4">
-
 			<Text>Я не удивлён, что ты это сказал.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_3">
-
 			<Text>Недавняя дань, которую мы взяли с {@1_MinorCivName}, не была предназначена как оскорбление тебе или твоей декларации защиты. Надеюсь, мы сможем преодолеть это.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_WE_BULLIED_MINOR_BAD_2">
-
 			<Text>Ты ошибаешься в своих взглядах и поэтому на неправильной стороне этого обсуждения.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_3">
-
 			<Text>{@1_MinorCivName} мало что получает от твоей защиты, кажется. Я напомнил им об этом, когда недавно потребовал с них дань. Хочешь доказать, что я неправ?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_GOOD_2">
-
 			<Text>Я не удивлён.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_BAD_2">
-
 			<Text>Пф. Как бы то ни было.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_INSULT_MILITARY_3">
-
 			<Text>Слабость твоей армии — позор, который соперничает только с твоим жалким лидерством.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_INSULT_MILITARY_4">
-
 			<Text>Твои стены не помогут тебе, если у тебя нет солдат, чтобы защитить их.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_INSULT_MILITARY_5">
-
 			<Text>У тебя слишком много веры в доброжелательность твоих соседей. Твоё отсутствие армии делает тебя сочной мишенью.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_INSULT_NUKE_2">
-
 			<Text>У нас есть бомба, и мы не боимся её использовать!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_INSULT_BULLY_2">
-
 			<Text>Травля слабых просто показывает миру, какой ты мелочный и жалкий.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_INSULT_BULLY_3">
-
 			<Text>Ты хулиган, и хулиганы всегда заканчивают на свалке истории.</Text>
-
 		</Row>
 	</Language_RU_RU>
 </GameData>

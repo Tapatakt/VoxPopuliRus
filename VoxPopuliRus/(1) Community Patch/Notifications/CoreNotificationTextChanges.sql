@@ -13,8 +13,8 @@ WHERE Tag = 'TXT_KEY_MOVE_STACKED_UNIT_TT';
 UPDATE Language_RU_RU
 SET Text = '{1_CivName:textkey} потерял{1_CivName: plural 1?; other?и;} свою [ICON_CAPITAL] столицу'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_LOST_CAPITAL';
-
 -- Rig elections
+
 UPDATE Language_RU_RU
 SET Text = '{1_SpyRank} {2_SpyName} успешно сфальсифицировал{2_SpyName: plural 1?; 2?а;} местные выборы в {3_CityName}. Ваше влияние увеличилось на {4_Num}. Влияние других цивилизаций уменьшилось.'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS';
@@ -26,8 +26,8 @@ WHERE Tag = 'TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT';
 UPDATE Language_RU_RU
 SET Text = '{1_SpyRank} {2_SpyName} не смог{2_SpyName: plural 1?; 2?ла;} сфальсифицировать местные выборы в {3_CityName}. {4_CivShortDesc} успешно сфальсифицировал{4_CivShortDesc: plural 1?; 2?а;} их и получил влияние там. Ваше влияние было уменьшено на {5_Num}.'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE';
-
 -- Fixed quest text - transitioned to new 'quest rewards' panel
+
 UPDATE Language_RU_RU
 SET Text = 'Вы успешно уничтожили лагерь варваров, как просил{1_MinorCivName:textkey}!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CAMP';
@@ -99,36 +99,36 @@ WHERE Tag = 'TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONTEST_TECHS';
 UPDATE Language_RU_RU
 SET Text = 'Другая цивилизация впечатлила {1_MinorCivName:textkey} своим технологическим развитием. Ваших научных открытий было недостаточно. Цивилизации, достигшие успеха (ничьи разрешены):[NEWLINE]'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_QUEST_ENDED_CONTEST_TECHS';
-
 -- City Revolt Brewing
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку в вашей империи как минимум 20 [ICON_HAPPINESS_4] недовольства (или общественное мнение не является «довольным»), город восстанет через [COLOR_NEGATIVE_TEXT]{1_Turns}[ENDCOLOR] ходов. Исходя из текущего уровня недовольства и культурного/идеологического давления, город, который, скорее всего, восстанет, — это {2_CityName}, и он присоединится к {3_CivName}. Постарайтесь как можно скорее вывести уровень счастья вашей империи из этой зоны!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT';
-
 -- A City Revolts!
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку в вашей империи как минимум 20 [ICON_HAPPINESS_4] недовольства, город {1_CityName} восстал и присоединился к {2_CivName}!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_CITY_REVOLT';
-
 -- Rebels Appear!
+
 UPDATE Language_RU_RU
 SET Text = 'Поскольку в вашей империи как минимум 20 [ICON_HAPPINESS_4] недовольства, в вашей территории произошло восстание!'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_REBELS';
-
 -- Pantheon Founded
+
 UPDATE Language_RU_RU
-SET Text = 'Ваш народ начал поклоняться пантеону богов. Они выбрали убеждение: [COLOR_POSITIVE_TEXT]{1_BeliefName}[ENDCOLOR] ({@2_BeliefDesc})'
+SET Text = 'Ваш народ начал поклоняться пантеону богов. Они выбрали верование: [COLOR_POSITIVE_TEXT]{1_BeliefName}[ENDCOLOR] ({@2_BeliefDesc})'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED_ACTIVE_PLAYER';
 
 UPDATE Language_RU_RU
-SET Text = '{@1_CivName} {@1: plural 1?начал; 2?начали;} поклоняться пантеону богов. Они выбрали убеждение: [COLOR_POSITIVE_TEXT]{2_BeliefName}[ENDCOLOR] ({@3_BeliefDesc})'
+SET Text = '{@1_CivName} {@1: plural 1?начал; 2?начали;} поклоняться пантеону богов. Они выбрали верование: [COLOR_POSITIVE_TEXT]{2_BeliefName}[ENDCOLOR] ({@3_BeliefDesc})'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED';
 
 UPDATE Language_RU_RU
-SET Text = 'Неизвестная цивилизация начала поклоняться пантеону богов. Они выбрали убеждение: [COLOR_POSITIVE_TEXT]{1_BeliefName}[ENDCOLOR] ({@2_BeliefDesc})'
+SET Text = 'Неизвестная цивилизация начала поклоняться пантеону богов. Они выбрали верование: [COLOR_POSITIVE_TEXT]{1_BeliefName}[ENDCOLOR] ({@2_BeliefDesc})'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_PANTHEON_FOUNDED_UNKNOWN';
-
 -- BALANCE_RESOURCE_SHORTAGE_UNIT_HEALING
+
 UPDATE Language_RU_RU
 SET Text = 'В настоящее время вы используете больше {1_Resource:textkey}, чем у вас есть! Все юниты, которым он требуется, [COLOR_NEGATIVE_TEXT]не могут лечиться[ENDCOLOR].'
 WHERE Tag = 'TXT_KEY_NOTIFICATION_OVER_RESOURCE_LIMIT'

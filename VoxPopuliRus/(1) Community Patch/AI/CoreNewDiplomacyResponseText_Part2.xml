@@ -1,192 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_RU_RU>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_REPEAT_4">
 			<Text>Ну что ещё?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_DESTRUCTION_LOOMS_5">
 			<Text>Мои солдаты потеряли волю к бою. Могу ли я убедить тебя проявить милосердие?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_DESTRUCTION_LOOMS_6">
 			<Text>Кажется, я проиграл и битву, и войну. Неужели мы не можем прийти к какому-то соглашению?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_4">
 			<Text>Я полагаю, ты здесь, чтобы признать поражение?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_5">
 			<Text>Твоё уничтожение завершено. Признай это.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_6">
 			<Text>Зачем ты всё ещё сражаешься? Война окончена.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_WANTS_PEACE_4">
 			<Text>Эта война длится уже достаточно долго, не думаешь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_WANTS_PEACE_5">
 			<Text>Слишком многие из наших храбрецов погибли в этом конфликте. Давай заключим мир.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_WANTS_PEACE_6">
 			<Text>День мира близок. Давай обнимем его.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_HOSTILE_4">
 			<Text>Разве я уже не победил тебя?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_HOSTILE_5">
 			<Text>Здесь, чтобы молить о пощаде, возможно?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AT_WAR_HOSTILE_6">
 			<Text>Ты здесь, чтобы признать поражение?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_BROKEN_MILITARY_PROMISE_2">
 			<Text>Зачем предателю вроде тебя возвращаться сюда?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_COOP_WAR_4">
 			<Text>{1_ThirdPlayerName:textkey} смотрит в лицо поражению благодаря нашим совместным усилиям.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_COOP_WAR_5">
 			<Text>Когда {1_ThirdPlayerName:textkey} падёт, против кого мы будем сражаться дальше?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_COOP_WAR_6">
 			<Text>С {1_ThirdPlayerName:textkey} совсем легко справиться.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HUMAN_AT_WAR_2">
 			<Text>Мой народ и я надеемся, что твоя текущая война идёт хорошо.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_AT_WAR_2">
 			<Text>Я бы пожелал тебе удачи в текущем конфликте, но это была бы ложь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AGGRESSIVE_MILITARY_2">
 			<Text>Я желаю мира, но твоя поза заставляет меня бояться, что война на горизонте. Так оно и есть?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_AGGRESSIVE_MILITARY_2">
 			<Text>Слишком много твоих войск скопилось у нашей общей границы. Отведи их, если не желаешь войны.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AGGRESSIVE_EXPANSION_2">
 			<Text>Хотя я согласен, что все империи имеют право на расширение, ты взял слишком много, слишком быстро. Ради мира, пожалуйста, сдержи свою безрассудную экспансию.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_2">
 			<Text>Ты жадно взял гораздо больше земли, чем тебе принадлежит по праву. Ты заплатишь за эту жадность скоро.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_AGGRESSIVE_PLOT_BUYING_2">
 			<Text>Ты должен покупать КАЖДЫЙ хороший кусок земли, что видишь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_2">
 			<Text>Ты тратишь золото, чтобы красть землю, пока я трачу золото, чтобы покупать новое оружие для моих солдат. Как думаешь, кто в долгосрочной перспективе выиграет больше от своих инвестиций?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_SHARE_APPROACH_NO_1">
 			<Text>Мы никогда не поделимся своими дипломатическими секретами с злодеями вроде тебя!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_SHARE_APPROACH_NO_2">
 			<Text>Ты честно думаешь, что я расскажу преступнику вроде тебе свою внешнюю политику?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_SHARE_APPROACH_NO_3">
 			<Text>Зачем ты тратишь своё время на вопросы о моих внешних делах? Они тебя не касаются!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_REPEAT_SHARE_APPROACH_NO_1">
 			<Text>Зачем ты продолжаешь тратить моё время на эту чушь? Прочь!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_REPEAT_SHARE_APPROACH_NO_2">
 			<Text>Разве ты не слышал меня в первый раз? Убирайся!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_HOSTILE_REPEAT_SHARE_APPROACH_NO_3">
 			<Text>Прости, ты плохо слышишь? Ответ всегда будет нет!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_SHARE_APPROACH_1">
 			<Text>Извини, но мы знаем тебя недостаточно долго, чтобы раскрывать наши дипломатические секреты. Может быть, в будущем?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_SHARE_APPROACH_2">
 			<Text>Мы знаем друг друга недостаточно долго, чтобы я раскрыл свою внешнюю политику. Ответ нет.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_TOO_SOON_FOR_SHARE_APPROACH_3">
 			<Text>Я делюсь внешней политикой только с теми, кому доверяю. Я не могу доверять тому, кого только что встретил.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_NO_1">
 			<Text>Извини, но мы предпочитаем хранить свои дипломатические секреты в безопасности. Попробуй в другой раз.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_NO_2">
 			<Text>Мои советники считают важным держать нашу внешнюю политику в секрете. Может быть, в другой раз?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_NO_3">
 			<Text>Нам не комфортно транслировать наши внешние дела в данный момент. Возможно, в другой раз?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_SHARE_APPROACH_NO_1">
 			<Text>Я не буду рассматривать такие просьбы в данный момент. Пожалуйста, перестань спрашивать.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_SHARE_APPROACH_NO_2">
 			<Text>Мы уже обсуждали это раньше. Я не расскажу тебе о своих делах.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_REPEAT_SHARE_APPROACH_NO_3">
 			<Text>Ответ остаётся нет. Мы не предоставим дипломатических деталей в данный момент.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_FRIENDLY_1">
 			<Text>{1_PlayerName:textkey} — настоящий друг и может быть доверен. (Дружелюбно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_FRIENDLY_2">
 			<Text>Я весьма расположен к {1_PlayerName:textkey} и с нетерпением жду нашего продолжающегося дружеского общения. (Дружелюбно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_FRIENDLY_3">
 			<Text>{1_PlayerName:textkey} и я были в хороших отношениях, и я не вижу причин, почему это изменится. (Дружелюбно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_NEUTRAL_1">
 			<Text>У меня действительно нет мнения о {1_PlayerName:textkey}. (Нейтрально)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_NEUTRAL_2">
 			<Text>{1_PlayerName:textkey} ни враг мне, ни друг. (Нейтрально)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_NEUTRAL_3">
 			<Text>{1_PlayerName:textkey} совсем не беспокоит меня. (Нейтрально)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_GUARDED_1">
 			<Text>Буду честен. Я не доверяю {1_PlayerName:textkey} ни на каплю. (Осторожно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_GUARDED_2">
 			<Text>{1_PlayerName:textkey} тревожит моих советников, и мы отслеживаем ситуацию. (Осторожно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_GUARDED_3">
 			<Text>Мы следим за {1_PlayerName:textkey} из-за недавних инцидентов. (Осторожно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_HOSTILE_1">
 			<Text>Правление {1_PlayerName:textkey} оскверняет эту землю, и я не вижу проблемы в её окончании. (Враждебно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_HOSTILE_2">
 			<Text>{1_PlayerName:textkey} — тиран и злодей, с которым нужно разобраться. (Враждебно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_HOSTILE_3">
 			<Text>Не напоминай мне, что {1_PlayerName:textkey} всё ещё ходит по этой земле... (Враждебно)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_AFRAID_1">
 			<Text>Я смотрю на {1_PlayerName:textkey} с великой завистью! (Боится)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_AFRAID_2">
 			<Text>Я восхищаюсь успехами {1_PlayerName:textkey}. (Боится)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_AFRAID_3">
 			<Text>Надеюсь, однажды я смогу стать таким же хорошим правителем, как {1_PlayerName:textkey}. (Боится)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_WAR_1">
 			<Text>{1_PlayerName:textkey} и я в состоянии войны! ([COLOR_NEGATIVE_TEXT]ВОЙНА![ENDCOLOR])</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_WAR_2">
 			<Text>{1_PlayerName:textkey} и я заперты в бою. ([COLOR_NEGATIVE_TEXT]ВОЙНА![ENDCOLOR])</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_WAR_3">
 			<Text>В настоящее время я урегулирую спор с {1_PlayerName:textkey}. ([COLOR_NEGATIVE_TEXT]ВОЙНА![ENDCOLOR])</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_PLANNING_WAR_1">
 			<Text>Я доверяю тебе достаточно, чтобы признаться, что планирую войну против {1_PlayerName:textkey}. (Планирует войну!)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_PLANNING_WAR_2">
 			<Text>Не обманывайся внешним видом. Я планирую избавить эту землю от {1_PlayerName:textkey}. (Планирует войну!)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_PLANNING_WAR_3">
 			<Text>Я устал от присутствия {1_PlayerName:textkey} и планирую уничтожить их скоро. (Планирует войну!)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_DECEPTIVE_1">
 			<Text>Может показаться, что я дружелюбен с {1_PlayerName:textkey}, но это всё показуха. (Лживо)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_DECEPTIVE_2">
 			<Text>Думаешь, ты можешь хранить секреты? Я планирую обмануть {1_PlayerName:textkey} при первой же возможности. (Лживо)</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_SHARE_APPROACH_DECEPTIVE_3">
 			<Text>Я говорю миру, что {1_PlayerName:textkey} — друг. Я говорю тебе в строжайшей конфиденциальности, что это не так. (Лживо)</Text>
 		</Row>

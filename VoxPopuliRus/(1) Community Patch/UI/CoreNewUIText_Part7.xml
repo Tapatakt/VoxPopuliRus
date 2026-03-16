@@ -1,305 +1,405 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-<Language_RU_RU>
-		<Row Tag="TXT_KEY_YIELD_MOD_GREAT_WORKS">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GREAT_WORK] Великих произведений</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_LEAGUE">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от действующих резолюций</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_MINOR_TRADE_ROUTE">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_INTERNATIONAL_TRADE] торговых путей с [ICON_CITY_STATE] городами-государствами</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_MONOPOLY">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_MONOPOLY] монополий на ресурсы</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_NAVAL_BLOCKADE">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_BLOCKADED] морской блокады</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_NUM_FOLLOWERS_BELIEF">
-			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества последователей (религиозные убеждения)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_NUM_FOLLOWERS_CITY">
-			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества последователей (здания)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_NUM_FOLLOWERS_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества последователей (уникальная способность)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_NUM_SPECIALISTS">
-			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества специалистов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_OCCUPIED_POLICY">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_OCCUPIED] оккупированного города от социальных институтов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_PLAYER">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от бонусов империи</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_PUPPET">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_PUPPET] города-марионетки</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_PUPPET_POLICY">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_PUPPET] города-марионетки (социальные институты для [ICON_PRODUCTION] производства)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_RAILROAD_CONNECTION">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от железнодорожного сообщения</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_RESOURCES">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от местных ресурсов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_SPIES">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от активных шпионов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_TECHNOLOGIES">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от технологий</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_ERA">
-            <Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от эпохи</Text>
-        </Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_UNHAPPINESS">
-			<Text>[NEWLINE][ICON_BULLET]{1_Num}% от [ICON_HAPPINESS_3] недовольства</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_UNIT_PROMOTION">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от гарнизона юнита</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_BELIEF">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (религиозные убеждения)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_CITY">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (здания)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_PLAYER">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (социальные институты)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (уникальная способность)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_WORLD_RELIGION">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для священного города мировой религии</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MOD_WORLD_WONDER">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% за наличие [ICON_WONDER] чудес света</Text>
-		</Row>
-		<Row Tag="TXT_KEY_YIELD_MULTIPLIER_POLICY">
-			<Text>[NEWLINE][ICON_BULLET]Удвоено социальными институтами</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_FROM_SPECIALIST">
-			<Text>[ICON_BULLET]{1_Num} {2_IconString} от специалистов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_FROM_BUILDING">
-			<Text>[ICON_BULLET]{1_Num} {2_IconString} от зданий</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_FROM_RELIGION">
-			<Text>[ICON_BULLET]{1_Num} {2_IconString} от [ICON_RELIGION] основной религии</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_FROM_MONOPOLY">
-			<Text>[ICON_BULLET]{1_Num} {2_IconString} от [ICON_MONOPOLY] монополий</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_BASE">
-			<Text>Базовые очки {1_IconString} {2_GreatPerson:textkey}: {3: number "#,##0.00"}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_BUILDINGS">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от зданий</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_CAPITAL">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_CAPITAL] столицы от [ICON_RES_MARRIAGE] дипломатических браков</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_GA_BELIEF">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GOLDEN_AGE] золотого века (религиозные убеждения)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_GA_POLICY">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GOLDEN_AGE] золотого века (социальные институты)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_GA_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GOLDEN_AGE] золотого века (уникальная способность)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_IMPROVEMENT">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от обрабатываемых улучшений</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_LEAGUE">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от действующих резолюций</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_MONOPOLY">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_MONOPOLY] монополий на ресурсы</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_MOD_PLAYER">
-			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от бонусов империи</Text>
-		</Row>
-		<Row Tag="TXT_KEY_GPP_TOTAL">
-			<Text>Прогресс к {1_GreatPerson:textkey}: {2_Progress: number "#,##0.00"}/{3_Cost: number "#,##0.00"} ({4_PerTurn: number "#,##0.00"}{5_IconString} за ход, {6_Turns}[ICON_TURNS_REMAINING])</Text>
-		</Row>
-		<Row Tag="TXT_KEY_TOURISM_HELP_INFO">
-			<Text>[ICON_TOURISM] Туризм генерируется Великими произведениями, чудесами и другими культурными достижениями для оказания культурного влияния на другие цивилизации. Когда ваш накопленный [ICON_TOURISM] туризм превышает накопленную [ICON_CULTURE] культуру другой цивилизации, вы становитесь влиятельными над ней, приближаясь к культурной победе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_BORDER_GROWTH_HELP_INFO">
-			<Text>[ICON_CULTURE_LOCAL] Очки роста границ генерируются от культурного производства вашего города, а также от определенных зданий и убеждений. Когда накопленные очки роста границ превышают требуемый порог, ваш город приобретает новую клетку.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_CORPORATIONS_TEXT">
-			<Text>Корпорации</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_UNKNOWN">
-			<Text>??? (требуется исследование)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_CITY_RANGED_STRENGTH_TT">
-			<Text>Сила выстрела города: [ICON_RANGE_STRENGTH] {1_Num}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_WLTKD_COUNTER_UA_1">
-			<Text>"День любви к императрице"! ({1_Num})</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_FULFILLED_TT_UA_1">
-			<Text>Этот город отмечает "День любви к императрице", что увеличивает модификатор [ICON_FOOD] роста города!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_TT_UA_1">
-			<Text>Подключение этого ресурса к вашей торговой сети вызовет "День любви к императрице" в этом городе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_WLTKD_COUNTER_UA_2">
-			<Text>Карнавал! ({1_Num})</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_FULFILLED_TT_UA_2">
-			<Text>Этот город отмечает Карнавал, что увеличивает [ICON_FOOD] рост и уменьшает [ICON_HAPPINESS_3] недовольство!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_TT_UA_2">
-			<Text>Подключение этого ресурса к вашей торговой сети вызовет Карнавал в этом городе, что увеличит [ICON_FOOD] рост и уменьшит [ICON_HAPPINESS_3] недовольство!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_INDUSTRIAL_CONNECTED">
-			<Text>Город имеет [ICON_INDUSTRIAL_CONNECTED] промышленное сообщение со [ICON_CAPITAL] столицей!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_SAPPED">
-			<Text>Из-за миссии вражеского шпиона город заблокирован и не может производить дальнобойные выстрелы на [COLOR_POSITIVE_TEXT]{1_Turns}[ENDCOLOR] {1_Turns: plural 1?ход; other?ходов;}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_FINISHED">
-			<Text>ЗАВЕРШЕНО: {1_ItemName}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_AUTOMATE_PRODUCTION_TT">
-			<Text>Автоматизировать производство для этого города.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESET_SPEC">
-			<Text>Сбросить специалистов</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYVIEW_RESET_SPEC_TT">
-			<Text>Нажмите здесь, чтобы губернатор переназначил специалистов.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_MONOPOLY_GP_MOD">
-			<Text>[ICON_BULLET] Бонус монополии ресурсов: +{1_num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_IMPROVEMENTS_GP_MOD">
-			<Text>[ICON_BULLET] Бонус улучшений: +{1_num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_RELIGIONS_GP_MOD">
-			<Text>[ICON_BULLET] Религиозный бонус: +{1_num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_UNIT_CLASS">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для класса юнитов: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_PLEDGES_UNIT_DOMAIN">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для домена юнитов от обещаний: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_RELIGION_UNIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для военных юнитов от религии: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_UNIT_CORPORATION">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для юнита от корпорации: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_CONQUEST_BUILDINGS_PRIOR_ERAS">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для зданий прошлых эпох: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_UNITPROMOTION">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для чудес от гарнизона юнита: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_IMPROVEMENT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для чудес от улучшений: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_MILITARY_UNITPROMOTION">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор для военных юнитов от гарнизона юнита: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_UNIT_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от гарнизона юнита: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_IMPROVEMENT_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от улучшений: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_POLICY_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от социальных институтов: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_RESOURCE_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от ресурсов: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_PLAYER_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от черт игрока: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_CITY_TRAIT">
-			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от города: {1_Num}%</Text>
-		</Row>
-		<Row Tag="TXT_KEY_SCIENCE_YIELD_FROM_LEAGUE_ART">
-			<Text>{1_Num} [ICON_RESEARCH] добавлено [ICON_GREAT_WORK] Великими произведениями</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CO_CITY_TOURISM_GENERAL">
-			<Text>{1_Num} [ICON_TOURISM] Туризма от города</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CO_CITY_TOURISM_POLICY_AESTHETICS">
-			<Text>{1_Num} [ICON_TOURISM] Туризма от [ICON_WONDER] чудес света</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CO_CITY_TOURISM_GA_BONUS">
-			<Text>{1_Num} [ICON_TOURISM] Туризма от {2_Num}% [ICON_CULTURE] культуры вашей [ICON_CAPITAL] столицы</Text>
-		</Row>
-		<Row Tag="TXT_KEY_RELIGIOUS_PRESSURE_STRING_EXTENDED">
-			<Text>({1_Pressure} давление, +{2_PressurePerTurn} за ход)</Text>
-		</Row>
-		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_EXTENDED">
-			<Text>{1_ReligionIcon} {2_NumFollowers} {2_NumFollowers: plural 1?последователь; other?последователей;} ({3_TotalPressure} + {4_PressurePerTurn} давления от {5_Num} {5_Num:plural 1?города-источника; other?городов-источников;})</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_NO_SUPPLY">
-			<Text>[NEWLINE]Нельзя [ICON_PRODUCTION] обучить этот юнит, так как вы достигли максимального лимита снабжения!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_NO_SUPPLY_PURCHASE">
-			<Text>[NEWLINE]Нельзя [ICON_GOLD] купить этот юнит, так как вы достигли максимального лимита снабжения!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_UNIT_REQUIRES_BUILDING_PURCHASE">
-			<Text>[NEWLINE]Вы не можете [ICON_GOLD] купить этот юнит без построенного в городе {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_BuildingType}}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_PLAYER_CITY_COUNT_MAX">
-			<Text>[NEWLINE]Разрешено только {1_Num} на город игрока.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_ONE_CORP_ONLY">
-			<Text>[NEWLINE]{1_BuildingName:textkey} нельзя построить, пока вы строите {2_BuildingName:textkey} в другом месте вашей империи.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_PRODUCTION_SPY_BLOCKED">
-			<Text>[NEWLINE]Заблокировано из-за недавней миссии шпиона (осталось {1_Num} {1_Num: plural 1?ход; other?ходов;}).</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_LOCAL_FEATURE">
-			<Text>[NEWLINE]Требуется {1_FeatureName:textkey} рядом с этим городом.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_MONOPOLY">
-			<Text>[NEWLINE]Требуется [ICON_MONOPOLY] глобальная монополия на {2_ResourceIcon} {1_ResourceName:textkey}. В настоящее время вы контролируете {3_Percent}%.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_TENETS_COUNT_NEEDED">
-			<Text>[NEWLINE]Вам нужно разблокировать еще {1_Num} {1_Num: plural 1?догмат; other?догматов;} 3-го уровня, чтобы построить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_NATIONAL_POP">
-			<Text>[NEWLINE]Вам нужно иметь еще {1_Num} {1_Num: plural 1?гражданина; other?граждан;} в вашей империи, чтобы построить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_LOCAL_POP">
-			<Text>[NEWLINE]Вам нужно иметь еще {1_Num} {1_Num: plural 1?гражданина; other?граждан;} в этом городе, чтобы построить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_FOLLOWER_POP">
-			<Text>[NEWLINE]Вам нужно иметь еще {1_Num} {1_Num: plural 1?последователя; other?последователей;} вашей [ICON_RELIGION] религии в вашей империи, чтобы построить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_GLOBAL_FOLLOWER_POP">
-			<Text>[NEWLINE]Вам нужно иметь еще {1_Percent}% глобальных последователей вашей [ICON_RELIGION] религии, чтобы построить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_PRIMARY_RELIGION">
-			<Text>[NEWLINE]Вам нужно иметь [ICON_RELIGION] основную религию, чтобы построить это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_POLICIES">
-			<Text>[NEWLINE]Дополнительных социальных институтов, необходимых для разблокировки: {1_Num}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_UNIT_LACKS_RESOURCES_TOTAL">
-			<Text>[NEWLINE]Для создания этого юнита требуется доступ к {1_Num} {2_ResourceIcon} {3_ResourceName:textkey}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_LEVEL_THREE_TENETS_REQUIRED">
-			<Text>[NEWLINE]Дополнительных догматов 3-го уровня, необходимых: {1_Num}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_NEED_INFLUENTIAL_ALL_CIVS">
-			<Text>[NEWLINE]Вам нужно быть влиятельным над всеми цивилизациями, чтобы создать это.</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_GREAT_WORKS">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GREAT_WORK] Великих произведений</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_LEAGUE">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от действующих резолюций</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_MINOR_TRADE_ROUTE">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_INTERNATIONAL_TRADE] торговых путей с [ICON_CITY_STATE] городами-государствами</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_MONOPOLY">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_MONOPOLY] монополий на ресурсы</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_NAVAL_BLOCKADE">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_BLOCKADED] морской блокады</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_NUM_FOLLOWERS_BELIEF">
+			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества последователей (религиозные верования)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_NUM_FOLLOWERS_CITY">
+			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества последователей (здания)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_NUM_FOLLOWERS_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества последователей (уникальная способность)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_NUM_SPECIALISTS">
+			<Text>[NEWLINE][ICON_BULLET]+{1_Num}% от количества специалистов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_OCCUPIED_POLICY">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_OCCUPIED] оккупированного города от социальных институтов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от бонусов империи</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_PUPPET">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_PUPPET] города-марионетки</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_PUPPET_POLICY">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_PUPPET] города-марионетки (социальные институты для [ICON_PRODUCTION] производства)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_RAILROAD_CONNECTION">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от железнодорожного сообщения</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_RESOURCES">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от местных ресурсов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_SPIES">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от активных шпионов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_TECHNOLOGIES">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от технологий</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_ERA">
+            <Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от эпохи</Text>
+        </Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_UNHAPPINESS">
+			<Text>[NEWLINE][ICON_BULLET]{1_Num}% от [ICON_HAPPINESS_3] недовольства</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_UNIT_PROMOTION">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от гарнизона юнита</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_BELIEF">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (религиозные верований)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_CITY">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (здания)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (социальные институты)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_WLTKD_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_HAPPINESS_1] "Дня любви к королю" (уникальная способность)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_WORLD_RELIGION">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для священного города мировой религии</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MOD_WORLD_WONDER">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% за наличие [ICON_WONDER] чудес света</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_YIELD_MULTIPLIER_POLICY">
+			<Text>[NEWLINE][ICON_BULLET]Удвоено социальными институтами</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_FROM_SPECIALIST">
+			<Text>[ICON_BULLET]{1_Num} {2_IconString} от специалистов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_FROM_BUILDING">
+			<Text>[ICON_BULLET]{1_Num} {2_IconString} от зданий</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_FROM_RELIGION">
+			<Text>[ICON_BULLET]{1_Num} {2_IconString} от [ICON_RELIGION] основной религии</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_FROM_MONOPOLY">
+			<Text>[ICON_BULLET]{1_Num} {2_IconString} от [ICON_MONOPOLY] монополий</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_BASE">
+			<Text>Базовые очки {1_IconString} {2_GreatPerson:textkey}: {3: number "#,##0.00"}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_BUILDINGS">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от зданий</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_CAPITAL">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% для [ICON_CAPITAL] столицы от [ICON_RES_MARRIAGE] дипломатических браков</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_GA_BELIEF">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GOLDEN_AGE] золотого века (религиозные верования)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_GA_POLICY">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GOLDEN_AGE] золотого века (социальные институты)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_GA_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_GOLDEN_AGE] золотого века (уникальная способность)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_IMPROVEMENT">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от обрабатываемых улучшений</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_LEAGUE">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от действующих резолюций</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_MONOPOLY">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от [ICON_MONOPOLY] монополий на ресурсы</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_MOD_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]{1: number "'+'##;'-'##"}% от бонусов империи</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GPP_TOTAL">
+			<Text>Прогресс к {1_GreatPerson:textkey}: {2_Progress: number "#,##0.00"}/{3_Cost: number "#,##0.00"} ({4_PerTurn: number "#,##0.00"}{5_IconString} за ход, {6_Turns}[ICON_TURNS_REMAINING])</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TOURISM_HELP_INFO">
+			<Text>[ICON_TOURISM] Туризм генерируется Великими произведениями, чудесами и другими культурными достижениями для оказания культурного влияния на другие цивилизации. Когда ваш накопленный [ICON_TOURISM] туризм превышает накопленную [ICON_CULTURE] культуру другой цивилизации, вы становитесь влиятельными над ней, приближаясь к культурной победе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BORDER_GROWTH_HELP_INFO">
+			<Text>[ICON_CULTURE_LOCAL] Очки роста границ генерируются от культурного производства вашего города, а также от определенных зданий и верований. Когда накопленные очки роста границ превышают требуемый порог, ваш город приобретает новую клетку.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_CORPORATIONS_TEXT">
+			<Text>Корпорации</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_UNKNOWN">
+			<Text>??? (требуется исследование)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_CITY_RANGED_STRENGTH_TT">
+			<Text>Сила выстрела города: [ICON_RANGE_STRENGTH] {1_Num}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_WLTKD_COUNTER_UA_1">
+			<Text>"День любви к императрице"! ({1_Num})</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_FULFILLED_TT_UA_1">
+			<Text>Этот город отмечает "День любви к императрице", что увеличивает модификатор [ICON_FOOD] роста города!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_TT_UA_1">
+			<Text>Подключение этого ресурса к вашей торговой сети вызовет "День любви к императрице" в этом городе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_WLTKD_COUNTER_UA_2">
+			<Text>Карнавал! ({1_Num})</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_FULFILLED_TT_UA_2">
+			<Text>Этот город отмечает Карнавал, что увеличивает [ICON_FOOD] рост и уменьшает [ICON_HAPPINESS_3] недовольство!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_TT_UA_2">
+			<Text>Подключение этого ресурса к вашей торговой сети вызовет Карнавал в этом городе, что увеличит [ICON_FOOD] рост и уменьшит [ICON_HAPPINESS_3] недовольство!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_INDUSTRIAL_CONNECTED">
+			<Text>Город имеет [ICON_INDUSTRIAL_CONNECTED] промышленное сообщение со [ICON_CAPITAL] столицей!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_SAPPED">
+			<Text>Из-за миссии вражеского шпиона город заблокирован и не может производить дальнобойные выстрелы на [COLOR_POSITIVE_TEXT]{1_Turns}[ENDCOLOR] {1_Turns: plural 1?ход; other?ходов;}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_FINISHED">
+			<Text>ЗАВЕРШЕНО: {1_ItemName}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_AUTOMATE_PRODUCTION_TT">
+			<Text>Автоматизировать производство для этого города.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESET_SPEC">
+			<Text>Сбросить специалистов</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITYVIEW_RESET_SPEC_TT">
+			<Text>Нажмите здесь, чтобы губернатор переназначил специалистов.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MONOPOLY_GP_MOD">
+			<Text>[ICON_BULLET] Бонус монополии ресурсов: +{1_num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENTS_GP_MOD">
+			<Text>[ICON_BULLET] Бонус улучшений: +{1_num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RELIGIONS_GP_MOD">
+			<Text>[ICON_BULLET] Религиозный бонус: +{1_num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_CLASS">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для класса юнитов: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_PLEDGES_UNIT_DOMAIN">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для домена юнитов от обещаний: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_RELIGION_UNIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для военных юнитов от религии: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_CORPORATION">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для юнита от корпорации: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_CONQUEST_BUILDINGS_PRIOR_ERAS">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для зданий прошлых эпох: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_UNITPROMOTION">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для чудес от гарнизона юнита: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_IMPROVEMENT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для чудес от улучшений: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_MILITARY_UNITPROMOTION">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для военных юнитов от гарнизона юнита: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_UNIT_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от гарнизона юнита: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_IMPROVEMENT_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от улучшений: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_POLICY_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от социальных институтов: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_RESOURCE_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от ресурсов: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_PLAYER_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от черт игрока: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_TO_BUILDING_FROM_CITY_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор производства чудес для зданий от города: {1_Num}%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SCIENCE_YIELD_FROM_LEAGUE_ART">
+			<Text>{1_Num} [ICON_RESEARCH] добавлено [ICON_GREAT_WORK] Великими произведениями</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_GENERAL">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от города</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_POLICY_AESTHETICS">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от [ICON_WONDER] чудес света</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_GA_BONUS">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от {2_Num}% [ICON_CULTURE] культуры вашей [ICON_CAPITAL] столицы</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RELIGIOUS_PRESSURE_STRING_EXTENDED">
+			<Text>({1_Pressure} давление, +{2_PressurePerTurn} за ход)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_EXTENDED">
+			<Text>{1_ReligionIcon} {2_NumFollowers} {2_NumFollowers: plural 1?последователь; other?последователей;} ({3_TotalPressure} + {4_PressurePerTurn} давления от {5_Num} {5_Num:plural 1?города-источника; other?городов-источников;})</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_NO_SUPPLY">
+			<Text>[NEWLINE]Нельзя [ICON_PRODUCTION] обучить этот юнит, так как вы достигли максимального лимита снабжения!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_NO_SUPPLY_PURCHASE">
+			<Text>[NEWLINE]Нельзя [ICON_GOLD] купить этот юнит, так как вы достигли максимального лимита снабжения!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_UNIT_REQUIRES_BUILDING_PURCHASE">
+			<Text>[NEWLINE]Вы не можете [ICON_GOLD] купить этот юнит без построенного в городе {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_BuildingType}}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_PLAYER_CITY_COUNT_MAX">
+			<Text>[NEWLINE]Разрешено только {1_Num} на город игрока.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_ONE_CORP_ONLY">
+			<Text>[NEWLINE]{1_BuildingName:textkey} нельзя построить, пока вы строите {2_BuildingName:textkey} в другом месте вашей империи.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_PRODUCTION_SPY_BLOCKED">
+			<Text>[NEWLINE]Заблокировано из-за недавней миссии шпиона (осталось {1_Num} {1_Num: plural 1?ход; other?ходов;}).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_LOCAL_FEATURE">
+			<Text>[NEWLINE]Требуется {1_FeatureName:textkey} рядом с этим городом.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_MONOPOLY">
+			<Text>[NEWLINE]Требуется [ICON_MONOPOLY] глобальная монополия на {2_ResourceIcon} {1_ResourceName:textkey}. В настоящее время вы контролируете {3_Percent}%.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_TENETS_COUNT_NEEDED">
+			<Text>[NEWLINE]Вам нужно разблокировать еще {1_Num} {1_Num: plural 1?догмат; other?догматов;} 3-го уровня, чтобы построить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_NATIONAL_POP">
+			<Text>[NEWLINE]Вам нужно иметь еще {1_Num} {1_Num: plural 1?гражданина; other?граждан;} в вашей империи, чтобы построить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_LOCAL_POP">
+			<Text>[NEWLINE]Вам нужно иметь еще {1_Num} {1_Num: plural 1?гражданина; other?граждан;} в этом городе, чтобы построить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_FOLLOWER_POP">
+			<Text>[NEWLINE]Вам нужно иметь еще {1_Num} {1_Num: plural 1?последователя; other?последователей;} вашей [ICON_RELIGION] религии в вашей империи, чтобы построить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_GLOBAL_FOLLOWER_POP">
+			<Text>[NEWLINE]Вам нужно иметь еще {1_Percent}% глобальных последователей вашей [ICON_RELIGION] религии, чтобы построить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_PRIMARY_RELIGION">
+			<Text>[NEWLINE]Вам нужно иметь [ICON_RELIGION] основную религию, чтобы построить это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_NEED_POLICIES">
+			<Text>[NEWLINE]Дополнительных социальных институтов, необходимых для разблокировки: {1_Num}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_UNIT_LACKS_RESOURCES_TOTAL">
+			<Text>[NEWLINE]Для создания этого юнита требуется доступ к {1_Num} {2_ResourceIcon} {3_ResourceName:textkey}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_LEVEL_THREE_TENETS_REQUIRED">
+			<Text>[NEWLINE]Дополнительных догматов 3-го уровня, необходимых: {1_Num}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NO_ACTION_PROJECT_NEED_INFLUENTIAL_ALL_CIVS">
+			<Text>[NEWLINE]Вам нужно быть влиятельным над всеми цивилизациями, чтобы создать это.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

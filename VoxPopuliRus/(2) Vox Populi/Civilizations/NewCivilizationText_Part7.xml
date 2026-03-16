@@ -1,201 +1,266 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Language_RU_RU>
+
 		<Row Tag="TXT_KEY_CITY_NAME_CHIOGGIA">
 		<Text>Кьоджа</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_NAME_MODON">
 		<Text>Модон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_NAME_ERACLEA">
 		<Text>Эраклея</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_NAME_AQUILEA">
 		<Text>Аквилея</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_NAME_SPALATO">
 		<Text>Сплит</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CITY_NAME_ZADAR">
 		<Text>Задар</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_FUSTA">
 		<Text>Фуста</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_FUSTA_HELP">
 		<Text></Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_FUSTA_TEXT">
 		<Text>Фуста, или галиоты, — это небольшие галеры с экипажем не более 35 человек. Исключительно лёгкие и быстрые, венецианцы изначально использовали их для поддержания постоянного военно-морского флота против пиратов, но корабль быстро стал любимцем самих пиратов. Малая осадка, маневренность и скорость фусты сделали их легендой по всему Средиземноморью.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_FUSTA_STRATEGY">
 		<Text></Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_01">
 		<Text>la nave Armera</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_02">
 		<Text>la nave Bernarda</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_03">
 		<Text>la nave Choresa</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_04">
 		<Text>nave Contarina</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_05">
 		<Text>la Contessa</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_06">
 		<Text>la nave Donada</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_07">
 		<Text>la Figa</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_08">
 		<Text>la Gradeniga</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_09">
 		<Text>la nave Grimana</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_10">
 		<Text>la Liona</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_11">
 		<Text>la nave Malipiera</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_12">
 		<Text>la Marcella</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_13">
 		<Text>la nave Marzella</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_14">
 		<Text>la nave Mosta</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_15">
 		<Text>la nave Pandora</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_16">
 		<Text>la nave Panthea</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_17">
 		<Text>la nave Pasqualiga</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_18">
 		<Text>la Permarina</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_19">
 		<Text>la Simitecola</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_20">
 		<Text>la nave Soranza</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_21">
 		<Text>la nave Vendramina</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_22">
 		<Text>la nave Veniera</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_23">
 		<Text>la nave Zustignana</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_24">
 		<Text>la Micella</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_25">
 		<Text>la nave dita la Mema</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILDING_IZIKO">
 		<Text>Изико</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILDING_IZIKO_HELP">
 		<Text>Возможные тематические бонусы:
 		[NEWLINE][ICON_BULLET] +4 [ICON_CULTURE] культуры и [ICON_TOURISM] туризма за два [COLOR_POSITIVE_TEXT]иностранных[ENDCOLOR] [ICON_GW_WRITING] великих произведения письменности.
 		[NEWLINE][ICON_BULLET] +4 [ICON_CULTURE] культуры и [ICON_TOURISM] туризма за два [COLOR_POSITIVE_TEXT]отечественных[ENDCOLOR] [ICON_GW_WRITING] великих произведения письменности.
 		</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILDING_IZIKO_TEXT">
 		<Text>Изико — это простой очаг, используемый как место собраний для общин зулусов. Камин почитался как источник пищи, тепла, снов и связи с предками. Именно на этих собраниях формировалось чувство общности и самоидентификация, а молодые зулусы могли выступать и сплочаться.[NEWLINE][NEWLINE]Очаг метафорически используется для «приготовления песен» в сценических выступлениях исикатамия — современном ответвлении традиционной музыки зулусов. Сны были неотъемлемой частью общения с предками и составляли часть глубоко укоренившейся религии зулусов. Некоторые музыканты исикатамия утверждают, что некоторые из их песен были созданы в духовном мире или даны им их предками.[NEWLINE][NEWLINE]«Человек — это человек благодаря другим людям»[NEWLINE][TAB]— зулусская пословица</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILDING_IZIKO_STRATEGY">
 		<Text>Главный уникальный бонус Изико заключается в том, что оно даёт культуру при повышении уровня любым из ваших юнитов и масштабируется в зависимости от количества городов, в которых вы его построили в своей империи. Это хорошо сочетается с уникальной способностью зулусов, так как для каждого уровня юнита требуется меньше опыта.[NEWLINE][NEWLINE]Чтобы максимизировать бонус, вы должны стараться строить, а не покупать военные юниты, чтобы они начинали с полным опытом, и иметь как можно больше зданий и других бонусов, дающих начальный опыт юнитам. Вам также обычно захочется играть агрессивно с зулусами, чтобы активно получать опыт через боевые действия для повышения уровня существующих юнитов и расширяться, чтобы иметь больше городов для постройки Изико.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA">
 		<Text>ИнДуна</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_HELP">
 		<Text></Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_TEXT">
 		<Text>ИнДуна в широком смысле может быть переведено как любой лидер людей в торговле, политике и на войне. ИнДуна руководил каждым полком, или «ибуто», молодых зулусов, а он в свою очередь подчинялся старшим изинДуна, контролировавшим корпус. Один или несколько из этих старейших вождей могли сопровождать крупное войско на важной миссии, но не было единого «главнокомандующего» всеми силами зулусов. Полковые изинДуна, как унтер-офицеры современной армии, были важны для боевого духа и дисциплины. Это было продемонстрировано во время битвы при Исандлване, где армия под командованием Нтшингваео каМахоле перехитрила и уничтожила британскую колонну. Нтшингваео каМахоле и его товарищи изинДуна пронесли силу зулусов в 20 000 человек за спину британцам, скрыв их в долине всего в 7 милях от британского лагеря. Когда разведчики обнаружили их сидящими в полной тишине, изинДуна подстегнули своих людей к действию и преодолели оставшееся расстояние с молниеносной скоростью.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_STRATEGY">
 		<Text>Основные уникальные бонусы ИнДуна по сравнению с Великим генералом заключаются в том, что при расходовании он даёт опыт юниту, с которым он объединён в стек, и создаёт Исибая, которое размещает ресурс [ICON_RES_COW] скота на соседней клетке, а соседние пастбища получают +1 [ICON_CULTURE] культуры.[NEWLINE][NEWLINE]Исибая всё же должен в первую очередь использоваться в военных целях, как Цитадель, но где возможно, следует рассмотреть постройку в радиусе работы города и рядом с пастбищами, чтобы получить экономические бонусы.[NEWLINE][NEWLINE]Вы всегда должны убедиться, что у вас есть военный юнит, объединённый в стек с ИнДуна при строительстве Исибая, и обычно лучше всего попытаться дать бонусный опыт юнитам более высокого уровня, особенно дальнобойным или осадным. Это связано с тем, что эти типы юнитов легче сохранить в живых дольше по сравнению с рукопашными, и они обычно получают опыт медленнее, поэтому бонусный опыт более значим.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_01">
 		<Text>Мзиликази</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_02">
 		<Text>Мбопа</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_03">
 		<Text>Нтшингваео каМахоле</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_04">
 		<Text>Натаниэль Айзекс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_05">
 		<Text>Ндлела каСомписи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_06">
 		<Text>Умгобхози Овела Энтабени</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_07">
 		<Text>Нонгалаза КаНондела</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_08">
 		<Text>Дабуламанзи каМпанде</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_09">
 		<Text>Дамбуза Нзобо</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_10">
 		<Text>Нкобока Мтияне</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_11">
 		<Text>Мабодла Мбуязи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_12">
 		<Text>Мензива Бийела</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_13">
 		<Text>Гала ка Нодаде</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_14">
 		<Text>Вуминдаба каНтхати</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_15">
 		<Text>Мавуменгвана каНдлела</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_16">
 		<Text>Зибхебху каМафита</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_UNIT_INDUNA_17">
 		<Text>Маньоси</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_IMPROVEMENT_ISIBAYA">
 		<Text>Исибая</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_IMPROVEMENT_ISIBAYA_TEXT">
 		<Text>{TXT_KEY_IMPROVEMENT_ISIBAYA_HELP}[NEWLINE][NEWLINE]Исибая — это зулусское жилище и оборонительное сооружение. Исибая имеет круговую планировку с загоном для скота в центре, окружённым хижинами, частоколом и глиняными стенами. Планировка и функция напоминают европейский загон, отсюда африкаанский термин для Амабая — «Крааль».[NEWLINE][NEWLINE]Скот был центром жизни и экономики Королевства зулусов. Скот был знаком статуса, богатства и власти и играл ключевую роль в кормлении и вооружении полков амабуто армии зулусов.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_IMPROVEMENT_ISIBAYA_HELP">
 		<Text>Уникальное улучшение клетки великого человека зулусов, заменяющее Цитадель. Может быть построено только {TXT_KEY_UNIT_INDUNA}.[NEWLINE][NEWLINE]Даёт [ICON_PRODUCTION] производство, [ICON_RESEARCH] науку и [ICON_CULTURE] культуру. Соседние пастбища получают +1 [ICON_CULTURE] культуры.[NEWLINE][NEWLINE]Постройка Исибая присваивает соседние клетки и размещает ресурс [ICON_RES_COW] скота на соседней клетке.[NEWLINE][NEWLINE]Юниты, стоящие на Исибая, получают +100% [ICON_STRENGTH] к обороне клетки. Наносит 30 урона соседним вражеским юнитам.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILD_ISIBAYA">
 		<Text>Построить [LINK=IMPROVEMENT_ISIBAYA]Исибая[\\LINK]</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_BUILD_ISIBAYA_HELP">
 		<Text>Может быть построено только на своей территории или рядом с вашими границами на ничейной клетке и не может находиться рядом с другим Исибая. Удаляет любой объект на клетке.[NEWLINE][NEWLINE]Постройка Исибая расширит ваши культурные границы вокруг Исибая, увеличит ваш [ICON_WAR] лимит военного снабжения на 1, разместит ресурс [ICON_RES_COW] скота на соседней клетке и расходует этого юнита. Если новая культурная граница присвоит гексы, уже принадлежащие другой цивилизации, вы понесёте дипломатический штраф.[NEWLINE][NEWLINE]+100% [ICON_STRENGTH] к оборонительной мощи любого юнита, размещённого на этой клетке. Наносит 30 урона соседним вражеским юнитам. Даёт +1 [ICON_CULTURE] культуры соседним пастбищам. Содержит [COLOR_POSITIVE_TEXT]укрепления[ENDCOLOR], позволяющие вашим юнитам оставаться на этой клетке после атаки, и [COLOR_POSITIVE_TEXT]канал[ENDCOLOR], позволяющий дружественным [COLOR_POSITIVE_TEXT]морским[ENDCOLOR] юнитам проходить через него.</Text>
 		</Row>

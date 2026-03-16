@@ -2,57 +2,75 @@
 <GameData>
 	<Language_RU_RU>
 		<!-- Mapscripts for VP -->
+
 		<Row Tag="TXT_KEY_MAP_AMAZON_XP_VP">
 			<Text>Амазонка Плюс для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_ARBOREA_VP">
 			<Text>Арборея для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_BOREAL_VP">
 			<Text>Бореалия для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_EUROPE_VP">
 			<Text>Европа для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_FOUR_CORNERS_VP">
 			<Text>Четыре угла для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_FRONTIER_VP">
 			<Text>Граница для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_GREAT_PLAINS_XP_VP">
 			<Text>Большие равнины Плюс для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_HIGHLANDS_VP">
 			<Text>Нагорье для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_INLAND_SEA_VP">
 			<Text>Внутреннее море для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LAKES_VP">
 			<Text>Озёра для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LARGE_ISLANDS_VP">
 			<Text>Большие острова для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_NORTH_VS_SOUTH_VP">
 			<Text>Север против Юга для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_RAINFOREST_VP">
 			<Text>Тропический лес для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_RING_VP">
 			<Text>Кольцо для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_VP">
 			<Text>Китай для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_SKIRMISH_VP">
 			<Text>Стычка для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_TERRA_VP">
 			<Text>Терра для VP</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_WEST_VS_EAST_VP">
 			<Text>Запад против Востока для VP</Text>
 		</Row>
@@ -60,147 +78,195 @@
 		<Row Tag="TXT_KEY_MAP_PLAYERS_START_IN">
 			<Text>Игроки начинают в</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_TERRA_LARGEST_CONTINENT">
 			<Text>Терра — крупнейший континент</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_CONTINENTS_EVERYWHERE">
 			<Text>Континенты — везде</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_OCEAN_SHAPES">
 			<Text>Формы океанов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_OCEAN_SHAPES_DESCRIPTION">
 			<Text>Вертикальные океанические разломы, разделяющие континенты</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_2_ATLANTIC">
 			<Text>2 Атлантических</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_PACIFIC_AND_ATLANTIC">
 			<Text>Тихий и Атлантический</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_2_PACIFIC">
 			<Text>2 Тихоокеанских</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_2_RANDOM">
 			<Text>2 случайных</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_1_RANDOM">
 			<Text>1 случайный</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_NONE">
 			<Text>Нет</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_RANDOM">
 			<Text>Случайно</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_RIFT_WIDTH">
 			<Text>Ширина разлома</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_RIFT_WIDTH_DESCRIPTION">
 			<Text>Ширина непроходимого океана</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_NARROW">
 			<Text>Узкий</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_NORMAL">
 			<Text>Обычный</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_WIDE">
 			<Text>Широкий</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_CIRCUMNAVIGATION">
 			<Text>Кругосветное плавание</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_CIRCUMNAVIGATION_DESCRIPTION">
 			<Text>Гарантирует горизонтальный водный путь вокруг света</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_ON">
 			<Text>Вкл</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_OFF">
 			<Text>Выкл</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_FORCE_COASTAL_START">
 			<Text>Принудительный старт на побережье</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_FORCE_COASTAL_START_DESCRIPTION">
 			<Text>Каждая крупная цивилизация начинает на побережье</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_YES">
 			<Text>Да</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_NO">
 			<Text>Нет</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LAND_SHAPES">
 			<Text>Формы земель</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LAND_SHAPES_DESCRIPTION">
 			<Text>Управляет формами континентов и островов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_BLOCKY">
 			<Text>Блочные</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STRINGY">
 			<Text>Вытянутые</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_EXTREMELY_STRINGY">
 			<Text>Крайне вытянутые</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STARTING_RESOURCES">
 			<Text>Стартовые ресурсы</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STARTING_RESOURCES_DESCRIPTION">
 			<Text>Добавляет стратегические и/или дополнительные ресурсы в стартовую позицию</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_ADD_BOTH">
 			<Text>Добавить оба</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_ADD_SOME_STRATEGICS">
 			<Text>Добавить некоторые стратегические</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_ADD_SOME_EXTRA_BONUS">
 			<Text>Добавить некоторые дополнительные бонусные</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STRATEGIC_DEPOSIT_SIZE">
 			<Text>Размер залежей стратегических ресурсов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STRATEGIC_DEPOSIT_SIZE_DESCRIPTION">
 			<Text>Управляет размером каждого месторождения стратегических ресурсов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_SMALL">
 			<Text>Малый</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LARGE">
 			<Text>Большой</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_BONUS_RESOURCE_DENSITY">
 			<Text>Плотность бонусных ресурсов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_BONUS_RESOURCE_DENSITY_DESCRIPTION">
 			<Text>Управляет количеством бонусных ресурсов на карте</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_SPARSE">
 			<Text>Разреженная</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_ABUNDANT">
 			<Text>Обильная</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STRATEGIC_RESOURCE_DENSITY">
 			<Text>Плотность стратегических ресурсов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_STRATEGIC_RESOURCE_DENSITY_DESCRIPTION">
 			<Text>Управляет количеством месторождений стратегических ресурсов на карте</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LUXURY_RESOURCE_DENSITY">
 			<Text>Плотность роскошных ресурсов</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_LUXURY_RESOURCE_DENSITY_DESCRIPTION">
 			<Text>Управляет количеством роскошных ресурсов на карте</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_OVERRIDE_ASSIGN_STARTING_PLOTS">
 			<Text>Переопределить AssignStartingPlots</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_MAP_OVERRIDE_ASSIGN_STARTING_PLOTS_DESCRIPTION">
 			<Text>Дополнительные оптимизации, специфичные для карты, при включении. Отключите для стандартной работы VP.</Text>
 		</Row>

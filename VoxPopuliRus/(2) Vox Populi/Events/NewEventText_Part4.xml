@@ -1,245 +1,325 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_1">
-			<Text>Добрый избавитель.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_1_HELP">
-			<Text>-1 [ICON_CITIZEN] Население в городе и 2 хода [ICON_RESISTANCE] Сопротивления. Получите {2_InstantYield}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_2">
-			<Text>Пусть войдут, но пусть платят за это.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_2_HELP">
-			<Text>Храм получает +2 [ICON_GOLD] Золота и +1 [ICON_PEACE] Веры. -1 [ICON_HAPPINESS_1] Счастья в городе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3">
-			<Text>Отвергнуть неверующих.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_HELP">
-			<Text>50% шанс, что Храм будет уничтожен. Если так, город получает +1 [ICON_PEACE] Веры и +1 [ICON_HAPPINESS_1] Счастья.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_SUCCESSFUL_S">
-			<Text>Храм в {2_City} уничтожен!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_SUCCESSFUL">
-			<Text>Неверующие в {2_City} напали на Храм, сожгли его дотла в знак протеста. Ваш народ, однако, не поколеблен. Город получает +1 [ICON_HAPPINESS_1] Счастья и: {5_Help}</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_4">
-			<Text>Нужно мыслить шире.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_4_HELP">
-			<Text>{1_YieldCost}. Храм уничтожен, и на его месте построен Великий Храм.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE">
-			<Text>Маяк Надежды</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_HELP">
-			<Text>Рыбаки в городе обеспокоены судьбой городского Маяка. В последние годы он пришел в негодность и нуждается в реконструкции. Как нам поступить?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_1">
-			<Text>Позволим частным лицам управлять им.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_1_HELP">
-			<Text>Маяк получает +2 [ICON_GOLD] Золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_2">
-			<Text>Город должен управлять им.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_2_HELP">
-			<Text>Потерять {1_YieldCost}. Маяк получает +1 [ICON_PRODUCTION] Производства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_3">
-			<Text>Продать землю.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_3_HELP">
-			<Text>Получить {2_InstantYield}. Маяк уничтожен.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING">
-			<Text>Переполненность Больницы</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_HELP">
-			<Text>Солдаты с фронта ежедневно прибывают в этот город, и палаты теперь переполнены пациентами. Местные врачи не знают, что делать с избытком людей, и обратились к вашему правительству за поддержкой. Что вы будете делать?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_1">
-			<Text>Отправить экстренное финансирование.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_1_HELP">
-			<Text>В течение следующих {5_Turns} город производит -5 [ICON_GOLD] Золота, но получает +1 [ICON_HAPPINESS_1] Счастья.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_2">
-			<Text>Триаж — единственный вариант.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_2_HELP">
-			<Text>Внедрить систему триажа, спасая тех, кого можем. Город теряет 1 [ICON_CITIZEN] Население.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_3">
-			<Text>Это не наша проблема.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_3_HELP">
-			<Text>Город производит -1 [ICON_HAPPINESS_1] Счастья постоянно.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_4">
-			<Text>Установить постоянное пособие для Больницы.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_4_HELP">
-			<Text>Город производит -5 [ICON_GOLD] Золота, но получает +2 [ICON_HAPPINESS_1] Счастья постоянно.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5">
-			<Text>Отправить всех умерших в нашу Исследовательскую Лабораторию.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_HELP">
-			<Text>50% шанс, что город переживет 3 хода [ICON_RESISTANCE] Сопротивления. Если так, Больница получает +4 [ICON_RESEARCH] Науки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_SUCCESSFUL_S">
-			<Text>Обнаружены научные эксперименты в больнице!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_SUCCESSFUL">
-			<Text>Трупы были доставлены в нашу Исследовательскую Лабораторию, однако общественность возмущена нашей бесчувственностью.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_WORLD_EVENT_CHOICE_1">
-			<Text>Полный стадион!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_HELP">
-			<Text>Игра прошла на вашем стадионе в рамках Международной WSO! Вы получаете 500 [ICON_TOURISM] Туризма со всеми известными цивилизациями и 500 [ICON_GOLD] Золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT">
-			<Text>Игровой День</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_HELP">
-			<Text>Городской Стадион готовится к игровому дню! К сожалению, похоже, менеджер потерял свое расписание, и он не помнит, какое мероприятие проходит! Что здесь происходит, еще раз?</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_1">
-			<Text>Соревнование по лыжам, очевидно.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_1_HELP">
-			<Text>Получить 100 [ICON_GOLD] Золота и 75 [ICON_CULTURE] Культуры.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_2">
-			<Text>Водные виды спорта, очевидно.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_2_HELP">
-			<Text>Получить 100 [ICON_GOLD] Золота и 75 [ICON_RESEARCH] Науки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_3">
-			<Text>Уверен, это был футбол. Нет, американский вид.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_3_HELP">
-			<Text>Получить 200 [ICON_GOLD] Золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_4">
-			<Text>Уверен, это был футбол. Да, настоящий вид.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_4_HELP">
-			<Text>Получить 200 [ICON_GOLD] Золота.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_5">
-			<Text>Спортивное мероприятие? Нет, это была церемония.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_5_HELP">
-			<Text>Получить 400 [ICON_GOLDEN_AGE] очков Золотого Века.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_NUCLEAR_MELTDOWN_CHOICE_1">
-			<Text>Ядерный расплав!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_NUCLEAR_MELTDOWN_CHOICE_1_HELP">
-			<Text>Произошло худшее. На городской Атомной Электростанции произошел расплав, сделавший обширные участки города непригодными для жизни. Здание уничтожено, и все остальные здания в городе под угрозой. Город теряет 5 [ICON_CITIZEN] Населения.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_DROUGHT_CHOICE_1_DESCRIPTION">
-			<Text>Засуха</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_DROUGHT_CHOICE_1_HELP">
-			<Text>Засуха поразила город, парализовав его [ICON_FOOD] Продовольственный выход. В течение следующих {5_Turns} фермы производят -1 [ICON_FOOD] Продовольствия.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_SEVERE_DROUGHT_CHOICE_1_DESCRIPTION">
-			<Text>Сильная Засуха</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_SEVERE_DROUGHT_CHOICE_1_HELP">
-			<Text>Сильная засуха поразила город, парализовав его [ICON_FOOD] Продовольственный выход. В течение следующих {5_Turns} фермы производят -1 [ICON_FOOD] Продовольствия, и ближайшая ферма разграблена.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_CRITICAL_DROUGHT_CHOICE_1_DESCRIPTION">
-			<Text>Критическая Засуха</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_CRITICAL_DROUGHT_CHOICE_1_HELP">
-			<Text>Критическая засуха поразила город, парализовав его [ICON_FOOD] Продовольственный выход. В течение следующих {5_Turns} фермы производят -2 [ICON_FOOD] Продовольствия, и 2 ближайшие фермы разграблены.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_EXPOSURE_CHOICE_1_DESCRIPTION">
-			<Text>Обморожение</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_EXPOSURE_CHOICE_1_HELP">
-			<Text>Лютые морозы подвергли риску обморожения многих жителей города. -1 [ICON_CITIZEN] Население в городе.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_NO_FUEL_CHOICE_1_DESCRIPTION">
-			<Text>Нехватка Топлива</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_NO_FUEL_CHOICE_1_HELP">
-			<Text>Из-за экстремального холода в городе в настоящее время наблюдается нехватка топлива. Дополнительные запасы были перенаправлены из наших промышленных предприятий для компенсации. {1_YieldCost} к текущей задаче города.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_FROZEN_WATER_CHOICE_1_DESCRIPTION">
-			<Text>Замерзшие Воды</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_FROZEN_WATER_CHOICE_1_HELP">
-			<Text>Городская река замерзла, серьезно затруднив торговлю. -3 [ICON_GOLD] Золота в городе на {5_Turns}.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_BITTER_WINDS_CHOICE_1_DESCRIPTION">
-			<Text>Лютые Ветры</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_BITTER_WINDS_CHOICE_1_HELP">
-			<Text>Лютыне холодные ветра серьезно затрудняют производство в землях вокруг города. В течение {5_Turns} все Карьеры, Пастбища, Фермы и Лесопилки производят -1 [ICON_PRODUCTION] Производства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE">
-			<Text>Авария на Шахте</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_HELP">
-			<Text>Шахтный ствол недалеко от города врезался в какой-то жидкий резервуар и начал заполняться жидкостью.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_1">
-			<Text>Обрушить туннели, чтобы сохранить то, что можем.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_1_HELP">
-			<Text>Засыпать скомпрометированную ветвь Шахты. Она переходит в состояние «Разграблена».</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_2">
-			<Text>Перебросить инженеров из города, чтобы перекрыть прорыв с минимальной потерей доступа к туннелям.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_2_HELP">
-			<Text>Задержать текущий строительный проект города на {1_YieldCost}, но спасти Шахту.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_3">
-			<Text>Жидкость, похоже, богата нефтью. Используем наш радар для обнаружения запаса и начнем добычу!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_3_HELP">
-			<Text>Потратить {1_YieldCost}, чтобы получить 1 [ICON_RES_OIL] Нефти.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE">
-			<Text>Дымное Бремя</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_HELP">
-			<Text>Низовой лес в близлежащем Лесу загорелся, вынуждая рабочих покинуть Лес, пока пожары не утихнут.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_1">
-			<Text>Мы ничего не можем сделать, кроме как переждать. Жизни этих людей важнее нашей лесозаготовки.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_1_HELP">
-			<Text>До двух Лесопилок возле города разграблены.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_2">
-			<Text>Отправить пожарных с водой и топорами, защитить нашу инфраструктуру любой ценой!</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_2_HELP">
-			<Text>{1_YieldCost} людей погибают в пламени.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_3">
-			<Text>Привлечь наш резервный авиапарк для бомбардировки пожаров водой и распыления удобрений-замедлителей с воздуха.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_3_HELP">
-			<Text>Потратить {1_YieldCost}. Пышный рост разрастается там, где бушевал пожар, ближайшие Леса дают +1 [ICON_PRODUCTION] Производства.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_AVALANCHE_CHOICE_1">
-			<Text>Сель</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_EVENT_AVALANCHE_CHOICE_1_HELP">
-			<Text>Снеготаяние с близлежащей горы обрушилось, вызвав масштабный оползень. До двух Деревень и двух Ферм возле города разграблены.</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_1">
+			<Text>Добрый избавитель.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_1_HELP">
+			<Text>-1 [ICON_CITIZEN] Население в городе и 2 хода [ICON_RESISTANCE] Сопротивления. Получите {2_InstantYield}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_2">
+			<Text>Пусть войдут, но пусть платят за это.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_2_HELP">
+			<Text>Храм получает +2 [ICON_GOLD] Золота и +1 [ICON_PEACE] Веры. -1 [ICON_HAPPINESS_1] Счастья в городе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3">
+			<Text>Отвергнуть неверующих.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_HELP">
+			<Text>50% шанс, что Храм будет уничтожен. Если так, город получает +1 [ICON_PEACE] Веры и +1 [ICON_HAPPINESS_1] Счастья.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_SUCCESSFUL_S">
+			<Text>Храм в {2_City} уничтожен!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_SUCCESSFUL">
+			<Text>Неверующие в {2_City} напали на Храм, сожгли его дотла в знак протеста. Ваш народ, однако, не поколеблен. Город получает +1 [ICON_HAPPINESS_1] Счастья и: {5_Help}</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_4">
+			<Text>Нужно мыслить шире.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_4_HELP">
+			<Text>{1_YieldCost}. Храм уничтожен, и на его месте построен Великий Храм.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE">
+			<Text>Маяк Надежды</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_HELP">
+			<Text>Рыбаки в городе обеспокоены судьбой городского Маяка. В последние годы он пришел в негодность и нуждается в реконструкции. Как нам поступить?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_1">
+			<Text>Позволим частным лицам управлять им.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_1_HELP">
+			<Text>Маяк получает +2 [ICON_GOLD] Золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_2">
+			<Text>Город должен управлять им.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_2_HELP">
+			<Text>Потерять {1_YieldCost}. Маяк получает +1 [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_3">
+			<Text>Продать землю.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_3_HELP">
+			<Text>Получить {2_InstantYield}. Маяк уничтожен.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING">
+			<Text>Переполненность Больницы</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_HELP">
+			<Text>Солдаты с фронта ежедневно прибывают в этот город, и палаты теперь переполнены пациентами. Местные врачи не знают, что делать с избытком людей, и обратились к вашему правительству за поддержкой. Что вы будете делать?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_1">
+			<Text>Отправить экстренное финансирование.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_1_HELP">
+			<Text>В течение следующих {5_Turns} город производит -5 [ICON_GOLD] Золота, но получает +1 [ICON_HAPPINESS_1] Счастья.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_2">
+			<Text>Триаж — единственный вариант.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_2_HELP">
+			<Text>Внедрить систему триажа, спасая тех, кого можем. Город теряет 1 [ICON_CITIZEN] Население.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_3">
+			<Text>Это не наша проблема.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_3_HELP">
+			<Text>Город производит -1 [ICON_HAPPINESS_1] Счастья постоянно.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_4">
+			<Text>Установить постоянное пособие для Больницы.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_4_HELP">
+			<Text>Город производит -5 [ICON_GOLD] Золота, но получает +2 [ICON_HAPPINESS_1] Счастья постоянно.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5">
+			<Text>Отправить всех умерших в нашу Исследовательскую Лабораторию.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_HELP">
+			<Text>50% шанс, что город переживет 3 хода [ICON_RESISTANCE] Сопротивления. Если так, Больница получает +4 [ICON_RESEARCH] Науки.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_SUCCESSFUL_S">
+			<Text>Обнаружены научные эксперименты в больнице!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_SUCCESSFUL">
+			<Text>Трупы были доставлены в нашу Исследовательскую Лабораторию, однако общественность возмущена нашей бесчувственностью.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_WORLD_EVENT_CHOICE_1">
+			<Text>Полный стадион!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_HELP">
+			<Text>Игра прошла на вашем стадионе в рамках Международной WSO! Вы получаете 500 [ICON_TOURISM] Туризма со всеми известными цивилизациями и 500 [ICON_GOLD] Золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT">
+			<Text>Игровой День</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_HELP">
+			<Text>Городской Стадион готовится к игровому дню! К сожалению, похоже, менеджер потерял свое расписание, и он не помнит, какое мероприятие проходит! Что здесь происходит, еще раз?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_1">
+			<Text>Соревнование по лыжам, очевидно.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_1_HELP">
+			<Text>Получить 100 [ICON_GOLD] Золота и 75 [ICON_CULTURE] Культуры.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_2">
+			<Text>Водные виды спорта, очевидно.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_2_HELP">
+			<Text>Получить 100 [ICON_GOLD] Золота и 75 [ICON_RESEARCH] Науки.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_3">
+			<Text>Уверен, это был футбол. Нет, американский вид.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_3_HELP">
+			<Text>Получить 200 [ICON_GOLD] Золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_4">
+			<Text>Уверен, это был футбол. Да, настоящий вид.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_4_HELP">
+			<Text>Получить 200 [ICON_GOLD] Золота.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_5">
+			<Text>Спортивное мероприятие? Нет, это была церемония.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_5_HELP">
+			<Text>Получить 400 [ICON_GOLDEN_AGE] очков Золотого Века.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_NUCLEAR_MELTDOWN_CHOICE_1">
+			<Text>Ядерный расплав!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_NUCLEAR_MELTDOWN_CHOICE_1_HELP">
+			<Text>Произошло худшее. На городской Атомной Электростанции произошел расплав, сделавший обширные участки города непригодными для жизни. Здание уничтожено, и все остальные здания в городе под угрозой. Город теряет 5 [ICON_CITIZEN] Населения.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_DROUGHT_CHOICE_1_DESCRIPTION">
+			<Text>Засуха</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_DROUGHT_CHOICE_1_HELP">
+			<Text>Засуха поразила город, парализовав его [ICON_FOOD] Продовольственный выход. В течение следующих {5_Turns} фермы производят -1 [ICON_FOOD] Продовольствия.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_SEVERE_DROUGHT_CHOICE_1_DESCRIPTION">
+			<Text>Сильная Засуха</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_SEVERE_DROUGHT_CHOICE_1_HELP">
+			<Text>Сильная засуха поразила город, парализовав его [ICON_FOOD] Продовольственный выход. В течение следующих {5_Turns} фермы производят -1 [ICON_FOOD] Продовольствия, и ближайшая ферма разграблена.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_CRITICAL_DROUGHT_CHOICE_1_DESCRIPTION">
+			<Text>Критическая Засуха</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_CRITICAL_DROUGHT_CHOICE_1_HELP">
+			<Text>Критическая засуха поразила город, парализовав его [ICON_FOOD] Продовольственный выход. В течение следующих {5_Turns} фермы производят -2 [ICON_FOOD] Продовольствия, и 2 ближайшие фермы разграблены.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_EXPOSURE_CHOICE_1_DESCRIPTION">
+			<Text>Обморожение</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_EXPOSURE_CHOICE_1_HELP">
+			<Text>Лютые морозы подвергли риску обморожения многих жителей города. -1 [ICON_CITIZEN] Население в городе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_NO_FUEL_CHOICE_1_DESCRIPTION">
+			<Text>Нехватка Топлива</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_NO_FUEL_CHOICE_1_HELP">
+			<Text>Из-за экстремального холода в городе в настоящее время наблюдается нехватка топлива. Дополнительные запасы были перенаправлены из наших промышленных предприятий для компенсации. {1_YieldCost} к текущей задаче города.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_FROZEN_WATER_CHOICE_1_DESCRIPTION">
+			<Text>Замерзшие Воды</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_FROZEN_WATER_CHOICE_1_HELP">
+			<Text>Городская река замерзла, серьезно затруднив торговлю. -3 [ICON_GOLD] Золота в городе на {5_Turns}.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_BITTER_WINDS_CHOICE_1_DESCRIPTION">
+			<Text>Лютые Ветры</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_BITTER_WINDS_CHOICE_1_HELP">
+			<Text>Лютыне холодные ветра серьезно затрудняют производство в землях вокруг города. В течение {5_Turns} все Карьеры, Пастбища, Фермы и Лесопилки производят -1 [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE">
+			<Text>Авария на Шахте</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_HELP">
+			<Text>Шахтный ствол недалеко от города врезался в какой-то жидкий резервуар и начал заполняться жидкостью.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_1">
+			<Text>Обрушить туннели, чтобы сохранить то, что можем.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_1_HELP">
+			<Text>Засыпать скомпрометированную ветвь Шахты. Она переходит в состояние «Разграблена».</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_2">
+			<Text>Перебросить инженеров из города, чтобы перекрыть прорыв с минимальной потерей доступа к туннелям.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_2_HELP">
+			<Text>Задержать текущий строительный проект города на {1_YieldCost}, но спасти Шахту.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_3">
+			<Text>Жидкость, похоже, богата нефтью. Используем наш радар для обнаружения запаса и начнем добычу!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_3_HELP">
+			<Text>Потратить {1_YieldCost}, чтобы получить 1 [ICON_RES_OIL] Нефти.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE">
+			<Text>Дымное Бремя</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_HELP">
+			<Text>Низовой лес в близлежащем Лесу загорелся, вынуждая рабочих покинуть Лес, пока пожары не утихнут.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_1">
+			<Text>Мы ничего не можем сделать, кроме как переждать. Жизни этих людей важнее нашей лесозаготовки.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_1_HELP">
+			<Text>До двух Лесопилок возле города разграблены.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_2">
+			<Text>Отправить пожарных с водой и топорами, защитить нашу инфраструктуру любой ценой!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_2_HELP">
+			<Text>{1_YieldCost} людей погибают в пламени.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_3">
+			<Text>Привлечь наш резервный авиапарк для бомбардировки пожаров водой и распыления удобрений-замедлителей с воздуха.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_3_HELP">
+			<Text>Потратить {1_YieldCost}. Пышный рост разрастается там, где бушевал пожар, ближайшие Леса дают +1 [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_AVALANCHE_CHOICE_1">
+			<Text>Сель</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_EVENT_AVALANCHE_CHOICE_1_HELP">
+			<Text>Снеготаяние с близлежащей горы обрушилось, вызвав масштабный оползень. До двух Деревень и двух Ферм возле города разграблены.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

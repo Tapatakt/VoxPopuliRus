@@ -1,345 +1,445 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 <Language_RU_RU>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_15">
 			<Text>Хупиа</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_16">
 			<Text>Нунукки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_17">
 			<Text>Катахекасса</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_18">
 			<Text>Хоколескуа</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_19">
 			<Text>Лалаветика</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_20">
 			<Text>Тенскватава</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_21">
 			<Text>Ахтахкукуп</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_22">
 			<Text>Кавакатуз</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_23">
 			<Text>Маскокуэн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_24">
 			<Text>Кисекочак</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_10">
 			<Text>Алессио</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_11">
 			<Text>Маурицио</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_12">
 			<Text>Северо</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_13">
 			<Text>Неро</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_14">
 			<Text>Цио</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_15">
 			<Text>Эрколе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_16">
 			<Text>Данте</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_17">
 			<Text>Карло</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_18">
 			<Text>Элизабетта</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_19">
 			<Text>Дезидерия</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_20">
 			<Text>Рената</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_21">
 			<Text>Николетта</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_22">
 			<Text>Грациелла</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_23">
 			<Text>Маура</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_VENICE_24">
 			<Text>Марчелла</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_10">
 			<Text>Азиза</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_11">
 			<Text>Дабуламандзи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_12">
 			<Text>Энгамели</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_13">
 			<Text>Хлупhизве</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_14">
 			<Text>Кванеле</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_15">
 			<Text>Звеликунде</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_16">
 			<Text>Умалуме</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_17">
 			<Text>Фешейя</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_18">
 			<Text>Нканьези</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_19">
 			<Text>Зондлиле</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_20">
 			<Text>Вемване</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_21">
 			<Text>Уминати</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_22">
 			<Text>Тембисиле</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_23">
 			<Text>Летиве</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_ZULU_24">
 			<Text>Гоноти</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_10">
 			<Text>Ахи-Килим</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_11">
 			<Text>Хасис-адра</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_12">
 			<Text>Куригальзу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_13">
 			<Text>Нуску</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_14">
 			<Text>Белит</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_15">
 			<Text>Танит</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_16">
 			<Text>Ку-айя</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_17">
 			<Text>Анунит</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_18">
 			<Text>Дамкина</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_19">
 			<Text>Кишар</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_20">
 			<Text>Сабитум</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_21">
 			<Text>Рихат</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_22">
 			<Text>Урхамму</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_23">
 			<Text>Саргон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_24">
 			<Text>Исми-даган</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_10">
 			<Text>Асбьёрн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_11">
 			<Text>Эрик</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_12">
 			<Text>Хрольф</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_13">
 			<Text>Хальдур</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_14">
 			<Text>Кнуд</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_15">
 			<Text>Адела</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_16">
 			<Text>Гитте</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_17">
 			<Text>Ингрид</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_18">
 			<Text>Аннелизе</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_19">
 			<Text>Бирте</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_20">
 			<Text>Элсе</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_21">
 			<Text>Ингебьёрг</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_22">
 			<Text>Фарбор</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_23">
 			<Text>Олуф</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_24">
 			<Text>Свен</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_10">
 			<Text>Уаман</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_11">
 			<Text>Копакати</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_12">
 			<Text>Викакирао</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_13">
 			<Text>Микай</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_14">
 			<Text>Пачама</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_15">
 			<Text>Кинуама</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_16">
 			<Text>Юпанки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_17">
 			<Text>Акахуана</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_18">
 			<Text>Кокохуай</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_19">
 			<Text>Уитака</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_20">
 			<Text>Кавильяка</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_21">
 			<Text>Мариканчи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_22">
 			<Text>Рунту</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_23">
 			<Text>Кехуар</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_INCA_24">
 			<Text>Гуакамайя</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_10">
 			<Text>Ги</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_11">
 			<Text>Хьон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_12">
 			<Text>Ханыль</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_13">
 			<Text>Чон</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_14">
 			<Text>Сан</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_15">
 			<Text>Ук</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_16">
 			<Text>Кён</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_17">
 			<Text>Мён</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_18">
 			<Text>Сок</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_19">
 			<Text>Чин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_20">
 			<Text>Юн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_21">
 			<Text>Хван</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_22">
 			<Text>Дон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_23">
 			<Text>Сын</Text>
 			<Gender>feminine</Gender>
 		</Row>
+
 		<Row Tag="TXT_KEY_SPY_NAME_KOREA_24">
 			<Text>Аджосси</Text>
 		</Row>

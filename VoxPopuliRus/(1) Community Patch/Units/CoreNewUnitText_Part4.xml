@@ -1,303 +1,403 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 <Language_RU_RU>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__510">
 			<Text>Хелена Рубинштейн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__520">
 			<Text>Томе де Баррос Кейроз</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__530">
 			<Text>Мелитта Бентц</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__540">
 			<Text>Франсуа Бле</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__550">
 			<Text>Джесси Ливермор</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__560">
 			<Text>Уильям Делберт Ганн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__570">
 			<Text>Лим Ни Сун</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__580">
 			<Text>Осман Али Хан</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__590">
 			<Text>Уильям Альберт Бoucher</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__600">
 			<Text>Дэвид Сарнофф</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__610">
 			<Text>Реймонд Рубикам</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__620">
 			<Text>Т.В.Сунг</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__630">
 			<Text>Йоиода Тацугоро</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__640">
 			<Text>Эсти Лаудер</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__650">
 			<Text>Масару Ибука</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__660">
 			<Text>Дэвид Огилви</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__670">
 			<Text>Таичи Оно</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__680">
 			<Text>Сэм Уолтон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__690">
 			<Text>Карл Альбрехт</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__700">
 			<Text>Ингвар Кампрад</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__710">
 			<Text>Ли Кашин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__720">
 			<Text>Ли Шау-ки</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__730">
 			<Text>Джордж Сорос</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__740">
 			<Text>Карл Айкан</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__750">
 			<Text>Карлос Слим</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__760">
 			<Text>Мухаммед Юнус</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__770">
 			<Text>Стивен Спарриер</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__780">
 			<Text>Ли Кун-хи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__790">
 			<Text>Джим Роджерс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__800">
 			<Text>Бхарат Шах</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__810">
 			<Text>Ричард Деннис</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__820">
 			<Text>Никки Оппенгеймер</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__830">
 			<Text>Хаджи Болкиах</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__840">
 			<Text>Скрудж Макдак</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__850">
 			<Text>Бернар Арно</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__860">
 			<Text>Иоганн Петер Руперт</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__870">
 			<Text>Майк Аденуга</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__880">
 			<Text>Киран Мазумдар-Шоу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__890">
 			<Text>Пол Тюдор Джонс</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__900">
 			<Text>Чжун Шаньшань</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__910">
 			<Text>Джон Полсон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__920">
 			<Text>Стивен Коэн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__930">
 			<Text>Мукеш Амбани</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__940">
 			<Text>Алико Данготе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__950">
 			<Text>Масаёси Сон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__960">
 			<Text>Дэвид Теппер</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__970">
 			<Text>Абдул Самад Рабиу</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__980">
 			<Text>Нассеф Савирис</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__990">
 			<Text>Патрис Мотсепе</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A00">
 			<Text>Михаил Ходорковский</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A10">
 			<Text>Джефф Безос</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A20">
 			<Text>Джек Ма</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A30">
 			<Text>Майкл Делл</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A40">
 			<Text>Ник Лисон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A50">
 			<Text>Джерри Янг</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A60">
 			<Text>Мохаммед Девджи</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A70">
 			<Text>Колин Хуан Чжэн</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A80">
 			<Text>Мэтью Рэндалл Ишбия</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__A90">
 			<Text>Фрэнк Ван</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B00">
 			<Text>Кевин Систром</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B10">
 			<Text>Робин Скариндж</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B20">
 			<Text>Дэниел Эк</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B30">
 			<Text>Павел Валерьевич Дуров</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B40">
 			<Text>Натан Блекарчик</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B50">
 			<Text>Джон Коллисон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_N__B60">
 			<Text>Эван Шпигель</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__010">
 			<Text>Таппути</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__020">
 			<Text>Эупалин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__030">
 			<Text>Симэнь Бао</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__040">
 			<Text>Марк Витрувий Поллион</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__050">
 			<Text>Аполлодор Дамасский</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__060">
 			<Text>Исидор Милетский</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__070">
 			<Text>Анфимий Тралльский</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__080">
 			<Text>Аль-Исхафани</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__090">
 			<Text>Юй Хао</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__100">
 			<Text>Маслама аль-Маджрити</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__110">
 			<Text>Су Сун</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__120">
 			<Text>Аль-Джазари</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__130">
 			<Text>Сененмут</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__140">
 			<Text>Мимар Синан</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__150">
 			<Text>Гунадхарма</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__160">
 			<Text>Хуанело Турриано</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__170">
 			<Text>Таки аль-Дин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__180">
 			<Text>Коджа Касым Ага</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__190">
 			<Text>Джованни Бранка</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__200">
 			<Text>Юг Кониер</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__210">
 			<Text>Джон Смитон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__220">
 			<Text>Никола Жозеф Кюньо</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__230">
 			<Text>Джон Спилсбери</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__240">
 			<Text>Крикор Бальян</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__250">
 			<Text>Ричард Тревитик</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__260">
 			<Text>Джордж Стефенсон</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__270">
 			<Text>Чарльз Бэббидж</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__280">
 			<Text>Сади Карно</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__290">
 			<Text>Жак Триже</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__300">
 			<Text>Мориц фон Якоби</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__310">
 			<Text>Джозеф Уитворт</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__320">
 			<Text>Сэндфорд Флеминг</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__330">
 			<Text>Фердинанд фон Цеппелин</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_E__340">
 			<Text>Анри Файоль</Text>
 		</Row>

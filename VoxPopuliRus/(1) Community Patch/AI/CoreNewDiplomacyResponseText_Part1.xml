@@ -1,313 +1,403 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_5">
-
 			<Text>Приветствую, друг. Чем могу быть полезен?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_6">
-
 			<Text>Говори, друг, и входи... в мой тронный зал.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_7">
-
 			<Text>Приветствия и салютации, коллега-правитель!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_8">
 			<Text>Добро пожаловать, друг. Мне приготовить пир в честь этого случая?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_POLITE_HELLO_9">
 			<Text>Приятного дня вам.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_POLITE_HELLO_2">
 			<Text>Привет! Буцефал, кажется, весьма к тебе расположился.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_POLITE_HELLO_2">
 			<Text>Мой кабинет всегда открыт для друга свободы.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_POLITE_HELLO_2">
 			<Text>У тебя есть истории, друг? У меня есть тысяча или около того, которыми я могу поделиться, если хочешь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_POLITE_HELLO_2">
 			<Text>Великий Кетцалькоатль предрек эту встречу. Какие новости ты принёс?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_POLITE_HELLO_2">
 			<Text>Я опаздываю на утренний ритуал, но могу уделить тебе минуту, если хочешь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_POLITE_HELLO_2">
 			<Text>Владыка Нила говорит с тобой. Что скажешь в ответ?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_POLITE_HELLO_2">
 			<Text>Я собираюсь в театр, но... полагаю, мы можем поболтать, хотя бы минутку.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_POLITE_HELLO_2">
 			<Text>Приветствую, великий вождь. У тебя есть великие военные истории?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_POLITE_HELLO_2">
 			<Text>Канцлер Германии приветствует тебя. Давай обсудим политику... Реальную политику, то есть.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_POLITE_HELLO_2">
 			<Text>Намаскар, мудрый вождь. Какой мудрый совет ты ищешь у меня?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_POLITE_HELLO_2">
 			<Text>Привет, друг. Я только вернулся с охоты... хочешь увидеть мои трофеи?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_POLITE_HELLO_2">
 			<Text>Духи моих предков многое рассказали мне о тебе. Всё хорошее, обещаю.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_POLITE_HELLO_2">
 			<Text>Законодатель приветствует тебя в своём дворце. Давай обсудим тонкости лидерства.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_POLITE_HELLO_2">
 			<Text>Приветствую, благородный друг. Давай побеседуем, сидя на этом роскошном ковре, что я только что получил.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_POLITE_HELLO_2">
 			<Text>Приветствую, друг, я как раз собирался пообедать. Хочешь салата? Я сам приготовил.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_POLITE_HELLO_2">
 			<Text>Добро пожаловать обратно в мой двор, друг. Я знала, что русский холод не удержит тебя вечно.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_POLITE_HELLO_2">
 			<Text>Сиамский народ тронут твоим возвращением на наши земли. Чем мы можем быть полезны?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_POLITE_HELLO_2">
 			<Text>Добро пожаловать обратно в моё королевство. Здесь становится жарко, или это я такой?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_POLITE_HELLO_1">
 			<Text>Ах, рада тебя снова видеть.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_POLITE_HELLO_1">
 			<Text>Рада тебя снова видеть.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_POLITE_HELLO_3">
 			<Text>Благословения Небес на тебе!</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_POLITE_HELLO_1">
 			<Text>Это всегда удовольствие.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_POLITE_HELLO_1">
 			<Text>Восхищение, как всегда.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_POLITE_HELLO_1">
 			<Text>Ты проведёшь апокалипсис со мной?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_POLITE_HELLO_1">
 			<Text>Приветствую, дорогой.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_POLITE_HELLO_1">
 			<Text>Тысяча приветствий.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_SELASSIE_GREETING_POLITE_HELLO_2">
 			<Text>Как ты, друг?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_FRIENDLY_STRONG_MILITARY_2">
 			<Text>Твоя империя весьма могущественна. Надеюсь, ты планируешь использовать эту силу только во благо.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_FRIENDLY_STRONG_MILITARY_3">
 			<Text>Твоя армия пугающая. Рада быть на твоей хорошей стороне.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_FRIENDLY_STRONG_ECONOMY_2">
 			<Text>Твои караваны и торговые суда доминируют в мировой торговле как ничто, что я видел раньше. Впечатляющее зрелище.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_FRIENDLY_STRONG_ECONOMY_3">
 			<Text>Твой народ богат и процветает, и он благодарит за это твоё мудрое руководство.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_7">
 			<Text>Приветствую.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_8">
 			<Text>Да?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_9">
 			<Text>Чем могу помочь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_10">
 			<Text>Добрый день, благородный вождь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_NEUTRAL_HELLO_11">
 			<Text>Что привело тебя сюда сегодня? Дела или удовольствие?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_NEUTRAL_HELLO_2">
 			<Text>Александр Македонский к твоим услугам.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_NEUTRAL_HELLO_2">
 			<Text>Чем Президент Соединённых Штатов может помочь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_NEUTRAL_HELLO_2">
 			<Text>Добро пожаловать в Аравию; надеюсь, пески были не слишком суровы для тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_NEUTRAL_HELLO_2">
 			<Text>Ты принёс подношение для моего алтаря?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_NEUTRAL_HELLO_2">
 			<Text>Императрица-вдова Китая приветствует тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_NEUTRAL_HELLO_2">
 			<Text>Великий фараон Египта... рад тебя видеть.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_NEUTRAL_HELLO_2">
 			<Text>Чем английский народ может помочь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_NEUTRAL_HELLO_2">
 			<Text>Добро пожаловать во Францию. Показать мою коллекцию искусства?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_NEUTRAL_HELLO_2">
 			<Text>Как канцлер, я формально и юридически обязан приветствовать тебя в Германии. Так что, добро пожаловать.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_NEUTRAL_HELLO_3">
 			<Text>Чем обязан чести твоего присутствия?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_NEUTRAL_HELLO_2">
 			<Text>Я смирён твоим визитом в Индию.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_NEUTRAL_HELLO_3">
 			<Text>Мир с тобой.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_NEUTRAL_HELLO_2">
 			<Text>Ты пришёл поохотиться со мной, справедливый вождь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_NEUTRAL_HELLO_2">
 			<Text>Добро пожаловать в прекрасную Японию. Хочешь прогуляться среди цветущей сакуры?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_NEUTRAL_HELLO_2">
 			<Text>Трон Османа приветствует тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_NEUTRAL_HELLO_2">
 			<Text>Славные богатства Персии лежат перед тобой.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_NEUTRAL_HELLO_2">
 			<Text>Добро пожаловать в Рим. Пришёл посмотреть гладиаторские игры?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_NEUTRAL_HELLO_2">
 			<Text>Двор Руси приветствует тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_NEUTRAL_HELLO_2">
 			<Text>Сиамский народ приветствует тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_NEUTRAL_HELLO_2">
 			<Text>Аския, Приносящий Мир, приветствует тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_NEUTRAL_HELLO_1">
 			<Text>Благословенная встреча.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_NEUTRAL_HELLO_1">
 			<Text>Ах, снова ты.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_NEUTRAL_HELLO_1">
 			<Text>Благословения на тебе.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_NEUTRAL_HELLO_1">
 			<Text>Приятного дня вам.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_NEUTRAL_HELLO_2">
 			<Text>Тебе что-то нужно?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_NEUTRAL_HELLO_1">
 			<Text>Добро пожаловать. Проигнорируй крики.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_NEUTRAL_HELLO_2">
 			<Text>Мы знакомы?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_NEUTRAL_HELLO_1">
 			<Text>Доброго дня, надеюсь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_6">
 			<Text>Что такое?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_7">
 			<Text>Зачем ты пришёл сюда?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_8">
 			<Text>Давай, выкладывай уже.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_9">
 			<Text>Надеюсь, это важно.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HELLO_10">
 			<Text>Смелый ты, показываясь здесь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_HOSTILE_HELLO_2">
 			<Text>Дрожи перед могучими армиями Греции, злодей.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_HOSTILE_HELLO_2">
 			<Text>Мне трудно свободно разговаривать с тиранами вроде тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_HOSTILE_HELLO_2">
 			<Text>Ты дурак, что являешься моим врагом. Ты не видишь, что я делаю со своими врагами?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_HOSTILE_HELLO_2">
 			<Text>Кровь моих врагов течёт с этого святилища. Добавить твою к ней?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_HOSTILE_HELLO_3">
 			<Text>Подожди минутку, пока я точу жертвенный нож.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_HOSTILE_HELLO_2">
 			<Text>У меня мало терпения для выскочек вроде тебя.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_HOSTILE_HELLO_2">
 			<Text>Боги Египта не благосклонны к таким низким, как ты.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ELIZABETH_GREETING_HOSTILE_HELLO_2">
 			<Text>Тебе бы не стоило переходить мне дорогу. Приготовить для тебя камеру в Тауэре?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_HOSTILE_HELLO_2">
 			<Text>Тебе следует быть благодарным, что мои грандиозные военные планы ещё не привели к твоей гибели. Пока что.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_HOSTILE_HELLO_2">
 			<Text>Мне весьма трудно оставаться корректным с тобой.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_HOSTILE_HELLO_2">
 			<Text>Если этот визит не с извинениями, я не совсем понимаю, зачем ты здесь.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_HOSTILE_HELLO_2">
 			<Text>Ты тяжелоногий тупица. Зачем ты пришёл в мои нетронутые охотничьи угодья?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_HOSTILE_HELLO_2">
 			<Text>Я только что закончил точить мечи. Испытаем их?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_HOSTILE_HELLO_2">
 			<Text>Твоё присутствие здесь вывело меня из себя. Что тебе нужно?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_HOSTILE_HELLO_2">
 			<Text>Что заставило тебя думать, что Дарий Персидский желает говорить с тобой?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_HOSTILE_HELLO_2">
 			<Text>Народ Рима сказал мне, что не стоило впускать тебя. Я начинаю сожалеть о своём решении.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_HOSTILE_HELLO_2">
 			<Text>Есть лишь горстка людей, которых я ненавижу больше, чем тебя. И они все мертвы.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_HOSTILE_HELLO_2">
 			<Text>Поздравляю, ты испортил то, что могло быть приятным днём.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_HOSTILE_HELLO_2">
 			<Text>Столица моего последнего врага горит вокруг меня. Твоя будет следующей?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_LEADER_NEBUCHADNEZZAR_GREETING_HOSTILE_HELLO_1">
 			<Text>Ну? Говори громче. Я едва слышу тебя из-за крови, стучащей в мозгу.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_FEW_CITIES_2">
 			<Text>Удивлен видеть тебя здесь. Тебе не следует заниматься основанием новых городов или что-то вроде того?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_SMALL_ARMY_2">
 			<Text>Кажется, я видел твоих единственных солдат на днях. Они выглядели грустными и одинокими. Может, стоит натренировать им пару друзей?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
 			<Text>Твоя гордость будет твоей погибелью, завоеватель.</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_REPEAT_3">
 			<Text>Разве ты только что не был здесь?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_REPEAT_4">
 			<Text>У тебя нет империи, которой нужно управлять?</Text>
 		</Row>
+
 		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_REPEAT_3">
 			<Text>Ищешь подачки или что?</Text>
 		</Row>

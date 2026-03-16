@@ -1,720 +1,434 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
-
 		<!-- Corporation buildings common pedia entry -->
 
 		<Row Tag="TXT_KEY_BUILDING_CORP_TEXT">
-
 			<Text>Корпорация — это компания или группа людей, уполномоченных действовать как единое целое (юридически как лицо) и признанных таковыми по закону. Ранние корпоративные образования устанавливались хартией (т.е. специальным актом, дарованным монархом или принятым парламентом или законодательным органом). Большинство юрисдикций теперь позволяют создание новых корпораций через регистрацию. Корпорации бывают многих разных типов, но обычно делятся по законодательству юрисдикции, где они учреждены, на два вида: по возможности или невозможности выпуска акций, или по цели получения прибыли или нет.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HQ">
-
 			<Text>Штаб-квартира Трейдера Сида</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Трейдер Сид». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_TRADER_SIDS_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Мерчендайзинг, мерчендайзинг, где настоящие деньги из фильма делаются.»[NEWLINE][TAB][TAB] — Йогурт[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS">
-
 			<Text>Офис Трейдера Сида</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Трейдера Сида строится в иностранном городе.[NEWLINE][NEWLINE]Трейдер Сид не может быть продан или уничтожен игроком, и увеличивает выход [ICON_GOLD] золота всех офисов Трейдера Сида на +4.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_FRANCHISE">
-
 			<Text>Франшиза Трейдера Сида</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Трейдера Сида. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Трейдера Сида в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TRADER_SIDS}</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HQ">
-
 			<Text>Штаб-квартира Центавр Экстракторс</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Центавр Экстракторс». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_CENTAURUS_EXTRACTORS_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Урок номер один: недооценивай жадность другого парня.»[NEWLINE][TAB][TAB] — Фрэнк Лопес[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS">
-
 			<Text>Офис Центавр Экстракторс</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Центавр Экстракторс строится в иностранном городе.[NEWLINE][NEWLINE]Центавр Экстракторс не может быть продан или уничтожен игроком, и увеличивает выход [ICON_PRODUCTION] производства всех офисов Центавр Экстракторс на +3.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE">
-
 			<Text>Франшиза Центавр Экстракторс</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Центавр Экстракторс. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Центавр Экстракторс в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CENTAURUS_EXTRACTORS}</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HQ">
-
 			<Text>Штаб-квартира Нефтепереработки Хексон</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Нефтепереработки Хексон». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_HEXXON_REFINERY_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Я просто хочу сказать тебе одно слово. Только одно слово: Пластмассы.»[NEWLINE][TAB][TAB] — Мистер Магуайр[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY">
-
 			<Text>Офис Нефтепереработки Хексон</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Нефтепереработки Хексон строится в иностранном городе.[NEWLINE][NEWLINE]Нефтепереработки Хексон не может быть продан или уничтожен игроком, и даёт +1 [ICON_RES_OIL] нефти и +1 [ICON_RES_COAL] угля за каждые [COLOR_POSITIVE_TEXT]три[ENDCOLOR] франшизы Нефтепереработки Хексон.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_FRANCHISE">
-
 			<Text>Франшиза Нефтепереработки Хексон</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Нефтепереработки Хексон. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Нефтепереработки Хексон в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_HEXXON_REFINERY}</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HQ">
-
 			<Text>Штаб-квартира Джорджо Армейер</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Джорджо Армейер». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_GIORGIO_ARMEIER_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Мода — это мечтать и заставлять других людей мечтать.»[NEWLINE][TAB][TAB] — Донателла Версаче[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER">
-
 			<Text>Офис Джорджо Армейер</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Джорджо Армейер строится в иностранном городе.[NEWLINE][NEWLINE]Джорджо Армейер не может быть продан или уничтожен игроком, и увеличивает выход [ICON_CULTURE] культуры всех офисов Джорджо Армейер на +2.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_FRANCHISE">
-
 			<Text>Франшиза Джорджо Армейер</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Джорджо Армейер. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Джорджо Армейер в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_GIORGIO_ARMEIER}</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HQ">
-
 			<Text>Штаб-квартира Материалов Фираксайт</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Материалы Фираксайт». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_FIRAXITE_MATERIALS_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Всё хорошее, что мы строим, в конечном итоге строит нас.»[NEWLINE][TAB][TAB] — Джим Рон[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS">
-
 			<Text>Офис Материалов Фираксайт</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Материалов Фираксайт строится в иностранном городе.[NEWLINE][NEWLINE]Материалы Фираксайт не может быть продан или уничтожен игроком, и увеличивает выход [ICON_RESEARCH] науки всех офисов Материалов Фираксайт на +2.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_FRANCHISE">
-
 			<Text>Франшиза Материалов Фираксайт</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Материалов Фираксайт. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Материалов Фираксайт в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_FIRAXITE_MATERIALS}</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HQ">
-
 			<Text>Штаб-квартира Продовольствия ТуКей</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Продовольствие ТуКей». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_TWOKAY_FOODS_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Нет любви более искренней, чем любовь к еде.»[NEWLINE][TAB][TAB] — Джордж Бернард Шоу[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS">
-
 			<Text>Офис Продовольствия ТуКей</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Продовольствия ТуКей строится в иностранном городе.[NEWLINE][NEWLINE]Продовольствие ТуКей не может быть продан или уничтожен игроком, и увеличивает выход [ICON_FOOD] пищи всех офисов Продовольствия ТуКей на +3.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_FRANCHISE">
-
 			<Text>Франшиза Продовольствия ТуКей</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Продовольствия ТуКей. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Продовольствия ТуКей в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TWOKAY_FOODS}</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HQ">
-
 			<Text>Штаб-квартира Цивилизованных Ювелиров</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HQ_STRATEGY">
-
 			<Text>Постройте это здание в одном из ваших городов, чтобы основать корпорацию «Цивилизованные Ювелиры». Смотрите раздел [COLOR_POSITIVE_TEXT]Корпорации[ENDCOLOR] Цивилопедии для дополнительной информации.[NEWLINE][NEWLINE]Помните, что каждая цивилизация может основать только [COLOR_POSITIVE_TEXT]одну[ENDCOLOR] корпорацию, поэтому убедитесь, что преимущества применимы к вашей стратегии победы!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HQ_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_WONDER_CIVILIZED_JEWELERS_HQ_QUOTE">
-
 			<Text>[NEWLINE][TAB][TAB]«Не хлопают ли ваши руки на дешёвых местах? А остальные из вас, если вы просто побрякуете своими драгоценностями.»[NEWLINE][TAB][TAB] — Джон Леннон[NEWLINE][TAB]</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS">
-
 			<Text>Офис Цивилизованных Ювелиров</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_STRATEGY">
-
 			<Text>Когда [ICON_INTERNATIONAL_TRADE] торговый путь между иностранным городом и этим городом завершается, франшиза Цивилизованных Ювелиров строится в иностранном городе.[NEWLINE][NEWLINE]Цивилизованные Ювелиры не может быть продан или уничтожен игроком, и увеличивает прирост [ICON_GREAT_PEOPLE] великих людей всех офисов Цивилизованных Ювелиров на +5%.[NEWLINE][NEWLINE]Вы не можете иметь больше франшиз, чем ваш лимит франшиз (смотрите раздел «Обзор корпораций и монополий» для подробностей).</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_FRANCHISE">
-
 			<Text>Франшиза Цивилизованных Ювелиров</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_FRANCHISE_STRATEGY">
-
 			<Text>Это здание можно построить только в иностранных городах, если вы были основателем Цивилизованных Ювелиров. Чтобы построить это здание в иностранном городе, отправьте торговый путь из города, которым владеете, с офисом Цивилизованных Ювелиров в иностранный город. Когда торговый путь завершится, здание будет автоматически построено. Также есть 5% шанс каждый ход, что франшиза появится сама по себе в случайном иностранном городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_FRANCHISE_HELP">
-
 			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CIVILIZED_JEWELERS}</Text>
-
 		</Row>
-
-
-
 		<!-- Belief buildings -->
 
 		<Row Tag="TXT_KEY_BUILDING_STUPA">
-
 			<Text>Ступа</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_STUPA_STRATEGY">
-
 			<Text>Может быть построена только в городах, следующих за религией с верованием «Ступы». Постройте это здание, приобретя его за [ICON_PEACE] веру. Постройте ступу, чтобы получить веру, очки золотого века и туризм в городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_STUPA_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_STUPA_TEXT">
-
 			<Text>Ступа — это холмообразное или полусферическое сооружение, содержащее буддийские реликвии, обычно пепел буддийских монахов, используемое буддистами как место медитации.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_CHURCH">
-
 			<Text>Церковь</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CHURCH_STRATEGY">
-
 			<Text>Может быть построена только в городах, следующих за религией с верованием «Церкви». Постройте это здание, приобретя его за [ICON_PEACE] веру. Постройте церковь, чтобы получить веру и мощное усиление пассивного религиозного давления. Также начинает «День, когда мы любим короля» в городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CHURCH_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_CHURCH_TEXT">
-
 			<Text>Церковное здание, часто просто называемое церковью, — это здание, используемое для религиозной деятельности, особенно богослужений. Термин в архитектурном смысле чаще всего используется христианами для обозначения их религиозных зданий, но может использоваться и другими религиями. В традиционной христианской архитектуре церковь часто имеет форму христианского креста. При просмотре сверху самая длинная часть креста представлена нефом, а соединение креста расположено в алтарной зоне.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_MANDIR">
-
 			<Text>Мандир</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_MANDIR_STRATEGY">
-
 			<Text>Может быть построен только в городах, следующих за религией с верованием «Мандиры». Постройте это здание, приобретя его за [ICON_PEACE] веру. Постройте мандир, чтобы получить веру и пищу. Даёт небольшое количество всех доходов при росте города.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_MANDIR_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_MANDIR_TEXT">
-
 			<Text>Индуистский храм — это дом бога(ов). Это пространство и сооружение, предназначенные для того, чтобы сблизить людей и богов, пронизанное символизмом для выражения идей и верований индуизма.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE">
-
 			<Text>Синагога</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_STRATEGY">
-
 			<Text>Может быть построена только в городах, следующих за религией с верованием «Синагоги». Постройте это здание, приобретя его за [ICON_PEACE] веру. Постройте синагогу, чтобы получить веру и производство. Город генерирует больше науки во время «Дня, когда мы любим короля».</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_TEXT">
-
 			<Text>Синагога, также пишется синагог, — это еврейский дом молитвы. Синагоги имеют большой зал для молитвы (главный храм), а также могут иметь меньшие комнаты для учёбы и иногда зал для собраний и офисы. Некоторые имеют отдельную комнату для изучения Торы, называемую бейт мидраш.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_ORDER">
-
 			<Text>Орден</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_ORDER_STRATEGY">
-
 			<Text>Может быть построен только в городах, следующих за религией с верованием «Ордена». Постройте это здание, приобретя его за [ICON_PEACE] веру. Постройте орден, чтобы получить веру, золото и продвижение «Боевой дух» для всех воинских единиц, обучаемых в городе.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_ORDER_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_ORDER_TEXT">
-
 			<Text>Военный орден — это любое из различных христианских обществ рыцарей, основанных с Средних веков для целей крестового похода — пропаганды или защиты веры (изначально католической, а после Реформации иногда протестантской), либо в Святой Земле, либо против ислама (как, например, во время Реконкисты) или язычников (в основном в балтийском регионе) в Европе. Многие ордена с тех пор, как закончились крестовые походы и османские вторжения, стали секуляризированными и обычно представлены в современное время римско-католическими церемониальными, миссионерскими и благотворительными организациями.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_TEOCALLI">
-
 			<Text>Теокалли</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_STRATEGY">
-
 			<Text>Может быть построен только в городах, следующих за религией с верованием «Теокалли». Постройте это здание, приобретя его за [ICON_PEACE] веру. Теокалли предлагает бонусы к военному обучению и генерации веры.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_TEXT">
-
 			<Text>Теокалли — это храм ацтекских народов. Теокалли следуют структуре, типичной для многих мезоамериканских народов, с довольно маленьким закрытым пространством на вершине массивной ступенчатой пирамиды с лестницей с одной стороны. Самые большие из этих пирамид превосходили египетскую пирамиду в Гизе по общему объёму, хотя они не были такими высокими. Подобно месопотамским религиям, ацтеки считали свои теокалли буквальными резиденциями их богов, позволяя только жрецам взбираться на них для ритуалов и особых случаев. Самый печально известный из этих ритуалов — человеческие жертвоприношения, происходившие ежемесячно для умиротворения ацтекских богов, где военнопленным извлекали бьющееся сердце из груди, а затем обезглавливали. Черепа жертв готовили и выставляли на показ на близлежащей стойке с черепами, называемой «цомпантли», в то время как органы и плоть приносились в жертву богам.</Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_GURDWARA">
-
 			<Text>Гурдвара</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GURDWARA_STRATEGY">
-
 			<Text>Может быть построена только в городах, следующих за религией с верованием «Гурдвары». Постройте это здание, приобретя его за [ICON_PEACE] веру. Гурдвара предлагает бонусы к росту и обороне.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GURDWARA_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_GURDWARA_TEXT">
-
 			<Text>Гурдвара — что означает «дверь к гуру» — это место поклонения для сикхов. Все гурдвары содержат священное сикхское писание, Гуру Грантх Сахиб, помещённое на возвышенную платформу. С этой платформы рааги читает, поёт и объясняет писание для собрания. Другая универсальная особенность всех гурдвар — общественная кухня, называемая Лангар. Сикхи придают большое значение подаче бесплатных вегетарианских блюд, позволяя всем членам сообщества, независимо от этнической принадлежности, касты, статуса или религии, как есть, так и волонтёрить бесплатно.</Text>
-
 		</Row>
-
-
-
 		<!-- Cathedral -->
 
 		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_HELP">
-
 			<Text></Text>
-
 		</Row>
-
-
-
 		<!-- Mosque -->
 
 		<Row Tag="TXT_KEY_BUILDING_MOSQUE_HELP">
-
 			<Text></Text>
-
 		</Row>
-
-
-
 		<!-- Pagoda -->
 
 		<Row Tag="TXT_KEY_BUILDING_PAGODA_HELP">
-
 			<Text></Text>
-
 		</Row>
 
-
-
 		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM">
-
 			<Text>Мавзолей</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_STRATEGY">
-
-			<Text>Постройте мавзолей, чтобы получать [ICON_PEACE] веру от жертв на войне и улучшить все святилища. Строительство этого национального чуда также позволит вам выбрать реформационное верование. Может быть построено только в священном городе и только если как минимум 15% мирового населения следует за вашей религией (масштабируется с размером карты).</Text>
-
+			<Text>Постройте мавзолей, чтобы получать [ICON_PEACE] веру от жертв на войне и улучшить все святилища. Строительство этого национального чуда также позволит вам выбрать верование реформации. Может быть построено только в священном городе и только если как минимум 15% мирового населения следует за вашей религией (масштабируется с размером карты).</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_HELP">
-
 			<Text></Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_TEXT">
-
 			<Text>Мавзолей — это внешнее отдельно стоящее здание, построенное как памятник, заключающий в себе место захоронения или погребальную камеру умершего человека или людей. Памятник без захоронения — кенотаф. Мавзолей может считаться видом гробницы, или гробница может считаться находящейся внутри мавзолея. Христианский мавзолей иногда включает часовню.</Text>
-
 		</Row>
-
 	</Language_RU_RU>
-
 </GameData>
-

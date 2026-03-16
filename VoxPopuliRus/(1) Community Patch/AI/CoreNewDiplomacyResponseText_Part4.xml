@@ -1,115 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <GameData>
-
 	<Language_RU_RU>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_5">
-
 			<Text>Это лучшее, что мы можем сделать. Если ты примешь это, ты станешь посмешищем у себя дома и в нашей стране.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_6">
-
 			<Text>Хочешь больше? Жаль, это всё, что мы можем предложить. Иди куда-нибудь ещё, если тебе не нравится.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_NEGATIVE_7">
-
 			<Text>Тебе нужно улучшить свои жалкие торговые навыки. Мы никак не можем соответствовать твоему предложению.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_4">
-
 			<Text>Тебе это подходит?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_5">
-
 			<Text>У меня есть предложение для тебя.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_AI_MAKES_OFFER_6">
-
 			<Text>Тебя интересует эта сделка?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_4">
-
 			<Text>Отлично.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_5">
-
 			<Text>Почему бы и нет?</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_DEAL_UNCHANGED_6">
-
 			<Text>Меня это устраивает.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_GENEROUS_4">
-
 			<Text>Правда? Абсолютно!</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_GENEROUS_5">
-
 			<Text>Ты уверен? Я не откажусь от такой щедрости.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_GENEROUS_6">
-
 			<Text>Я смирён этим соглашением.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_4">
-
 			<Text>На мой взгляд, хорошо.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_5">
-
 			<Text>Считаю это приемлемым.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_ACCEPT_ACCEPTABLE_6">
-
 			<Text>Ты торгуешься жёстко. Я принимаю.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_UNACCEPTABLE_4">
-
 			<Text>Невозможно. Я знаю, что ты можешь предложить больше.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_UNACCEPTABLE_5">
-
 			<Text>Это оскорбление. Попробуй снова.</Text>
-
 		</Row>
 
 		<Row Tag="TXT_KEY_GENERIC_TRADE_REJECT_UNACCEPTABLE_6">
-
 			<Text>Ты ошибаешься, если думаешь, что я приму такое.</Text>
-
 		</Row>
 	</Language_RU_RU>
 </GameData>

@@ -1,88 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<Language_RU_RU>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_TREASURE_FLEET">
-			<Text>Флот сокровищ</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_TREASURE_FLEET_SPLASH">
-			<Text>Адмиралы, штурманы, моряки и кораблестроители со всего мира собирают ресурсы для создания Флота сокровищ — крупнейшего и самого престижного флота кораблей из когда-либо созданных.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1">
-			<Text>Призовой кораблестроитель</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1_HELP">
-			<Text>Получите один фрегат. 300 очков к следующей [ICON_GOLDEN_AGE] Золотой эпохе.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2">
-			<Text>Опытный штурман</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2_HELP">
-			<Text>Получите одного Великого адмирала бесплатно, и 3 ваших военных подразделения не будут требовать содержания.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3">
-			<Text>Повелитель флота</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3_HELP">
-			<Text>Чудо «Гранд-канал» появляется в [ICON_CAPITAL] столице. (Получите 1 [COLOR_POSITIVE_TEXT]дополнительный[ENDCOLOR] [ICON_INTERNATIONAL_TRADE] торговый путь. Всем морским подразделениям, кроме подводных лодок и авианосцев, даётся [COLOR_POSITIVE_TEXT]промоушн «Флот сокровищ»[ENDCOLOR], который даёт +10% [ICON_STRENGTH] боевой мощи при атаке, +1 [ICON_VISION] обзора и возможность лечиться [COLOR_POSITIVE_TEXT]за пределами дружеской территории[ENDCOLOR].)</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WARGAMES">
-			<Text>Глобальные военные игры</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WARGAMES_SPLASH">
-			<Text>Военные и военные офицеры империй мира собрались, чтобы продемонстрировать свою боевую мощь и заявить о своём глобальном превосходстве.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1">
-			<Text>Полковник</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1_HELP">
-			<Text>Получите одно подразделение пехоты, и 3 ваших военных подразделения не будут требовать содержания.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2">
-			<Text>Генерал-лейтенант</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2_HELP">
-			<Text>Получите бонус +25% к атаке для всех военных подразделений на следующие 30 ходов, и 4 ваших военных подразделения не будут требовать содержания.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3">
-			<Text>Генерал-фельдмаршал</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3_HELP">
-			<Text>Чудо «Ворота Менина» появляется в [ICON_CAPITAL] столице. (Получите +2 [ICON_HAPPINESS_1] счастья в городе, где оно построено. Получайте 2 [ICON_CULTURE] культуры и очков [ICON_GOLDEN_AGE] Золотой эпохи каждый раз, когда ваше подразделение погибает, масштабируется с эпохой. Форты, цитадели и достопримечательности дают +2 [ICON_CULTURE] культуры и очков [ICON_GOLDEN_AGE] Золотой эпохи при обработке.)</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_UNITED_NATIONS">
-			<Text>Организация Объединённых Наций</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_UNITED_NATIONS_SPLASH">
-			<Text>Наступила новая эра глобальной дипломатии и международных отношений. Делегаты, чиновники и достопочтенные лица со всего мира собрались отпраздновать создание Организации Объединённых Наций и вместе с ней — будущее человечества.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1">
-			<Text>Верховный комиссар</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1_HELP">
-			<Text>Получите одного Великого дипломата бесплатно.</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2">
-			<Text>Постоянный член</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2_HELP">
-			<Text>Получите немедленный прирост 25 [ICON_INFLUENCE] влияния со всеми городами-государствами. Национальное чудо «Консульство» появляется в [ICON_CAPITAL] столице. (Получите 1 [COLOR_POSITIVE_TEXT]дополнительного[ENDCOLOR] [ICON_DIPLOMAT] делегата в Мировой конгресс за каждые 8 [ICON_CITY_STATE] городов-государств, изначально существовавших в мире.)</Text>
-		</Row>
-
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3">
-			<Text>Генеральный секретарь</Text>
-		</Row>
-		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3_HELP">
-			<Text>Чудо «Организация Объединённых Наций» появляется в [ICON_CAPITAL] столице. (Получите 1 [COLOR_POSITIVE_TEXT]дополнительного[ENDCOLOR] [ICON_DIPLOMAT] делегата в Мировой конгресс за каждые 8 [ICON_CITY_STATE] городов-государств, изначально существовавших в мире. Также, когда вы расходуете [ICON_GREAT_PEOPLE] великого человека, получайте 25 [ICON_INFLUENCE] влияния со всеми [ICON_CITY_STATE] городами-государствами, с которыми вы встретились. Запускает [ICON_GOLDEN_AGE] Золотую эпоху, а также [COLOR_POSITIVE_TEXT]специальную сессию ООН[ENDCOLOR] Мирового конгресса, если мир достиг Атомной эры.)</Text>
-		</Row>
-	</Language_RU_RU>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_RU_RU>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_TREASURE_FLEET">
+			<Text>Флот сокровищ</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_TREASURE_FLEET_SPLASH">
+			<Text>Адмиралы, штурманы, моряки и кораблестроители со всего мира собирают ресурсы для создания Флота сокровищ — крупнейшего и самого престижного флота кораблей из когда-либо созданных.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1">
+			<Text>Призовой кораблестроитель</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1_HELP">
+			<Text>Получите один фрегат. 300 очков к следующей [ICON_GOLDEN_AGE] Золотой эпохе.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2">
+			<Text>Опытный штурман</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2_HELP">
+			<Text>Получите одного Великого адмирала бесплатно, и 3 ваших военных подразделения не будут требовать содержания.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3">
+			<Text>Повелитель флота</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3_HELP">
+			<Text>Чудо «Гранд-канал» появляется в [ICON_CAPITAL] столице. (Получите 1 [COLOR_POSITIVE_TEXT]дополнительный[ENDCOLOR] [ICON_INTERNATIONAL_TRADE] торговый путь. Всем морским подразделениям, кроме подводных лодок и авианосцев, даётся [COLOR_POSITIVE_TEXT]промоушн «Флот сокровищ»[ENDCOLOR], который даёт +10% [ICON_STRENGTH] боевой мощи при атаке, +1 [ICON_VISION] обзора и возможность лечиться [COLOR_POSITIVE_TEXT]за пределами дружеской территории[ENDCOLOR].)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WARGAMES">
+			<Text>Глобальные военные игры</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WARGAMES_SPLASH">
+			<Text>Военные и военные офицеры империй мира собрались, чтобы продемонстрировать свою боевую мощь и заявить о своём глобальном превосходстве.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1">
+			<Text>Полковник</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1_HELP">
+			<Text>Получите одно подразделение пехоты, и 3 ваших военных подразделения не будут требовать содержания.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2">
+			<Text>Генерал-лейтенант</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2_HELP">
+			<Text>Получите бонус +25% к атаке для всех военных подразделений на следующие 30 ходов, и 4 ваших военных подразделения не будут требовать содержания.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3">
+			<Text>Генерал-фельдмаршал</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3_HELP">
+			<Text>Чудо «Ворота Менина» появляется в [ICON_CAPITAL] столице. (Получите +2 [ICON_HAPPINESS_1] счастья в городе, где оно построено. Получайте 2 [ICON_CULTURE] культуры и очков [ICON_GOLDEN_AGE] Золотой эпохи каждый раз, когда ваше подразделение погибает, масштабируется с эпохой. Форты, цитадели и достопримечательности дают +2 [ICON_CULTURE] культуры и очков [ICON_GOLDEN_AGE] Золотой эпохи при обработке.)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_UNITED_NATIONS">
+			<Text>Организация Объединённых Наций</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_UNITED_NATIONS_SPLASH">
+			<Text>Наступила новая эра глобальной дипломатии и международных отношений. Делегаты, чиновники и достопочтенные лица со всего мира собрались отпраздновать создание Организации Объединённых Наций и вместе с ней — будущее человечества.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1">
+			<Text>Верховный комиссар</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1_HELP">
+			<Text>Получите одного Великого дипломата бесплатно.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2">
+			<Text>Постоянный член</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2_HELP">
+			<Text>Получите немедленный прирост 25 [ICON_INFLUENCE] влияния со всеми городами-государствами. Национальное чудо «Консульство» появляется в [ICON_CAPITAL] столице. (Получите 1 [COLOR_POSITIVE_TEXT]дополнительного[ENDCOLOR] [ICON_DIPLOMAT] делегата в Мировой конгресс за каждые 8 [ICON_CITY_STATE] городов-государств, изначально существовавших в мире.)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3">
+			<Text>Генеральный секретарь</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3_HELP">
+			<Text>Чудо «Организация Объединённых Наций» появляется в [ICON_CAPITAL] столице. (Получите 1 [COLOR_POSITIVE_TEXT]дополнительного[ENDCOLOR] [ICON_DIPLOMAT] делегата в Мировой конгресс за каждые 8 [ICON_CITY_STATE] городов-государств, изначально существовавших в мире. Также, когда вы расходуете [ICON_GREAT_PEOPLE] великого человека, получайте 25 [ICON_INFLUENCE] влияния со всеми [ICON_CITY_STATE] городами-государствами, с которыми вы встретились. Запускает [ICON_GOLDEN_AGE] Золотую эпоху, а также [COLOR_POSITIVE_TEXT]специальную сессию ООН[ENDCOLOR] Мирового конгресса, если мир достиг Атомной эры.)</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

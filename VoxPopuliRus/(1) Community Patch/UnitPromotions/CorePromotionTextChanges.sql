@@ -1,4 +1,5 @@
 -- Great Generals
+
 UPDATE Language_RU_RU
 SET Text = '+50% [ICON_GREAT_GENERAL] очков Великого полководца за бой.'
 WHERE Tag = 'TXT_KEY_PROMOTION_SPAWN_GENERALS_I_HELP';
@@ -26,8 +27,8 @@ WHERE Tag = 'TXT_KEY_PROMOTION_MUST_SET_UP';
 UPDATE Language_RU_RU
 SET Text = 'Двигается вдвое медленнее на вражеской территории'
 WHERE Tag = 'TXT_KEY_PEDIA_PROMOTION_MUST_SET_UP';
-
 -- Heavy Charge
+
 UPDATE Language_RU_RU
 SET Text = 'Заставляет защитника отступить, если наносит больше урона, чем получает. Защитник, который не может отступить, получает 50% дополнительного урона.'
 WHERE Tag = 'TXT_KEY_PROMOTION_HEAVY_CHARGE_HELP';
