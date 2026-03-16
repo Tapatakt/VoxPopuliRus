@@ -1953,7 +1953,7 @@
 
 		<Row Tag="TXT_KEY_POTENTIAL_UNHAPPINESS_DEFENSE">
 
-		<Text>[NEWLINE]   [ICON_BULLET] [ICON_FOOD] и [ICON_PRODUCTION] стресс: {1: number "'[COLOR_NEGATIVE_TEXT]'##;'[COLOR_POSITIVE_TEXT]'##"}[ENDCOLOR]</Text>
+		<Text>[NEWLINE]   [ICON_BULLET] [ICON_FOOD] и [ICON_PRODUCTION] низкая производительность: {1: number "'[COLOR_NEGATIVE_TEXT]'##;'[COLOR_POSITIVE_TEXT]'##"}[ENDCOLOR]</Text>
 
 		</Row>
 

@@ -1,110 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <GameData>
+
 <Language_RU_RU>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__540">
-			<Text>Ernest King</Text>
+
+			<Text>Эрнест Кинг</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__550">
-			<Text>Józef Unrug</Text>
+
+			<Text>Юзеф Унруг</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__560">
-			<Text>Mineichi Koga</Text>
+
+			<Text>Минейти Кога</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__570">
-			<Text>Frank Jack Fletcher</Text>
+
+			<Text>Фрэнк Джек Флетчер</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__580">
-			<Text>Conrad Helfrich</Text>
+
+			<Text>Конрад Хельфрих</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__590">
-			<Text>Hans Langsdorff</Text>
+
+			<Text>Ханс Лангсдорф</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__600">
-			<Text>Prayoon Yuthasastrkosol</Text>
+
+			<Text>Праюн Ютхасатркосол</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__610">
-			<Text>Grace Hopper</Text>
+
+			<Text>Грейс Хоппер</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__620">
-			<Text>Vladimir Kasatonov</Text>
+
+			<Text>Владимир Касатонов</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__630">
-			<Text>Sergey Gorshkov</Text>
+
+			<Text>Сергей Горшков</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__640">
-			<Text>Ram Dass Katari</Text>
+
+			<Text>Рам Дас Катари</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__650">
-			<Text>Heinrich Lehmann-Willenbrock</Text>
+
+			<Text>Хайнрих Леман-Вилленброк</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__660">
-			<Text>Bengt Lundvall</Text>
+
+			<Text>Бенгт Лундвалль</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__670">
-			<Text>Jerzy Tumaniszwili</Text>
+
+			<Text>Ежи Туманишвили</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__680">
-			<Text>Branko Mamula</Text>
+
+			<Text>Бранко Мамула</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__690">
-			<Text>Sveto Letica</Text>
+
+			<Text>Свето Летица</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__700">
-			<Text>Theodoros Degiannis</Text>
+
+			<Text>Феодорос Дегианнис</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__710">
-			<Text>Lâm Nguon Tánh</Text>
+
+			<Text>Лам Нгуон Тань</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__720">
-			<Text>Pávlos Koundouriótis</Text>
+
+			<Text>Павлос Кундурьотис</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__730">
-			<Text>Konstantin Makarov</Text>
+
+			<Text>Константин Макаров</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__740">
-			<Text>Jan Klenberg</Text>
+
+			<Text>Ян Кленберг</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__750">
-			<Text>Gulab Mohanlal Hiranandani</Text>
+
+			<Text>Гулаб Моханлал Хиранандани</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__760">
-			<Text>Gladys Mbulaheni</Text>
+
+			<Text>Глэдис Мбулахени</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__770">
-			<Text>Osami Nagano</Text>
+
+			<Text>Осами Нагано</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__780">
-			<Text>Sir Benjamin Bathurst</Text>
+
+			<Text>Сэр Бенджамин Батерст</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__790">
-			<Text>Clancy Fernando</Text>
+
+			<Text>Клэнси Фернандо</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__800">
-			<Text>Baron Boyce</Text>
+
+			<Text>Барон Бойс</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__810">
-			<Text>Lillian Elaine Fishburne</Text>
+
+			<Text>Лиллиан Элейн Фишберн</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__820">
-			<Text>Wasantha Karannagoda</Text>
+
+			<Text>Васанта Караннагода</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__830">
-			<Text>Édouard Guillaud</Text>
+
+			<Text>Эдуар Гийо</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__840">
-			<Text>Ahmed Khaled</Text>
+
+			<Text>Ахмед Халед</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__850">
-			<Text>Lee Hsi-ming</Text>
+
+			<Text>Ли Си-мин</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__860">
-			<Text>Alireza Tangsiri</Text>
+
+			<Text>Алиреза Тангсири</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__870">
-			<Text>Louise Kathrine Dedichen</Text>
+
+			<Text>Луиза Кэтрин Дедичен</Text>
+
 		</Row>
+
 		<Row Tag="TXT_KEY_GREAT_PERSON_B__880">
-			<Text>Bob Auchterlonie</Text>
+
+			<Text>Боб Аухтерлони</Text>
+
 		</Row>
+
 </Language_RU_RU>
+
 </GameData>

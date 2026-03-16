@@ -204,7 +204,7 @@
 		<Text></Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TERRACE_FARM_HELP">
-		<Text>+1 [ICON_FOOD] пищи за каждую {TXT_KEY_IMPROVEMENT_TERRACE_FARM} или гору, соприкасающуюся с этой {TXT_KEY_IMPROVEMENT_TERRACE_FARM}. +1 [ICON_FOOD] пищи соседним фермам.</Text>
+		<Text>+1 [ICON_FOOD] пищи за каждые две {TXT_KEY_IMPROVEMENT_TERRACE_FARM} или горы, соприкасающуюся с этой {TXT_KEY_IMPROVEMENT_TERRACE_FARM}. Так же влияет на соседние фермы.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_TERRACE_FARM_REC">
 		<Text>Увеличит [ICON_FOOD] пищу и [ICON_PRODUCTION] производство. Удаляет любые особенности тайла.[NEWLINE]Даёт дополнительную [ICON_FOOD] пищу, если соприкасается с горами или другими пата-пата. Даёт дополнительную [ICON_FOOD] пищу соседним фермам.</Text>
