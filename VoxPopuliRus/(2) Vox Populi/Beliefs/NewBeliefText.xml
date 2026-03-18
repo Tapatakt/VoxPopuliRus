@@ -75,7 +75,7 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_BELIEF_BRAN">
-			<Text>+1 [ICON_PRODUCTION] производства, [ICON_GOLD] золота, [ICON_RESEARCH] науки и [ICON_CULTURE] культуры от дворца. +1 [ICON_PRODUCTION] производства, [ICON_GOLD] золота, [ICON_RESEARCH] науки и [ICON_CULTURE] культуры в вашей [ICON_CAPITAL] столице/священном городе за каждых 4 последователей вашего пантеона во владенных городах. +25% [ICON_RANGE_STRENGTH] дальнобойной боевой мощи города. Юниты исцеляют +10 ОЗ в ход на своей территории. +2 [ICON_HAPPINESS_1] счастья от зала Сейли.</Text>
+			<Text>+1 [ICON_PRODUCTION] производства, [ICON_GOLD] золота, [ICON_RESEARCH] науки и [ICON_CULTURE] культуры от дворца. +1 [ICON_PRODUCTION] производства, [ICON_GOLD] золота, [ICON_RESEARCH] науки и [ICON_CULTURE] культуры в вашей [ICON_CAPITAL] столице/священном городе за каждых 4 последователей вашего пантеона в своих городах. +25% [ICON_RANGE_STRENGTH] дальнобойной боевой мощи города. Юниты исцеляют +10 ОЗ в ход на своей территории. +2 [ICON_HAPPINESS_1] счастья от зала Сейли.</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_BELIEF_BRAN_SHORT">

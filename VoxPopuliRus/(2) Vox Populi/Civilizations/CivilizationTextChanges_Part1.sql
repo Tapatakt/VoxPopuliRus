@@ -412,7 +412,7 @@ SET Text = 'Махатма'
 WHERE Tag = 'TXT_KEY_TRAIT_POPULATION_GROWTH_SHORT';
 
 UPDATE Language_RU_RU
-SET Text = 'Начинает с [ICON_RELIGION_PANTHEON] Пантеоном. [ICON_PROPHET] Великие пророки требуют на 35% меньше [ICON_PEACE] Веры. Вы можете потратить первое действие распространения Пророка, чтобы Основать или Улучшить [ICON_RELIGION] Религию, или построить Священное место, не расходуя Пророка. [COLOR_NEGATIVE_TEXT]Нельзя строить [ICON_MISSIONARY] Миссионеров.[ENDCOLOR]'
+SET Text = 'Начинает с [ICON_RELIGION_PANTHEON] Пантеоном. [ICON_PROPHET] Великие пророки требуют на 35% меньше [ICON_PEACE] Веры. Вы можете потратить первое действие распространения Пророка, чтобы Основать или Улучшить [ICON_RELIGION] Религию, или построить Святыню, не расходуя Пророка. [COLOR_NEGATIVE_TEXT]Нельзя строить [ICON_MISSIONARY] Миссионеров.[ENDCOLOR]'
 WHERE Tag = 'TXT_KEY_TRAIT_POPULATION_GROWTH';
 
 UPDATE Language_RU_RU
